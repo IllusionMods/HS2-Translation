@@ -14,6 +14,7 @@ Any help is appreciated. Regardless of your translation skill and Japanese knowl
 
 Translations are all inside of `Bepinex\Translation\en\` folder. They are then split into three folders:
 - `Text` - Normal text replacements and modifications.
+- `Text\Localizations` - Strings under  this folder were dumped via TextDump. Translations can be added for missing entries, but new entries should not be added or merging future dumps will become difficult.
 - `Texture` - Image replacements.
 - `RedirectedResources` - Replacements for entire text assets. Preferred over `Text` for accuracy and performance.
 
