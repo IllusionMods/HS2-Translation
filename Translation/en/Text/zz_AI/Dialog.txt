@@ -1,0 +1,25 @@
+// AssetBundleManager/Dialog(Clone)
+//==================================================
+
+// AssetBundleManager/Dialog(Clone)/Canvas/Panel/Image/TextLayout/Text
+//--------------------------------------------------
+セーブしますか？=Do you want to save?
+ロードしますか？=Load this game?
+このポイントに移動しますか=Do you want to go there?
+作成しますか？=Do you want to create?
+作成しますか=Do you want to create?
+データを読込みますか=Do you want to read the data?
+データを消去しますか=Do you want to erase the data?
+ハウジングを終了しますか=Are you sure you want to exit the housing?
+Hシーンを終了しますか=Do you want to end the H scene?
+一日を終了しますか？=Do you want to end the day?
+タイトルに戻りますか？=Do you want to return to the title?
+終了しますか？=Are you sure you want to exit the game?
+
+// AssetBundleManager/Dialog(Clone)/Canvas/Panel/Image/Rect/Yes/Text
+//--------------------------------------------------
+確定=Confirm
+
+// AssetBundleManager/Dialog(Clone)/Canvas/Panel/Image/Rect/No/Text
+//--------------------------------------------------
+キャンセル=Cancel

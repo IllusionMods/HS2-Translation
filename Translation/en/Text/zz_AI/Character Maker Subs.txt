@@ -1,0 +1,29 @@
+﻿//c00
+あなたはいろんなこと、知ってる=You seem to know a lot.
+あなたの言うことは、やっぱりわからない=As I thought, I don't understand what you are saying.
+ありがとう=Thank you.
+
+//c01
+考え事をしてたら、ちょっとお腹がすいてきちゃった=Thinking about things made me hungry.
+あなたのことを、もっと知りたいと思ったからよ=I want to know much more about you.
+いっぱい甘えてきてちょうだい=I'll give you lots of love.
+
+//c02
+何か困っていることはないかって？=Is there anything troubling you?
+あなたはその…　私と一緒にいて、楽しかったりするの？=Do you... have fun being with me?
+ものの見方を変えれば、景色も変わって見えそうね=If you change the way you look at things, the surroundings might seem different, too
+
+//c03
+早くご飯を用意して。私、お腹が空いたの=Hurry up and cook. I'm starving.
+フンだ、無理して私に付き合う必要ないのよ=Hmph, you don't have to be with me if you don't want to.
+まったく、レディーに失礼なんだから=Really, that's rude to a lady.
+
+//c04
+昨日頑張ったし、もう少し寝てても、ダメ？=I worked hard yesterday, so can I sleep for a bit more?
+一歩も動きたくない=I don't want to lift a finger.
+君は厳しいなあ=You're sure strict.
+
+//c05
+難しいこと考えても、分かんないし=No use thinking about complicated things. I won't get them anyway.
+どう？どう、どう？びっくりした？=How's that? Surprised?
+おっはよ~！　ん？　それともこんにちは？こんばんは？=Good morning~! Hm? Or is it good afternoon? Good evening?

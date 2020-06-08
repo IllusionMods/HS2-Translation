@@ -1,0 +1,4 @@
+※ インストールフォルダ/UserData/chara/ に入っていた体験版のデータは/UserData/chara/old/ に移動します。=* Cards made in the trial present in /UserData/chara/ will be moved to /UserData/chara/old/.
+「キャラメイク体験版」のデータを「AI＊少女」のデータに変換します。=Convert cards made in the trial to full game.
+※ ファイル数が多いと時間がかかる可能性があります。=* If there are many files, it can take some time.
+キャラデータ=Character data

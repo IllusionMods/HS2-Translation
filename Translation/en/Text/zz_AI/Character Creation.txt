@@ -1,0 +1,1023 @@
+//***********************************************************************
+//***********************************************************************
+// Note: Some text is intentionally cut short or have thier context
+//       removed to fit the UI.
+//           Eyebrow Height -> Height // this is inside the Eyebrow menu
+//           Left Shoulder -> L Should
+//***********************************************************************
+//***********************************************************************
+
+// Scene: CharaCustom (4)
+//#set level 4
+// LEVELS WRONG FOR HS2, FIX IT
+
+//************************************************************
+// General
+//************************************************************
+
+//------------------------------------------------------------
+// Personalities
+//------------------------------------------------------------
+機械的で無感情=Emotionless and stoic
+おおらかでやさしい=Friendly and gentle
+意識が高く自信家=Confident and aware
+自分勝手でわがまま=Selfish and spoiled
+無気力でものぐさ=Lazy and sluggish
+ポジティブで明るい=Positive and cheerful
+
+//------------------------------------------------------------
+// Desires
+//------------------------------------------------------------
+やさしさ=Kindness
+快楽=Pleasure
+小悪魔=Mischief
+刺激=Thrills
+礼儀=Courtesy
+禁断=Taboos
+落ち着き=Calmness
+お金=Wealth
+知性=Intelligence
+信念=Conviction​
+忠誠=Loyalty
+持久力=Endurance
+可憐さ=Sweetness
+無邪気=Innocence
+不完全=Imperfection
+理解力=Understanding
+判断力=Sharpness
+癒やし=Comfort
+
+//------------------------------------------------------------
+// use # to search for instances of the following "\\Sample#"
+//------------------------------------------------------------
+サンプル=Sample
+タイプ=Type
+名前=Name
+コーデ=Clothing
+瞳の設定=Eye Settings
+キャラ設定=Character Setting
+ハート=Heart
+肌=Skin
+顔=Face
+耳=Ears
+眼鏡=Eyewear
+眉=Eyebrows
+目=Eye
+鼻=Nose
+口=Mouth
+顎=Jaw
+首=Neck
+肩=Shoulder
+胸=Chest
+腰=Waist
+腕=Arm
+脚=Leg
+左手=L hand
+右手=R hand
+
+//------------------------------------------------------------
+// Placement (Paint and Accessories) Arrangement and Parent Tabs
+//------------------------------------------------------------
+//Paint and Accessories
+左肩=L Should
+右肩=R Should
+
+//paint face
+//Chest#
+左頬=L Side of Face
+右頬=R Side of Face
+おでこ=Forehead
+//Nose#
+//Mouth#
+//Jaw#
+
+//paint body
+腹・股間=Midriff
+背中・うなじ=Between Shoulder Blades
+右脚裏=Back of Right Leg
+右ふくらはぎ=Back of Right Calf
+左脚裏=Back of Left Leg
+左ふくらはぎ=Back of Left Calf
+右脚=Right Leg
+左脚=Left Leg
+右スネ=Right Shin
+左スネ=Left Shin
+右足=Right Foot
+左足=Left Foot
+左尻=Left Buttcheek
+右尻=Right Buttcheek
+左腕=Left Arm
+右腕=Right Arm
+
+//accessories
+ポニー=Ponytail
+ツイン左=L Twin
+ツイン右=R Twin
+ヘアピン左=L Hairpin
+ヘアピン右=R Hairpin
+帽子=Hat
+額=Brow
+頭中心=Center of Head
+//Face#
+左耳=L Ear
+右耳=R Ear
+//Eyewear#
+//Nose#
+//Mouth#
+//Neck#
+胸上=Throat
+胸上中央=Center of Neck
+左胸=L Chest
+右胸=R Chest
+背中中央=Mid Back
+背中左=L Back
+背中右=R Back
+//Waist#
+腰前=Front Waist
+腰後ろ=Back Waist
+腰右=R Hip
+腰左=L Hip
+左太もも=L Thigh
+右太もも=R Thigh
+左ひざ=L Knee
+右ひざ=R Knee
+左足首=L Ankle
+右足首=R Ankle
+かかと左=L Heel
+かかと右=R Heel
+左肘=L Elbow
+右肘=R Elbow
+左上腕=L up arm
+右上腕=R up arm
+左手首=L Wrist
+右手首=R Wrist
+//L Hand#
+//R Hand#
+左人差指=L Index
+右人差指=R Index
+左中指=L Middle
+右中指=R Middle
+左薬指=L Ring
+右薬指=R Ring
+下腹部①=Low Ab1
+下腹部②=Low Ab2
+下腹部③=Low Ab3
+
+//------------------------------------------------------------
+// Tabs
+//------------------------------------------------------------
+//pattern also used in Color fields
+種類=Pattern
+カラー=Color
+親=Parent
+調整=Adjust
+配置=Arrangement
+その他=Misc
+
+//------------------------------------------------------------
+// Pattern fields
+//------------------------------------------------------------
+初期カラー=Reset color
+
+//------------------------------------------------------------
+// Color fields
+//------------------------------------------------------------
+ツヤ=Gloss
+質感=Texture
+カラーサンプル=Color Sample
+柄設定=Pattern Setting
+
+//------------------------------------------------------------
+// Misc fields
+//------------------------------------------------------------
+破れ具合=Degree of Tear
+オプションパーツ01を表示=Display Option Part 01
+オプションパーツ02を表示=Display Option Part 02
+
+//------------------------------------------------------------
+// Adjust/Arrange/Parent and other positioning fields
+//------------------------------------------------------------
+//eye
+幅=Width
+高さ=Height
+X位置=X Position
+Y位置=Y Position
+傾き=Incline
+
+位置X=Position X
+位置Y=Position Y
+
+位置=Tran
+回転=Rot
+拡縮=Scale
+
+移動量=Step
+回転量=Step
+拡縮量=Step
+
+操作軸=Op Axis
+移動=Mov
+速度=Spd
+大きさ=Size
+
+揺らさない=Rigid
+
+//Hair
+移動X=Move X
+移動Y=Move Y
+移動Z=Move Z
+回転X=Rotation X
+回転Y=Rotation Y
+回転Z=Rotation Z
+
+全て初期化=Reset All
+初期親=Initial Parent
+
+//------------------------------------------------------------
+// Color Picker
+//------------------------------------------------------------
+ピッカー=Picker
+スライダー=Slider
+プリセット=Preset
+透明度=Alpha
+色合い=Hue
+鮮やかさ=Saturation
+明るさ=Brightness
+//Sample#
+左クリックで適用=Left-Click to Apply
+
+//------------------------------------------------------------
+// Paint and Pattern
+//------------------------------------------------------------
+バラ=Rose
+汚れ=Dirt
+//Heart#
+
+//------------------------------------------------------------
+// Paint
+//------------------------------------------------------------
+星=Star
+三日月=Crescent Moon
+水滴=Water Droplet
+絆創膏=Bandage Plaster
+十字=Cross
+五十字=Five Crosses
+蝶=Butterfly
+クモ=Spider
+クモの巣=Spiderweb
+禁止=Prohibited
+陰陽=Yin-Yang
+キスマーク=Kiss Mark
+瞳=Pupil
+
+//------------------------------------------------------------
+// Patterns
+//------------------------------------------------------------
+ストライプ=Vertical Stripes
+ボーダー=Horizontal Stripes
+チェックA=Checkered A
+水玉=Polka Dots
+イチゴ=Strawberries
+ハーリキンチェック=Harlequin Checkered
+星B=Stars B
+チェックB=Checkered B
+千鳥格子=Hound's Tooth
+網=Netting
+ヒョウ=Leopard Print
+ゼブラ=Zebra
+迷彩=Camouflage
+レンガ=Brick
+編み込み=Weaved
+市松=Checkered
+麻の葉=Hexagons
+青海波=Ocean Waves
+唐草=Arabesque
+矢絣=Arrow Feathers
+ノルデック=Nordic
+鹿子=Deerskin
+亀甲花菱=Turtleshell Flowers
+星A=Stars A
+ドクロ=Skull
+グラデーションボーダー=Gradient
+花柄=Flowers
+縦線=Vertical Lines
+横線=Horizontal Lines
+モザイク=Mosaic
+アーガイル=Argyle
+チマヨ=Chimayo
+ギンガムチェック=Gingham Checkered
+変則ストライプ=Irregular Vertical Stripes
+変則ボーダー=Irregular Horizontal Stripes
+丸=Circle
+ペイズリー=Paisley
+エイシェント=Ancient
+南国リーフ=Tropical Leaf
+ハイビスカス=Hibiscus
+スポーツ=Sports
+ストライプ細=Striped Thin
+
+//************************************************************
+// Main Menues (Left side)
+//************************************************************
+//------------------------------------------------------------
+// Shared
+//------------------------------------------------------------
+全体=Overall
+ペイント01=Paint 01
+ペイント02=Paint 02
+
+//------------------------------------------------------------
+// Face
+//------------------------------------------------------------
+フェイス=Face
+
+顔周り=Face Area
+顔のタイプ=Facial Type
+//Jaw#
+頬=Cheeks
+//Eyebrows#
+//Eye#
+//Nose#
+//Mouth#
+//Ears#
+ホクロの設定=Moles
+
+目周り=Eye Area
+左右の設定を合わせる=Adjust Left and Right
+左目=Left Eye
+右目=Right Eye
+//Eye Settings#
+目のハイライト=Eye Highlights
+眉のタイプ=Eyebrow Type
+まつ毛のタイプ=Eyelash Type
+
+化粧=Makeup
+アイシャドウ=Eye Shadow
+チーク=Blush
+リップ=Lips
+
+//------------------------------------------------------------
+// Body
+//------------------------------------------------------------
+ボディ=Body
+
+体型=Body Shape
+//Chest#
+上半身=Upper Body
+下半身=Lower Body
+//Arm#
+//Leg#
+
+//Skin#
+
+肌の種類=Skin Type
+日焼け跡=Suntan
+乳首=Nipples
+アンダーヘア=Pubic Hair
+爪の色=Nail Color
+
+//------------------------------------------------------------
+// Hair
+//------------------------------------------------------------
+ヘアー=Hair
+
+前髪と後ろ髪の色を統一=Match Bangs and Back
+根本と毛先の色を自動設定=Auto Set Highlights
+
+後ろ髪=Back Hair
+後ろ髪の設定=Back Hair Settings
+
+前髪=Bangs
+前髪の設定=Bangs Settings
+
+横髪=Side Hair
+横髪の設定=Side Hair Settings
+
+エクステ=Extensions
+エクステの設定=Extension Settings
+
+描画設定=Graphics
+
+//------------------------------------------------------------
+// Clothing
+//------------------------------------------------------------
+//Clothing#
+
+衣装=Clothing
+トップス=Tops
+ボトムス=Bottom
+インナー上=Inner Top
+インナー下=Inner Bottom
+手袋=Gloves
+パンスト=Pantyhose
+靴下=Socks
+靴=Shoes
+
+//------------------------------------------------------------
+// Accessory
+//------------------------------------------------------------
+アクセサリー=Accessory
+
+頭=Head
+//Ears#
+//Eyewear#
+//Face#
+//Neck#
+//Shoulder#
+//Chest#
+//Waist#
+背中=Back
+//Arm#
+手=Hand
+//Leg#
+
+スロット=Slot
+
+//------------------------------------------------------------
+// Options
+//------------------------------------------------------------
+オプション=Options
+
+//Character Setting#
+名前・誕生日=Name / Birthday
+//Type#
+願望=Desire
+
+キャラカード=Character Card
+保存・消去=Save / Delete
+読込み=Load
+
+システム=System
+状態設定表示=Status Setting Display
+スライダーホイール操作=Slider Wheel Operation
+
+コンフィグ=Config
+注視点の表示=Show Crosshair
+BGM音量=BGM vol
+SE音量=SFX vol
+
+//************************************************************
+// Sub Menues (Right side)
+//************************************************************
+
+//------------------------------------------------------------
+// Face -> Face Type
+//------------------------------------------------------------
+輪郭=Contour
+//Skin#
+シワ=Wrinkles
+
+//Type#
+//Sample#
+
+強さ=Intensity
+ほうれい線=Smile Line
+目元シワ=Eye Wrinkles
+口元シワ=Mouth Wrinkles
+全体シワ1=Whole Wrinkle 1
+全体シワ2=Whole Wrinkle 2
+頬コケ=Cheek Moss
+頬盛り=Cheek Lines
+目元補助1=Eye Assistance 1
+目元補助2=Eye Assistance 2
+目元補助3=Eye Assistance 3
+目元補助4=Eye Assistance 4
+目元補助5=Eye Assistance 5
+目元補助6=Eye Assistance 6
+目元補助7=Eye Assistance 7
+唇強調=Lip Enhancement
+形状補助1=Shape Assistance 1
+形状補助2=Shape Assistance 2
+形状補助3=Shape Assistance 3
+
+//------------------------------------------------------------
+// Face -> Overall
+//------------------------------------------------------------
+顔全体横幅=Overall Width
+顔上部前後=Upper Depth
+顔上部上下=Upper Height
+顔下部前後=Lower Depth
+顔下部横幅=Lower Width
+
+//------------------------------------------------------------
+// Face -> Jaw
+//------------------------------------------------------------
+顎横幅=Jaw Width
+顎上下=Jaw Height
+顎前後=Jaw Depth
+顎角度=Jaw Angle
+顎下部上下=Neck Droop
+顎先幅=Chin Width
+顎先上下=Chin Height
+顎先前後=Chin Depth
+
+//------------------------------------------------------------
+// Face -> Cheeks
+//------------------------------------------------------------
+頬下部上下=Lower Height
+頬下部前後=Lower Depth
+頬下部幅=Lower Width
+頬上部上下=Upper Height
+頬上部前後=Upper Depth
+頬上部幅=Upper Width
+
+//------------------------------------------------------------
+// Face -> Eyebrows
+//------------------------------------------------------------
+眉の幅=Width
+眉の高さ=Height
+眉の位置X=Position X
+眉の位置Y=Position Y
+眉の傾き=Tilt
+
+//------------------------------------------------------------
+// Face -> Eye
+//------------------------------------------------------------
+目の縦幅=Eye Height
+目横位置=Eye Spacing
+目前後=Eye Depth
+目の横幅=Eye Width
+目上下=Eye Vertical
+目の角度Z軸=Eye Angle Z
+目の角度Y軸=Eye Angle Y
+目尻上下位置=Outer Height
+目尻左右位置=Outer Dist
+目頭上下位置=Inner Height
+目頭左右位置=Inner Dist
+まぶた形状１=Eyelid Shape 1
+まぶた形状２=Eyelid Shape 2
+
+//------------------------------------------------------------
+// Face -> Nose
+//------------------------------------------------------------
+鼻全体上下=Height
+鼻全体前後=Projection
+鼻全体角度X軸=Angle
+鼻全体横幅=Width
+鼻筋高さ=Bridge Height
+鼻筋横幅=Bridge Width
+鼻筋形状=Bridge Shape
+小鼻横幅=Nostril Width
+小鼻上下=Nostril Height
+小鼻前後=Nostril Length
+小鼻角度X軸=Nostril Inner Width
+小鼻角度Z軸=Nostril Outer Width
+鼻先高さ=Tip Length
+鼻先角度X軸=Tip Height
+鼻先サイズ=Tip Size
+
+//------------------------------------------------------------
+// Face -> Mouth
+//------------------------------------------------------------
+口上下=Mouth Height
+口横幅=Mouth Width
+口縦幅=Lip Thickness
+口前後位置=Projection
+口形状上=Upper Lip Thickness
+口形状下=Lower Lip Thickness
+口形状口角=Corner Shape
+
+//------------------------------------------------------------
+// Face -> Ears
+//------------------------------------------------------------
+耳サイズ=Ear Size
+耳角度Y軸=Ear Angle
+耳角度Z軸=Ear Rotation
+耳上部形状=Up Ear Shape
+耳下部形状=Low Ear Shape
+
+//------------------------------------------------------------
+// Face -> Moles
+//------------------------------------------------------------
+ホクロ=Mole
+ホクロ２=Mole 2
+ソバカス=Buckwheat
+ソバカス２=Buckwheat 2
+
+左の口元=Left Mouth
+右の口元=Right Mouth
+左の口上=Left Mouth Above
+右の口上=Right Mouth Above
+左の目元=Left Eye
+右の目元=Right Eye
+額中央=Front Center
+そばかす=Freckle
+ホクロの幅=Mole Width
+ホクロの高さ=Mole Height
+ホクロの位置X=Mole Position X
+ホクロの位置Y=Mole Position Y
+
+//------------------------------------------------------------
+// Face -> Left/Right Eye
+//------------------------------------------------------------
+白目=Whites
+瞳の種類=Type
+//Eye Settings#
+瞳孔種類=Pupil Type
+瞳孔設定=Pupil Setting
+
+発光=Light Emission
+
+//------------------------------------------------------------
+// Face -> Eye Settings
+//------------------------------------------------------------
+設定=Config
+高さ調整=Height Adjustment
+影の範囲=Shadow Range
+
+//------------------------------------------------------------
+// Body -> Overall
+//------------------------------------------------------------
+身長=Height
+頭サイズ=Head Size
+
+//------------------------------------------------------------
+// Body -> Breast
+//------------------------------------------------------------
+胸サイズ=Size
+胸上下位置=Height
+胸の左右開き=Direction
+胸の左右位置=Spacing
+胸上下角度=Angle
+胸の尖り=Length
+胸の柔らかさ=Softness
+胸の重さ=Weight
+乳輪の膨らみ=Areola Depth
+乳輪の大きさ=Areola Size
+乳首太さ=Nipple Width
+乳首立ち=Nipple Depth
+
+//------------------------------------------------------------
+// Body -> Upper Body
+//------------------------------------------------------------
+首周り幅=Neck Width
+首周り奥=Neck Thickness
+胴体肩周り奥=Thorax Thicknes
+胴体肩周り幅=Thorax Width
+胴体上幅=Chest Width
+胴体上奥=Chest Thickness
+胴体下幅=Waist Width
+胴体下奥=Waist Thickness
+
+//------------------------------------------------------------
+// Body -> Lower Body
+//------------------------------------------------------------
+ウエスト位置=Waist Height
+腰上幅=Pelvis Width
+腰上奥=Pelvis Thickness
+腰下幅=Hips Width
+腰下奥=Hips Thickness
+尻=Butt
+尻角度=Butt Angle
+
+//------------------------------------------------------------
+// Body -> Arm
+//------------------------------------------------------------
+//Shoulder#
+上腕=Upper Arm
+前腕=Forearm
+
+//------------------------------------------------------------
+// Body -> Legs
+//------------------------------------------------------------
+太もも上=Thighs
+太もも下=Legs
+ふくらはぎ=Calves
+足首=Ankle
+
+//------------------------------------------------------------
+// Body -> Skin Type
+//------------------------------------------------------------
+肉感=Strength
+肉感の強さ=Strength
+普通=Normal
+ムキムキ=Muscular
+ポッチャリ=Chubby
+スレンダー=Slender
+
+//------------------------------------------------------------
+// Body -> Suntan
+//------------------------------------------------------------
+ワンピースライン１=One-piece Line 1
+ワンピースライン２=One piece Line 2
+レーシングライン=Racing Line
+スクール水着ライン=School Swimsuit Line
+ビキニライン=Bikini Line
+マイクロライン１=Micro Line 1
+マイクロライン２=Micro Line 2
+チューブトップライン=Tube Top Line
+ランジェリーライン=Lingerie Line
+キャミソールライン=Camisole Line
+スポーツライン=Sports Line
+体操着ライン=Gymnastics Wear Line
+ナチュラルライン1=Natural Line 1
+ナチュラルライン2=Natural Line 2
+
+//------------------------------------------------------------
+// Body -> Public Hair
+//------------------------------------------------------------
+四角=Rectangular
+円形=Round
+薄小=Thin
+薄四角=Thin Square
+薄円形=Thin Circle
+小円形=Small Circle
+大三角=Large Triangle
+小三角=Small Triangle
+Iライン=I Line
+細Iライン=Fine I Line
+長菱=Chonbishi
+//Heart#
+まばら=Sparse
+ナチュラル=Natural
+
+//------------------------------------------------------------
+// Hair -> Back Hair/Bangs
+//------------------------------------------------------------
+//Both
+ショートヘア=Short Hair
+ウェーブロング=Wave Long
+外はねミディアム=Medium Outside
+外はねショート=Short, Swept Out
+//Back
+ストレートロング=Straight Long
+くせっけショート=Short, Curled
+ボリュームポニー=Volume Pony
+細ツインテール=Thin Twintails
+セミロング=Semi-Long
+ぱっつんロング=Pad Long
+ツイン前おさげ=Twin Front Pigtails
+後ろおさげ=Pigtails Behind
+はねっけロング=Hanekke Long
+ツインロール=Twin Roll
+ぱっつんミディアム=Pattsu Medium
+横おさげ=Side Pigtails
+//Bangs
+ロングヘア=Long Hair
+くせっ毛ショート=Short, Curled
+横分け=Side by Side
+エムバング=Embang
+梳き髪=Combed Hair
+姫カット=Princess Cut
+でこだし中わけ=Breaking Out
+片目隠し=One Blindfold
+はねっ毛=Lashes
+アシンメトリ=Asymmetry
+ぱっつんミデイアム=Patsun Medium
+切り揃えショート=Trim Short
+//Side
+太もみあげ=Thick Sideburns
+ロングもみあげ=Long Sideburns
+細もみあげ=Fine Sideburns
+カール=Curl
+ポニーおくれ毛=Pony Combing Hair
+三つ編み=Braided
+細三つ編み=Thin Braid
+//Extentions
+横あほ毛=Horizontal Hair
+2本あほ毛=2 Ahoge
+上向きあほ毛=Upwards
+前あほ毛=Ahoge
+お団子=Dumpling
+編みカチューシャ=Braided Headband
+後ろ編み込み=Back Weave
+
+髪設定=Hair setting
+滑らかさ=Smoothness
+基本カラー=Basic Color
+根本カラー=Root Color
+毛先カラー=Tips Color
+ツヤカラー=Glossy Color
+
+装飾設定=Decoration Settings
+
+//------------------------------------------------------------
+// Clothing -> Tops
+//------------------------------------------------------------
+ワンピース=One-Piece
+Tシャツ=T-shirt
+キャミソールA=Camisole A
+
+//------------------------------------------------------------
+// Clothing -> Bottoms
+//------------------------------------------------------------
+ショートパンツ=Short Pants
+ホットパンツ=Hotpants
+プリーツスカート=Pleated Skirt
+
+//------------------------------------------------------------
+// Clothing -> Inner Top/Bottom
+//------------------------------------------------------------
+ノーマル=Normal
+リボンビキニ=Ribbon Bikini
+
+//------------------------------------------------------------
+// Clothing -> Gloves
+//------------------------------------------------------------
+軍手=Work Gloves
+
+//------------------------------------------------------------
+// Clothing -> Pantyhose
+//------------------------------------------------------------
+ストッキング=Stockings
+
+//------------------------------------------------------------
+// Clothing -> Socks
+//------------------------------------------------------------
+ソックス=Socks
+
+//------------------------------------------------------------
+// Clothing -> Shoes
+//------------------------------------------------------------
+ビーチサンダル=Beach Sandals
+
+//------------------------------------------------------------
+// Accessories
+//------------------------------------------------------------
+//Head
+ヘアピン=Hairpin
+うさ耳リボン=Rabbit Ear Ribbon
+
+//Ears
+スター=Star
+
+//Eyes
+スクエア=Square
+
+//Face
+ピエロの鼻=Clown Nose
+
+//Neck
+コアキューブ=Core Cube
+
+//Shoulder
+トートバッグ=Tote Bag
+
+//Chest
+シンプルリング=Simple Ring
+
+//Waist
+ウエストバッグ=Waist Bag
+
+//Back
+リュック=Backpack
+
+//Arm
+腕章A=Armband A
+
+//Hand
+シンプル指輪=Simple Ring
+
+//Leg
+ミサンガA右=Friendship Bracelet A Right
+ミサンガA左=Friendship Bracelet A Left
+
+//------------------------------------------------------------
+// Options -> Name / Birthday
+//------------------------------------------------------------
+//Name#
+ランダム=Random
+誕生日=Birthday
+
+// CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle
+//--------------------------------------------------
+月=Month
+日=Day
+
+//------------------------------------------------------------
+// Options -> Type
+//------------------------------------------------------------
+声質=Voice Pitch
+
+//------------------------------------------------------------
+// Options -> Desire
+//------------------------------------------------------------
+女の子に求める願望（最大３つ）=Desires for girls (up to 3)
+
+//------------------------------------------------------------
+// Options -> Save / Delete
+//------------------------------------------------------------
+消去=Erase
+新規保存=Save New
+上書き保存=Save
+
+//------------------------------------------------------------
+// Options -> Load
+//------------------------------------------------------------
+//Face#
+体=Body
+髪=Hair
+//Clothing#
+//Character Setting#
+
+//------------------------------------------------------------
+// Options -> Search
+//------------------------------------------------------------
+ソート=Sort
+//Name#
+日付=Date
+
+//------------------------------------------------------------
+// Settings Box (parts also used in shooting menu)
+//------------------------------------------------------------
+状態設定=Settings
+
+//general
+視線=Gaze
+//Neck#
+カメラ=Cam
+正面=Forwards
+ポーズ=Pose
+//Eyebrows#
+//Eye#
+//Mouth#
+
+//clothing
+服状態=Clothes
+自動=Auto
+着衣=Clothed
+下着=Under
+全裸=Naked
+装飾=Accessory
+表示=Show
+非表示=Hide
+
+//lights
+ライト向きX=Direct X
+ライト向きY=Direct Y
+ライト強さ=Strength
+
+//bg
+背景=Background
+単色=Solid
+画像=Image
+
+//************************************************************
+// Shooting Menu (uses text from Settings Box)
+//************************************************************
+撮影メニュー=Shooting menu
+
+目の開き=Eye_Open
+口の開き=Mouth_Open
+//L Hand#
+//R Hand#
+
+背面フレーム=Background
+前面フレーム=Foreground
+
+戻る=Return
+保存=Save
+
+//************************************************************
+// Prompts
+//************************************************************
+本当に上書きしますか？=Are you sure you want to overwrite this?
+本当に削除しますか？=Are you sure you want to delete this?
+終了しますか？=Do you want to exit?
+
+確定=Confirm
+キャンセル=Cancel
+
+
+
+
+
+//************************************************************
+// Unsorted
+//************************************************************
+なし=None
+コピー=Copy
+終了=End
+スロットをコピー=Copy Slot
+初期化=Reset
+特殊=Special
+柄=Pattern
+色相=Hue
+彩度=Saturation
+服読込み=Load Clothing
+全て読込み=Load All
+明度=Brightness
+コピー先を選択=Select Copy Destination
+キャラカードA=Character Card A
+キャラカードB=Character Card B
+調整①を上下反転=Flip Adjustment ① Upside Down
+調整②を上下反転=Flip Adjustment ② Upside Down
+調整①を左右反転=Flip Adjustment ① Horizontally
+調整②を左右反転=Flip Adjustment ② Horizontally
+調整①=Adjustment ①
+調整②=Adjustment ②
+衣装カード=Costume Card
+ホクロのタイプ=Mole Type
+左クリックで現在のカラーを登録=Left Click to Register Current Color
+コピー元を選択=Select Copy Source
+装飾読込み=Decorative Reading
+掛け合わせる=Multiply
+ふたなり=Futanari
+調整値のコピー=Copy Adjustment Values
+肌のタイプ=Skin Type
+コピーする=Make a Copy
+下腹部=Lower Abdomen
+左右の親を変更=Change Left and Right Parent
+融合=Fusion
+髪の調整をまとめて行う=Make Hair Adjustments Together
+

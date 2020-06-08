@@ -1,0 +1,10 @@
+// Scene: CharaCustom (4)
+//#set level 4
+// LEVELS WRONG FOR HS2, FIX IT
+
+//Accessories which are in the form (Slot#) (Accessory Name)
+sr:"^([0-9]{2}) ([\S\s]+)$"=$1 $2
+
+r:"^カラー([0-9①-⑨]+)$"=Color $1
+r:"^調整([0-9①-⑨]+)$"=Adjustment $1
+r:"^タイプ([0-9０-９]+)$"=Type $1
