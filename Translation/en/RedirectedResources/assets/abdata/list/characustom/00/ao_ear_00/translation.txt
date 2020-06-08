@@ -1,7 +1,7 @@
 スター=None
-//スターリング=
-//クリスタル=
-//クリスタルピラー=
-//三連イヤリング=
-//フラワー=
-//パール=
+スターリング=Sterling
+クリスタル=Crystal
+クリスタルピラー=Crystal Pillar
+三連イヤリング=Triple Earrings
+フラワー=Flower
+パール=Pearl

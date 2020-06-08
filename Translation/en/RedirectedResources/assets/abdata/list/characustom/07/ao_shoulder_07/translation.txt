@@ -1,6 +1,6 @@
-//タングルショルダー=
-//鎧ドレスショルダー=
+タングルショルダー=Tangle Shoulderpad
+鎧ドレスショルダー=Armor Dress Shoulder
 //バーサーカーの肩当て=
-//鎧肩当て=
-//剣闘士の肩当て=
-//くノ一肩当て=
+鎧肩当て=Armored Shoulderpad
+剣闘士の肩当て=Gladiator Shoulder Pad
+くノ一肩当て=Kunoichi Shoulderpad

@@ -1,1 +1,1 @@
-//画面効果=
+画面効果=Scene Effects

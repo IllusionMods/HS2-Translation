@@ -1,2 +1,2 @@
-//騎士の腰当=
-//鬼神の腰当右用=
+騎士の腰当=Knight's Hip Armor
+鬼神の腰当右用=Demon God's Hip Guard (Right)

@@ -1,8 +1,8 @@
 ピエロの鼻=None
-//天狗の鼻=
-//一輪のバラ=
-//リコーダー=
-//顔包帯右=
-//顔包帯左=
-//口当て布=
-//バードマスク=
+天狗の鼻=Tengu Nose
+一輪のバラ=Single Rose
+リコーダー=Recorder
+顔包帯右=Face Bandage Right
+顔包帯左=Face Bandage Left
+口当て布=Mouthpiece
+バードマスク=Bird Mask

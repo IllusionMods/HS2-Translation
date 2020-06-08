@@ -1,5 +1,5 @@
 リュック=None
-//革鞄=
-//シャチフロート=
-//ダンボール=
-//商人カバン=
+革鞄=Leather Bag
+シャチフロート=Killer Whale Float
+ダンボール=Cardboard
+商人カバン=Merchant Bag

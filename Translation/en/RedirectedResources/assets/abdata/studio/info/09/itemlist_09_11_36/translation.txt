@@ -1,6 +1,6 @@
-//波動・円=
-//波動・柱=
-//波動・斬=
-//ビーム・扇=
-//ビーム・剣=
-//魔法陣=
+波動・円=Energy Wave (Circle)
+波動・柱=Energy Wave (Pillar)
+波動・斬=Energy Wave (Arc)
+ビーム・扇=Energy Beam (Folding Fan)
+ビーム・剣=Energy Beam (Sword)
+魔法陣=Magic Circle

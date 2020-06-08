@@ -1,3 +1,3 @@
 なし=None
-//軍手=
-//手袋=
+軍手=Work Gloves
+手袋=Gloves

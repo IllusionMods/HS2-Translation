@@ -1,2 +1,2 @@
-//設定を初期化しますか？=
-//タイトルに戻りますか？=
+設定を初期化しますか？=Do you want to reset the settings?
+タイトルに戻りますか？=Do you want to return to the title?

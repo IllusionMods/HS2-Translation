@@ -1,5 +1,5 @@
-//携帯用ランプ=
-//メカアンプ=
-//鎧ドレスガード=
+携帯用ランプ=Portable Lamp
+メカアンプ=Mecha Amplifier
+鎧ドレスガード=Armor Dress Guard
 //バーサーカーの腰飾り=
-//悪魔の尻尾=
+悪魔の尻尾=Devil's Tail

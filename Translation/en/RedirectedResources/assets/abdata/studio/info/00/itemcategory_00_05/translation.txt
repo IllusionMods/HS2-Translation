@@ -1,8 +1,8 @@
-//髪=
-//頭=
-//顔=
-//首=
-//胴=
-//腰=
-//腕=
-//手=
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
+腕=Arms
+手=Hands

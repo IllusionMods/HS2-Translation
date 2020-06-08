@@ -1,8 +1,8 @@
 //表示名=
-//前待機=
-//弱ループ=
-//強ループ=
-//絶頂前ループ=
-//絶頂=
-//事後=
+前待機=About To Begin
+弱ループ=Slow Loop
+強ループ=Fast Loop
+絶頂前ループ=Before Climax Loop
+絶頂=Climax
+事後=Afterglow
 //脱力事後=

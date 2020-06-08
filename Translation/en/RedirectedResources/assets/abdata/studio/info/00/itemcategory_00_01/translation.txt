@@ -1,8 +1,8 @@
-//床壁=
-//部屋=
-//天井=
-//設置物=
-//建造物=
-//自然物=
-//環境=
-//画像板=
+床壁=Floors & Walls
+部屋=Rooms
+天井=Ceilings
+設置物=Installed Objects
+建造物=Structures
+自然物=Nature
+環境=Environment
+画像板=Image Board

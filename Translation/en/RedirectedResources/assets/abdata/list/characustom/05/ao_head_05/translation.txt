@@ -1,4 +1,4 @@
-//うさ耳カチューシャ=
-//折れうさ耳カチューシャ=
-//魔女の帽子=
-//カボチャランタン=
+うさ耳カチューシャ=Rabbit Ears
+折れうさ耳カチューシャ=Folded Rabbit Ears
+魔女の帽子=Witch Hat
+カボチャランタン=Pumpkin Lantern

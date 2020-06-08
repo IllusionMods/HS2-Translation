@@ -1,11 +1,11 @@
 //H前待機=
 //女H愛撫=
 //男H愛撫=
-//女H奉仕=
-//男H奉仕=
-//女H挿入=
-//男H挿入=
+女H奉仕=Girl Service
+男H奉仕=Male Service
+女H挿入=Girl Insertion
+男H挿入=Male Insertion
 //女H特殊=
 //男H特殊=
-//レズ=
+レズ=Lesbian
 //女複数H=

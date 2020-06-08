@@ -1,1 +1,1 @@
-//透明=
+透明=Transparent

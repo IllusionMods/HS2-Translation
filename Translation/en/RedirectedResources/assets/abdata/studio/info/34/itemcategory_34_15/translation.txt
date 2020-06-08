@@ -1,5 +1,5 @@
-//寝具=
-//机=
-//椅子=
-//キッチンカウンター=
-//照明=
+寝具=Beds
+机=Desks
+椅子=Chairs
+キッチンカウンター=Kitchen
+照明=Illumination

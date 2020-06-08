@@ -1,8 +1,8 @@
 ウエストバッグ=None
-//浮き輪A=
-//浮き輪B=
-//鍵束=
-//手錠=
-//鞭=
-//猫シッポ=
-//商人の道具入れ=
+浮き輪A=Floating Ring A
+浮き輪B=Floating Ring B
+鍵束=Key Bundle
+手錠=Handcuffs
+鞭=Whip
+猫シッポ=Cat Tail
+商人の道具入れ=Merchant Toolbox

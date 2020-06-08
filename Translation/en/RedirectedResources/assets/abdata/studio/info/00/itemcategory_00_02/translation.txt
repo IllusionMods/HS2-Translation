@@ -1,6 +1,6 @@
-//寝具=
-//机=
-//椅子=
-//キッチンカウンター=
-//水周り=
-//照明=
+寝具=Beds
+机=Desks
+椅子=Chairs
+キッチンカウンター=Kitchen
+水周り=Bathroom
+照明=Illumination

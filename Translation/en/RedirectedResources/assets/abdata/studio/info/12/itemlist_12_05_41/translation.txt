@@ -1,2 +1,2 @@
-//悪魔の翼右用=
-//悪魔の翼左用=
+悪魔の翼右用=Right Demon Wing
+悪魔の翼左用=Left Demon Wing

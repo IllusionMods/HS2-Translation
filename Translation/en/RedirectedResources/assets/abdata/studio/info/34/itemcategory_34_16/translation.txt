@@ -1,2 +1,2 @@
-//オブジェ=
-//小物=
+オブジェ=Objects
+小物=Small Articles

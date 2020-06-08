@@ -1,5 +1,5 @@
-腕章A=None
+//腕章A=
 //腕章B=
-//レザーアーム=
-//アームレット=
-//バンダナ巻き=
+レザーアーム=Leather Arm
+アームレット=Armlet
+バンダナ巻き=Bandana Winding

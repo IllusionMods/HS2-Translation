@@ -1,4 +1,4 @@
-//ダンスステージ=
-//セクシーダンスステージ=
-//ポールダンスステージ=
-//ビニールプール=
+ダンスステージ=Dance Stage
+セクシーダンスステージ=Sexy Dance Stage
+ポールダンスステージ=Pole Dance Stage
+ビニールプール=Vinyl Pool

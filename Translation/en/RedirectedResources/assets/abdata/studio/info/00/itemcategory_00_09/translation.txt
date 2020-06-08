@@ -1,2 +1,2 @@
-//環境音=
-//音声=
+環境音=Environment
+音声=Voices

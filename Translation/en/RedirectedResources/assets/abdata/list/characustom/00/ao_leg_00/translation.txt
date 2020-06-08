@@ -1,9 +1,9 @@
 レースガーターリング左=None
 //レースガーターリング右=
-//ティアアンクレット=
+ティアアンクレット=Tier Anklet
 //ガーターリング左=
 //ガーターリング右=
-//ミサンガA左=
-//ミサンガA右=
+ミサンガA左=Friendship Bracelet A Left
+ミサンガA右=Friendship Bracelet A Right
 //ミサンガB左=
 //ミサンガB右=
