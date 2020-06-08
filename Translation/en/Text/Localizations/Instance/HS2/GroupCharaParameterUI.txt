@@ -1,0 +1,4 @@
+慣れ=Nare
+不慣れ=Funare
+ステータスをリセットしますか？=Reset Status？
+キャラのメイク画面に移動します\nよろしいですか？=Go to the character makeup screen.\nIs it OK?

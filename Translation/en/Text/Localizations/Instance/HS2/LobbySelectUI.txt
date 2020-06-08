@@ -1,0 +1,1 @@
+キャラのメイク画面に移動します\nよろしいですか？=Go to the character makeup screen.\nIs it OK?

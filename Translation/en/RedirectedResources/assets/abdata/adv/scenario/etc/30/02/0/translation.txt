@@ -1,0 +1,7 @@
+//CHOICE:何してたの？=
+//CHOICE:Hしよう=
+//CHOICE:なんでもない=
+//CHOICE:好意的に返す=
+//CHOICE:楽観的に返す=
+//CHOICE:悲観的に返す=
+//・・・・・=

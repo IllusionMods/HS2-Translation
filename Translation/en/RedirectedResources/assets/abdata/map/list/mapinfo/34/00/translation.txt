@@ -1,0 +1,11 @@
+和室=Japanese-style room
+フュルの部屋=Fur's room
+大浴場=Public bath
+和式トイレ=Japanese-style toilet
+裏庭=Backyard
+裏庭（雨）=Backyard rain
+病室=Hospital room
+教室=Classroom
+中華料理店=Chinese Restaurant
+酒場=Western Bar
+洋式トイレ内=Western style toilet

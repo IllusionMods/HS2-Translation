@@ -1,0 +1,2 @@
+sr:"^残り(.*)P$"=Remaining Point $1
+解放しますか？=Do you want me to let you go?
