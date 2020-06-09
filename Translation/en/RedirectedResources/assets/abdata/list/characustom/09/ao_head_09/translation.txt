@@ -3,4 +3,4 @@
 羽の髪飾り右用=Right Hair Feather
 ロイヤルクラウン=Royal Crown
 鎧兜=Armored Helmet
-//トゲ=
+トゲ=Thorn

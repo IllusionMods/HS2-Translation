@@ -11,8 +11,8 @@
 メタルブレスレット=Metal Bracelet
 シュシュ=Scrunchie
 ストーンブレスレット=Stone Bracelet
-//リストバンドA=
-//リストバンドB=
+リストバンドA=Wristband A
+リストバンドB=Wristband B
 光輪=Halo
 スマートウォッチ=Smart Watch
 スポーツブレスレット=Sports Bracelet

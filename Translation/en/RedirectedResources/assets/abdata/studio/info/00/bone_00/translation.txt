@@ -23,7 +23,7 @@
 男根=Penis
 //玉=
 前髪=Bangs
-//後髪=
+後髪=Rear Hair
 横髪=Side Hair
 //スカート(正面)=
 //スカート(前右)=

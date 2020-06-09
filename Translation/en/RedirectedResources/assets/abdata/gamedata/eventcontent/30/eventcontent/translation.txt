@@ -1,5 +1,5 @@
-//逃亡中=
-//入浴中=
-//シャワー中=
-//トイレ中=
-//睡眠中=
+逃亡中=Escaped
+入浴中=Bathing
+シャワー中=Showering
+トイレ中=On the toilet
+睡眠中=Sleeping

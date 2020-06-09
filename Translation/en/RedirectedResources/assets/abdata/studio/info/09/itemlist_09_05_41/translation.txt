@@ -8,4 +8,4 @@
 騎士の腰当=Knight's Hip Armor
 鬼神の腰当右用=Demon God's Hip Guard (Right)
 鬼神の肩当て=Demon God's Shoulderpad
-//トゲ=
+トゲ=Thorn

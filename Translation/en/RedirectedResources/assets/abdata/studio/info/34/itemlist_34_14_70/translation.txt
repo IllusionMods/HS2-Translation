@@ -1,5 +1,5 @@
 //ふすま=
-//障子=
+障子=Paper Sliding Door
 //畳床(大)=
 畳1=Tatami Mat 1
 畳2=Tatami Mat 2

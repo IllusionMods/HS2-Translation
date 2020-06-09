@@ -1,4 +1,4 @@
-//表示名=
+表示名=Display Name
 //立ちin=
 //立ちloop=
 //椅子in=

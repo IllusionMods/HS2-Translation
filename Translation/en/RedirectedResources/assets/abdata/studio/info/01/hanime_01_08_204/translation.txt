@@ -1,4 +1,4 @@
-//表示名=
+表示名=Display Name
 前待機=About To Begin
 弱ループ=Slow Loop
 中ループ=Medium Loop
