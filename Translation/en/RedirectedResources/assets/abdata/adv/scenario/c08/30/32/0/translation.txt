@@ -3,4 +3,4 @@
 すぅ……はぁ……=Zzzz... Zzz...
 //CHOICE:こっそりHする=
 //CHOICE:起きるのを待つ=
-//CHOICE:立ち去る=
+CHOICE:立ち去る=Leave

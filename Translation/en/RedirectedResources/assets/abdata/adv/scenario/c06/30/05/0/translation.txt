@@ -1,4 +1,4 @@
 //トイレが使用中のようだ・・・=
-//CHOICE:覗く=
-//CHOICE:悪戯する=
-//CHOICE:立ち去る=
+CHOICE:覗く=Peek
+CHOICE:悪戯する=Attack
+CHOICE:立ち去る=Leave

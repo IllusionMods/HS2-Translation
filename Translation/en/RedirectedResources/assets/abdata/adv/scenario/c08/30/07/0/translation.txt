@@ -2,4 +2,4 @@
 //んー……はぁ……=
 すぅ……はぁ……=Zzzz... Zzz...
 //CHOICE:こっそりHする=
-//CHOICE:立ち去る=
+CHOICE:立ち去る=Leave
