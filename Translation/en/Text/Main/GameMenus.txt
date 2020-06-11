@@ -1,0 +1,126 @@
+﻿// My Room screen
+r:"グループ([0-9０-９]+)が設定中"=Group $1 Selected
+r:"グループ([0-9０-９]+)=Group $1
+
+
+部屋を出る=Leave Room
+キャラ管理=Manage Characters
+フュルを呼ぶ=Call Fur
+オプション=Settings
+寝る=Sleep
+
+// Leave Room
+待ち合わせをする=Call a Girl
+館内を回る=Walk the Hall
+
+// Manage Characters
+キャラ管理=Characters
+女カード作成=Create a Woman
+男カード作成=Create a Man
+
+グループ編集=Edit Groups
+衣装選択=Select Clothing
+プレイヤー選択=Select Player
+
+// Manage Characters -> Edit -> Edit Groups
+キャラ選択=Create
+
+衣装選択=Clothing
+プレイヤー選択=Player
+
+容姿変更=Change Appearance
+解除=Remove
+      
+ステータスをリセットする=Reset Status
+      
+一括解除=Batch Change
+      
+1人目=1st Person
+１人目=1st Person
+2人目=2nd Person
+２人目=2nd Person
+      
+// Call Fur
+フュルを呼ぶ=Call Fur
+女の子を探してもらう=Request a Girl
+実績の解除=Achievements
+ヘルプ=Help
+Hをお願いする=Ask for Sex
+容姿の変更=Change Appearance
+      
+// Help Screen
+ヘルプ画面=Help
+ホーム画面=Home
+キャラ管理画面=Manage Characters
+待ち合わせ画面=Meetings
+H画面=H Scenes
+館内を回る画面=Around the Hall
+フュルを呼ぶ画面=Call Fur
+      
+// Meet Up
+待ち合わせ=Call a Girl
+      
+１人目を選択=Select 1st Girl
+２人目を選択=Select 2nd Girl
+Hを開始する=Engage in Sex
+      
+アイテムを使用する=Use Item
+      
+MAP選択=Maps
+マップ選択=Map Selection
+このマップで開始する=Start in This Map
+      
+// Other
+キャラのメイク画面に移動します\nよろしいですか？=Are you sure you want to proceed to the Character Creator?
+キャラ検索画面に移動します\nよろしいですか？=Are you sure you want to proceed to the Character Finder?
+マイルームに戻ります\nよろしいですか？=Do you want to return to your room?
+Hシーンを終了しますか？=Do you want to end the sex scene?
+      
+// Extra Character Creator settings
+メッシュ=Mesh
+肌の色に合わせる=Match to Skin Color
+メッシュ設定=Mesh Settings
+      
+// Character Finder
+検索項目=Search Conditions
+      
+指定なし=Random
+細め=Narrow
+      
+筋肉質=Muscular
+ぽっちゃり=Chubby
+      
+肌の色=Skin Color
+美白=Pale
+小麦=Tanned
+      
+太め=Thick
+      
+消極的=Passive
+積極的=Assertive
+      
+エルフ耳=Elf Ears
+メガネ=Glasses
+      
+項目を初期化する=Reset Values
+この条件で探してもらう=Search Using These Parameters
+      
+見つけた女の子=Girl Match
+銘=Name
+      
+カードに保存する=Save to Card
+      
+検索を終了しますか？=Do you want to finish the search?
+      
+// H-Scene Hints
+ホイールで開始=Move Wheel to Start
+ホイール上下で速度変更=Wheel: Change Speed
+ホイール上で再開始\nホイール下で引き抜く=Wheel Up: Restart\nWheel Down: Pull Out
+ホイールで叩く=Wheel: Hit
+      
+// H-Scene Menu
+// Items
+脱力回復=Revive
+      
+ライト設定=Light Settings
+補助ライト=Auxiliary Light

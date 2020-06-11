@@ -1,0 +1,13 @@
+﻿// Custom Graphical Options
+色を初期化=Reset Color
+
+フォグ=Fog
+色調整=Color Grading
+被写界深度=Depth Of Field
+ブルーム=Bloom
+映り込み=Reflections
+環境光=Ambient Light
+サンシャフト=Sun Shafts
+プリセット=Preset
+ビネット=Vignette
+セルフシャドウ=Self-Shadows

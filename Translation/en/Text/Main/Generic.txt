@@ -1,0 +1,50 @@
+﻿// Generic Texts
+はい=Yes
+いいえ=No
+登録=Assign
+戻る=Back
+チ=Sex
+苦痛=Pain
+依存=Dependency
+壊れ=Broken
+所属グループ=Current Group
+終了する=Finish
+
+// Assistant's name
+フュル=Fur
+
+// Character's Personalities
+性格=Personality
+
+
+// Character's Headings
+メンタル=Mindset
+特性=Trait
+心情=Mentality
+H属性=Sex Trait
+
+性欲旺盛=Horny
+S=Sadist
+M=Masochist
+胸が敏感=Sensitive Breasts
+お尻が敏感=Sensitive Ass
+股間が敏感=Sensitive Pussy
+キスに弱い=Weakness to Kisses
+潔癖症=Clean Freak
+Hに抵抗がある=Sex Hater
+寂しがり屋=Lonely
+
+// Character's Status
+sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
+通常=Normal
+好意=Love
+淫乱=Horny
+嫌悪=Hate
+隷属=Slave
+享楽=Hedonist
+
+
+// Sex Position Types
+女主導=Woman-led
+
+

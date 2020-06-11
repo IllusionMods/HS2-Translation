@@ -1,0 +1,15 @@
+﻿#set level 2
+
+プレイ=Play
+メイク=Create
+ネットワーク=Network
+オプション=Settings
+終了=Quit
+
+女キャラ=Girls
+男キャラ=Boys
+戻る=Back
+
+アップロード=Uploader
+ハニーダウンロード=HS Downloader
+AIダウンロード=AI Downloader
