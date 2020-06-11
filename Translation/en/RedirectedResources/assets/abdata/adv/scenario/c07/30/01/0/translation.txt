@@ -8,7 +8,7 @@
 //用件{0}=
 //それで、今日はどう苛めて欲しいんだ？　リクエストくらい聞いてやるぞ。=
 //ほら、やるぞ。オレは気が短いんだ。分かってるな？=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

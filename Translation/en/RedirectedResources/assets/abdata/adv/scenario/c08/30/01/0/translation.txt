@@ -8,7 +8,7 @@
 //用件{0}=
 //あ、すみません、私の妄想は聞き流してください。私に用事があったんですよね？=
 //もう頭の中があなたとのことでいっぱいで……私とHしに来てくれたならいいなって思っています……=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

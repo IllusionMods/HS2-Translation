@@ -13,7 +13,7 @@
 //隷属{0}=
 //おしゃべりー……ハッ、焦らしプレイっすねー？=
 //さすがは私と同じスケベの権化～この前戯上手～。=
-//CHOICE:親身になって話す=
-//CHOICE:積極的に話す=
-//CHOICE:受け身になって話す=
-//CHOICE:エッチな話でも=
+CHOICE:親身になって話す=Speak tenderly
+CHOICE:積極的に話す=Speak aggressively
+CHOICE:受け身になって話す=Speak passively
+CHOICE:エッチな話でも=Tell a lewd story

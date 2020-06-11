@@ -8,7 +8,7 @@
 //用件{0}=
 //で？　何の用？　なんて聞くまでも無いっしょ？　もちろん……エッチだよね？=
 //じゃ、即ヤリでいい？　その前になんか話とかあれば、聞いてあげるけど。=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

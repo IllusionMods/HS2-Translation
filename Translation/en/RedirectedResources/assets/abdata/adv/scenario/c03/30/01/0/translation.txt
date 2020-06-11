@@ -8,7 +8,7 @@
 //用件{0}=
 //一応聞いておいてあげるけど、求められているのは私の身体？　そして、要件は私とのエッチ？=
 //じゃあ、エッチしよっかぁ♪　もうガチガチじゃん、口では嘘つけても身体じゃつけないんだからぁ♪=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

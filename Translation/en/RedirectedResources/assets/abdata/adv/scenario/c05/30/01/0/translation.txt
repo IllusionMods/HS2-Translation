@@ -8,7 +8,7 @@
 //用件{0}=
 //さぁ、ご主人様、せっかく会えたんですから……早速、この駄犬の穴を使ってください。=
 //ご主人様……駄犬まんこ……いつでも準備万端ですよ？　ふふっ、もちろん使ってくれるんですよね？=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

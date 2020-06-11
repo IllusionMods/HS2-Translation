@@ -13,7 +13,7 @@
 //隷属{0}=
 //こーしてるだけでも嬉しいって思ってますから、どんなお話でもいーですよ♪=
 //なんか私のこととか聞いちゃったりしますかー？=
-//CHOICE:親身になって話す=
-//CHOICE:積極的に話す=
-//CHOICE:受け身になって話す=
-//CHOICE:エッチな話でも=
+CHOICE:親身になって話す=Speak tenderly
+CHOICE:積極的に話す=Speak aggressively
+CHOICE:受け身になって話す=Speak passively
+CHOICE:エッチな話でも=Tell a lewd story

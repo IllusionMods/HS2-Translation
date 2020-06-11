@@ -8,7 +8,7 @@
 //用件{0}=
 //さて……あなたのお望みは、勿論私とのセックス……ですよね？=
 //それでは、早速セックスの準備に取り掛かりましょう。　……違いませんよね？=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

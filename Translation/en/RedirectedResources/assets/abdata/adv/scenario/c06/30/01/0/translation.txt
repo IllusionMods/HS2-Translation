@@ -8,7 +8,7 @@
 //用件{0}=
 //では、セックスをいたしましょうか、そのために会いにいらしたんでしょう……？=
 //素晴らしき性愛の園へあなたをご招待いたしましたわ、受けて頂けます？=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

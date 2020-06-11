@@ -1,5 +1,5 @@
 //反応がないようだ=
 //んー……はぁ……=
 すぅ……はぁ……=Zzzz... Zzz...
-//CHOICE:こっそりHする=
+CHOICE:こっそりHする=Secretly do her
 CHOICE:立ち去る=Leave

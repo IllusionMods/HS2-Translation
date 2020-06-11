@@ -1,5 +1,5 @@
 なし=None
-//気になる=
+気になる=Curious
 好きかも=Affectionate
 一目惚れ=Lovestruck
 話づらい=Awkward
@@ -9,5 +9,5 @@
 命令されたい=Obedient
 逆らえない=Submissive
 楽しい=Pleased
-//苛めたい=
-//服従させたい=
+苛めたい=Harsh
+服従させたい=Submissive

@@ -1,6 +1,6 @@
 //部屋にいそうな気配はする・・・=
 //んー……はぁ……=
 すぅ……はぁ……=Zzzz... Zzz...
-//CHOICE:こっそりHする=
-//CHOICE:起きるのを待つ=
+CHOICE:こっそりHする=Secretly do her
+CHOICE:起きるのを待つ=Wait till she wakes up
 CHOICE:立ち去る=Leave

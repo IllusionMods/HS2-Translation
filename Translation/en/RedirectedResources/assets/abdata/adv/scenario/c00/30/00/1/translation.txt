@@ -13,7 +13,7 @@
 //隷属{0}=
 //身体ではなく、言葉でコミュニケーションを……分かりました。=
 //言葉攻めですか、分かりました。=
-//CHOICE:親身になって話す=
-//CHOICE:積極的に話す=
-//CHOICE:受け身になって話す=
-//CHOICE:エッチな話でも=
+CHOICE:親身になって話す=Speak tenderly
+CHOICE:積極的に話す=Speak aggressively
+CHOICE:受け身になって話す=Speak passively
+CHOICE:エッチな話でも=Tell a lewd story
