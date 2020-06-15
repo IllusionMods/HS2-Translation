@@ -1,4 +1,4 @@
-スター=None
+スター=Star
 スターリング=Sterling
 クリスタル=Crystal
 クリスタルピラー=Crystal Pillar

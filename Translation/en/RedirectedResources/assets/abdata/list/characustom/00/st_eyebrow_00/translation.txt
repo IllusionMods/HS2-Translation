@@ -1,4 +1,4 @@
-タイプ1=None
+タイプ1=Type 1
 タイプ2=Type 2
 タイプ3=Type 3
 タイプ4=Type 4

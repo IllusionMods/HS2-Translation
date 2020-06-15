@@ -1,4 +1,4 @@
-ハートネックレス=None
+ハートネックレス=Heart Necklace
 ストーンネックレス=Stone Necklace
 リングネックレス=Ring Necklace
 フックネックレス=Hook Necklace

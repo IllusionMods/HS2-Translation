@@ -1,4 +1,4 @@
-シンプルリング=None
+シンプルリング=Simple Ring
 ジュエルリング=Jewel Ring
 洗濯バサミ=Clothespin
 ローター=Rotor

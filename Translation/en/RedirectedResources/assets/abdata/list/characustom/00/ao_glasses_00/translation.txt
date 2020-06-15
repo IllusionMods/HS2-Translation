@@ -1,4 +1,4 @@
-スクエア=None
+スクエア=Square Glasses
 オーバル=Oval Glasses
 ウェリントン=Wellington Glasses
 ボストン=Boston Glasses

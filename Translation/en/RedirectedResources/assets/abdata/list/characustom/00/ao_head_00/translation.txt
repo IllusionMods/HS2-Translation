@@ -1,4 +1,4 @@
-ヘアピン=None
+ヘアピン=Hairpin
 髪留め=Barette
 宝石の髪飾り=Jewelry Ornament
 翼の髪飾り=Wing Ornament

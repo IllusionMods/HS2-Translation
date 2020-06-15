@@ -1,4 +1,4 @@
-ピエロの鼻=None
+ピエロの鼻=Clown Nose
 天狗の鼻=Tengu Nose
 一輪のバラ=Single Rose
 リコーダー=Recorder
