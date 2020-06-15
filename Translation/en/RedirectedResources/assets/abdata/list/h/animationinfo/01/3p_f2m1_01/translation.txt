@@ -1,2 +1,2 @@
-//W騎乗位=
-//W騎乗位入れ替え=
+W騎乗位=W Cowgirl
+W騎乗位入れ替え=W Cowgirl (Swap)

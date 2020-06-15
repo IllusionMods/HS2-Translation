@@ -1,2 +1,2 @@
-//拘束立位=
-//和式トイレ後背位=
+拘束立位=Restrained Standing
+和式トイレ後背位=Japanese Toilet Doggy
