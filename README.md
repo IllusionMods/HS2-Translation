@@ -1,10 +1,8 @@
 # HS2 Translation
-English translation project for Honey Select 2
-
-The translations are applied at runtime and do not require replacing or modifying any game files.
+English fan translation project for Honey Select 2. The translations are applied at runtime and do not require replacing or modifying any game files.
 
 ## Installation
-1. Install at least [BepInEx 5 build #161](https://github.com/BepInEx/BepInEx), latest [BepisPlugins for HS2](https://github.com/bbepis/BepisPlugins/releases), latest [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) and [HS2_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (withouth this many of the translations won't be loaded into the game).
+1. Install at least [BepInEx 5.1](https://github.com/BepInEx/BepInEx), latest [BepisPlugins for HS2](https://github.com/bbepis/BepisPlugins/releases), latest [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) and [HS2_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (withouth this many of the translations won't be loaded into the game).
 2. Go to the releases page above and download the latest release. Alternatively, advanced users can get the latest beta translations by clicking "Clone or download" button above. Read the ADV translations section below to see how to enable ADV translations if you do this.
 3. Extract the zip and merge the Translation folder with the one in your BepInEx folder. It's recommended to delete your old translation folder to prevent translation collisions.
 4. Optionally get [HS2_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) to see subtitles, if any.
@@ -43,7 +41,7 @@ Format strings have replacements in them processed by [`String.Format`](https://
 
 Example:
 ```
-{0}Ç∆íáÇ™Ç¢Ç¢Ç∆évÇ¡ÇƒÇÈÇÌ=I think I'm good friends with {0}.
+{0}„Å®‰ª≤„Åå„ÅÑ„ÅÑ„Å®ÊÄù„Å£„Å¶„Çã„Çè=I think I'm good friends with {0}.
 ```
 
 #### Choices
@@ -52,12 +50,13 @@ Because these strings are encoded into a larger entry in the resource files they
 
 Example:
 ```
-CHOICE:éÛÇØéÊÇÈ=Accept
+CHOICE:Âèó„ÅëÂèñ„Çã=Accept
 ```
 
 ### Tools
-[Yomichan](https://foosoft.net/projects/yomichan/)  
-This browser plugin allows you to see the definition of Japanese words by putting your mouse over them in the browser and pressing shift.  
+[Yomichan](https://foosoft.net/projects/yomichan/) - This browser plugin allows you to see the definition of Japanese words by putting your mouse over them in the browser and pressing shift.
+
+[Release Tool](https://github.com/IllusionMods/KoikatsuStoryTranslation/tree/master/tools/ReleaseTool) - Tool that cleans up the translation files to remove any unnecessary untranslated parts.
 
 Dictionaries:  
 https://jisho.org/  
