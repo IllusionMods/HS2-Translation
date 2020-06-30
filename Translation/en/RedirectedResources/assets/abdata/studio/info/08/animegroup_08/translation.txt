@@ -1,2 +1,2 @@
 バトル=Battle
-//機械H=
+機械H=Machine H

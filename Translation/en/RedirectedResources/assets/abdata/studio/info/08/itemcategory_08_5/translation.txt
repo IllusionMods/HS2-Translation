@@ -1,2 +1,2 @@
-//メカ(キャラ)=
+メカ(キャラ)=Mecha (Character)
 バトル=Battle

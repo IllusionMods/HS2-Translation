@@ -1,2 +1,2 @@
-//狐巫女=
-//狐巫女H=
+狐巫女=Fox Shrine Maiden
+狐巫女H=Fox Shrine Maiden H

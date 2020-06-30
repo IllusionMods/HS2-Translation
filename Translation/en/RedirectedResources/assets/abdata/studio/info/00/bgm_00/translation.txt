@@ -1,4 +1,4 @@
-//ＡＩ少女=
+ＡＩ少女=AI Girl
 廃墟と少女=Ruins And Girl
 古の研究=Ancient Research
 昼の砂浜=Sandy Beach At Noon
@@ -9,5 +9,5 @@
 遠い昔の街=Distant City
 シャンの家=Shan's House
 独り言=Monologue
-//NEO=
+NEO=NEO
 ハロウィン=Halloween

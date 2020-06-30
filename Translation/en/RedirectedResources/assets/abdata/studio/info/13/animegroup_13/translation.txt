@@ -1,2 +1,2 @@
 サキュバス=Succubus
-//サキュバスH=
+サキュバスH=Succubus H

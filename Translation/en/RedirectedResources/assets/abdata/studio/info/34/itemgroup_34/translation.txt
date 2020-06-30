@@ -1,6 +1,6 @@
-//ベース2=
-//家具2=
-//置物2=
-//キャラ2=
-//武器2=
-//3DSE2=
+ベース2=Base 2
+家具2=Furniture 2
+置物2=Ornaments 2
+キャラ2=Character 2
+武器2=Weapons 2
+3DSE2=3D SFX 2

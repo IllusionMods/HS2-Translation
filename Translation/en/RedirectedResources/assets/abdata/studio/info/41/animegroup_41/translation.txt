@@ -1,2 +1,2 @@
-//SM=
-//SMH=
+SM=SM
+SMH=SMH
