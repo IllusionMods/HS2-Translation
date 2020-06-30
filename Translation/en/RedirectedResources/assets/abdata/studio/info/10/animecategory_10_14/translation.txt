@@ -1,2 +1,2 @@
-//女 吊るし挿入=
-//男 吊るし挿入=
+女 吊るし挿入=Female: Hanging
+男 吊るし挿入=Male: Hanging

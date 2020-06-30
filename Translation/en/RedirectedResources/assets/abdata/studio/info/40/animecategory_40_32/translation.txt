@@ -1,4 +1,4 @@
-//女 立ちキス愛撫=
-//男 立ちキス愛撫=
-//女 抱きつき駅弁=
-//男 抱きつき駅弁=
+女 立ちキス愛撫=Female: Standing Kiss Caress
+男 立ちキス愛撫=Male: Standing Kiss Caress
+女 抱きつき駅弁=Female: Clinging Lifting
+男 抱きつき駅弁=Male: Clinging Lifting
