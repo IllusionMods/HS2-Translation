@@ -15,7 +15,7 @@
 //ツイスト=
 ワンピース=One-Piece
 //旧スクール水着=
-//競泳水着=
+競泳水着=Competition Swimsuit
 //ハートシール=
 //スターシール=
 絆創膏=Bandage Plaster

@@ -1,5 +1,5 @@
 //勾玉首飾り=
 //狐耳=
-//巫女袖左用=
-//巫女袖右用=
+巫女袖左用=Shrine Maiden Sleeve (Left)
+巫女袖右用=Shrine Maiden Sleeve (Right)
 //狐尻尾=
