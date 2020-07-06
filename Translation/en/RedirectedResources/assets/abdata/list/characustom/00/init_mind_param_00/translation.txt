@@ -8,6 +8,6 @@
 指示されたい=Cooperative
 命令されたい=Obedient
 逆らえない=Submissive
-楽しい=Pleased
-苛めたい=Harsh
-服従させたい=Submissive
+楽しい=Interested
+苛めたい=Charmed
+服従させたい=Aroused
