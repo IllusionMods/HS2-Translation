@@ -1,7 +1,6 @@
 ﻿// My Room screen
 r:"グループ([0-9０-９]+)が設定中"=Group $1 Selected
-r:"グループ([0-9０-９]+)"=Group $1
-
+r:"グループ *([0-9０-９]+)"=Group $1
 
 部屋を出る=Leave Room
 キャラ管理=Manage Characters

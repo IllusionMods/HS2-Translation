@@ -46,5 +46,8 @@ sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
 
 // Sex Position Types
 女主導=Woman-led
+女複数=Female Group
+男複数=Male Group
+レズ=Lesbian
 
 

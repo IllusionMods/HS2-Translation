@@ -1,12 +1,12 @@
 // known format strings used by game before applying to GUI element
 
-sr:"^スロット([0-9]+)$"=Slot $1
+r:"^スロット([０-９0-9]+)$"=Slot $1
 sr"^(.*) が逃げ出しました$"=$1 ran away
 
 sr:"^FKカラー (.*)"$=FK Color $1
 
 // ranking
-sr:"^([0-9]+)位"=$1
+r:"^([０-９0-9]+)位"=$1
 
 sr:"^■\s*(.*)"=■ $1
 
@@ -14,3 +14,4 @@ sr:"^■\s*(.*)"=■ $1
 
 sr:"^「([^」]+)」が達成されました$"="$1" Achieved
 
+r:"^残り([０-９0-9]+)Ｐ$"=$1P Remaining

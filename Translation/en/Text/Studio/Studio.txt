@@ -3189,3 +3189,18 @@ illusion文字のみ 黒=Word: Illusion (Black)
 高さ=Height
 滑らかさ=Smoothness
 質感=Texture
+
+//
+// object variation regexes
+//
+sr:"^(.*)\(キャラ\)$"=$1 (Character)
+sr:"^(.*)\(マップ\)$"=$1 (Map)
+sr:"^(.*)\(大\)$"=$1 (Large)
+sr:"^(.*)\(中\)$"=$1 (Medium)
+sr:"^(.*)\(小\)$"=$1 (Small)
+sr:"^(.*)\(透明\)$"=$1 (Transparent)
+sr:"^(.*)\(近\)$"=$1 (Near)
+sr:"^(.*)\(遠\)$"=$1 (Far)
+sr:"^(.*)\(obj無し\)$"=$1 (Without Object)
+sr:"^(.*)\(アルファ\)$"=$1 (Alpha)
+sr:"^(.*)\(通常\)$"=$1 (General)
