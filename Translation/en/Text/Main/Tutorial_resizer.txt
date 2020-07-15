@@ -1,0 +1,7 @@
+
+
+// Tutorial Screen
+
+Tutorial(Clone)=ChangeFontSizeByPercentage(0.9)
+
+

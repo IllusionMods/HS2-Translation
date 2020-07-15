@@ -1,0 +1,11 @@
+#set level 7
+
+// H GUI
+
+/UI/ClothPanel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content/CoordinatesNode(Clone)/Text=UGUI_VerticalOverflow(truncate)
+/UI/ClothPanel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content/CoordinatesNode(Clone)/Text=ChangeFontSizeByPercentage(0.75)
+
+
+/UI/ClothPanel/ScrollView/Viewport/Acs=UGUI_HorizontalOverflow(wrap)
+/UI/ClothPanel/ScrollView/Viewport/Acs=UGUI_VerticalOverflow(truncate)
+/UI/ClothPanel/ScrollView/Viewport/Acs=ChangeFontSizeByPercentage(0.85)
