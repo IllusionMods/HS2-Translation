@@ -12,3 +12,6 @@
 /LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=ChangeFontSizeByPercentage(0.7)
 /LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_ChangeLineSpacing(0.1)
 /LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_VerticalOverflow(overflow)
+
+
+/LobbyScene/Canvas/Panel/Select/Select/SelectView/btnChange=ChangeFontSizeByPercentage(0.5)

@@ -1,0 +1,5 @@
+#set level 6
+
+/ADVMainScene/ADVScene(Clone)/Canvas_Main/MsgWindowCanvas/Window/Message=UGUI_HorizontalOverflow(wrap)
+/ADVMainScene/ADVScene(Clone)/Canvas_Main/MsgWindowCanvas/Window/Message=UGUI_VerticalOverflow(overflow)
+
