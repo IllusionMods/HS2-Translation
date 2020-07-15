@@ -1,4 +1,4 @@
-﻿// Generic Texts
+// Generic Texts
 はい=Yes
 いいえ=No
 登録=Assign

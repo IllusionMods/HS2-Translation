@@ -1,4 +1,4 @@
-﻿#set level 2
+#set level 2
 
 プレイ=Play
 メイク=Create

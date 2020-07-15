@@ -1,4 +1,4 @@
-﻿// Custom Graphical Options
+// Custom Graphical Options
 色を初期化=Reset Color
 
 フォグ=Fog

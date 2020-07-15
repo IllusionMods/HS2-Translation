@@ -1,4 +1,4 @@
-﻿オプション=Settings
+オプション=Settings
 
 戻る=Back
 

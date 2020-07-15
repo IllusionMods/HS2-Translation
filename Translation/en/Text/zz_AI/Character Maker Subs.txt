@@ -1,4 +1,4 @@
-﻿//c00
+//c00
 あなたはいろんなこと、知ってる=You seem to know a lot.
 あなたの言うことは、やっぱりわからない=As I thought, I don't understand what you are saying.
 ありがとう=Thank you.
