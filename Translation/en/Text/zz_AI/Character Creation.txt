@@ -10,6 +10,7 @@
 // Scene: CharaCustom (4)
 //#set level 4
 // LEVELS WRONG FOR HS2, FIX IT
+#set level 3
 
 //************************************************************
 // General
@@ -159,9 +160,9 @@
 右中指=R Middle
 左薬指=L Ring
 右薬指=R Ring
-下腹部①=Low Ab1
-下腹部②=Low Ab2
-下腹部③=Low Ab3
+//下腹部①=Low Ab1
+//下腹部②=Low Ab2
+//下腹部③=Low Ab3
 
 //------------------------------------------------------------
 // Tabs

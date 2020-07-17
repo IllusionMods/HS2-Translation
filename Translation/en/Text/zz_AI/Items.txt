@@ -190,29 +190,6 @@
 焼き魚=Grilled Fish
 魚を焼いただけの簡単な料理。=Simple Cooking made by grilling fish.
 
-// Medicine
-//--------------------------------------------------
-ガーゼ=Gauze
-綿で作られた医療用のガーゼ。女の子のケガを治すことができる。=A medical gauze made of cotton. Can cure the girl's wounds.
-ローション=Lotion
-エッチ中に使うと、女の子の肌の艶が強くなる。=When used during sex, the girl's skin becomes glossier.
-胃腸薬=Digestive
-腹痛に効く薬。女の子の腹痛を治すことができる。=Medicine effective for Stomach Ache. Can cure the girl's Stomach Ache.
-栄養剤=Energy Drink
-エッチ中に使うと、女の子がすぐに脱力から回復する。=When used during sex, the girl instantly recovers from exhaustion.
-快感剤=Pleasure Drug
-エッチ中に使うと、女の子がつぎ絶頂すると必ず脱力する。=When used during sex, the girl will get Exhausted after the next climax.
-睡眠薬=Sedative
-眠くなる特殊な薬。女の子に渡すと寝に向かいやすくなる。=Special drug that makes you sleepy. When given to the girl, makes it easier for the her to go to sleep.
-濡れタオル=Wet Towel
-ひんやりする布。女の子の高温状態を治すことができる。=A cool cloth. Can cure a girl from High Temperature status.
-風邪薬=Cold Medicine
-風邪に効く薬。女の子の風邪の治りが早くなる。=Medicine effective for cold. Can speed the girl's recovery of colds.
-利尿薬=Diuretic
-トイレに行きたくなる特殊な薬。女の子に渡すとトイレに行きやすくなる。=Special drug that makes you want to go to the toilet. When given to the girl, makes it easier for her to go to the toilet.
-媚薬=Aphrodisiac
-女の子にプレゼントするとエッチな気分になる。=When given to the girl, places her in a Naughty Mood.
-
 // Pet(s)
 //--------------------------------------------------
 お魚くわえたネコ=Cat with a fish

@@ -2,16 +2,20 @@
 
 // Call Girl
 
-/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_HorizontalOverflow(wrap)
-/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_VerticalOverflow(overflow)
-/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=ChangeFontSizeByPercentage(0.6)
+// Use items dropdown
 
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_HorizontalOverflow(overflow)
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_VerticalOverflow(truncate)
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=ChangeFontSizeByPercentage(0.72)
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_ChangeLineSpacing(0.8)
 /LobbyScene/Canvas/Panel/Parameter/param=IgnoreFontSize()
 
-/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_HorizontalOverflow(wrap)
-/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=ChangeFontSizeByPercentage(0.7)
-/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_ChangeLineSpacing(0.1)
-/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_VerticalOverflow(overflow)
+// top left character status
+
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_HorizontalOverflow(overflow)
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=ChangeFontSizeByPercentage(0.85)
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_ChangeLineSpacing(0.9)
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_VerticalOverflow(truncate)
 
 
-/LobbyScene/Canvas/Panel/Select/Select/SelectView/btnChange=ChangeFontSizeByPercentage(0.5)
+/LobbyScene/Canvas/Panel/Select/Select/SelectView/btnChange=ChangeFontSizeByPercentage(0.9)

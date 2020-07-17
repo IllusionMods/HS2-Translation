@@ -1,0 +1,6 @@
+#set level 4,8
+
+// shorter wording to fit button
+
+容姿変更=Edit
+

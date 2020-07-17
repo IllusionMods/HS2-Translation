@@ -1,0 +1,23 @@
+#set level 3
+
+// for now these just override the inherited AI translations
+
+配置=Arrange
+髪設定=Settings
+
+下腹部=Crotch
+下腹部①=Crotch①
+下腹部②=Crotch②
+下腹部③=Crotch③
+
+肩=Shold
+
+
+
+//Accessories which are in the form (Slot#) (Accessory Name)
+sr:"^([0-9]{2}) ([\S\s]+)$"=$1 $2
+
+r:"^カラー([0-9①-⑨]+)$"=Color $1
+r:"^調整([0-9①-⑨]+)$"=Adjustment $1
+r:"^タイプ([0-9０-９]+)$"=Type $1
+

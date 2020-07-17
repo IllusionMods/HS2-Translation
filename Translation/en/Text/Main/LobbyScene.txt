@@ -1,0 +1,11 @@
+#set level 8
+
+欲求行動=Urge
+状態=State
+おもらし=Peeing
+
+
+発汗剤=Sudorific\n(Sweaty)
+媚薬=Aphrodisiac\n(Horny)
+睡眠薬=Sedative\n(Sleepy)
+利尿薬=Diuretic\n(Pee)
