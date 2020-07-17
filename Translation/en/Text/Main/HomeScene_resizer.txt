@@ -23,20 +23,20 @@
 
 /HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=UGUI_HorizontalOverflow(overflow)
 /HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=UGUI_VerticalOverflow(truncate)
-/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=AutoResize(true)
+/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
 
 /HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=UGUI_HorizontalOverflow(overflow)
 /HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=UGUI_VerticalOverflow(truncate)
-/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=AutoResize(true)
+/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
 
 
 // Edit Chars
 
-/HomeScene/Canvas/Panel/CharaEdit/Coordinate/SelectCoordinate/Panel/Buttons/btnBatchRelease=ChangeFontSizeByPercentage(0.5)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectCard1/Panel/btnCharaEdit=ChangeFontSizeByPercentage(0.5)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectCard2/Panel/btnCharaEdit=ChangeFontSizeByPercentage(0.5)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectChara/Panel/Buttons/btnEntry=ChangeFontSizeByPercentage(0.5)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectGroups/Panel/Buttons/btnCancel=ChangeFontSizeByPercentage(0.5)
-/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnCharaEdit=ChangeFontSizeByPercentage(0.5)
-/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnPlayerSelect=ChangeFontSizeByPercentage(0.5)
-/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnSecondPlayerSelect=ChangeFontSizeByPercentage(0.5)
+/HomeScene/Canvas/Panel/CharaEdit/Coordinate/SelectCoordinate/Panel/Buttons/btnBatchRelease=ChangeFontSizeByPercentage(0.8)
+/HomeScene/Canvas/Panel/CharaEdit/Group/SelectCard1/Panel/btnCharaEdit=ChangeFontSizeByPercentage(0.8)
+/HomeScene/Canvas/Panel/CharaEdit/Group/SelectCard2/Panel/btnCharaEdit=ChangeFontSizeByPercentage(0.8)
+/HomeScene/Canvas/Panel/CharaEdit/Group/SelectChara/Panel/Buttons/btnEntry=ChangeFontSizeByPercentage(0.8)
+/HomeScene/Canvas/Panel/CharaEdit/Group/SelectGroups/Panel/Buttons/btnCancel=ChangeFontSizeByPercentage(0.8)
+/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnCharaEdit=ChangeFontSizeByPercentage(0.8)
+/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnPlayerSelect=ChangeFontSizeByPercentage(0.8)
+/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnSecondPlayerSelect=ChangeFontSizeByPercentage(0.8)

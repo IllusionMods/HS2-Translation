@@ -2,7 +2,9 @@
 
 /CharaCustom/CustomControl=ChangeFontSizeByPercentage(0.9)
 /CharaCustom/CustomControl=UGUI_ChangeLineSpacing(0.7)
-/CharaCustom/CustomControl/CanvasSub/SettingWindow=ChangeFontSizeByPercentage(0.8)
+/CharaCustom/CustomControl/CanvasSub/SettingWindow=ChangeFontSizeByPercentage(0.775)
 /CharaCustom/CustomControl/CanvasSub/SettingWindow=UGUI_ChangeLineSpacing(0.7)
 /CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.8)
 /CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
+
+/CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory=UGUI_HorizontalOverflow(wrap)
