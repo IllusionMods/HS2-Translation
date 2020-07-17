@@ -2,9 +2,9 @@
 メカ装甲５=Mecha Armor 5
 メカ装甲６=Mecha Armor 6
 メカ装甲６×３=Mecha Armor 6×3
-メカブースターⅡ=Mecha Booster Ii
-メカシールドⅡ=Mecha Shield Ii
-メカシールドⅢ=Mecha Shield Ⅲ
+メカブースターⅡ=Mecha Booster 2
+メカシールドⅡ=Mecha Shield 2
+メカシールドⅢ=Mecha Shield 3
 メカアーマー=Mecha Armor
-//サキュバスの腕飾り=
-//バーサーカーの腕当て=
+サキュバスの腕飾り=Succubus ornament
+バーサーカーの腕当て=Berserker Armguard

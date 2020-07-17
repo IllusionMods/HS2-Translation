@@ -8,9 +8,9 @@
 カチューシャ=Headband
 ヘッドホン=Headphones
 サンバイザー=Sun Visor
-うさ耳リボン=Rabbit Ear Ribbon
+うさ耳リボン=Bunny Ear Ribbon
 猫耳=Cat Ear
-ヘルメット=Baseball Helmet
+ヘルメット=Worker Helmet
 麦わら帽子=Straw Hat
 王冠=Crown
 シルクハット=Silk Hat
@@ -33,11 +33,11 @@
 基本図形：スター=Shape: Star
 基本図形：ハート=Shape: Heart
 お団子髪=Bun Hair
-あほ毛=Ahoge
-はねあほ毛=Hair Splash
+あほ毛=Hair strand
+はねあほ毛=Double Hair strand
 三つ編み=Braided
 三つ編みカチューシャ=Braid Headband
 エクステ=Extensions
 カールエクステ=Curl Extension
-おくれ毛=Back Hair
-細おくれ毛=Thin Hair
+おくれ毛=Loose Tuft
+細おくれ毛=Thin Thuft

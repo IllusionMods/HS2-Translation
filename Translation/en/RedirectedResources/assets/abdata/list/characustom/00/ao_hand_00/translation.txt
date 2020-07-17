@@ -2,8 +2,8 @@
 ツインリング=Twin Ring
 宝石の指輪A=Gemstone ring A
 宝石の指輪B=Gemstone ring B
-スカルヘッド=Skull Head
-チアポンポン=Chiapompon
+スカルヘッド=Skull ring
+チアポンポン=Cheerleader pompom
 レザーバングル=Leather Bangle
 イルカとカラーストーン=Dolphin And Colored Stone
 腕時計=Watches

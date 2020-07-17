@@ -1,2 +1,2 @@
-//マロマユ=
-//狐紋=
+マロマユ=Maro Eyebrows
+狐紋=Fox Prints

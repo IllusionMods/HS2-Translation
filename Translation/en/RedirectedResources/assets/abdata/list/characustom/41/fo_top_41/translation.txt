@@ -1,2 +1,2 @@
-//ボンデージスーツ=
-//胸あきボンデージスーツ=
+ボンデージスーツ=Bondage Corset
+胸あきボンデージスーツ=Bondage Corset Open Chest

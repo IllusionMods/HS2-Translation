@@ -1,7 +1,7 @@
-//斜めぱっつん=
-//エアインテークミディアム=
-//横出し流し髪=
-//重ねぱっつん=
-//マッシュバング=
-//ロングカール=
-//分けソフトヘア=
+斜めぱっつん=Diagonal Bangs
+エアインテークミディアム=Exhaust bangs
+横出し流し髪=side bangs flowy
+重ねぱっつん=Layered
+マッシュバング=mashed bangs
+ロングカール=Long curly
+分けソフトヘア=Side part (center hair lock)

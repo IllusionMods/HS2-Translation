@@ -1,2 +1,2 @@
-//シスターワンピース=
-//シスターワンピースS=
+シスターワンピース=Sister dress
+シスターワンピースS=Sister dress short

@@ -7,7 +7,7 @@
 フラワーネックレス=Flower Necklace
 シルバーハートネックレス=Silver Heart Necklace
 ネクタイリボン=Tie Ribbon
-ネクタイ=Necktie
+ネクタイ=Tie
 ルーズネクタイA=Loose Tie A
 ルーズネクタイB=Loose Tie B
 スカーフ=Scarf

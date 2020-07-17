@@ -1,2 +1,2 @@
-//クリスマスグローブ=
+クリスマスグローブ=Christmas Gloves
 クリスマスミトン=Christmas Mittens

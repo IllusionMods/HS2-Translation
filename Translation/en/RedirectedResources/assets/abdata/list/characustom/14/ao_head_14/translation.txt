@@ -1,2 +1,2 @@
-//バレンタインチョコ=
+バレンタインチョコ=Valentine Chocolate
 プレゼント=Present

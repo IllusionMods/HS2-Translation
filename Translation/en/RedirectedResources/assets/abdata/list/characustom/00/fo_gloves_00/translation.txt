@@ -1,6 +1,6 @@
 なし=None
-軍手=Work Gloves
-//革手袋=
-//革手袋左手=
-//ロングレングス=
-//フィンガーグローブ=
+軍手=Cotton Gloves
+革手袋=Leather Gloves
+革手袋左手=Left Leather Glove
+ロングレングス=Long Lenght Gloves
+フィンガーグローブ=Finger Gloves

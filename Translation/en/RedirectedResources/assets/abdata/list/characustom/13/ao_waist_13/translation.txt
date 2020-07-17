@@ -1,3 +1,3 @@
-//サキュバス尻尾=
-//サキュバスの翼右用=
-//サキュバスの翼左用=
+サキュバス尻尾=Succubus tail
+サキュバスの翼右用=Right Succubus wing
+サキュバスの翼左用=Left Succubus wing

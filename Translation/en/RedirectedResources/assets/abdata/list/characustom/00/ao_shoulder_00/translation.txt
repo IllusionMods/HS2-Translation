@@ -1,4 +1,4 @@
 トートバッグ=Tote Bag
-スクールバッグ=School Bag
+スクールバッグ=Bag
 オウムのおもちゃ=Parrot Toy
-ミニショルダー=Mini Shoulder
+ミニショルダー=Purse

@@ -1,8 +1,8 @@
-//ダンサーショーツ=
-//コンシェルジュレースF=
-//ボロ布パンツ=
-//ソングショーツ=
-//オープンショーツ=
-//ウエスタンカウ=
-//キャンペーンダブルS=
-//サイクルウェアボトム=
+ダンサーショーツ=Dancer shorts
+コンシェルジュレースF=Concierge lace
+ボロ布パンツ=patchwork pants
+ソングショーツ=Highleg Bikini
+オープンショーツ=Open panties
+ウエスタンカウ=Western panties
+キャンペーンダブルS=HS2 Campaign double bikini
+サイクルウェアボトム=Cycling bottom

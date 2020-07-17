@@ -1,7 +1,7 @@
 ウエストバッグ=Waist Bag
 浮き輪A=Floating Ring A
 浮き輪B=Floating Ring B
-鍵束=Key Bundle
+鍵束=Key Chain
 手錠=Handcuffs
 鞭=Whip
 猫シッポ=Cat Tail

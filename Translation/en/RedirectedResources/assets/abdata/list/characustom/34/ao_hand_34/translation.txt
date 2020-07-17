@@ -1,2 +1,2 @@
-//縄（左）=
-//縄（右）=
+縄（左）=Left Wrist Rope
+縄（右）=Right Wrist Rope

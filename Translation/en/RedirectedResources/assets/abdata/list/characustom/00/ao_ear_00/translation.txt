@@ -1,7 +1,7 @@
-スター=Star
-スターリング=Sterling
-クリスタル=Crystal
-クリスタルピラー=Crystal Pillar
-三連イヤリング=Triple Earrings
-フラワー=Flower
-パール=Pearl
+スター=Star earring
+スターリング=Empty Star earring
+クリスタル=Crystal earring
+クリスタルピラー=Crystal Pillar earring
+三連イヤリング=Triple Triangle earring
+フラワー=Flower earring
+パール=Pearl earring

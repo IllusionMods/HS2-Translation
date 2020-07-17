@@ -1,2 +1,2 @@
-//メカタイツ=
+メカタイツ=Mecha Tights
 メカスーツ=Mecha Suit
