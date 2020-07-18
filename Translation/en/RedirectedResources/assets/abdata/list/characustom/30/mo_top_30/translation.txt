@@ -1,2 +1,2 @@
-オークボディ=Ogre body
+オークボディ=Ogre Body
 ロングコート=Long Coat
