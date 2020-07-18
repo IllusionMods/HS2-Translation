@@ -6,10 +6,10 @@
 羊の角=Sheep Horns
 牛の角=Cow Horns
 一角=Unicorn Horn
-メカ装甲１=Mecha armor 1
-メカ装甲２=Mecha armor 2
-メカ装甲３=Mecha armor 3
-メカ装甲４=Mecha armor 4
+メカ装甲１=Mecha Armor 1
+メカ装甲２=Mecha Armor 2
+メカ装甲３=Mecha Armor 3
+メカ装甲４=Mecha Armor 4
 メカポッド=Mechapod
 メカシールド=Mecha Shield
 メカゴーグル=Mecha Goggles
