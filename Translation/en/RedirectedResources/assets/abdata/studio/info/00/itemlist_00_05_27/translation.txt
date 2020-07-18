@@ -1,14 +1,14 @@
 ウエストバッグ=Waist Bag
 浮き輪A=Floating Ring A
 浮き輪B=Floating Ring B
-鍵束=Key Bundle
+鍵束=Key Chain
 手錠=Handcuffs
 鞭=Whip
 猫シッポ=Cat Tail
 バニー付けしっぽ=Bunny Tail
 商人の道具入れ=Merchant Toolbox
 携帯用ランプ=Portable Lamp
-ティアアンクレット=Tier Anklet
+ティアアンクレット=Tiers Anklet
 ガーターリング=Garter Ring
 レースガーターリング=Lace Garter Ring
 ミサンガA=Misanga A

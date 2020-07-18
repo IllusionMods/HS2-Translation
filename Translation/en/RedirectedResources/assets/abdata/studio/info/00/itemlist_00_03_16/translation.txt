@@ -43,7 +43,7 @@
 釣り竿=Fishing Rod
 ウキ=Uki
 虫網=Bug Net
-箒=箒
+箒=Broom
 ビニール傘=Vinyl Umbrella
 じょうろ=Watering Can
 小枝=Twig

@@ -1,4 +1,4 @@
-リュック=Ruck Sack
+リュック=Backpack
 革鞄=Leather Bag
 ダンボール=Cardboard
 妖精の羽=Fairy Wings
@@ -11,7 +11,7 @@
 ジュエルリング=Jewel Ring
 洗濯バサミ=Clothespin
 クリップ=Clip
-ミニショルダー=Mini Shoulder
+ミニショルダー=Purse
 トートバッグ=Tote Bag
-スクールバッグ=School Bag
+スクールバッグ=Bag
 オウムのおもちゃ=Parrot Toy

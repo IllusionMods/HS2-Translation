@@ -1,8 +1,8 @@
-暴走の右手=Runaway Right Hand
+暴走の右手=Flames Right Hand
 抱きつきキュービー=Hug Cubby
-チアポンポン=Chiapompon
+チアポンポン=Cheerleader Pompom
 シンプル指輪=Simple Ring
-スカルヘッド=Skull Head
+スカルヘッド=Skull Ring
 ツインリング=Twin Ring
-宝石の指輪A=Gemstone ring A
-宝石の指輪B=Gemstone ring B
+宝石の指輪A=Gemstone Ring A
+宝石の指輪B=Gemstone Ring B

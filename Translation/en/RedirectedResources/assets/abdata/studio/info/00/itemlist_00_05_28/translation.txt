@@ -1,9 +1,9 @@
 腕章=Armband
-バニーカフス左用=Bunny Cuff Left
+バニーカフス左用=Left Bunny Cuff
 レザーアーム=Leather Arm
-バンダナ巻き=Bandana Winding
+バンダナ巻き=Bandana Armband
 アームレット=Armlet
-イルカとカラーストーン=Dolphin And Colored Stone
+イルカとカラーストーン=Dolphin and Colored Stone
 レザーバングル=Leather Bangle
 ストーンブレスレット=Stone Bracelet
 腕時計=Watches
