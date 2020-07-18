@@ -2,9 +2,9 @@
 ソックス=Socks
 ハイソックス=High Socks
 ニーソックス=Kneesocks
-//スニーカーソックス=
+スニーカーソックス=Sneaker Socks
 ルーズソックス=Loose Socks
-//サイハイ=
-//シースルーサイハイ=
-//フットガーターニーソ=
-//パンプスカバー=
+サイハイ=High Tights
+シースルーサイハイ=See Through High Tights
+フットガーターニーソ=Garter Socks
+パンプスカバー=Low-Cut Socks

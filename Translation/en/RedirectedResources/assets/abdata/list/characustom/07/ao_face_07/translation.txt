@@ -1,4 +1,4 @@
-骸骨面上顎=Skeletal Upper Jaw
-骸骨面下顎=Skeletal Mandible
+骸骨面上顎=Skull Mask
+骸骨面下顎=Skull Jaw
 鳥の仮面=Bird Mask
-剣闘士の額当て=Gladiator Forehead
+剣闘士の額当て=Gladiator Mask

@@ -3,10 +3,10 @@
 ネコリュック=Cat Rucksack
 ミニリュック=Mini Rucksack
 商人カバン=Merchant Bag
-小悪魔の翼右用=Right Devil Wing
-小悪魔の翼左用=Left Devil Wing
-小天使の翼右用=Little Angel Wing Right
-小天使の翼左用=Little Angel Wing Left
+小悪魔の翼右用=Right Little Devil Wing
+小悪魔の翼左用=Left Little Devil Wing
+小天使の翼右用=Right Little Angel Wing
+小天使の翼左用=Left Little Angel Wing
 悪魔の翼右用=Right Demon Wing
 悪魔の翼左用=Left Demon Wing
 天使の翼右用=Right Angel Wing

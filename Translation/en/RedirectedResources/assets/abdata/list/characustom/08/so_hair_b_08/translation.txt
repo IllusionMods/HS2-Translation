@@ -1,2 +1,2 @@
-サイドテール(左)=Side Tail (L)
-サイドテール(右)=Side Tail (R)
+サイドテール(左)=Side Tail (Left)
+サイドテール(右)=Side Tail (Right)

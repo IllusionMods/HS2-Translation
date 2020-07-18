@@ -1,8 +1,8 @@
 なし=None
-横あほ毛=Horizontal Hair
-2本あほ毛=2 Ahoge
-上向きあほ毛=Upwards
-前あほ毛=Ahoge
-お団子=Dumpling
-編みカチューシャ=Braided Headband
-後ろ編み込み=Back Weave
+横あほ毛=Sidewais Hair 
+2本あほ毛=Double Hair Strands
+上向きあほ毛=Upper Hair Strand
+前あほ毛=Forward Hair
+お団子=Bun
+編みカチューシャ=Braided Band
+後ろ編み込み=Braided Band (Back)

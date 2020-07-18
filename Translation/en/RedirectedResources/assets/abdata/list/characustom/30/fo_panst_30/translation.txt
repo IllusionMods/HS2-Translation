@@ -1,4 +1,4 @@
-//ダンサーストッキング=
-//コンシェルジュガーターF=
-//エルフのガーター=
-//サポーター膝=
+ダンサーストッキング=Dancer Stockings
+コンシェルジュガーターF=Concierge Garter
+エルフのガーター=Elf Garter
+サポーター膝=Knee Pads

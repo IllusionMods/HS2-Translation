@@ -1,6 +1,6 @@
-//ダンサーホーズ=
-//ヒーラーサイハイ=
-//コンシェルジュサイハイF=
-//三つ折りソックス=
-//エルフサイハイ=
-//ウエイトレスニーソ=
+ダンサーホーズ=Dancer Leg Jewelry
+ヒーラーサイハイ=Healer High Tights
+コンシェルジュサイハイF=Concierge High Tights
+三つ折りソックス=Trifold Socks
+エルフサイハイ=Elf High Tights
+ウエイトレスニーソ=Waitress Knee Socks

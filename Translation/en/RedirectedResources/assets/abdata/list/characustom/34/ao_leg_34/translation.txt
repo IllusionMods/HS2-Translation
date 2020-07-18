@@ -1,2 +1,2 @@
-//足縄（左）=
-//足縄（右）=
+足縄（左）=Left Foot Rope
+足縄（右）=Right Foot Rope

@@ -1,8 +1,8 @@
-//指ぬきグローブ=
+指ぬきグローブ=Fingerless Gloves
 チャイナグローブ=China Gloves
-//ダンサーアーム=
-//フェミニングローブ=
-//ライダーグローブ=
-//騎士の腕鎧=
-//エルフのグローブ=
-//サポーター肘=
+ダンサーアーム=Dancer Sleeve and Gloves
+フェミニングローブ=Feminine Robe Gloves
+ライダーグローブ=Rider Gloves
+騎士の腕鎧=Knight Arms Armor
+エルフのグローブ=Elf Gloves
+サポーター肘=Elbow Pads

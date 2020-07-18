@@ -1,11 +1,11 @@
 シンプル指輪=Simple Ring
 ツインリング=Twin Ring
-宝石の指輪A=Gemstone ring A
-宝石の指輪B=Gemstone ring B
-スカルヘッド=Skull Head
-チアポンポン=Chiapompon
+宝石の指輪A=Gemstone Ring A
+宝石の指輪B=Gemstone Ring B
+スカルヘッド=Skull Ring
+チアポンポン=Cheerleader Pompom
 レザーバングル=Leather Bangle
-イルカとカラーストーン=Dolphin And Colored Stone
+イルカとカラーストーン=Dolphin and Colored Stone
 腕時計=Watches
 丸型腕時計=Round Watch
 メタルブレスレット=Metal Bracelet

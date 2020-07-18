@@ -2,4 +2,4 @@
 腕章B=Armband B
 レザーアーム=Leather Arm
 アームレット=Armlet
-バンダナ巻き=Bandana Winding
+バンダナ巻き=Bandana Armband

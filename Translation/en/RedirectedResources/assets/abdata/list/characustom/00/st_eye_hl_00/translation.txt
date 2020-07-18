@@ -42,4 +42,4 @@
 タイプ42=Type 42
 タイプ43=Type 43
 タイプ44=Type 44
-//光源反射=
+光源反射=Light Reflection

@@ -1,2 +1,2 @@
-//メカフット左=
-//メカフット右=
+メカフット左=Left Mecha Foot
+メカフット右=Right Mecha Foot

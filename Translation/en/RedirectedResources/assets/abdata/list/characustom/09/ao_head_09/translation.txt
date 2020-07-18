@@ -1,6 +1,6 @@
 玉飾り=New Year Ornament
-羽の髪飾り左用=Left Hair Feather
-羽の髪飾り右用=Right Hair Feather
+羽の髪飾り左用=Left Head Feather
+羽の髪飾り右用=Right Head Feather
 ロイヤルクラウン=Royal Crown
-鎧兜=Armored Helmet
-トゲ=Thorn
+鎧兜=Knight Helmet
+トゲ=Knight Spike

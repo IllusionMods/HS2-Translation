@@ -1,4 +1,4 @@
-リュック=Ruck Sack
+リュック=Backpack
 革鞄=Leather Bag
 シャチフロート=Killer Whale Float
 ダンボール=Cardboard

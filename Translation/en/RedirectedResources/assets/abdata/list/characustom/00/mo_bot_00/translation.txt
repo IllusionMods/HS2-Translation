@@ -1,8 +1,9 @@
 なし=None
-//七分丈パンツ=
-ハーフパンツ=Half Pants
-//裾おりパンツ=
-スーツパンツ=Suit Pants
-//作業着ズボン=
-//サーフパンツ=
-//デニムパンツ=
+七分丈パンツ=Cropped Pants
+ハーフパンツ=Shorts
+裾おりパンツ=Hemmed Pants
+スーツパンツ=Slacks
+作業着ズボン=Worker's Pants
+サーフパンツ=Surf Pants
+デニムパンツ=Jeans
+

@@ -1,5 +1,5 @@
-//クリスマスチョーカー=
-//モコモコチョーカー=
-//クリスマスリボン（太）=
-//クリスマスリボン（細）=
-//クリスマスベル=
+クリスマスチョーカー=Christmas Choker
+モコモコチョーカー=Fluffy Choker
+クリスマスリボン（太）=Large Christmas Ribbon
+クリスマスリボン（細）=Small Christmas Ribbon
+クリスマスベル=Christmas Bell

@@ -15,8 +15,8 @@
 布目隠し=Cloth Blindfold
 アイマスクA=Eye Mask A
 アイマスクB=Eye Mask B
-パピヨン=Papillon
-医療用眼帯右用=Eye Patch Right
-医療用眼帯左用=Eye Patch Left
-眼帯右用=Left Eyepatch
-眼帯左用=Right Eyepatch
+パピヨン=Butterfly
+医療用眼帯右用=Right Medical Eye Patch
+医療用眼帯左用=Left Medical Eye Patch
+眼帯右用=Left Eye Patch
+眼帯左用=Right Eye Patch

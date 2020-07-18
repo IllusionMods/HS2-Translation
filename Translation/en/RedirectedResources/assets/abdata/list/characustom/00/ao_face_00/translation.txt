@@ -1,8 +1,8 @@
 ピエロの鼻=Clown Nose
-天狗の鼻=Tengu Nose
+天狗の鼻=Long Nose
 一輪のバラ=Single Rose
 リコーダー=Recorder
 顔包帯右=Face Bandage Right
 顔包帯左=Face Bandage Left
-口当て布=Mouthpiece
-バードマスク=Bird Mask
+口当て布=Bandana Face Mask
+バードマスク=Beak Plague Mask
