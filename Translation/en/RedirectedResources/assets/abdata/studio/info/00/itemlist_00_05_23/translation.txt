@@ -14,7 +14,7 @@
 花=Flower
 花のコサージュ=Flower Corsage
 ハイビスカス=Hibiscus
-ヘルメット=Baseball Helmet
+ヘルメット=Worker Helmet
 ヘッドホン=Headphones
 貝殻=Seashell
 キノコ=Mushroom
@@ -22,7 +22,7 @@
 サンバイザー=Sun Visor
 キュービーヘッド=Cuby Head
 ポニークリップ=Pony Clip
-うさ耳リボン=Rabbit Ear Ribbon
+うさ耳リボン=Bunny Ear Ribbon
 うさ耳カチューシャ=Rabbit Ears
 折れうさ耳カチューシャ=Folded Rabbit Ears
 魔女の帽子=Witch Hat
