@@ -7,7 +7,7 @@
 //***********************************************************************
 //***********************************************************************
 
-// Scene: CharaCustom (4)
+// Scene: CharaCustom (3)
 #set level 3
 
 
@@ -852,8 +852,7 @@ SE音量=SFX Volume
 // RedirectedResources\assets\abdata\list\characustom\33\ao_head_33\
 // RedirectedResources\assets\abdata\list\characustom\34\ao_head_34\
 // RedirectedResources\assets\abdata\list\characustom\40\ao_head_40\
-
-星のかんざし=Star hairpin
+// RedirectedResources\assets\abdata\list\characustom\37\ao_head_37\
 
 //------------------------------------------------------------
 // Accessories - Ears
@@ -933,8 +932,7 @@ SE音量=SFX Volume
 // RedirectedResources\assets\abdata\list\characustom\02\ao_back_02\
 // RedirectedResources\assets\abdata\list\characustom\07\ao_back_07\
 // RedirectedResources\assets\abdata\list\characustom\08\ao_back_08\
-
-羽衣=Hagoromo
+// RedirectedResources\assets\abdata\list\characustom\37\ao_back_37\
 
 //------------------------------------------------------------
 // Accessories - Arm
