@@ -1,8 +1,8 @@
 なし=None
 ワンピース=Dress
-Tシャツ=T-shirt
-ミニＴ=Mini T-shirt
-グダミニＴ=Side Mini T-shirt
+Tシャツ=T-Shirt
+ミニＴ=Mini T-Shirt
+グダミニＴ=Side Mini T-Shirt
 チビＴ=Underbob
 キャミソールA=Camisole A
 キャミソールB=Camisole B
