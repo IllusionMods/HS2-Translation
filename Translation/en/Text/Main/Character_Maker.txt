@@ -851,8 +851,8 @@ SE音量=SFX Volume
 // RedirectedResources\assets\abdata\list\characustom\32\ao_head_32\
 // RedirectedResources\assets\abdata\list\characustom\33\ao_head_33\
 // RedirectedResources\assets\abdata\list\characustom\34\ao_head_34\
-// RedirectedResources\assets\abdata\list\characustom\40\ao_head_40\
 // RedirectedResources\assets\abdata\list\characustom\37\ao_head_37\
+// RedirectedResources\assets\abdata\list\characustom\40\ao_head_40\
 
 //------------------------------------------------------------
 // Accessories - Ears
