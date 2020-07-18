@@ -2,7 +2,7 @@
 チャイナグローブ=China Gloves
 ダンサーアーム=Dancer Sleeve and Gloves
 フェミニングローブ=Feminine Robe Gloves
-ライダーグローブ=Rider gloves
-騎士の腕鎧=Knight arms armor
-エルフのグローブ=Elf gloves
-サポーター肘=Elbow pads
+ライダーグローブ=Rider Gloves
+騎士の腕鎧=Knight Arms Armor
+エルフのグローブ=Elf Gloves
+サポーター肘=Elbow Pads
