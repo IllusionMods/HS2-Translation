@@ -1,5 +1,5 @@
-//サッシュリボン=
-//垂れ布=
-//ガンベルト=
+サッシュリボン=Healer Ribbon
+垂れ布=Hanging Fabric
+ガンベルト=Western Gun Belt
 //足縄(左)=
 //足縄(右)=

@@ -1,3 +1,3 @@
-//鉢金=
-//くノ一の髪飾り=
-//巻物=
+鉢金=Ninja Girl Band
+くノ一の髪飾り=Ninja Girl Ornament
+巻物=Ninja Girl Scroll

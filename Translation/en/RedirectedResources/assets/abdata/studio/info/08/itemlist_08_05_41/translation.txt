@@ -1,2 +1,2 @@
-//破れマント右用=
-//破れマント左用=
+破れマント右用=Right Ripped Cloak
+破れマント左用=Left Ripped Cloak

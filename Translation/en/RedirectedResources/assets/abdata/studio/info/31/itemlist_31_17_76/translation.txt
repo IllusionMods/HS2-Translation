@@ -1,7 +1,7 @@
-//戦士の鞘=
-//戦士の盾=
-//戦士の剣=
-//戦士のカチューシャ=
-//戦士のネックガード=
-//戦士の肩鎧=
-//戦士の肩鎧(半壊)=
+戦士の鞘=Warrior Scabbard
+戦士の盾=Warrior Shield
+戦士の剣=Warrior Sword
+戦士のカチューシャ=Warrior Headband
+戦士のネックガード=Warrior Neck Armor
+戦士の肩鎧=Warrior Shoulder Armor
+戦士の肩鎧(半壊)=Damaged Warrior Shoulder Armor

@@ -1,3 +1,3 @@
-//リベットレッグ=
-//騎士の肩鎧=
-//騎士の肩鎧(半壊)=
+リベットレッグ=Rivet Leg
+騎士の肩鎧=Knight Shoulder Armor
+騎士の肩鎧(半壊)=Damaged Knight Shoulder Armor
