@@ -1,4 +1,4 @@
-ファイルバインダー=File binder
+ファイルバインダー=File Binder
 リボルバーガン=Revolver
 ショットガン=Shotgun
 注射器=Syringe
