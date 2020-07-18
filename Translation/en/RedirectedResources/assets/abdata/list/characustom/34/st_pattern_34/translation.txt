@@ -8,5 +8,5 @@
 鳥流水=Bird in Water Flow
 大花柄=Large Floral
 菊唐草=Chrysanthemum arabesque
-梅唐草=Plum arabesque
-松皮菱=Pine Skin diamond
+梅唐草=Plum Arabesque
+松皮菱=Pine Skin Diamond
