@@ -5,6 +5,6 @@
 スニーカーソックス=Sneaker Socks
 ルーズソックス=Loose Socks
 サイハイ=High Tights
-シースルーサイハイ=See through High Tights
-フットガーターニーソ=Garter socks
-パンプスカバー=Low-cut socks
+シースルーサイハイ=See Through High Tights
+フットガーターニーソ=Garter Socks
+パンプスカバー=Low-Cut Socks
