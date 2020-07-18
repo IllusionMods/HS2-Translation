@@ -1,2 +1,2 @@
-戦士の肩鎧=Warrior shoulder armor
-戦士の肩鎧(半壊)=Damaged Warrior shoulder armor
+戦士の肩鎧=Warrior Shoulder Armor
+戦士の肩鎧(半壊)=Damaged Warrior Shoulder Armor
