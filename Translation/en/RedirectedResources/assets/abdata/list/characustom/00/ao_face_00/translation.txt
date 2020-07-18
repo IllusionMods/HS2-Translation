@@ -5,4 +5,4 @@
 顔包帯右=Face Bandage Right
 顔包帯左=Face Bandage Left
 口当て布=Bandana Face Mask
-バードマスク=Beak plague mask
+バードマスク=Beak Plague Mask
