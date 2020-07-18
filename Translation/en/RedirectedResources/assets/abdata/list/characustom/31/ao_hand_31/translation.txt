@@ -1,2 +1,2 @@
-戦士の剣=Warrior sword
-戦士の盾=Warrior shield
+戦士の剣=Warrior Sword
+戦士の盾=Warrior Shield
