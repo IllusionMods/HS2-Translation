@@ -1,1 +1,1 @@
-BGMを選択する=Select BGM
+BGM選択=Select BGM

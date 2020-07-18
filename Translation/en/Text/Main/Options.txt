@@ -76,6 +76,7 @@ SSR（反射）=SSR (Reflections)
 速=Fast
 薄=Transparent
 濃=Opaque
+アルファ=Alpha
 ゲーム設定=Game Settings
 フュルのイベントをスキップする=Skip Fur's Event
 自動送り待ち時間=Autoplay Wait Time
@@ -117,7 +118,7 @@ SSR（反射）=SSR (Reflections)
 簡易=Simplified
 通常=Normal
 尿=Pissing
-常に=Always
+常時=Always
 ゲーム準拠=By Character
 潮吹き=Squirting
 艶=Gloss
@@ -140,3 +141,5 @@ SSR（反射）=SSR (Reflections)
 タイトルに戻る=Back to Title
 
 登録=OK
+
+ゲームを終了しますか？=Quit The Game?
