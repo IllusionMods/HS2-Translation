@@ -1,3 +1,3 @@
 腰布=Loincloth
-スキニーパンツ=Skinny pants
-海パン=Swimming trunks
+スキニーパンツ=Skinny Pants
+海パン=Swimming Trunks
