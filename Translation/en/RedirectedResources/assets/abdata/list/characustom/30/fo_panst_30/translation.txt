@@ -1,4 +1,4 @@
-ダンサーストッキング=Dancer stockings
+ダンサーストッキング=Dancer Stockings
 コンシェルジュガーターF=Concierge Garter
 エルフのガーター=Elf Garter
 サポーター膝=Knee Pads
