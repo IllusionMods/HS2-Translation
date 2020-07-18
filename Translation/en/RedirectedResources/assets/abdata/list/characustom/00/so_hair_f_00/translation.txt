@@ -6,9 +6,9 @@
 梳き髪=Trim
 姫カット=Princess Cut
 でこだし中わけ=Upper Center 
-片目隠し=Over right eye
+片目隠し=Over Right Eye
 はねっ毛=Center Spikes
-ショートヘア=Right short, long left
+ショートヘア=Right Short, Long Left
 アシンメトリ=Asymmetric
 ウェーブロング=Wave Long
 ぱっつんミデイアム=Straight center long bangs
