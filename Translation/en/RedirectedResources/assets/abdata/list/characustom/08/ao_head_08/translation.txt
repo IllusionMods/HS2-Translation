@@ -1,5 +1,5 @@
 メカタンク=Mecha Tank
-メカバレル=Mecha barrel
+メカバレル=Mecha Barrel
 メカブロック=Mecha Block
 メカポンプ=Mecha Pump
 メカ３連ポール=Triple Mecha Pole
