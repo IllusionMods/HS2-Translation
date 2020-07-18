@@ -1,5 +1,5 @@
 なし=None
-Tシャツ=T-shirt
+Tシャツ=T-Shirt
 Yシャツ(A)=Dress Shirt A
 Yシャツ(B)=Dress Shirt B
 ポロシャツ=Polo Shirt
