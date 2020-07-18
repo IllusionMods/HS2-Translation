@@ -7,6 +7,7 @@
 //***********************************************************************
 //***********************************************************************
 
+#set exe HoneySelect2
 // Scene: CharaCustom (3)
 #set level 3
 
@@ -162,7 +163,6 @@ Hに抵抗がある=Sex Hater
 種類=Type
 カラー=Color
 親=Base Position
-調整=Axis Settings
 配置=Arrange
 その他=Other
 
@@ -231,6 +231,9 @@ Y位置=Y Axis
 //------------------------------------------------------------
 // Color Picker
 //------------------------------------------------------------
+
+// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
+
 ピッカー=Picker
 スライダー=Slider
 プリセット=Preset
@@ -238,9 +241,6 @@ Y位置=Y Axis
 色相=Hue
 彩度=Saturation
 明度=Brightness
-//Sample#
-左クリックで適用=Left-Click to Apply
-左クリックで現在のカラーを登録=Left Click to Register Current Color
 
 //------------------------------------------------------------
 // Paint
@@ -1083,6 +1083,9 @@ SE音量=SFX Volume
 //************************************************************
 // Shooting Menu (uses text from Settings Box)
 //************************************************************
+
+// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
+
 撮影メニュー=Shooting menu
 
 目の開き=Eye_Open
@@ -1094,13 +1097,13 @@ SE音量=SFX Volume
 前面フレーム=Foreground
 
 戻る=Return
-保存=Save
 
 //************************************************************
 // Prompts
 //************************************************************
-本当に上書きしますか？=Overwrite Character?
-本当に削除しますか？=Delete Character?
+
+// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
+
 終了しますか？=Exit Character Creation?
 キャラメイクを終了しますか？=Quit The Character Maker?
 キャラ編集を終了しますか？=Quit Editing This Character?

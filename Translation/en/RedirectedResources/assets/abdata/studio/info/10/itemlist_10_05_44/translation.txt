@@ -1,5 +1,5 @@
 勾玉首飾り=Magatama Necklace
 狐耳=Fox Ears
-巫女袖左用=Shrine Maiden Sleeve (Left)
-巫女袖右用=Shrine Maiden Sleeve (Right)
+巫女袖左用=Left Shrine Maiden Sleeve
+巫女袖右用=Right Shrine Maiden Sleeve
 狐尻尾=Fox Tail

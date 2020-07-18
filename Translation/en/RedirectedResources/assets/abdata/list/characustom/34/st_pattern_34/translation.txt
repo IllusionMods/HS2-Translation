@@ -4,7 +4,7 @@
 菊=Chrysanthemum
 桜=Cherry Blossoms
 霞桜=Falling Cherry Blossoms
-//八つ藤=
+八つ藤=Wisteria Crest
 鳥流水=Bird in Water Flow
 大花柄=Large Floral
 菊唐草=Chrysanthemum arabesque

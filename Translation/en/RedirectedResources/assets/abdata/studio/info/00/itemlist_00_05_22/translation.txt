@@ -1,9 +1,9 @@
-はねあほ毛=Hair Splash
-あほ毛=Ahoge
+はねあほ毛=Double Hair Strand
+あほ毛=Hair Strand
 お団子髪=Bun Hair
 三つ編み=Braided
 三つ編みカチューシャ=Braid Headband
 エクステ=Extensions
 カールエクステ=Curl Extension
-おくれ毛=Back Hair
-細おくれ毛=Thin Hair
+おくれ毛=Loose Tuft
+細おくれ毛=Thin Thuft
