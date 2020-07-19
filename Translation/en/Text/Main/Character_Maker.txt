@@ -162,7 +162,7 @@ Hに抵抗がある=Sex Hater
 //pattern also used in Color fields
 種類=Type
 カラー=Color
-親=Base Position
+親=Position
 配置=Arrange
 その他=Other
 
@@ -179,6 +179,7 @@ Hに抵抗がある=Sex Hater
 質感=Texture
 カラーサンプル=Color Sample
 柄設定=Pattern Setting
+柄=Pattern Type
 
 //------------------------------------------------------------
 // Misc fields
@@ -226,7 +227,6 @@ Y位置=Y Axis
 回転Z=Rotate Z
 
 全て初期化=Reset All
-初期親=Default Position
 
 //------------------------------------------------------------
 // Color Picker
@@ -678,7 +678,7 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 // RedirectedResources\assets\abdata\list\characustom\00\so_hair_o_00\
 
-髪設定=Color Settings
+髪設定=Color
 滑らかさ=Smoothness
 基本カラー=Basic Color
 根本カラー=Root Color
@@ -826,7 +826,7 @@ SE音量=SFX Volume
 // Clothing -> Costume Card
 //------------------------------------------------------------
 服読込み=Load Clothing
-装飾読込み=Load Accessories
+装飾読込み=Load\nAccessories
 全て読込み=Load All
 コーディネート名=Clothing Set Name
 //Return
@@ -994,6 +994,8 @@ SE音量=SFX Volume
 // Accessories - Extra
 //------------------------------------------------------------
 髪の毛の色を取得=Get hair color
+初期親=Default Position
+初期化=Reset All
 
 //------------------------------------------------------------
 // Options -> Name / Birthday
