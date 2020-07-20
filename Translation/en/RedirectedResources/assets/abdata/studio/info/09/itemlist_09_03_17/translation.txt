@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 大砲=Cannon
 大砲(筒)=Cannon (Barrel)
 大砲(台)=Cannon (Stand)

@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+立ち1=Standing 1
+立ち2=Standing 2
+立ち3=Standing 3
+立ち4=Standing 4
+立ち5=Standing 5
+立ち6=Standing 6
+立ち7=Standing 7
+立ち8=Standing 8
+立ち9=Standing 9
+立ち10=Standing 10

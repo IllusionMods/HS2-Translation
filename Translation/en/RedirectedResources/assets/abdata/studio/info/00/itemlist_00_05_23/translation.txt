@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 翼の髪飾り=Wing Ornament
 ヘアピン=Hairpin
 カチューシャ=Headband

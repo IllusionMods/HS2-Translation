@@ -1,4 +1,7 @@
-ストレートロング=Straight Long 
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+ストレートロング=Straight Long
 くせっけショート=Short, Curled
 ボリュームポニー=Thick Ponytail
 細ツインテール=Thin Twintails

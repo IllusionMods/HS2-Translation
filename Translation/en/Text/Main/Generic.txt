@@ -50,4 +50,6 @@ sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
 男複数=Male Group
 レズ=Lesbian
 
+// Alternate forms of strings found in Localizations
+BGM選択=Select BGM
 

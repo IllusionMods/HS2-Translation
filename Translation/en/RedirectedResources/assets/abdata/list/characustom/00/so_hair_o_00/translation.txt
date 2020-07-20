@@ -1,5 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 なし=None
-横あほ毛=Sidewais Hair 
+横あほ毛=Sidewais Hair
 2本あほ毛=Double Hair Strands
 上向きあほ毛=Upper Hair Strand
 前あほ毛=Forward Hair

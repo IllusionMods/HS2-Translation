@@ -1,0 +1,26 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+寝1=Laying 1
+寝返り1=Rolling Over 1
+寝2=Laying 2
+寝返り2=Rolling Over 2
+寝3=Laying 3
+寝4=Laying 4
+寝5=Laying 5
+寝6=Laying 6
+寝7=Laying 7
+寝8=Laying 8
+寝9=Laying 9
+抱き枕=Dakimakura
+//起きるin=
+//起きるloop=
+//飛び起きるin=
+//飛び起きるloop=
+//椅子で寝るin=
+//椅子で寝るloop=
+//椅子で寝るout=
+//机椅子寝in=
+//机椅子寝loop=
+//机椅子寝out=

@@ -1,4 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 //ムラムラした野生のスケベが来たっすよー。ご在宅っすかー？=
 CHOICE:返事をする=Answer
-//CHOICE:・・・=
+CHOICE:・・・=...
 //……うーん、いないっすかー。残念、今日はオナニー三昧っすねー。=

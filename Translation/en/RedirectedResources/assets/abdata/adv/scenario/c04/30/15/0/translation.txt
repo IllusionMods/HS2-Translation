@@ -1,4 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 //おーい。いるー？　ちょっと開けてくんなーい？=
 CHOICE:返事をする=Answer
-//CHOICE:・・・=
+CHOICE:・・・=...
 //なんだ、居ないのか……マジ無駄足……だる……=

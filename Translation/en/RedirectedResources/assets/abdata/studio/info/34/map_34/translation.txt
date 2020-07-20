@@ -1,0 +1,25 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+ロビー=Lobby
+マイルーム=My Room
+フュルの部屋=Fur's room
+女の子部屋=Female room
+大浴場=Public bath
+浴室前=Outside Bathroom
+トイレ前=Outside Toilet
+裏庭=Backyard
+裏庭（雨）=Backyard rain
+拷問部屋=Torture room
+オフィス=Office
+公衆トイレ=Public Bathroom
+病室=Hospital room
+教室=Classroom
+体育館倉庫=GymnasiumWarehouse
+中華料理店=Chinese Restaurant
+酒場=Western Bar
+洋式トイレ内=Western style toilet
+和式トイレ内=Japanese style toilet
+浴室=Bathroom
+和室=Japanese-style room

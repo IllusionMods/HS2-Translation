@@ -1,0 +1,19 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+登場1=Appear 1
+登場2=Appear 2
+登場3=Appear 3
+登場4=Appear 4
+登場5=Appear 5
+登場6=Appear 6
+登場7=Appear 7
+登場8=Appear 8
+登場9=Appear 9
+登場10=Appear 10
+//ドアを開ける1=
+//ドアを開ける2=
+//ドアを開ける3=
+御辞儀1=Bow 1
+御辞儀2=Bow 2

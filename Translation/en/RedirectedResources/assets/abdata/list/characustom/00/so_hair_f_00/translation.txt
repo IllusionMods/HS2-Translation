@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 なし=None
 ロングヘア=Long
 くせっ毛ショート=Short, Curled
@@ -5,7 +8,7 @@
 エムバング=Bangs in "M"
 梳き髪=Trim
 姫カット=Princess Cut
-でこだし中わけ=Upper Center 
+でこだし中わけ=Upper Center
 片目隠し=Over Right Eye
 はねっ毛=Center Spikes
 ショートヘア=Right Short, Long Left

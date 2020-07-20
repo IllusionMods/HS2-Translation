@@ -1,0 +1,18 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+//机の上=
+//壺=
+ピッケル=Ice Ax
+シャベル=Shovel
+//虫網を振る=
+//地面in=
+//地面loop=
+//地面out=
+釣り1=Fishing 1
+釣り2=Fishing 2
+釣り3=Fishing 3
+自販機=Vending Machine
+//井戸ポンプ=
+//釡を混ぜる=

@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+トイレ前=Outside Toilet
+オフィス=Office
+公衆トイレ=Public Bathroom
+病室=Hospital room
+和室=Japanese-style room

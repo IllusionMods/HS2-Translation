@@ -1,0 +1,43 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+立ち1=Standing 1
+立ち2=Standing 2
+立ち3=Standing 3
+立ち4=Standing 4
+立ち5=Standing 5
+立ち6=Standing 6
+立ち7=Standing 7
+立ち8=Standing 8
+立ち9=Standing 9
+中腰1=Half-Sitting 1
+中腰2=Half-Sitting 2
+中腰3=Half-Sitting 3
+中腰4=Half-Sitting 4
+中腰5=Half-Sitting 5
+中腰6=Half-Sitting 6
+中腰7=Half-Sitting 7
+座り1=Sitting 1
+座り2=Sitting 2
+座り3=Sitting 3
+座り4=Sitting 4
+座り5=Sitting 5
+座り6=Sitting 6
+座り7=Sitting 7
+座り8=Sitting 8
+座り9=Sitting 9
+座り10=Sitting 10
+座り11=Sitting 11
+座り12=Sitting 12
+寝1=Laying 1
+寝2=Laying 2
+寝3=Laying 3
+寝4=Laying 4
+寝5=Laying 5
+寝6=Laying 6
+寝7=Laying 7
+寝8=Laying 8
+椅子1=Seated 1
+椅子2=Seated 2
+椅子3=Seated 3

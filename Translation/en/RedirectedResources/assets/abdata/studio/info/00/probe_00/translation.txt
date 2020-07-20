@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 デフォルト=Default
 森の中=In The Forest
 崖の上=On The Cliff
