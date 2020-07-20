@@ -10,4 +10,4 @@
 壊れた人形=Broken Doll
 ズットイッショ=Zuttoissho
 フュル＝アルバン＝フュール=Fur-Alban-Fur
-//ビューティー＆ムーディー=Beautiful & Moody
+ビューティー＆ムーディー=Beautiful & Moody
