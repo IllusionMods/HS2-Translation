@@ -1,4 +1,4 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//キャラのメイク画面に移動します\nよろしいですか？=Go to the character makeup screen.\nIs it OK?
+キャラのメイク画面に移動します\nよろしいですか？=Go to the character makeup screen.\nIs it OK?

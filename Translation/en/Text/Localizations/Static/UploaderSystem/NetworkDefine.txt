@@ -39,5 +39,3 @@
 ハンドル名の更新に失敗しました。=Failed to update handle name.
 ハンドル名を更新しました。=Handle name updated.
 登録された全ハンドル名の取得に失敗しました。=Failed to obtain all registered handle names.
-サーバーから情報を取得しています。\n最新のバージョン情報の取得を開始します。=Getting information from server. Acquisition of the latest version information will start.
-進捗ログ=Progress log

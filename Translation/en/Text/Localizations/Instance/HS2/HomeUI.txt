@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//[キャラクター編集]を選び、\n女の子をグループに登録して下さい=Select [Edit Character] and register\nthe girl to Group
-//タイトルに戻りますか？=Return to title?
-//寝ますか？=Do you sleep?
+[キャラクター編集]を選び、\n女の子をグループに登録して下さい=Select [Edit Character] and register\nthe girl to Group
+タイトルに戻りますか？=Return to title?
+寝ますか？=Do you sleep?
