@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 何かキーを押して下さい=Press any key to continue
 サーバーをチェックしています=Checking the server...
 サーバーへアクセスするための情報の読み込みに失敗しました。=Failed to acquire data required to connect to server.

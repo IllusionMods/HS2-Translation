@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 //女 W駅弁=
 //男 W駅弁A=
 //男 W駅弁B=
