@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//表示名=
+
 //机の上=
 //壺=
 ピッケル=Ice Ax
-//シャベル=
+シャベル=Shovel
 //虫網を振る=
 //地面in=
 //地面loop=

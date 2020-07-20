@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//表示名=
+
 //立って食べるin=
 //立って食べるloop=
 //立って食べるout=
