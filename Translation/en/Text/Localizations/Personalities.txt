@@ -1,14 +1,45 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-クール=Quiet
-普通=Normal
-苦労人=Hardworking
-女友達=Girlfriend
-ギャル=Fashionable
-気弱=Timid
-母性的=Motherly
-ドS=Sadistic
-オープン=Open-hearted
-天然=Natural
-フュル=Fur
+// Used in Chara Maker, Room and Lobby menus
+
+//------------------------------------------------------------
+// Personalities
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\cha_sample_voice_00\
+
+//------------------------------------------------------------
+// Traits
+//------------------------------------------------------------
+なし=None
+綺麗好き=Clean Lover
+ものぐさ=Lazy
+虚弱=Fragile
+タフネス=Tought
+頻尿=Weak Bladder
+我慢強い=Patient
+グラスハート=Glass Heart
+不屈の精神=Brave
+欲求不満=Perverted
+自制心=Self-Control
+思うがまま=At will
+感受性豊か=Sensitive
+
+//------------------------------------------------------------
+// Mentality
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\init_mind_param_00\
+
+//------------------------------------------------------------
+// Sex Traits
+//------------------------------------------------------------
+性欲旺盛=Horny
+S=Sadist
+M=Masochist
+胸が敏感=Sensitive Breasts
+お尻が敏感=Sensitive Ass
+股間が敏感=Sensitive Pussy
+キスに弱い=Love Kisses
+潔癖症=Clean Freak
+Hに抵抗がある=Sex Hater
+寂しがり屋=Lonely

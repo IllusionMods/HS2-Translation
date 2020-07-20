@@ -1,0 +1,64 @@
+// Character Downloader Screen
+
+//------------------------------------------------------------
+// Search Info
+//------------------------------------------------------------
+選択情報=Search Info
+ハンドル名=Player Name
+選択=Search
+//Remove
+キャラ名=Character name
+コメント=Comments
+
+タイプ=Type
+//Birthday
+誕生日=Birthday
+
+//------------------------------------------------------------
+// Screen
+//------------------------------------------------------------
+メニュー=Current Screen
+ダウンロードする=Downloader
+
+//------------------------------------------------------------
+// Search Settings
+//------------------------------------------------------------
+検索設定=Search Settings
+検索項目のリセット=Reset Search Settings
+
+並び順=Sort order
+投稿(新)=New Post
+投稿(古)=Old Post
+更新(新)=New Update
+更新(古)=Old Update
+
+人気(週間)=Polular\n(Weekly)
+人気(総合)=Popular\n(overall)
+拍手=Likes
+
+ハンドルネーム一覧=Player name list
+
+キーワード検索=Tags search
+
+性別=Sex
+男=Male
+女=Female
+
+バストサイズ=Bust Size
+髪=Hair
+
+自分がアップしたデータ=Data that I uploaded
+//------------------------------------------------------------
+//Lower Buttons
+//------------------------------------------------------------
+アップローダー=Uploader
+
+キャッシュの削除=Clear cache
+キャンセル=Cancel
+確定=Confirm
+
+最新情報に更新=Update All Data
+ダウンロード=Download
+
+//Dialogue
+ゲームを終了しますか？=Quit the game?

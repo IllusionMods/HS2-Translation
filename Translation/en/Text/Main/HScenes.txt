@@ -1,13 +1,229 @@
-// Custom Graphical Options
-色を初期化=Reset Color
+// Sex Scenes Screen UI
+// Some commented lines have translations also in Generic.txt
 
-フォグ=Fog
-色調整=Color Grading
-被写界深度=Depth Of Field
-ブルーム=Bloom
+//------------------------------------------------------------
+// Sex Position Types
+//------------------------------------------------------------
+愛撫=Caress
+奉仕=Service
+挿入=Insert
+女主導=Woman-led
+女複数=Female Group
+男複数=Male Group
+レズ=Lesbian
+特殊=Special
+
+//------------------------------------------------------------
+// Sex Position Menus
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\h\animationinfo\
+
+//------------------------------------------------------------
+// H-Scene Hints
+//------------------------------------------------------------
+ホイールで開始=Move Wheel to Start
+ホイール上下で速度変更=Wheel: Change Speed
+ホイール上で再開始\nホイール下で引き抜く=Wheel Up: Restart\nWheel Down: Pull Out
+ホイールで叩く=Wheel: Hit
+ホイールで再開始=Wheel: Restart
+
+//------------------------------------------------------------
+// Accessories
+//------------------------------------------------------------
+スロット=Slot(s)
+
+//------------------------------------------------------------
+//Change Clothes
+//------------------------------------------------------------
+決定=Select
+元に戻す=Undo
+
+//------------------------------------------------------------
+//Item
+//------------------------------------------------------------
+アイテム=Item
+濡れ=Wet
+ツヤ=Shine
+
+脱力回復=Revive
+
+//------------------------------------------------------------
+// Ilumination
+//------------------------------------------------------------
+ライト設定=Light
+ライト縦=Vertical
+ライト横=Horizontal
+//ライト強さ=Strength
+補助ライト=Front
+色を初期化=Reset color
+
+//------------------------------------------------------------
+// Screen (Custom Graphical Options)
+//------------------------------------------------------------
+画面効果=Screen
+//プリセット=Preset
 映り込み=Reflections
-環境光=Ambient Light
+色調整=Color Grading
+フォグ=Fog
+//SSAO
+ブルーム=Bloom
+被写界深度=DoF
 サンシャフト=Sun Shafts
-プリセット=Preset
 ビネット=Vignette
-セルフシャドウ=Self-Shadows
+セルフシャドウ=Self-Shad.
+//SSR
+環境光=Ambient Light
+
+//Dialogues
+すべて初期化しますか？=Do you want to initialize everything?
+やめる=Stop
+
+//------------------------------------------------------------
+//Screen - Preset
+//------------------------------------------------------------
+//Preset
+読み込み=Load
+
+//load menu
+未設定=Not set
+ホラー=Horror
+夜闇=Darkness
+夕暮れ=Evening
+
+保存名=Saved name
+未入力=Not entered
+新規保存=Save New
+上書き保存=Save
+
+//------------------------------------------------------------
+//Screen - Reflections
+//------------------------------------------------------------
+描画=Draw
+種類=Type
+強さ=Strength
+
+// Type Menu
+デフォルト=Default
+照明=illumination
+上からの光=Light from above
+暖かい光=Warm light
+不気味な光=Spooky light
+黄色い研究室=Yellow laboratory
+赤い研究室=Red laboratory
+青い研究室=Blue laboratory
+豪奢な空間=Luxurious space
+日の差す部屋=Sunny room
+部屋の中=In the room
+雪景色=Snow scene
+岩場=Rocky place
+海辺=Beach
+崖の上=On the cliff
+森の中=in the forest
+
+//------------------------------------------------------------
+//Screen - Color
+//------------------------------------------------------------
+//Color
+色見=Color
+影響度=Impact
+//Saturation
+//Brightness
+コントラスト=Contrast
+
+//Color Menu Options
+昼=Midday
+夜=Night
+ソフト=soft
+ペール=Pail
+ダル=Dull
+寒色=Cold color
+暖色=Warm color
+夕=evening
+ストロング=Strong
+ディープ=deep
+ブライト=Bright
+セピア=Sepia
+モノクロ=Monochrome
+赤単色=Monochromatic red
+青単色=Monochromatic blue
+緑単色=Solid green
+レッドアクセント=Red accent
+ブルーアクセント=Blue accent
+グリーンアクセント=Green accent
+リバースモノクロ=Reverse monochrome
+リバースカラー=Reverse color
+サーモグラフ=Thermograph
+ポスタライズ=Posterize
+オールドポスター=Old poster
+ノスタルジー=Nostalgia
+アンティーク=antique
+ライトシャドウ=Light shadow
+ダークグレイッシュ=Dark grayish
+アーティスティック=Artistic
+コミック=Comic
+ツートン=Two-tone
+スモッグ=smog
+
+//------------------------------------------------------------
+//Screen - Fog
+//------------------------------------------------------------
+高さ=Height
+高さ濃度=Intensity
+
+//------------------------------------------------------------
+//Screen - SSAO
+//------------------------------------------------------------
+範囲=Range
+
+//------------------------------------------------------------
+//Screen - Bloom
+//------------------------------------------------------------
+しきい値=Threshold
+発光範囲=Lum. range
+発光上限=Limit
+拡散範囲=Spread
+
+//------------------------------------------------------------
+//Screen - DoF
+//------------------------------------------------------------
+焦点幅=Focal width
+絞り=Aperture
+
+//------------------------------------------------------------
+//Screen - Sun Shafts
+//------------------------------------------------------------
+しきい色=Threshold
+光の色=Light Color 
+光の範囲=Range
+光の伸び=Growth
+
+//------------------------------------------------------------
+//Screen - Vignette
+//------------------------------------------------------------
+量=Amount
+
+//------------------------------------------------------------
+//Screen - Ambient
+//------------------------------------------------------------
+空=Sky
+地平線=Horizon
+地面=Ground
+
+//------------------------------------------------------------
+//Exit
+//------------------------------------------------------------
+終了する=Finish
+続ける=Continue
+
+//Dialogue
+Hシーンを終了しますか？=Leave the sex scene?
+
+//************************************************************
+// Unsorted
+//************************************************************
+サンプル=Sample
+1人目=First person
+体位の種類=Position type
+飲=Drinking
+操作ガイド=Operation guide
+吐=Vomiting

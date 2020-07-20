@@ -1,0 +1,95 @@
+//------------------------------------------------------------
+// Character Finder
+//------------------------------------------------------------
+
+//------------------------------------------------------------
+// use # to search for instances of the following "\\Sample#"
+// Some commented lines have translations also in Generic.txt
+//------------------------------------------------------------
+標準=Normal
+指定なし=Random
+
+//------------------------------------------------------------
+// Search Conditions
+//------------------------------------------------------------
+検索項目=Search Conditions
+
+//Strength:
+肉感=Build
+//スレンダー=Slender
+筋肉質=Athletic
+ぽっちゃり=Voluptous
+//Normal#
+//Random#
+
+//Skin Color:
+肌の色=Skin Color
+美白=Pale
+//Normal#
+小麦=Tanned
+//Random#
+
+//Body Height:
+身長=Body Height
+低い=Low
+//Normal#
+高い=High
+//Random#
+
+//Breasts:
+胸=Breasts
+小さい=Small
+//Normal#
+大きい=Large
+//Random#
+
+//Body:
+体型=Body
+細め=Narrow
+//Normal#
+太め=Thick
+//Random#
+
+//Hairstyle
+髪型=Hairstyle
+ロング=Long
+ショート=Short
+ツイン=Twin
+ポニー=Ponytail
+その他=Miscellaneous
+//Random#
+
+//Personality
+//性格=Personality
+消極的=Passive
+積極的=Assertive
+//Random#
+
+//Mole
+ホクロ=Mole
+あり=Allow
+//なし=None
+
+//Settings:
+エルフ耳=Elf Ears
+メガネ=Glasses
+
+//Buttons
+項目を初期化する=Reset Values
+この条件で探してもらう=Search Using These Parameters
+
+//------------------------------------------------------------
+//Girl Match window
+//------------------------------------------------------------
+見つけた女の子=Girl Match
+名前=Name
+声質=Voice
+カードに保存する=Save to Card
+
+//------------------------------------------------------------
+//Exit Dialogues
+//------------------------------------------------------------
+編集に戻る=Return to edit
+保存して終了=Save and Exit
+保存しないで終了=Exit\bWithout Saving
+検索を終了しますか？=Quit Character Finder?

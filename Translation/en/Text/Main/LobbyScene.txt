@@ -1,5 +1,7 @@
 #set level 8
 
+待ち合わせ=Lobby
+
 欲求行動=Urge
 状態=State
 おもらし=Peeing
@@ -8,4 +10,17 @@
 発汗剤=Sudorific\n(Sweaty)
 媚薬=Aphrodisiac\n(Horny)
 睡眠薬=Sedative\n(Sleepy)
-利尿薬=Diuretic\n(Pee)
+利尿剤=Diuretic\n(Pee)
+
+１人目を選択=Select 1st Girl
+２人目を選択=Select 2nd Girl
+Hを開始する=Engage in Sex
+
+アイテムを使用する=Use Item
+
+//************************************************************
+// Unsorted
+//************************************************************
+なんでしょうか=What'll we do
+なんでもこいや=Anything
+恥ずかしい=Embarrassing

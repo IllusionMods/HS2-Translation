@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=None
-ホクロ=Mole 1
+ホクロ=Mole
 ホクロ２=Mole 2
-ソバカス=Freckles 1
+ソバカス=Freckles
 ソバカス２=Freckles 2
