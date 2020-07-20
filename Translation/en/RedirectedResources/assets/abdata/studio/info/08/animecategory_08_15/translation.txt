@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 女 カットイン=Female: Cut-In
 女 格闘A=Female: Fighting A
 女 格闘B=Female: Fighting B

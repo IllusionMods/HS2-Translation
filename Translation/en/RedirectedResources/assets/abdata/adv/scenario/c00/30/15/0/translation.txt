@@ -1,4 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 //失礼します。お部屋にいらっしゃいますか？=
 CHOICE:返事をする=Answer
-//CHOICE:・・・=
+CHOICE:・・・=...
 //……ご不在のようですね。日を改めて伺うとしましょう。=

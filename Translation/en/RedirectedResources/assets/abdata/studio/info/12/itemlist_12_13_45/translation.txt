@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 メカチューブ=Mecha Tube
 イルミネーション(電球)=Christmas Lights (String)
 イルミネーション(チューブ)=Christmas Lights (Tube)

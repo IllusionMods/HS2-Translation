@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 ＡＩ少女=AI Girl
 廃墟と少女=Ruins And Girl
 古の研究=Ancient Research

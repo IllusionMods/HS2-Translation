@@ -1,0 +1,54 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+喜1=Happy 1
+喜2=Happy 2
+喜3=Happy 3
+喜4=Happy 4
+喜5=Happy 5
+喜6=Happy 6
+喜7=Happy 7
+喜8=Happy 8
+喜9=Happy 9
+喜10=Happy 10
+怒1=Angry 1
+怒2=Angry 2
+怒3=Angry 3
+怒4=Angry 4
+怒5=Angry 5
+怒6=Angry 6
+怒7=Angry 7
+怒8=Angry 8
+怒9=Angry 9
+怒10=Angry 10
+哀1=Sad 1
+哀2=Sad 2
+哀3=Sad 3
+哀4=Sad 4
+哀5=Sad 5
+哀6=Sad 6
+哀7=Sad 7
+哀8=Sad 8
+哀9=Sad 9
+哀10=Sad 10
+恥1=Shame 1
+恥2=Shame 2
+恥3=Shame 3
+恥4=Shame 4
+恥5=Shame 5
+恥6=Shame 6
+恥7=Shame 7
+恥8=Shame 8
+恥9=Shame 9
+恥10=Shame 10
+依存1=Dependence 1
+依存2=Dependence 2
+依存3=Dependence 3
+依存4=Dependence 4
+依存5=Dependence 5
+依存6=Dependence 6
+依存7=Dependence 7
+依存8=Dependence 8
+依存9=Dependence 9
+依存10=Dependence 10

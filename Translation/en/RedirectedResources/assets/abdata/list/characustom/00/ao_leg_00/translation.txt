@@ -1,9 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 レースガーターリング左=Left Lace Garter
 レースガーターリング右=Right Lace Garter
 ティアアンクレット=Tiers Anklet
 ガーターリング左=Left Leg Garter
 ガーターリング右=Right Leg Garter
-ミサンガA左=Left Friendship Bracelet A 
-ミサンガA右=Right Friendship Bracelet A 
-ミサンガB左=Left Friendship Bracelet B 
-ミサンガB右=Right Friendship Bracelet B 
+ミサンガA左=Left Friendship Bracelet A
+ミサンガA右=Right Friendship Bracelet A
+ミサンガB左=Left Friendship Bracelet B
+ミサンガB右=Right Friendship Bracelet B

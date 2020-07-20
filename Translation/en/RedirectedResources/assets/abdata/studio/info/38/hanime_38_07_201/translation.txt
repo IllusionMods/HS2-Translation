@@ -1,0 +1,17 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+前待機=About To Begin
+弱ループ=Slow Loop
+強ループ=Fast Loop
+絶頂前ループ=Before Climax Loop
+女絶頂=Girl Climax
+同時絶頂=Climax Together
+外出し=Climax Outside
+外出し事後=Come Outside End
+脱力弱ループ=Tired Weak
+脱力強ループ=Tired Medium
+脱力絶頂前ループ=Tired Strong
+脱力女絶頂=Tired Girl Climax
+脱力外出し事後=Tired After Climax Outside

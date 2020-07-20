@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+//弱前待機=
+//弱アクション=
+//強前待機=
+//強アクション=
+絶頂=Climax
+//脱力アクション=
+脱力絶頂=Tired Climax
+脱力事後=Tired After Sex

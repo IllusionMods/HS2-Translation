@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 回転=Rotator
 関節10=10° Joint
 関節10_Bタイプ=10° Joint Type B

@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 メカ装甲1=Mecha Armor 1
 メカ装甲2=Mecha Armor 2
 メカ装甲3=Mecha Armor 3

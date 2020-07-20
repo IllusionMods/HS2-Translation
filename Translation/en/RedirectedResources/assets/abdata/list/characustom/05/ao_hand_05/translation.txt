@@ -1,2 +1,5 @@
-バニーカフス左用=Left Bunny Cuff 
-バニーカフス右用=Right Bunny Cuff 
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+バニーカフス左用=Left Bunny Cuff
+バニーカフス右用=Right Bunny Cuff

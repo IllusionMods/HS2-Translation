@@ -1,7 +1,10 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 黒髪=Black hair
-//ダークブラウン=
-//茶髪=
-//赤毛=
-//xブロンズ=
-//金髪=
-//白髪=
+ダークブラウン=Dark Brown
+茶髪=Brunette
+赤毛=Redhead
+xブロンズ=Bronze
+金髪=Blonde Hair
+白髪=Gray Hair

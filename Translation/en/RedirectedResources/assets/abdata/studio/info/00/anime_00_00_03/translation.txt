@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+歩く1=Walking 1
+歩く2=Walking 2
+歩く3=Walking 3
+歩く4=Walking 4
+歩く5=Walking 5
+歩く6=Walking 6
+走る1=Running 1
+走る2=Running 2

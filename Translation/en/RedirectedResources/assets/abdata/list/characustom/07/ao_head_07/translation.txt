@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 頭で跳ねる魚=Head Fish
 頭乗りヒヨコ=Head Chick
 蝶々=Butterfly

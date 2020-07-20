@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+
+晴れた空=Sunny Sky
+曇り空=Cloudy Sky
+雨空=Rainy Sky
+夕暮れの空=Evening Sky
+夜空=Night Sky

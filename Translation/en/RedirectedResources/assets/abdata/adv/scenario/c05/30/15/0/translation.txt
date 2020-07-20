@@ -1,4 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 //すみません……今、お部屋にいますか……？=
 CHOICE:返事をする=Answer
-//CHOICE:・・・=
+CHOICE:・・・=...
 //あれ、お留守なのかな……ではまた出直します……=
