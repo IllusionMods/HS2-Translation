@@ -1,3 +1,3 @@
-//事後{0}=
-//申し訳ございません、私も暇では御座いませんので、こういった事に使われては困ります。=
-//お客様、互いに得にならない行為は控えて頂ければと思います。=
+事後{0}=After {0}.
+申し訳ございません、私も暇では御座いませんので、こういった事に使われては困ります。=My apologies, I too have much that I must attend to, so I find it rather bothersome that you are calling me up and using me for this sort of purpose.
+お客様、互いに得にならない行為は控えて頂ければと思います。=My good sir, I think it is best that we both refrain from acts which would bring no benefit to either of us.
