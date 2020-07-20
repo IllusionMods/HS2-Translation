@@ -1,38 +1,78 @@
+//------------------------------------------------------------
 // Generic Texts
+// use # to search for instances of the following "\\Sample#"
+//------------------------------------------------------------
 はい=Yes
 いいえ=No
-登録=Assign
 戻る=Back
 チ=Sex
-苦痛=Pain
-依存=Dependency
-壊れ=Broken
-所属グループ=Current Group
-終了する=Finish
+なし=None
+マップ=Map
+
+//Body Parts
+首=Neck
+目=Eye
+眉=Eyebrows
+口=Mouth
+手=Hands
+左手=L Hand
+右手=R Hand
 
 // Assistant's name
 フュル=Fur
 
-// Character's Personalities
-性格=Personality
+//------------------------------------------------------------
+// Personalities
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\cha_sample_voice_00\
 
+//------------------------------------------------------------
+// Traits
+//------------------------------------------------------------
+なし=None
+綺麗好き=Clean Lover
+ものぐさ=Lazy
+虚弱=Fragile
+タフネス=Tought
+頻尿=Weak Bladder
+我慢強い=Patient
+グラスハート=Glass Heart
+不屈の精神=Brave
+欲求不満=Perverted
+自制心=Self-Control
+思うがまま=At will
+感受性豊か=Sensitive
 
-// Character's Headings
-メンタル=Mindset
-特性=Trait
-心情=Mentality
-H属性=Sex Trait
+//------------------------------------------------------------
+// Mentality
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\init_mind_param_00\
 
+//------------------------------------------------------------
+// Sex Traits
+//------------------------------------------------------------
 性欲旺盛=Horny
 S=Sadist
 M=Masochist
 胸が敏感=Sensitive Breasts
 お尻が敏感=Sensitive Ass
 股間が敏感=Sensitive Pussy
-キスに弱い=Weakness to Kisses
+キスに弱い=Love Kisses
 潔癖症=Clean Freak
 Hに抵抗がある=Sex Hater
 寂しがり屋=Lonely
+
+//------------------------------------------------------------
+// Characters box in Chara Maker, Chara Finder, My Room and Lobby
+//------------------------------------------------------------
+// Character's Personalities
+性格=Personality
+
+// Character's Headings
+メンタル=Mindset
+特性=Trait
+心情=Mentality
+H属性=Sex Trait
 
 // Character's Status
 sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
@@ -43,13 +83,75 @@ sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
 隷属=Slave
 享楽=Hedonist
 
+H=Sex
+苦痛=Pain
+お尻=Ass
+壊れ=Broken
+依存=Dependency
 
-// Sex Position Types
-女主導=Woman-led
-女複数=Female Group
-男複数=Male Group
-レズ=Lesbian
+所属グループ=Current Group
 
-// Alternate forms of strings found in Localizations
-BGM選択=Select BGM
+//------------------------------------------------------------
+// Color Picker in Chara Maker, Chara Finder and Sex Scenes
+//------------------------------------------------------------
+// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
+ピッカー=Picker
+スライダー=Slider
+プリセット=Preset
+色相=Hue
+明度=Brig.
+彩度=Sat.
+透明度=Alpha
+
+//------------------------------------------------------------
+// Settings Box in Chara Maker and Chara Finder
+// (parts also used in shooting menus)
+//------------------------------------------------------------
+状態設定=Settings
+
+//general
+視線=Gaze
+//Neck#
+カメラ=Cam
+正面=Front
+ポーズ=Pose
+//Eye#
+//Eyebrows#
+//Mouth#
+ポーズ再生=Play/Pause
+
+//Clothing
+服状態=Clothes
+自動=Auto
+着衣=Clothed
+下着=Under
+全裸=Naked
+装飾=Accessory
+表示=Show
+非表示=Hide
+
+//Lights
+ライト向きX=Direct X
+ライト向きY=Direct Y
+ライト強さ=Strength
+
+//Background
+背景=Background
+単色=Solid
+画像=Image
+
+//------------------------------------------------------------
+// Shooting Menu (save card) in Chara Maker and Chara Finder
+// (uses text from Settings Box)
+//------------------------------------------------------------
+// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
+撮影メニュー=Shooting menu
+
+目の開き=Eye_Open
+口の開き=Mouth_Open
+//L Hand#
+//R Hand#
+
+背面フレーム=Background
+前面フレーム=Foreground
 

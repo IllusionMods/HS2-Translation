@@ -1,3 +1,5 @@
+// Some commented lines have translations also in Generic.txt
+
 #set level 2
 
 プレイ=Play
@@ -8,8 +10,11 @@
 
 女キャラ=Girls
 男キャラ=Boys
-戻る=Back
+//戻る=Back
 
 アップロード=Uploader
 ハニーダウンロード=HS Downloader
 AIダウンロード=AI Downloader
+
+//Dialogues
+ゲームを終了しますか？=Quit the game?

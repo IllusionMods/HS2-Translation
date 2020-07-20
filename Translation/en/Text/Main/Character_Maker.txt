@@ -24,20 +24,7 @@
 //------------------------------------------------------------
 // Traits
 //------------------------------------------------------------
-
-なし=None
-綺麗好き=Clean Lover
-ものぐさ=Lazy
-虚弱=Fragile
-タフネス=Tought
-頻尿=Weak Bladder
-我慢強い=Patient
-グラスハート=Glass Heart
-不屈の精神=Brave
-欲求不満=Perverted
-自制心=Self-Control
-思うがまま=At will
-感受性豊か=Sensitive
+// Text\Main\Generic.txt
 
 //------------------------------------------------------------
 // Mentality
@@ -47,20 +34,11 @@
 //------------------------------------------------------------
 // Sex Traits
 //------------------------------------------------------------
-
-性欲旺盛=Horny
-S=Sadist
-M=Masochist
-胸が敏感=Sensitive Breasts
-お尻が敏感=Sensitive Ass
-股間が敏感=Sensitive Pussy
-キスに弱い=Love Kisses
-潔癖症=Clean Freak
-Hに抵抗がある=Sex Hater
-寂しがり屋=Lonely
+// Text\Main\Generic.txt
 
 //------------------------------------------------------------
 // use # to search for instances of the following "\\Sample#"
+// Some commented lines have translations also in Generic.txt
 //------------------------------------------------------------
 サンプル=Sample
 タイプ=Type
@@ -73,19 +51,20 @@ Hに抵抗がある=Sex Hater
 顔=Face
 耳=Ears
 眼鏡=Glasses
-眉=Eyebrows
-目=Eye
+//眉=Eyebrows
+//目=Eye
 鼻=Nose
-口=Mouth
+//口=Mouth
 顎=Jaw
-首=Neck
+//首=Neck
 肩=Shoulder
 胸=Breasts
 腰=Waist
 腕=Arms
 脚=Legs
-左手=L Hand
-右手=R Hand
+//手=Hands
+//左手=L Hand
+//右手=R Hand
 
 //------------------------------------------------------------
 // Placement (Paint and Accessories) Arrangement and Parent Tabs
@@ -229,20 +208,6 @@ Y位置=Y Axis
 全て初期化=Reset All
 
 //------------------------------------------------------------
-// Color Picker
-//------------------------------------------------------------
-
-// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
-
-ピッカー=Picker
-スライダー=Slider
-プリセット=Preset
-透明度=Alpha
-色相=Hue
-彩度=Saturation
-明度=Brightness
-
-//------------------------------------------------------------
 // Paint
 //------------------------------------------------------------
 // RedirectedResources\assets\abdata\list\characustom\00\st_paint_00\
@@ -251,7 +216,6 @@ Y位置=Y Axis
 // RedirectedResources\assets\abdata\list\characustom\40\st_paint_40\
 // RedirectedResources\assets\abdata\list\characustom\41\st_paint_41\
 
-
 //------------------------------------------------------------
 // Patterns
 //------------------------------------------------------------
@@ -259,7 +223,6 @@ Y位置=Y Axis
 // RedirectedResources\assets\abdata\list\characustom\30\st_pattern_30\
 // RedirectedResources\assets\abdata\list\characustom\34\st_pattern_34\
 
-八つ藤=yatsu fuji
 
 //************************************************************
 // Main Menues (Left side)
@@ -309,7 +272,7 @@ Y位置=Y Axis
 ボディ=Body
 
 体型=Body Shape
-//Chest#
+//Breasts#
 上半身=Upper Body
 下半身=Lower Body
 //Arm#
@@ -382,11 +345,11 @@ Y位置=Y Axis
 //Face#
 //Neck#
 //Shoulder#
-//Chest#
+//Breasts#
 //Waist#
 背中=Back
 //Arm#
-手=Hands
+//Hands#
 //Leg#
 下腹部=Crotch
 
@@ -904,7 +867,7 @@ SE音量=SFX Volume
 
 
 //------------------------------------------------------------
-// Accessories - Chest
+// Accessories - Breasts
 //------------------------------------------------------------
 // RedirectedResources\assets\abdata\list\characustom\00\ao_chest_00\
 // RedirectedResources\assets\abdata\list\characustom\07\ao_chest_07\
@@ -1044,61 +1007,7 @@ SE音量=SFX Volume
 キャラカードB=Character Card B
 融合=Fusion
 掛け合わせる=Fuse Cards
-
-//------------------------------------------------------------
-// Settings Box (parts also used in shooting menu)
-//------------------------------------------------------------
-状態設定=Settings
-
-//general
-視線=Gaze
-//Neck#
-カメラ=Cam
-正面=Front
-ポーズ=Pose
-//Eyebrows#
-//Eye#
-//Mouth#
-ポーズ再生=Play/Pause
-
-//clothing
-服状態=Clothes
-自動=Auto
-着衣=Clothed
-下着=Under
-全裸=Naked
-装飾=Accessory
-表示=Show
-非表示=Hide
-
-//lights
-ライト向きX=Direct X
-ライト向きY=Direct Y
-ライト強さ=Strength
-
-//bg
-背景=Background
-単色=Solid
-画像=Image
-
-
-//************************************************************
-// Shooting Menu (uses text from Settings Box)
-//************************************************************
-
-// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
-
-撮影メニュー=Shooting menu
-
-目の開き=Eye_Open
-口の開き=Mouth_Open
-//Left hand#
-//Right Hand#
-
-背面フレーム=Background
-前面フレーム=Foreground
-
-戻る=Return
+終了=Close
 
 //************************************************************
 // Prompts
@@ -1107,23 +1016,27 @@ SE音量=SFX Volume
 // See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
 
 終了しますか？=Exit Character Creation?
-キャラメイクを終了しますか？=Quit The Character Maker?
-キャラ編集を終了しますか？=Quit Editing This Character?
+キャラメイクを終了しますか？=Quit the Character Maker?
 
 確定=Confirm
 キャンセル=Cancel
 
 
 //************************************************************
-// Unsorted
+// Editing girls when you click in "edit"
 //************************************************************
 保存して終了=Save and Exit
-保存しないで終了=Exit Without Saving
-
-撮影し直す=Reshoot
+保存しないで終了=Exit\nWithout Saving
 編集に戻る=Return to edit
+撮影し直す=Reshoot
+キャラ編集を終了しますか？=Quit Editing This Character?
 
+//************************************************************
+// Unsorted
+//************************************************************
 ホクロのタイプ=Mole type
 肌のタイプ=Skin type
-
+メッシュ=Mesh
+肌の色に合わせる=Match to Skin Color
+メッシュ設定=Mesh Settings
 

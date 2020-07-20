@@ -1,6 +1,7 @@
+// Some commented lines have translations also in Generic.txt
 オプション=Settings
 
-戻る=Back
+//戻る=Back
 
 タイトル設定=Title Settings
 タイトル画面での\nキャラ表示=Display Character\nIn Title Screen
@@ -8,15 +9,15 @@
 表示する女の子を選択する=Select Girl
 
 カメラ設定=Camera Settings
-注視点の表示=Show Focal Point
+注視点の表示=Focal Point
 ３人称カメラ縦速度=3rd Person Camera Speed (Y)
 ３人称カメラ横速度=3rd Person Camera Speed (X)
 １人称カメラ縦速度=1st Person Camera Speed (Y)
 １人称カメラ横速度\n=1st Person Camera Speed (X)
-カメラ縦移動=Camera Movement (Y)
+カメラ縦移動=Camera Move Y
 標準=Standard
 反転=Inverse
-カメラ横移動=Camera Movement (X)
+カメラ横移動=Camera Move X
 描画設定=Graphic Settings
 描画レベル=Quality
 セルフシャドウ=Shadows
@@ -37,7 +38,7 @@ SSR（反射）=SSR (Reflections)
 遮蔽=Obstructions
 背景色=Background Color
 カラー=Color
-透明度=Opacity
+//透明度=Opacity
 //登場人数制限=
 //※主人公とシャンは制限には含まれません=
 登場制限=Population Limit
@@ -51,6 +52,8 @@ SSR（反射）=SSR (Reflections)
 システムSE=System SE
 ゲームSE=Game SE
 カスタム中のBGMを変更する=Customize Music
+
+BGM選択=Select BGM
 
 タイトル=Title
 マイルーム=My Room
@@ -90,7 +93,7 @@ SSR（反射）=SSR (Reflections)
 選択肢後オート継続=Autoplay Continues After Choice
 テキストウィンドウオプション=Text Options
 ● フィールド=● Field
-操作ガイド表示=Display Control Guide
+操作ガイド表示=Control Guide
 ストーリーヘルプ表示=Display Story Hint
 ミニマップ表示=Display Minimap
 中央ポインター表示=Display Center Pointer
@@ -110,29 +113,29 @@ SSR（反射）=SSR (Reflections)
 単色カラー=Base Color
 汁表示=Semen Display
 尿描画方法=Urine Display
-尿発生条件=Urine Condition
-潮吹き描画方法=Squirting Display
+尿発生条件=Urine Condit.
+潮吹き描画方法=Squirting Disp.
 潮吹き発生条件=Squirting Condition
-なし=None
+//なし=None
 詳細=Detailed
 簡易=Simplified
-通常=Normal
+//通常=Normal
 尿=Pissing
 常時=Always
-ゲーム準拠=By Character
+ゲーム準拠=By Char.
 潮吹き=Squirting
 艶=Gloss
-快感ゲージ表示=Display Pleasure Gauge
-メニューアイコン表示=Display Menu Icons
-フィニッシュボタン表示=Display Finish Button
+快感ゲージ表示=Pleasure Gauge
+メニューアイコン表示=Menu Icons
+フィニッシュボタン表示=Finish Button
 カメラ初期化判断=Reset Camera Determination
 する=Yes
 しない=No
-１人目 視線=Eyes Track Camera (Char 1)
-カメラ見る=Look at Camera
-１人目 首の向き=Head Tracks Camera (Char 1)
-２人目 視線=Eyes Track Camera (Char 2)
-２人目 首の向き=Head Tracks Camera (Char 2)
+１人目 視線=Eye Track (Char 1)
+カメラ見る=Camera
+１人目 首の向き=Head Tracks (Char 1)
+２人目 視線=Eye Track (Char 2)
+２人目 首の向き=Head Tracks (Char 2)
 脱力制御=Tiredness Controls
 脱力しない=Disable Tiredness
 逃走制御=Escape Controls
@@ -142,4 +145,5 @@ SSR（反射）=SSR (Reflections)
 
 登録=OK
 
-ゲームを終了しますか？=Quit The Game?
+設定を初期化しますか？=Do you want to reset the settings?
+タイトルへ戻りますか？=Back to the title screen?
