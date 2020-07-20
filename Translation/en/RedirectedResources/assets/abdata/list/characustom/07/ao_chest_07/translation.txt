@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 溶解粘液A=Slime A
 溶解粘液B=Slime B
 溶解粘液C=Slime C

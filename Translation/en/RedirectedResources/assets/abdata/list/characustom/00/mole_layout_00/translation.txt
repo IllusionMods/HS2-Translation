@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 左の口元=Below Lips (Left)
 右の口元=Below Lips (Right)
 左の口上=Above Lips (Left)

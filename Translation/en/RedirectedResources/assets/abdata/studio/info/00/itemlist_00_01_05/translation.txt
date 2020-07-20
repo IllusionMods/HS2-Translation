@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 小屋=Hut
 トタン小屋１=Tin Shed 1
 トタン小屋２=Tin Shed 2

@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 ピエロの鼻=Clown Nose
 天狗の鼻=Long Nose
 一輪のバラ=Single Rose

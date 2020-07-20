@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 //女王の椅子=
 //回転ベッド=
 //唇ソファ=

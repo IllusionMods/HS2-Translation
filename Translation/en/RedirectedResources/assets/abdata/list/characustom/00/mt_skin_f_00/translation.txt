@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 タイプ01=Type 01
 タイプ02=Type 02
 タイプ03=Type 03

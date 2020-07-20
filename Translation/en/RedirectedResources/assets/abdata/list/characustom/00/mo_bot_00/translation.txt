@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 なし=None
 七分丈パンツ=Cropped Pants
 ハーフパンツ=Shorts
@@ -6,4 +9,3 @@
 作業着ズボン=Worker's Pants
 サーフパンツ=Surf Pants
 デニムパンツ=Jeans
-

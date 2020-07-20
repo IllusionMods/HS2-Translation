@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 タングルショルダー=Tangle Shoulder Pad
 鎧ドレスショルダー=Armor Dress Shoulder
 バーサーカーの肩当て=Berserker Shoulder Pad

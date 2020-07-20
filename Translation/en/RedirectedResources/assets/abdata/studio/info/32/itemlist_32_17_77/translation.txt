@@ -1,3 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
 鉢金=Ninja Girl Band
 くノ一の髪飾り=Ninja Girl Ornament
 巻物=Ninja Girl Scroll
