@@ -3,15 +3,15 @@
 //
 
 前待機=About To Begin
-//弱ピストン=
-//強ピストン=
-//絶頂前ピストン=
-//女絶頂=
-//同時絶頂=
-//外出し=
+弱ピストン=Slow Loop
+強ピストン=Fast Loop
+絶頂前ピストン=Waiting for Climax
+女絶頂=Girl Climax
+同時絶頂=Climax Together
+外出し=Climax Outside
 外出し事後=Come Outside End
-//脱力弱ピストン=
-//脱力強ピストン=
-//脱力絶頂前ピストン=
-//脱力女絶頂=
-//脱力外出し事後=
+脱力弱ピストン=Tired Slow
+脱力強ピストン=Tired Fast
+脱力絶頂前ピストン=Tired Waiting for Climax
+脱力女絶頂=Tired Girl Climax
+脱力外出し事後=Tired After Climax Outside

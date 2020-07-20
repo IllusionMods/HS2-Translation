@@ -8,5 +8,5 @@
 //強アクション=
 絶頂=Climax
 //脱力アクション=
-//脱力絶頂=
-//脱力事後=
+脱力絶頂=Tired Climax
+脱力事後=Tired After Sex

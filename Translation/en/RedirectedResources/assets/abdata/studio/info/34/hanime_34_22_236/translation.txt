@@ -6,5 +6,5 @@
 弱ループ=Slow Loop
 強ループ=Fast Loop
 絶頂前ループ=Before Climax Loop
-//外出し=
+外出し=Climax Outside
 外出し事後=Come Outside End
