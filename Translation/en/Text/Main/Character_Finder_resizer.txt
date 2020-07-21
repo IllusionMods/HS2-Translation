@@ -1,0 +1,14 @@
+#set level 14
+
+/CharaSearch/=ChangeFontSizeByPercentage(0.95)
+
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=UGUI_HorizontalOverflow(overflow)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Body/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Breast/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Hair/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Height/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Mole/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Option/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Personal/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/SkinColor/Toggle=ChangeFontSizeByPercentage(0.8)
+/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Skin/Toggle=ChangeFontSizeByPercentage(0.8)
