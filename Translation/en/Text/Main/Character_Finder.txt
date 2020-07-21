@@ -1,3 +1,5 @@
+# set level 14
+
 //------------------------------------------------------------
 // Character Finder
 //------------------------------------------------------------
@@ -56,7 +58,8 @@
 ショート=Short
 ツイン=Twin
 ポニー=Ponytail
-その他=Miscellaneous
+// Miscellaneous doesn't so abbreviate here
+その他=Misc.
 //Random#
 
 //Personality

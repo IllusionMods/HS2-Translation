@@ -18,9 +18,27 @@ Translations are all inside of `Bepinex\Translation\en\` folder. They are then s
 
 Coordinate with other translators on the [Illusion Soft Discord server](https://discord.gg/illusionsoft) #translation channel. To avoid translation conflicts please ask if anyone is working on a file. If you have any questions about the quality of your translations, ask for advice on the server.
 
-### How to add or improve translations
+## How to add or improve translations
 - If you want to make a simple edit simply open the file in question and click edit. After you are done editing, commit the changes and stall a pull request.
 - If you have more translations to submit [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. Again, no raw machine translations will be accepted. Proper capitalization, punctuation, and spelling is a must.
+
+## Text Translations
+
+### Known Scope Levels
+
+| Level | Description       |
+|------:|-------------------|
+| -1    | (global)          |
+| 0     | Dialogs           |
+| 2     | Main Menu         |
+| 4     | "Home" scene      |
+| 6     | ADV dialog scenes |
+| 7     | H scenes          |
+| 8     | Lobby             |
+| 9     | Fur's Room        |
+| 14    | Character Search  | 
+
+## Resource Translations
 
 ### ADV translations
 Every translation.txt file has the raw Japanese text that needs translations. Each one starts commented out (`//` at the begining) so it will not be loaded. For your text to display correctly in game, put the translation on the right side of the equal sign and remove the `//` at the start of the line. Do not edit the Japanese text or the translation will not work.
@@ -31,7 +49,7 @@ The `assets` folder inside of `Bepinex\Translation\en\RedirectedResources` can b
 [TextResourceRedirector](https://github.com/DeathWeasel1337/KK_Plugins#textresourceredirector) **v1.3 (or greater)** is required for these translations.
 
 
-### Specialized ADV translation lines
+### Specialized translation lines
 
 There are some specialized resources handled by the resource redirection that require some addititional handling.
 
@@ -44,7 +62,7 @@ Example:
 {0}と仲がいいと思ってるわ=I think I'm good friends with {0}.
 ```
 
-#### Choices
+#### ADV Choices
 
 Because these strings are encoded into a larger entry in the resource files they require special handling by TextResourceRedirector to ensure the text that should no be replaced remains untouched, while allowing the displayed text to be translated. These lines will start with `CHOICE:` followed by the text that needs to be translated.  On the right side of the `=` you need only include the translated text without the `CHOICE:` prefix. 
 
@@ -52,6 +70,25 @@ Example:
 ```
 CHOICE:受け取る=Accept
 ```
+
+#### Optional Prefixes
+
+There are a number of assets that support the use of optional prefixing to get a more exact match. This allows for more specific translations in cases where multiple assets might match the same replacement code.  Matching for these assets will first try the prefixed match, then fall back to the standard un-prefixed match.  Given the following translation file:
+
+```
+PREFIX1:こんにちは=Hi!
+こんにちは=Hello.
+```
+
+Trying to match `こんにちは` for an asset using `PREFIX1` would return `Hi!`, where an asset using `PREFIX2` would fall back to `Hello.`.
+
+| asset location               | prefix        | Notes                                                                               |
+|------------------------------|---------------|-------------------------------------------------------------------------------------|
+| `etcetra/list/parametername` | `HATTRIBUTE:` |                                                                                     |
+| `etcetra/list/parametername` | `MIND:`       |                                                                                     |
+| `etcetra/list/parametername` | `STATE:`      |                                                                                     |
+| `etcetra/list/parametername` | `TRAIT:`      |                                                                                     |
+
 
 ### Tools
 [Yomichan](https://foosoft.net/projects/yomichan/) - This browser plugin allows you to see the definition of Japanese words by putting your mouse over them in the browser and pressing shift.

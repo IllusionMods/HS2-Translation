@@ -1,0 +1,16 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+気になる=Curious
+好きかも=Affectionate
+一目惚れ=Lovestruck
+話づらい=Awkward
+苦手=Reluctant
+嫌い=Loathing
+指示されたい=Cooperative
+命令されたい=Obedient
+逆らえない=Submissive
+楽しい=Interested
+苛めたい=Charmed
+服従させたい=Aroused
