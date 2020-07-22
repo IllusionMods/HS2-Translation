@@ -1,5 +1,3 @@
-# set level 7
-
 //***********************************************************************
 // Sex Scenes Screen UI
 // Some commented lines have translations also in Generic.txt

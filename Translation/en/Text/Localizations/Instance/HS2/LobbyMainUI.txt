@@ -1,4 +1,4 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//女の子を選択してください=Please select a female
+女の子を選択してください=Please select a female

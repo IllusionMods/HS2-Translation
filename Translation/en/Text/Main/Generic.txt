@@ -65,8 +65,8 @@
 H属性=Sex Trait
 
 // Character's Status
-//sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
-RedirectedResources\assets\abdata\etcetra\list\parametername\30\00\
+// sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00\
 
 淫乱=Kinky
 H=Sex

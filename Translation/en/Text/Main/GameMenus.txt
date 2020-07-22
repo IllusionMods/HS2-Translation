@@ -92,7 +92,7 @@ Hをお願いする=Ask for Sex
 交換品=Unlockables
 必要Ｐ=Required
 sr:"^残り(.*)P$"=Remaining Points $1P
-解放しますか？=Unlock this item?
+解放しますか？=Do you want to unlock this item?
 
 //------------------------------------------------------------
 // Call Fur -> Help

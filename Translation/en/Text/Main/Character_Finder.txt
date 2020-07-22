@@ -33,9 +33,9 @@
 
 //Body Height:
 身長=Body Height
-低い=Low
-//Normal#
-高い=High
+低い=Short
+普通=Normal
+高い=Tall
 //Random#
 
 //Breasts:
