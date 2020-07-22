@@ -26,7 +26,7 @@
 楽しい=Interested
 苛めたい=Charmed
 服従させたい=Aroused
-普通=Average
+普通=Normal
 好意=Love
 享楽=Hedonist
 嫌悪=Hate
@@ -69,7 +69,7 @@ MIND:逆らえない=Submissive
 MIND:楽しい=Interested
 MIND:苛めたい=Charmed
 MIND:服従させたい=Aroused
-STATE:普通=Average
+STATE:普通=Normal
 STATE:好意=Love
 STATE:享楽=Hedonist
 STATE:嫌悪=Hate

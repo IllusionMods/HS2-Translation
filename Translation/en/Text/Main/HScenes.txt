@@ -1,5 +1,9 @@
+# set level 7
+
+//***********************************************************************
 // Sex Scenes Screen UI
 // Some commented lines have translations also in Generic.txt
+//***********************************************************************
 
 //------------------------------------------------------------
 // Sex Position Types
@@ -70,7 +74,7 @@
 被写界深度=DoF
 サンシャフト=Sun Shafts
 ビネット=Vignette
-セルフシャドウ=Self-Shad.
+セルフシャドウ=Shadows
 //SSR
 環境光=Ambient Light
 

@@ -4,7 +4,6 @@
 キャラ管理=Characters
 プレイヤー選択=Player
 
-
 //************************************************************
 // My Room screen
 //************************************************************
@@ -18,7 +17,7 @@ r:"グループ *([0-9０-９]+)"=Group $1
 寝る=Sleep
 
 // Dialogues
-[キャラクター編集]を選び、\n女の子をグループに登録して下さい=Select [Edit Character] and register\nthe girl to Group
+[キャラクター編集]を選び、\n女の子をグループに登録して下さい=Select [Characters] and assign\na girl to the Group
 待ち合わせ場所に移動しますか？=Go to the lobby?
 タイトルに戻りますか？=Return to the title screen?
 寝ますか？=Do you want to sleep?
@@ -43,7 +42,7 @@ r:"グループ *([0-9０-９]+)"=Group $1
 //Player#
 
 // Dialogues
-キャラのメイク画面に移動します\nよろしいですか？=Open the Character Maker?
+キャラのメイク画面に移動します\nよろしいですか？=Open the character maker?
 
 //------------------------------------------------------------
 // Characters -> Edit -> Groups
@@ -77,11 +76,11 @@ r:"グループ *([0-9０-９]+)"=Group $1
 実績の解除=Achievements
 ヘルプ=Help
 Hをお願いする=Ask for Sex
-容姿の変更=Change Appearance
+容姿の変更=Change Fur's Appearance
 
 // Fur's Room Screen Dialogues
-キャラ検索画面に移動します\nよろしいですか？=Open the Character Finder screen?
-マイルームに戻ります\nよろしいですか？=Go back to your room?
+キャラ検索画面に移動します\nよろしいですか？=Open the character finder screen?
+マイルームに戻ります\nよろしいですか？=Return to your room?
 
 //------------------------------------------------------------
 // Call Fur -> Achievements
@@ -92,7 +91,7 @@ Hをお願いする=Ask for Sex
 実績項目=Achievements
 交換品=Unlockables
 必要Ｐ=Required
-sr:"^残り(.*)P$"=Remaining Point $1P
+sr:"^残り(.*)P$"=Remaining Points $1P
 解放しますか？=Unlock this item?
 
 //------------------------------------------------------------
@@ -102,7 +101,7 @@ sr:"^残り(.*)P$"=Remaining Point $1P
 ホーム画面=Home
 キャラ管理画面=Manage Characters
 待ち合わせ画面=Meetings
-H画面=H Scenes
+H画面=Sex Scenes
 館内を回る画面=Around the Hall
 フュルを呼ぶ画面=Call Fur
 
@@ -123,7 +122,7 @@ H画面=H Scenes
 //------------------------------------------------------------
 MAP選択=Maps
 マップ選択=Select Map
-このマップで開始する=Start in this Map
+このマップで開始する=Start in this map
 Hを開始しますか？=Start a sex scene?
 
 // Dialogues
@@ -135,7 +134,7 @@ Hを開始しますか？=Start a sex scene?
 //Text\Main\Character_Finder.txt
 
 //------------------------------------------------------------
-// H-Scene Menu
+// Sex-Scene Menu
 //------------------------------------------------------------
 // Text\Main\HScenes.txt
 
