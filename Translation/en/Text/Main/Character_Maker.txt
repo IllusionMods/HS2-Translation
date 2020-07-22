@@ -20,21 +20,24 @@
 // Personalities
 //------------------------------------------------------------
 // RedirectedResources\assets\abdata\list\characustom\00\cha_sample_voice_00\
+// RedirectedResources\assets\abdata\etcetra\list\config\30\00\
+// RedirectedResources\assets\abdata\studio\info\34\voicegroup_34\
 
 //------------------------------------------------------------
 // Traits
 //------------------------------------------------------------
-// Text\Main\Generic.txt
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
 
 //------------------------------------------------------------
 // Mentality
 //------------------------------------------------------------
 // RedirectedResources\assets\abdata\list\characustom\00\init_mind_param_00\
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
 
 //------------------------------------------------------------
 // Sex Traits
 //------------------------------------------------------------
-// Text\Main\Generic.txt
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
 
 //------------------------------------------------------------
 // use # to search for instances of the following "\\Sample#"
@@ -42,6 +45,7 @@
 //------------------------------------------------------------
 サンプル=Sample
 タイプ=Type
+調整=Adjust
 名前=Name
 コーデ=Outfit
 瞳の設定=Iris Settings
@@ -140,7 +144,7 @@
 //------------------------------------------------------------
 //pattern also used in Color fields
 種類=Type
-カラー=Color
+//カラー=Color
 親=Position
 配置=Arrange
 その他=Other
@@ -980,7 +984,7 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 // Options -> Save / Delete
 //------------------------------------------------------------
-消去=Erase
+消去=Delete
 新規保存=Save New
 上書き保存=Save
 
@@ -1012,11 +1016,8 @@ SE音量=SFX Volume
 //************************************************************
 // Prompts
 //************************************************************
-
-// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
-
-終了しますか？=Exit Character Creation?
-キャラメイクを終了しますか？=Quit the Character Maker?
+終了しますか？=Exit character maker?
+キャラメイクを終了しますか？=Quit the character maker?
 
 確定=Confirm
 キャンセル=Cancel
@@ -1027,9 +1028,12 @@ SE音量=SFX Volume
 //************************************************************
 保存して終了=Save and Exit
 保存しないで終了=Exit\nWithout Saving
-編集に戻る=Return to edit
+編集に戻る=Return to Editor
+撮影=Take Photo
 撮影し直す=Reshoot
-キャラ編集を終了しますか？=Quit Editing This Character?
+
+//Dialogue
+キャラ編集を終了しますか？=Quit editing this character?
 
 //************************************************************
 // Unsorted

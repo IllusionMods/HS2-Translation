@@ -16,5 +16,5 @@
 ハニーダウンロード=HS Downloader
 AIダウンロード=AI Downloader
 
-//Dialogues
+//Dialogue
 ゲームを終了しますか？=Quit the game?

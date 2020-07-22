@@ -8,7 +8,7 @@
 // use # to search for instances of the following "\\Sample#"
 // Some commented lines have translations also in Generic.txt
 //------------------------------------------------------------
-標準=Normal
+//標準=Normal
 指定なし=Random
 
 //------------------------------------------------------------
@@ -33,9 +33,9 @@
 
 //Body Height:
 身長=Body Height
-低い=Low
-//Normal#
-高い=High
+低い=Short
+普通=Normal
+高い=Tall
 //Random#
 
 //Breasts:
@@ -86,7 +86,7 @@
 //------------------------------------------------------------
 見つけた女の子=Girl Match
 名前=Name
-声質=Voice
+//声質=Voice
 カードに保存する=Save to Card
 
 //------------------------------------------------------------
@@ -95,4 +95,4 @@
 編集に戻る=Return to edit
 保存して終了=Save and Exit
 保存しないで終了=Exit\bWithout Saving
-検索を終了しますか？=Quit Character Finder?
+検索を終了しますか？=Quit the character finder?

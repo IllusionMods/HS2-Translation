@@ -8,8 +8,15 @@
 チ=Sex
 なし=None
 マップ=Map
+上=Upward
+少=Small
+日=Day
+カラー=Color
+標準=Normal
+声質=Voice
 
 //Body Parts
+体=Body
 首=Neck
 目=Eye
 眉=Eyebrows
@@ -25,42 +32,25 @@
 // Personalities
 //------------------------------------------------------------
 // RedirectedResources\assets\abdata\list\characustom\00\cha_sample_voice_00\
+// RedirectedResources\assets\abdata\etcetra\list\config\30\00\
+// RedirectedResources\assets\abdata\studio\info\34\voicegroup_34\
+
 
 //------------------------------------------------------------
 // Traits
 //------------------------------------------------------------
-なし=None
-綺麗好き=Clean Lover
-ものぐさ=Lazy
-虚弱=Fragile
-タフネス=Tought
-頻尿=Weak Bladder
-我慢強い=Patient
-グラスハート=Glass Heart
-不屈の精神=Brave
-欲求不満=Perverted
-自制心=Self-Control
-思うがまま=At will
-感受性豊か=Sensitive
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
 
 //------------------------------------------------------------
 // Mentality
 //------------------------------------------------------------
 // RedirectedResources\assets\abdata\list\characustom\00\init_mind_param_00\
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
 
 //------------------------------------------------------------
 // Sex Traits
 //------------------------------------------------------------
-性欲旺盛=Horny
-S=Sadist
-M=Masochist
-胸が敏感=Sensitive Breasts
-お尻が敏感=Sensitive Ass
-股間が敏感=Sensitive Pussy
-キスに弱い=Love Kisses
-潔癖症=Clean Freak
-Hに抵抗がある=Sex Hater
-寂しがり屋=Lonely
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
 
 //------------------------------------------------------------
 // Characters box in Chara Maker, Chara Finder, My Room and Lobby
@@ -75,26 +65,19 @@ Hに抵抗がある=Sex Hater
 H属性=Sex Trait
 
 // Character's Status
-sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
-通常=Normal
-好意=Love
-淫乱=Horny
-嫌悪=Hate
-隷属=Slave
-享楽=Hedonist
+// sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00\
 
+淫乱=Kinky
 H=Sex
 苦痛=Pain
 お尻=Ass
-壊れ=Broken
-依存=Dependency
 
 所属グループ=Current Group
 
 //------------------------------------------------------------
 // Color Picker in Chara Maker, Chara Finder and Sex Scenes
 //------------------------------------------------------------
-// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
 ピッカー=Picker
 スライダー=Slider
 プリセット=Preset
@@ -102,6 +85,10 @@ H=Sex
 明度=Brig.
 彩度=Sat.
 透明度=Alpha
+
+左クリックで適用、右クリックで削除=Left-click to set, right-click to remove
+左クリックで適用=Left-click to set
+左クリックで現在のカラーを登録=Left click to register current color
 
 //------------------------------------------------------------
 // Settings Box in Chara Maker and Chara Finder
@@ -144,7 +131,6 @@ H=Sex
 // Shooting Menu (save card) in Chara Maker and Chara Finder
 // (uses text from Settings Box)
 //------------------------------------------------------------
-// See also: Text\Localizations\Static\CharaCustom\CharaCustomDefine.txt
 撮影メニュー=Shooting menu
 
 目の開き=Eye_Open
@@ -155,3 +141,10 @@ H=Sex
 背面フレーム=Background
 前面フレーム=Foreground
 
+保存=Save
+
+//Prompts
+本当に削除しますか？=Are you sure you want to delete this?
+本当に削除しますか？\n<color%3D#DE4529FF>このキャラにはパラメータが含まれています。</color>=<color%3D#DE4529FF>Character status will also be deleted.</color>\nDo you wish to continue?
+本当に上書きしますか？=Overwrite file?
+本当に上書きしますか？\n<color%3D#DE4529FF>上書きするとパラメータは初期化されます。</color>=<color%3D#DE4529FF>Overwriting will reset the character status to default settings.</color>\nDo you wish to continue?

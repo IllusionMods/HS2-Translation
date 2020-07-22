@@ -1,16 +1,16 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-調整=Adjust
-カラー=Color
-保存=Save
-撮影=Take Photo
-なし=None
-左クリックで適用、右クリックで削除=Left-click to set, right-click to remove
-左クリックで適用=Left-click to set
-左クリックで現在のカラーを登録=Left click to register current color
-ポーズ=Pose
-本当に削除しますか？=Are you sure you want to delete this character?
-本当に削除しますか？\n<color%3D#DE4529FF>このキャラにはパラメータが含まれています。</color>=<color%3D#DE4529FF>Character parameters will also be deleted.</color>\nDo you wish to continue?
-本当に上書きしますか？=Overwrite file?
-本当に上書きしますか？\n<color%3D#DE4529FF>上書きするとパラメータは初期化されます。</color>=<color%3D#DE4529FF>Overwriting this file will restore parameters to their default settings.</color>\nDo you wish to continue?
+//調整=Adjust
+//カラー=Color
+//保存=Save
+//撮影=Take Photo
+//なし=None
+//左クリックで適用、右クリックで削除=Left-click to set, right-click to remove
+//左クリックで適用=Left-click to set
+//左クリックで現在のカラーを登録=Left click to register current color
+//ポーズ=Pose
+//本当に削除しますか？=Are you sure you want to delete this character?
+//本当に削除しますか？\n<color%3D#DE4529FF>このキャラにはパラメータが含まれています。</color>=<color%3D#DE4529FF>Character parameters will also be deleted.</color>\nDo you wish to continue?
+//本当に上書きしますか？=Overwrite file?
+//本当に上書きしますか？\n<color%3D#DE4529FF>上書きするとパラメータは初期化されます。</color>=<color%3D#DE4529FF>Overwriting this file will restore parameters to their default settings.</color>\nDo you wish to continue?

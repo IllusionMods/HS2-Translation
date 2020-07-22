@@ -1,10 +1,10 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-普通=Average
-好意=Love
-享楽=Hedonist
-嫌悪=Hate
-隷属=Slave
-壊れ=Broken
-依存=Dependency
+//普通=Average
+//好意=Love
+//享楽=Hedonist
+//嫌悪=Hate
+//隷属=Slave
+//壊れ=Broken
+//依存=Dependency
