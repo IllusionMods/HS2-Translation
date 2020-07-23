@@ -16,7 +16,7 @@ English fan translation project for Honey Select 2. The translations are applied
 1. Ensure you have the prerequisites installed.
 2. Go to the releases page above and download the latest release. Alternatively, advanced users can get the latest beta translations by clicking "Clone or download" button above. Read the ADV translations section below to see how to enable ADV translations if you do this.
 3. Extract the zip and merge the Translation folder with the one in your BepInEx folder. It's recommended to delete your old translation folder to prevent translation collisions. If you do not be sure to run TranslationCacheCleaner.
-4. Install the latest [AutoTranslatorConfig.ini](blob/master/config/AutoTranslatorConfig.ini) (or compare it to your existing one and be sure that the entries under the following sections match up: `Files`, `TextFrameworks`, `Behaviour`, `Texture`, `ResourceRedirector`)
+4. Install the latest [AutoTranslatorConfig.ini](config/AutoTranslatorConfig.ini) (or compare it to your existing one and be sure that the entries under the following sections match up: `Files`, `TextFrameworks`, `Behaviour`, `Texture`, `ResourceRedirector`)
 
 ## Contribution
 
@@ -63,7 +63,7 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 - `map/list/mapinfo` - map names
 - `list/characustom` - maker stuff
 - `list/h/animationinfo` - positions (game versions)
-- `list/h/sound` - h-subs are
+- `list/h/sound` - h-subs
 - `studio` - studio stuff
 
 ### ADV translations

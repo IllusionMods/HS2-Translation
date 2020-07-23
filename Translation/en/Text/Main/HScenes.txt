@@ -62,6 +62,8 @@
 //------------------------------------------------------------
 // Screen (Custom Graphical Options)
 //------------------------------------------------------------
+// limiting these to level 7, safe to abbreviate
+#set level 7
 画面効果=Screen
 //プリセット=Preset
 映り込み=Reflections
@@ -79,6 +81,8 @@
 //Dialogues
 すべて初期化しますか？=Do you want to initialize everything?
 やめる=Stop
+#unset level 7
+
 
 //------------------------------------------------------------
 //Screen - Preset
@@ -216,9 +220,12 @@
 //------------------------------------------------------------
 終了する=Finish
 続ける=Continue
+もう一度見る=Watch Again
 
 //Dialogue
 Hシーンを終了しますか？=Leave the sex scene?
+覗きを終了しますか？=Are you done peeking?
+トイレ覗きを終了しますか？=Are you done peeking into the bathroom?
 
 //************************************************************
 // Unsorted
