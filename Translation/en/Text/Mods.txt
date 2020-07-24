@@ -306,7 +306,7 @@ kunoichi_socks=Ninja Girl Socks
 //------------------------------------------------------------
 【CC353】超高跟鞋011 <h01011>=[CC353] Super High Heels 011 <h01011>
 【CC353】高跟鞋002 <h03002>=[CC353] High Heels 002 <h03002>
-r:"^.Lbxdd.鱼嘴高跟(.*)"=[Lbxdd] Toeless High Heels $1
+r:"^.Lbxdd.鱼嘴高跟(.{3})$"=[Lbxdd] Toeless High Heels $1
 艦ブーツ=Ship Boots
 大力-免费分享-三变高跟A作者Q3617354271=[DALI] Free Sharing Three - High Heels A - Author Q3617354271
 大力-免费分享-三变高跟B作者Q3617354271=[DALI] Free Sharing Three - High Heels B - Author Q3617354271
