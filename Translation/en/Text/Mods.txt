@@ -100,6 +100,7 @@ HS旗袍=HS China Dress
 短裙=Short Skirt
 空姐=Flight Attendant
 ガンツアウター=Gantz Outer
+kunoichi_kimono=Ninja Girl Kimono
 kunoichi_top=Ninja Girl Top
 kunoichi_top_simple=Simple Ninja Girl Top
 kunoichi_another=Another Ninja Girl
