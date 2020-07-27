@@ -76,7 +76,7 @@ r:"グループ *([0-9０-９]+)"=Group $1
 実績の解除=Achievements
 ヘルプ=Help
 Hをお願いする=Ask for Sex
-容姿の変更=Change Fur's Appearance
+容姿の変更=Change Fur Appearance
 
 // Fur's Room Screen Dialogues
 キャラ検索画面に移動します\nよろしいですか？=Open the character finder screen?

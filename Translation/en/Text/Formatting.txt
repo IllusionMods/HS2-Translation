@@ -1,7 +1,7 @@
 // known format strings used by game before applying to GUI element
 
 r:"^スロット([０-９0-9]+)$"=Slot $1
-sr"^(.*) が逃げ出しました$"=$1 ran away
+sr:"^(.*) が逃げ出しました$"=$1 ran away
 
 sr:"^FKカラー (.*)"$=FK Color $1
 
