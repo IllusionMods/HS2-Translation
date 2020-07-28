@@ -194,14 +194,7 @@ ddaa33_穴開きスク水=ddaa33_Cut-out Swinsuit
 [SENA]アスカスーツ=[SENA] Asuka Suit
 [SENA]TFブラトップ=[SENA] TF Bra Top
 スリングショット改=Slingshot Detached Strings
-ノーマル [nonip]=Standard [nonip]
-リボンレース [nonip]=Ribbon Lace [nonip]
-アダルティレース [nonip]=Adult Lace [nonip]
-ハーフレース [nonip]=Half Lace [nonip]
-フルレース [nonip]=Full Lace [nonip]
-スポーツ [nonip]=Sports [nonip]
-ストラップレス [nonip]=Strapless [nonip]
-バンド [nonip]=Mini Tube [nonip]
+sr:"^(.*)\s*.nonip.$"=$1 [nonip]
 
 //------------------------------------------------------------
 // Inner Bottom
