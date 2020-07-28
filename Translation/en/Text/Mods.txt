@@ -147,6 +147,7 @@ TシャツBig=T-Shirt Big
 タンクトップ=Tank Top
 タンクトップ2=Tank Top 2
 [XT工坊]BY殴打罗密欧和服实验=[XT Workshop] BY Beat Romeo Kimono Experiment
+道着2=Kimono 2
 
 //Male Tops
 [SENA]忍者装束上=[SENA] Ninja Top
@@ -193,6 +194,7 @@ ddaa33_穴開きスク水=ddaa33_Cut-out Swinsuit
 [SENA]アスカスーツ=[SENA] Asuka Suit
 [SENA]TFブラトップ=[SENA] TF Bra Top
 スリングショット改=Slingshot Detached Strings
+sr:"^(.*)\s*.nonip.$"=$1 [nonip]
 
 //------------------------------------------------------------
 // Inner Bottom
