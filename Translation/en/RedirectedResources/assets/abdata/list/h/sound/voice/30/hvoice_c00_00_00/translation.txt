@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-どうされました？= What did you do?
+どうされました？=What did you do?
 ……どこから攻めるか、お考え中なのでしょうか=...From where will you attack, are you thinking?
 何か希望がございましたら、お申しつけください=If you have any wishes, please tell me, and I will do it.
 ……どう攻めるか、悩んでしまいます=...How will you attack, I wonder?
-んんっ……イイ感じです……= Nn...it feels good.
+んんっ……イイ感じです……=Nn...it feels good.
 そこっ……気持ちいいです……=Right there...feels good.
 んちゅ、ん……きもひいれふ……(気持ちいです)=Nchu, N....feefs gooph (N...feels good)
 れちゅ、んぅ……じっふり、ひらいれふ……(じっくりしたいです)=Nchu..N I wan eh dohn cahphuly (I want it done carefully)
