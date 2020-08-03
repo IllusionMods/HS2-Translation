@@ -13,7 +13,7 @@
 サンバイザー=Sun Visor
 うさ耳リボン=Bunny Ear Ribbon
 猫耳=Cat Ear
-ヘルメット=Worker Helmet
+ヘルメット=Helmet
 麦わら帽子=Straw Hat
 王冠=Crown
 シルクハット=Silk Hat

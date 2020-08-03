@@ -17,7 +17,7 @@
 花=Flower
 花のコサージュ=Flower Corsage
 ハイビスカス=Hibiscus
-ヘルメット=Worker Helmet
+ヘルメット=Helmet
 ヘッドホン=Headphones
 貝殻=Seashell
 キノコ=Mushroom
