@@ -1,0 +1,2 @@
+錨=Anchor
+ウェーブ=Wave
