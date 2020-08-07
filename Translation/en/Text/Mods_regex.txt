@@ -1,8 +1,7 @@
 ﻿//Regexes for mods and items translations
 
 #set exe HoneySelect2
-#set level 7
-#set level 3
+#set level 3,7
 
 // Translate a non latin word followed by latin letters or numbers, so the first word needs to be translated just once.
 // Example: Instead of "シャツA=Shirt A", "シャツ2=Shirt 2" and "シャツ[a4]=Shirt [a4]", only "シャツ=Shirt" is needed.
@@ -13,5 +12,4 @@ sr:"^(?<nonLatin>[^\u0000-\u024F]+)(?<latin_i>[\u0020-\u024F｢【｣】]+)$"=${
 // Example: Instead of "[Modder]シャツ(F_5)=[Modder] Shirt (F_5)", only "シャツ=Shirt" is needed
 sr:"^(?<latin_i>[\u0020-\u024F｢【｣】]+)(?<nonLatin>[^\u0000-\u024F]+)(?<latin2_i>[\u0020-\u024F｢【｣】]*)$"=${latin_i} ${nonLatin} ${latin2_i}
 
-#unset level 7
-#unset level 3
+#unset level 3,7
