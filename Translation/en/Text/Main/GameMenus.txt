@@ -40,6 +40,7 @@ r:"グループ *([0-9０-９]+)"=Group $1
 グループ編集=Groups
 衣装選択=Clothing
 //Player#
+プレイヤー衣装選択=Player Clothing
 
 // Dialogues
 キャラのメイク画面に移動します\nよろしいですか？=Open the character maker?
@@ -68,6 +69,12 @@ r:"グループ *([0-9０-９]+)"=Group $1
 //Player#
 １人目=1st Player
 ２人目=2nd Player
+
+//------------------------------------------------------------
+// Characters -> Edit -> Player Clothing
+//------------------------------------------------------------
+1人目衣装選択=1st Player Clothing
+２人目衣装選択=2nd Player Clothing
 
 //------------------------------------------------------------
 // Call Fur - Same screen as Fur's Room
@@ -145,3 +152,4 @@ Hを開始しますか？=Start a sex scene?
 グループ登録中=Registering group
 プレイヤー登録中=Registering as a player
 〇〇が達成されました=〇 has been achieved
+特別待遇を申し込む=Apply for special treatment
