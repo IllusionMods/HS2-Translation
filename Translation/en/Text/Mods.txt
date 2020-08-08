@@ -258,8 +258,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 //------------------------------------------------------------
 //Accessories -> Ears
 //------------------------------------------------------------
-[SENA]Wlヘッドセット右=[SENA] Wireles Headset Right
-[SENA]Wlヘッドセット左=[SENA] Wireles Headset Left
+[SENA]Wlヘッドセット右=[SENA] Wireless Headset Right
+[SENA]Wlヘッドセット左=[SENA] Wireless Headset Left
 イヤリング=Earring
 
 //------------------------------------------------------------
