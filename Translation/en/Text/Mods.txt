@@ -1,40 +1,26 @@
 //***********************************************************************
-//***********************************************************************
 // Translations for Mods
 //***********************************************************************
-//***********************************************************************
+
+// For a non latin word with latin characters/numbers in the beginning or in the end, just the non latin word needs to be translated.
+// Example: Instead of "シャツ2=Shirt 2", "シャツ[a4]=Shirt [a4]" and "[Modder]シャツ(F_5)=[Modder] Shirt (F_5)", only "シャツ=Shirt" is needs to be translated.
+// More complex formats need to be fully translated. Ex: "[Modder]シャツ1 + パンツ(F_7)" needs to be full translated as "[Modder] Shirt 1 + Pants (F_7)"
 
 //***********************************************************************
 // Sideloader Modpack - Skin, Clothes and Items
 //***********************************************************************
 
 //------------------------------------------------------------
-//Facial type -> Face Skin
-//------------------------------------------------------------
-r:"^タイプ([0-9]{2}) LIN$"=Type $1 LIN
-
-//------------------------------------------------------------
-//Eye -> Iris type
-//------------------------------------------------------------
-タイプ9_p=Type 9_p
-
-//------------------------------------------------------------
 //Body -> Skin type -> Build
 //------------------------------------------------------------
-
-普通(puffy)=Normal (puffy)
-ムキムキ(puffy)=Athletic (puffy)
-ポッチャリ(puffy)=Volutptous (puffy)
-スレンダー(puffy)=Slender (puffy)
 丰满=Chubby
 
 //------------------------------------------------------------
 //Body -> Suntan
 //------------------------------------------------------------
-[SENA]陸上A=[SENA] Sports A
+陸上=Sports
 [SENA]陸上A+足首=[SENA] Sports A + Ankle
-[SENA]陸上B=[SENA] Sports B
-[SENA]陸上B+足首=[SENA] Sports B+ Ankle
+[SENA]陸上B+足首=[SENA] Sports B + Ankle
 
 //------------------------------------------------------------
 //Pubic Hair
@@ -55,146 +41,90 @@ r:"^タイプ([0-9]{2}) LIN$"=Type $1 LIN
 //------------------------------------------------------------
 r:"^大力-免费-发型([0-9]{2})"=[DALI] Free Sharing Hairstyle $1
 オカッパ=Straight Bob
-ストレートロング[arrange]=Straight Long [arrange]
-ぱっつんロング[arrange]=Rounded Long [arrange]
-ボリュームポニー[notail]=Thick Ponytail [no tail]
-細ツインテール[notail]=Thin Twintails [no tail]
-ツイン前おさげ[notail]=Twin Front Tails [no tail]
-後ろおさげ[notail]=Ponytail Behind [no tail]
-ツーサイドアップ[notail]=Both Sides Up [no tail]
-横おさげ[notail]=Side Tail [no tail]
-サイドテール(左)[notail]=Side Tail (Left) [no tail]
-サイドテール(右)[notail]=Side Tail (Right) [no tail]
-HS ショート=HS short
-HS スマートショート=HS smart short
-HS テンショウ=HS Calve top
-HS ツーブロック=HS Sideways
-HS ミディアム=HS Medium
-HS シャギー=HS Shaggy
-HS オールバック=HS All Back
-HS セミロング=HS Semi Long
-HS バンダナ=HS Bandana
-
-//------------------------------------------------------------
-// Hair -> Bangs
-//------------------------------------------------------------
-はねっ毛2=Center Spikes 2
-はねっ毛3=Center Spikes 3
-姫カット2=Princess Cut 2
-姫カット3=Princess Cut 3
-姫カット4=Princess Cut 4
+サイドテール(左)[notail]=Side Tail (Left) [notail]
+サイドテール(右)[notail]=Side Tail (Right) [notail]
+スマートショート=Smart short
+ツーブロック=Sideways
+ミディアム=Medium
+シャギー=Shaggy
+オールバック=All Back
+バンダナ=Bandana
 
 //------------------------------------------------------------
 // Top
 //------------------------------------------------------------
+r:"^kunoichi.(.*)$"=Ninja Girl $1
 [XT]LTl蕾丝=[MOD] Lace
 HS旗袍(网)=HS China Dress (fishnet)
-HS旗袍=HS China Dress
-[shiraore]Tシャツ-DS=[shiraore] T-Shirt-DS
+旗袍=China Dress
+シャツ=Shirt
 ノースリーブセーラー=Sleeveless Sailor
+道着=Kimono
 夜莺-上衣=Nightingale Coat
 性感吊带裙=Sexy Suspender Dress
 旗袍短裙=Short China Dress
-旗袍短裙02=Short China Dress 02
-旗袍短裙03=Short China Dress 03
 短裙=Short Skirt
 空姐=Flight Attendant
 ガンツアウター=Gantz Outer
-kunoichi_kimono=Ninja Girl Kimono
-kunoichi_top=Ninja Girl Top
-kunoichi_top_simple=Simple Ninja Girl Top
-kunoichi_another=Another Ninja Girl
 八重樱=Yae Sakura
 オープンブラウス=Open Blouse
-オープンブラウス2=Open Blouse 2
-TシャツBig=T-Shirt Big
-ミニＴBig=Mini T-Shirt Big
-チビＴBig=Underbob Big
-ブラウス襟開きBig=Open Collar Blouse Big
-裸パーカーBig=Open Hoodie Big
-スポーツウェアBig=Sportswear Big
-裸カーディガンBig=Open Cardigan Big
-ボディーハーネスBig=Body Harness Big
-ボディーハーネスBig2=Body Harness Big2
-セーラー服Big=Sailor Suit Big
-リボンキャミソールBig=Ribbon Camisole Big
-ノースリーブラウスBig=Sleeveless Blouse Big
-魔女のネグリジェBig=Witch Negligee Big
-クリスマスポンチョBig=Christmas Poncho Big
-オープンショルダーBig=Open Shoulder Shirt Big
-[SENA]AMウェイトレス1=[SENA] AM Waitress 1
-[SENA]AMウェイトレス2=[SENA] AM Waitress 2
-[SENA]HB戦闘スーツ=[SENA] HB Officer Suit
-[SENA]HBジャケット=[SENA] HB Jacket
-[SENA]EVA RQジャケット1=[SENA] EVA RQ Jacket 1
+ウェイトレス=Waitress
+戦闘スーツ=Officer Suit
+武蔵セーラー襟=Musashi Sailor Collar
 [SENA]クノイチ着物(柄)=[SENA] Ninja Girl Kimono (pattern)
 [SENA]クノイチ着物(無地)=[SENA] Ninja Girl Kimono (plain)
-[SENA]警備長袖シャツ=[SENA] Security Long-Sleeved Shirt
-[SENA]警備冬制服=[SENA] Security Winter Uniform
-[SENA]警備ベスト=[SENA] Security Vest
+警備長袖シャツ=Security Long-Sleeved Shirt
+警備冬制服=Security Winter Uniform
+警備ベスト=Security Vest
 [SENA]Tシャツ大=[SENA] Large T-Shirt
-[SENA]バレーシャツM1=[SENA] Volleyball Shirt M1
-[SENA]バレーシャツM2=[SENA] Volleyball Shirt M2
-[SENA]バレーシャツM3=[SENA] Volleyball Shirt M3
-[SENA]バレーシャツM4=[SENA] Volleyball Shirt M4
+バレーシャツ=Volleyball Shirt
 [SENA]バレーシャツM5(長袖)=[SENA] Volleyball Shirt M5 (Long Sleeves)
 [SENA]バレーシャツM5(袖捲り)=[SENA] Volleyball Shirt M5 (Rolled up Sleeves)
 [SENA]バレーシャツM6(長袖)=[SENA] Volleyball Shirt M6 (Long Sleeves)
 [SENA]バレーシャツM6(袖捲り)=[SENA] Volleyball Shirt M6 (Rolled up Sleeves)
-[SENA]バレーシャツM7=[SENA] Volleyball Shirt M7
-[SENA]ジャージ=[SENA] Jersey
-[SENA]ジャージ前開け=[SENA] Open Jersey
+ジャージ=Jersey
+ジャージ前開け=Open Jersey
 タンクトップ=Tank Top
-タンクトップ2=Tank Top 2
 [XT工坊]BY殴打罗密欧和服实验=[XT Workshop] BY Beat Romeo Kimono Experiment
-道着2=Kimono 2
 
 //Male Tops
-[SENA]忍者装束上=[SENA] Ninja Top
-[SENA]トレーニングシャツ=[SENA] Training Shirt
-[SENA]警備シャツ=[SENA] Security Shirt
+忍者装束上=Ninja Top
+トレーニングシャツ=Training Shirt
+警備シャツ=Security Shirt
 
 //------------------------------------------------------------
 // Bottom
 //------------------------------------------------------------
 痴女プリーツ=Slutty Pleated Skirt
+大力-免费分享-DOA-A=[DALI] Free Sharing - DOA-A
 夜莺-裤=Nightingale Pants
 九分裤=Skinny Pants
 ガンツインナー=Gantz Inner
-[SENA]AMスカート=[SENA] AM Skirt
-[SENA]HBタイトスカート=[SENA] HB Tight Skirt
-[SENA]EVA RQ01スカート=[SENA] EVA RQ01 Skirt
-[SENA]EVA RQ01パンツ1=[SENA] EVA RQ01 Pants 1
-[SENA]警備タイトスカート=[SENA] Security Tight Skirt
-[SENA]TFスカート=[SENA] TF Skirt
-[SENA]バレースパッツM1=[SENA] Volleyball Spats M1
-[SENA]バレーブルマM2=[SENA] Volleyball Bloomers M2
-[SENA]バレーブルマM3=[SENA] Volleyball Bloomers M3
+スカート=Skirt
+パンツ=Pants
+武蔵スカート=Musashi Skirt
+警備タイトスカート=Security Tight Skirt
+もっこりスパッツ=Erect Spats
+バレースパッツ=Volleyball Spats
+バレーブルマ=Volleyball Bloomers
 
 //Male Bottoms
-[SENA]忍者装束（下）=[SENA] Ninja Bottom
-[SENA]トレーニングパンツ=[SENA] Training Pants
-[SENA]警備パンツ=[SENA] Security Pants
+忍者装束（下）=Ninja Bottom
+トレーニングパンツ=Training Pants
+警備パンツ=Security Pants
 
 //------------------------------------------------------------
 // Inner Top
 //------------------------------------------------------------
-大力-免费分享-DOA-A=[DALI] Free Sharing - DOA-A.
-ddaa33_穴開きスク水=ddaa33_Cut-out Swinsuit
-穴開きスク水(D4)=Cut-out Swinsuit (D4)
+穴開きスク水=Cut-out Swinsuit
 マイクロレース 紐ピン=Micro Lace Detached Strings
 マイクロビキニ 紐ピン=Micro Bikini Detached Strings
-[SENA]HBインナースーツ=[SENA] HB Inner Suit
-[SENA]サラシ=[SENA] Gauze Bindings
-[SENA]陸上トップ(A01)=[SENA] Sports Top (A01)
-[SENA]陸上トップ(A02)=[SENA] Sports Top (A02)
-[SENA]陸上トップ(A03)=[SENA] Sports Top (A03)
-[SENA]陸上トップ(M01)=[SENA] Sports Top (M01)
-[SENA]陸上トップ(M02)=[SENA] Sports Top (M02)
-[SENA]アスカスーツ=[SENA] Asuka Suit
-[SENA]TFブラトップ=[SENA] TF Bra Top
+インナースーツ=Inner Suit
+武蔵インナー=Musashi Inner
+陸上トップ=Sports Top
+アスカスーツ=Asuka Suit
+ブラトップ=Bra Top
 スリングショット改=Slingshot Detached Strings
-sr:"^(.*)\s*.nonip.$"=$1 [nonip]
 
 //------------------------------------------------------------
 // Inner Bottom
@@ -203,72 +133,43 @@ sr:"^(.*)\s*.nonip.$"=$1 [nonip]
 大力-免费分享-牛仔裤裤-裸穿=[DALI] Free Sharing - Jeans Pants - nude
 大力-免费分享-牛仔裤裤-裤袜穿=[DALI] Free Sharing - Jeans Pants - Pantyhose
 [SENA]EVA RQ01ショーツ1=[SENA] EVA RQ01 Shorts 1
-[SENA]褌=[SENA] Loincloth
-[SENA]もっこり褌=[SENA] Erect Loincloth
-[SENA]陸上ブルマ(A01)=[SENA] Sports Bloomers (A01)
-[SENA]陸上ブルマ(A02)=[SENA] Sports Bloomers (A02)
-[SENA]陸上ブルマ(A03)=[SENA] Sports Bloomers (A03)
-[SENA]陸上ブルマ(M01)=[SENA] Sports Bloomers (M01)
-[SENA]陸上ブルマ(M02)=[SENA] Sports Bloomers (M02)
-[SENA]バレーブルマM1=[SENA] Volley Bloomers M1
-ノーマル (DOWN)=Standard (DOWN)
-リボンレース (DOWN)=Ribbon Lace (DOWN)
-アダルティレース (DOWN)=Adult Lace (DOWN)
-ハーフレース (DOWN)=Half Lace (DOWN)
-フルレース (DOWN)=Full Lace (DOWN)
-マイクロレース (DOWN)=Micro Lace (DOWN)
-スポーツ (DOWN)=Sports (DOWN)
-ハイレッグ (DOWN)=High Leg (DOWN)
-Ｔバック (DOWN)=Thong (DOWN)
+もっこり褌=Erect Loincloth
+褌=Loincloth
+陸上ブルマ=Sports Bloomers
 
 //------------------------------------------------------------
 //Gloves
 //------------------------------------------------------------
-セーラーロングレングス=Sailor Long
-夜莺-护臂=Nightingale Armguards
-夜莺-手套=Nightingale Gloves
-夜莺-护臂手套=Nightingale Armguard Gloves
+武蔵グローブ=Musashi Gloves
+クノイチ手甲=Ninja Girl Forearm Pad
+指抜きグローブ=Fingerless Gloves
 ガンツグローブ=Gantz gloves
-kunoichi_glove=Ninja Girl Gloves
-[SENA]HB戦闘グローブ=[SENA] HB Combat Gloves
-[SENA]HB指抜きグローブ=[SENA] HB Fingerless Gloves
-[SENA]EVA RQ01手袋=[SENA] EVA RQ01 Gloves
-[SENA]クノイチ手甲=[SENA] Ninja Girl Forearm Pad
-[SENA]警備手袋=[SENA] Security Gloves
-[SENA]テーピング=[SENA] Taping
-[SENA]アスカアーム（日常）=[SENA] Asuka Arm (Daily)
-[SENA]アスカアーム（戦闘）=[SENA] Asuka Arm (Battle)
-[SENA]TFグローブ=[SENA] TF Glove
-[SENA]アームスリーブ=[SENA] Sleeve
-[SENA]アームスリーブ左=[SENA] Left Sleeve
-[SENA]アームスリーブ右=[SENA] Right Sleeve
-[SENA]指テーピング=[SENA] Finger Taping
+戦闘グローブ=Combat Gloves
+夜莺-护臂手套=Nightingale Armguard Gloves
+夜莺-手套=Nightingale Gloves
+夜莺-护臂=Nightingale Armguards
+セーラーロングレングス=Sailor Long
+警備手袋=Security Gloves
+テーピング=Taping
+アスカアーム（日常）=Asuka Arm (Daily)
+アスカアーム（戦闘）=Asuka Arm (Battle)
+アームスリーブ=Sleeve
+アームスリーブ左=Left Sleeve
+アームスリーブ右=Right Sleeve
+指テーピング=Finger Taping
 
 //Male Gloves
 [SENA]手甲=[SENA] Forearm Bands
 [SENA]手甲・脛当=[SENA] Forearm and Shin Bands
+ビブス=Training Vest
 
 //------------------------------------------------------------
 //Pantyhouse
 //------------------------------------------------------------
-[MOD] ストッキング=[MOD] Stockings
-[MOD] ストッキングTカバー=[MOD] Stockings T
-[MOD] ストッキングHカバー=[MOD] Stockings H
-[MOD] レースストッキング=[MOD] Lace Stockings
-[MOD] 網タイツ細目=[MOD] Fine Fishnet
-[MOD] 網タイツ中目=[MOD] Medium Fishnet
-[MOD] 網タイツ大目=[MOD] Large Fishnet
-[MOD] 穴あきストッキング=[MOD] Open Stockings
-[MOD] スパッツA=[MOD] Spats A
-[MOD] スパッツB=[MOD] Spats B
-[MOD] ショートスパッツ=[MOD] Short Spats
-[MOD] シンプルガーター=[MOD] Simple Garters
-[MOD] レースガーター=[MOD] Lace Garter
-[MOD] ベルトガーター=[MOD] Belt Garter
-紧身裤=Skinny Pants
-黑丝=Black Stockings
-T裆黑丝=Black Stockings T
-平裆黑丝=Black Stockings H
+スパッツ=Spats
+サスペンダー=Suspenders
+クノイチすね当て=Ninja Girl Shin Pad
+[SENA]半脱ぎ穴開ストLOW=[SENA] Stockings LOW
 中分渐变连裤袜薄=Different Left-Right Gradient Pantyhose (Thin)
 中分连裤袜厚=Different Left-Right Gradient Pantyhose (Thick)
 上下三色渐变连裤袜薄=Vertical Gradient Pantyhose (Thin)
@@ -277,15 +178,19 @@ T裆黑丝=Black Stockings T
 长筒袜渐变三色=Vertical Gradient Stockings
 长筒袜左右不同花边=Different Left-Right Gradient Stockings (Lace)
 长筒袜渐变三色花边=Vertical Gradient Stockings (Lace)
+紧身裤=Skinny Pants
+黑丝=Black Stockings
+T裆黑丝=Black Stockings T
+平裆黑丝=Black Stockings H
 [SENA]HBショーツ=[SENA] HB shorts
-[SENA]半脱ぎ穴開ストLOW=[SENA] Stockings LOW
-[SENA]クノイチすね当て=[SENA] Ninja Girl Shin Pad
+武蔵金属パーツ=Musashi Metal Parts
+[MOD] ストッキングTカバー=[MOD] Stockings T
+[MOD] ストッキングHカバー=[MOD] Stockings H
 [SENA]半脱ぎ穴開きストッキング=[SENA] Stockings
 [SENA]ゼッケン上下=[SENA] Running Number Up and Down
 [SENA]ゼッケン上=[SENA] Running Number Up
-[SENA]アスカ首=[SENA] Asuka Neck
+アスカ首=Asuka Neck
 [SENA]アスカ首+レッグ（ヒール無し）=[SENA] Asuka Neck + Leg (without heels)
-[SENA]TFサスペンダー=[SENA] TF Suspenders
 [SENA]サポーターM1上下=[SENA] Elbow and Knee Pads M1
 [SENA]サポーターM1上=[SENA] Elbow Pads M1
 [SENA]サポーターM1下=[SENA] Knee Pads M1
@@ -294,22 +199,19 @@ T裆黑丝=Black Stockings T
 //Socks
 //------------------------------------------------------------
 蕾丝边黑丝=Lace High Tights
-蕾丝边黑丝02=Lace High Tights 02
 ガンツスーツ=Gantz Garter
-kunoichi_socks=Ninja Girl Socks
-[SENA]足袋=[SENA] Big Toe Socks
-[SENA]TFショートソックス=[SENA] TF Short Socks
-[SENA]ハイソックス長=[SENA] High Socks
-｢SENA｣ソックス+レッグスリーブ="SENA" Socks + Leg Sleeves
-｢SENA｣ソックス+レッグスリーブ左="SENA" Socks + Left Leg Sleeve
-｢SENA｣ソックス+レッグスリーブ右="SENA" Socks + Right Leg Sleeve
+ショートソックス=Short Socks
+ハイソックス長=High Socks
+｢SENA｣ソックス+レッグスリーブ=[SENA] Socks + Leg Sleeves
+｢SENA｣ソックス+レッグスリーブ左=[SENA] Socks + Left Leg Sleeve
+｢SENA｣ソックス+レッグスリーブ右=[SENA] Socks + Right Leg Sleeve
 
 //------------------------------------------------------------
 //Shoes
 //------------------------------------------------------------
-【CC353】超高跟鞋011 <h01011>=[CC353] Super High Heels 011 <h01011>
-【CC353】高跟鞋002 <h03002>=[CC353] High Heels 002 <h03002>
-r:"^.Lbxdd.鱼嘴高跟(.{3})$"=[Lbxdd] Toeless High Heels $1
+超高跟鞋=Super High Heels
+高跟鞋=High Heels
+鱼嘴高跟=Toeless High Heels
 艦ブーツ=Ship Boots
 大力-免费分享-三变高跟A作者Q3617354271=[DALI] Free Sharing Three - High Heels A - Author Q3617354271
 大力-免费分享-三变高跟B作者Q3617354271=[DALI] Free Sharing Three - High Heels B - Author Q3617354271
@@ -317,50 +219,54 @@ r:"^.Lbxdd.鱼嘴高跟(.{3})$"=[Lbxdd] Toeless High Heels $1
 大力-免费分享-三变皮靴-作者Q3617354271=[DALI] Free Sharing Three - Leather Boots - Author Q3617354271
 夜莺-靴=Nightingale Boots
 ガンツブーツ=Gantz Boots
-kunoichi_shoes=Ninja Girl Shoes
 厚底ハイヒールパンプス=Platform Heels
-[SENA]HBブーツ=[SENA] HB Hoots
-[SENA]EVA RQ01ブーツ=[SENA] EVA RQ01 Boots
-[SENA]EVA RQ01ブーツL=[SENA] EVA RQ01 Boots L
-[SENA]クノイチ草鞋=[SENA] Ninja Girl Sandals
-[SENA]陸上スパイク(A1)=[SENA] Football Cleats (A1)
-[SENA]陸上スパイク(M1)=[SENA] Football Cleats (M1)
-[SENA]アスカレッグ（日常用）=[SENA] Asuka Leg (Everyday)
+ブーツ=Boots
+武蔵ブーツ=Musashi Boots
+クノイチ草鞋=Ninja Girl Sandals
+陸上スパイク=Football Cleats
+[SENA]アスカレッグ（日常用）=[SENA] Asuka Leg (Dialy)
 [SENA]アスカレッグ（戦闘用）=[SENA] Asuka Leg (Battle)
-[SENA]TFシューズ=[SENA] TF Shoes
-[SENA]バレーボールシューズ=[SENA] Volleyball Shoes
-[tan90]高跟鞋=[tan90] High Heels
+シューズ=Shoes
+サンダル=Sandals
+バレーボールシューズ=Volleyball Shoes
 
 //Male Shoes
-[SENA]忍者草鞋=[SENA] Ninja Sandals
+忍者草鞋=Ninja Sandals
 
 //------------------------------------------------------------
 //Accessories -> Head
 //------------------------------------------------------------
-r:"^つけ毛 (.{3,6})$"=Hair Extension $1
+r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
+
+鉢巻=Headband
 うさ耳リボンカチューシャ=Rabbit Ears Ribbon Headband
 大力_发光耳机-作者q3344929957=[DALI] Luminous Headphones - Author q3344929957
-r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 夜莺-兜帽=Nightingale Hood
-エクステ(MOD)=Extensions (MOD)
-[SENA]HBヘルメット=[SENA] HB Helmet
 [SENA]HBヘルメット(マスクオフ)=[SENA] HB Helmet (Mask Off)
-[SENA]忍者頭巾=[SENA] Ninja hood
-[SENA]警備制帽（女）=[SENA] Security Cap (female)
-[SENA]警備制帽（男）=[SENA] Security Cap (male)
-[SENA]鉢巻=[SENA] Headband
-[SENA]アスカ脚メカパーツ=[SENA] Asuka Leg Mecha Parts
-[SENA]アスカメカサークル=[SENA] Asuka Mecha Circle
+武蔵ヘアバンド=Musashi Hairband
+武蔵エクステ=Musashi Extension
+忍者頭巾=Ninja Hood
+警備制帽（女）=Security Cap (female)
+警備制帽（男）=Security Cap (male)
+アスカ脚メカパーツ=Asuka Leg Mecha Parts
+[SENA]アスカメカサークル=Asuka Mecha Circle
+キャップ=Cap
+ドルフヘッド=Dolphin Head
+ブー二ーハット=Boonie Hat
+つけ毛=Hair Extension
 
 //------------------------------------------------------------
 //Accessories -> Ears
 //------------------------------------------------------------
-[SENA]TFイヤリング=[SENA] TF Earrings
+[SENA]Wlヘッドセット右=[SENA] Wireless Headset Right
+[SENA]Wlヘッドセット左=[SENA] Wireless Headset Left
+イヤリング=Earring
 
 //------------------------------------------------------------
 //Accessories -> Glasses
 //------------------------------------------------------------
 夜莺-眼罩=Nightingale Blindfold
+武蔵メガネ=Musashi Glasses
 
 //------------------------------------------------------------
 //Accessories -> Face
@@ -369,45 +275,47 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 大力-分享-面纱-反光版-作者Q3344929957=[DALI] Sharing Veil Reflective - Author Q3344929957
 夜莺-面罩=Nightingale-Mask
 ガンツ顎=Gantz Jaw
-[SENA]ドクロ仮面=[SENA] Skull Mask
+ドクロ仮面=Skull Mask
 
 //------------------------------------------------------------
 //Accessories -> Neck
 //------------------------------------------------------------
 夜莺-披风=Nightingale-Cloak
-kunoichi_scarf=Ninja Girl Scarf
-[SENA]AMネックレス=[SENA] AM Necklace
-[SENA]AMリボン=[SENA] AM Ribbon
-[SENA]AMネームプレート=[SENA] AM Nameplate
-[SENA]AM伝票クリップ=[SENA] AM Slip Clip
-[SENA]AM伝票クリップトップ=[SENA] AM Slip Clip Top
-[SENA]EVA RQ01チョーカー=[SENA] EVA RQ01 Choker
-[SENA]忍者マフラー=[SENA] Ninja Muffler
-[SENA]警備階級章=[SENA] Security Rank Insignia
-[SENA]ストップウォッチ=[SENA] Stopwatch
-[SENA]メダル=[SENA] Medal
+ネックレス=Necklace
+ネームプレート=Nameplate
+伝票クリップ=Slip Clip
+伝票クリップトップ=Slip Clip Top
+チョーカー=Choker
+武蔵しめ縄=Musashi Shimenawa
+武蔵チョーカー=Musashi Choker
+忍者マフラー=Ninja Muffler
+警備階級章=Security Rank Insignia
+ストップウォッチ=Stopwatch
+メダル=Medal
 
 //------------------------------------------------------------
 //Accessories -> Waist
 //------------------------------------------------------------
-[SENA]小太刀（納刀）=[SENA] Small Sword
-[SENA]小太刀（鞘）=[SENA] Small Sword (Sheath)
+武蔵武器ベルト=Musashi Weapon Belt
+小太刀（納刀）=Small Sword (Sword)
+小太刀（鞘）=Small Sword (Sheath)
 [SENA]巾着=[SENA] Old Coin Purse
 [SENA]篠笛=[SENA] Japanese Flute
-[SENA]忍刀（納刀）=[SENA] Ninja Sword
-[SENA]忍刀（鞘）=[SENA] Ninja Sword (Sheath)
-[SENA]瓢箪水筒=[SENA] Gourd Water Bottle
-[SENA]帯革=[SENA] Leather Belt
-[SENA]ホルスター=[SENA] Holster
-[SENA]手錠ケース=[SENA] Handcuff Case
-[SENA]警棒ホルダー=[SENA] Baton Holder
-[SENA]受令機=[SENA] Police Radio
+忍刀（納刀）=Ninja Sword (Sword)
+忍刀（鞘）=Ninja Sword (Sheath)
+瓢箪水筒=Gourd Water Bottle
+帯革=Leather Belt
+ホルスター=Holster
+手錠ケース=Handcuff Case
+警棒ホルダー=Baton Holder
+受令機=Police Radio
 
 //------------------------------------------------------------
 //Accessories -> Back
 //------------------------------------------------------------
-[SENA]HBカタナ（全）=[SENA] HB Katana (All)
-[SENA]HBカタナ（鞘）=[SENA] HB Katana (Sheath)
+カタナ（全）=Katana (All)
+カタナ（鞘）=Katana (Sheath)
+武蔵肩掛け上着=Musashi Shoulder Jacket
 
 //------------------------------------------------------------
 //Accessories -> Arms
@@ -417,29 +325,33 @@ kunoichi_scarf=Ninja Girl Scarf
 [SENA]腕章(防犯)=[SENA] Armband (Officer)
 [SENA]アスカ武器パック(収納)=[SENA] Asuka Weapon Pack (Stored)
 [SENA]アスカ武器パック（ブレード）=[SENA] Asuka Weapon Pack (Blade)
-[SENA]TF肘アーマー=[SENA] TF Elbow Armor
+肘アーマー=Elbow Armor
 
 //------------------------------------------------------------
 //Accessories -> Hands
 //------------------------------------------------------------
-[SENA]AMブレスレット=[SENA] AM Bracelet
-[SENA]HBジャイロ=[SENA] HB Gyro
+ブレスレット=Bracelet
+ジャイロ=Gyro
 [SENA]HBカタナ(斬）=[SENA] HB Katana (Slash)
 [SENA]HBカタナ(銃）=[SENA] HB Katana (Gun)
-[SENA]EVA RQ腕輪1=[SENA] EVA RQ Bangle 1
-[SENA]小太刀(抜刀）=[SENA] Small Sword
-[SENA]忍刀(抜刀）=[SENA] Ninja Sword
-[SENA]警棒（収納）=[SENA] Baton (Retracted)
-[SENA]警棒（伸長）=[SENA] Baton (Extended)
-[SENA]デジタル腕時計=[SENA] Digital Watch
+腕輪=Bangle
+[SENA]小太刀(抜刀）=[SENA] Small Sword (Sword)
+[SENA]忍刀(抜刀）=[SENA] Ninja Sword (Sword)
+警棒（収納）=Baton (Retracted)
+警棒（伸長）=Baton (Extended)
+デジタル腕時計=Digital Watch
 
 //------------------------------------------------------------
 //Accessories -> Legs
 //------------------------------------------------------------
-[SENA]アスカ武器ブレード=[SENA] Asuka Weapon Blade
+アスカ武器ブレード=Asuka Weapon Blade
 
 //------------------------------------------------------------
 //Accessories -> Crotch
 //------------------------------------------------------------
-陰毛F=Pubic Hair F
-陰毛R=Pubic Hair R
+陰毛=Pubic Hair
+
+//------------------------------------------------------------
+//Patterns
+//------------------------------------------------------------
+例の壁=Example Wall

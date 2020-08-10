@@ -17,7 +17,7 @@
 左足=Left Foot
 左尻=Left Buttcheek
 右尻=Right Buttcheek
-左肩=L Should
+左肩=L Shoulder
 左腕=Left Forearm
-右肩=R Should
+右肩=R Shoulder
 右腕=Right Forearm
