@@ -340,6 +340,20 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 警棒（収納）=Baton (Retracted)
 警棒（伸長）=Baton (Extended)
 デジタル腕時計=Digital Watch
+釘バット=Spiked Bat
+金属バット=Metal Bat
+出刃ブレード=Knife
+
+//Haiyore! Nyaruko-san
+バールのような物=Some Kind of Unspeakable Bar Thing
+
+//Saylor Moon Toys
+月スティック=Moon Stick
+月スティック（水晶）=Moon Stick (Crystal)
+星スティック（火）=Star Power Stick (Fire)
+星スティック（水）=Star Power Stick (Water)
+星スティック（木）=Star Power Stick (Wood)
+星スティック（金）=Star Power Stick (Gold)
 
 //------------------------------------------------------------
 //Accessories -> Legs
