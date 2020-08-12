@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 ハートサングラス=Heart Sunglasses
+=======
+//
+// Dumped for Honey Select 2 v1.1.4 by Text Dump v1.4.1
+//
+//ハートサングラス=
+>>>>>>> origin/clean-dump
