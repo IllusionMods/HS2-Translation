@@ -1,7 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-表示名=Display Name
 前待機=About To Begin
 弱ピストン=Slow Loop
 強ピストン=Fast Loop
