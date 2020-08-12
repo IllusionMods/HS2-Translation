@@ -4,7 +4,7 @@
 床壁=Floors & Walls
 部屋=Rooms
 天井=Ceilings
-設置物=Installed Objects
+設置物=Installed Objs
 建造物=Structures
 自然物=Nature
 環境=Environment

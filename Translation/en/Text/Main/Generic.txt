@@ -151,3 +151,14 @@ H=Sex
 本当に削除しますか？\n<color%3D#DE4529FF>このキャラにはパラメータが含まれています。</color>=<color%3D#DE4529FF>Character status will also be deleted.</color>\nDo you wish to continue?
 本当に上書きしますか？=Overwrite file?
 本当に上書きしますか？\n<color%3D#DE4529FF>上書きするとパラメータは初期化されます。</color>=<color%3D#DE4529FF>Overwriting will reset the character status to default settings.</color>\nDo you wish to continue?
+
+// fix occasional with Graphic Level Settings and Birthday Month/Day
+1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9

@@ -1,4 +1,4 @@
-﻿//Regexes for mods and items translations
+//Regexes for mods and items translations
 
 #set exe StudioNEOV2
 

@@ -8,3 +8,5 @@
 /CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
 
 /CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory=UGUI_HorizontalOverflow(wrap)
+
+/CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=AutoResize(true)
