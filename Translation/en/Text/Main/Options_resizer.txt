@@ -1,0 +1,3 @@
+/Config(Clone)/Canvas/MainWindow=IgnoreFontSize()
+/Config(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.9)
+///Config(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/NodeGame/Content/UrineDraw=UGUI_HorizontalOverflow(overflow)

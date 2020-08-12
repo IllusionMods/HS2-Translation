@@ -121,16 +121,16 @@ BGM選択=Select BGM
 快感ゲージ表示=Pleasure Gauge
 操作ガイド表示=Control Guide
 カメラ初期化判断=Reset Camera Determination
-プレイヤーの表示=Display Player
+プレイヤーの表示=Player Display
 プレイヤーの男根=Player Penis
 プレイヤーの服=Player Clothes
 プレイヤーのアクセサリー=Player Accessories
 プレイヤーの靴=Player Shoes
-２人目のプレイヤーの表示=Display 2nd Player
-２人目のプレイヤーの男根=2nd Player's Penis
-２人目のプレイヤーの服=2nd Player's Clothes
-２人目のプレイヤーのアクセサリー=2nd Player's Accessories
-２人目のプレイヤーの靴=2nd Player's Shoes
+２人目のプレイヤーの表示=Player 2 Display 
+２人目のプレイヤーの男根=Player 2 Penis
+２人目のプレイヤーの服=Player 2 Clothes
+２人目のプレイヤーのアクセサリー=Player 2 Accessories
+２人目のプレイヤーの靴=Player 2 Shoes
 
 // Checkbox
 する=Yes
@@ -143,13 +143,13 @@ BGM選択=Select BGM
 // Misc Settings
 汁表示=Semen Display
 尿描画方法=Urine Display
-尿発生条件=Urine Condit.
-潮吹き描画方法=Squirting Disp.
+尿発生条件=Urine Condition
+潮吹き描画方法=Squirting Display
 潮吹き発生条件=Squirting Condition
-１人目 視線=Eye Track (Char 1)
-１人目 首の向き=Head Track (Char 1)
-２人目 視線=Eye Track (Char 2)
-２人目 首の向き=Head Track (Char 2)
+１人目 視線=Char 1 Eye Tracking
+１人目 首の向き=Char 1 Head Tracking
+２人目 視線=Char 2 Eye Tracking
+２人目 首の向き=Char 2 Head Tracking
 脱力制御=Tiredness Controls
 逃走制御=Escape Controls
 
