@@ -107,6 +107,7 @@ HS旗袍(网)=HS China Dress (fishnet)
 もっこりスパッツ=Erect Spats
 バレースパッツ=Volleyball Spats
 バレーブルマ=Volleyball Bloomers
+デニムスカート=Denim Skirt
 
 //Male Bottoms
 忍者装束（下）=Ninja Bottom
