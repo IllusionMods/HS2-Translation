@@ -21,6 +21,8 @@
 陸上=Sports
 [SENA]陸上A+足首=[SENA] Sports A + Ankle
 [SENA]陸上B+足首=[SENA] Sports B + Ankle
+乳神焼け（グローブなし）=Busty Goddess Tan (Without Gloves)
+乳神焼け（グローブあり）=Busty Goddess Tan (With Gloves)
 
 //------------------------------------------------------------
 //Pubic Hair
@@ -49,6 +51,11 @@ r:"^大力-免费-发型([0-9]{2})"=[DALI] Free Sharing Hairstyle $1
 シャギー=Shaggy
 オールバック=All Back
 バンダナ=Bandana
+
+//------------------------------------------------------------
+//Hair -> Bangs Settings
+//------------------------------------------------------------
+kuangsan=Kurumi
 
 //------------------------------------------------------------
 // Top
@@ -86,6 +93,9 @@ HS旗袍(网)=HS China Dress (fishnet)
 ジャージ前開け=Open Jersey
 タンクトップ=Tank Top
 [XT工坊]BY殴打罗密欧和服实验=[XT Workshop] BY Beat Romeo Kimono Experiment
+例の紐β="That" String β
+例の紐α="That" String α
+ljlsdq_kuangsan=Kurumi
 
 //Male Tops
 忍者装束上=Ninja Top
@@ -126,6 +136,8 @@ HS旗袍(网)=HS China Dress (fishnet)
 アスカスーツ=Asuka Suit
 ブラトップ=Bra Top
 スリングショット改=Slingshot Detached Strings
+乳神ワンピ=Busty Goddess Dress
+乳神ワンピ（透け）=Busty Goddess Dress (Sheer)
 
 //------------------------------------------------------------
 // Inner Bottom
@@ -158,6 +170,7 @@ HS旗袍(网)=HS China Dress (fishnet)
 アームスリーブ左=Left Sleeve
 アームスリーブ右=Right Sleeve
 指テーピング=Finger Taping
+乳神グローブ=Busty Goddess Gloves
 
 //Male Gloves
 [SENA]手甲=[SENA] Forearm Bands
@@ -255,6 +268,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 ドルフヘッド=Dolphin Head
 ブー二ーハット=Boonie Hat
 つけ毛=Hair Extension
+民国帽子=Republic of China Hat
+乳神アクセ=Busty Goddess Accessory
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -293,6 +308,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 警備階級章=Security Rank Insignia
 ストップウォッチ=Stopwatch
 メダル=Medal
+乳神チョーカー=Busty Goddess Choker
 
 //------------------------------------------------------------
 //Accessories -> Waist
