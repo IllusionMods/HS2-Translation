@@ -44,6 +44,7 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 | -1    | (global)          |
 | 0     | Dialogs           |
 | 2     | Main Menu         |
+| 3     | Character Maker   |
 | 4     | "Home" scene      |
 | 6     | ADV dialog scenes |
 | 7     | H scenes          |
