@@ -1,0 +1,38 @@
+MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/Guides/GuideOption(Clone)/Label=ChangeFontSizeByPercentage(0.75)
+MapScene/MapUI(Clone)/CommandCanvas/ChoiceUI(Clone)/Guides/GuideOption(Clone)/Label=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/BasePanel=ChangeFontSizeByPercentage(0.75)
+MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text=ChangeFontSizeByPercentage(0.9)
+MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text=ChangeFontSizeByPercentage(0.9)
+
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel/Viewport/Content/CraftItemOption(Clone)/AnimationRoot/Name/Label=ChangeFontSizeByPercentage(0.85)
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel/Viewport/Content/CraftItemOption(Clone)/AnimationRoot/Name/Label=ChangeFontSizeByPercentage(0.85)
+
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/PlantPanel/Infomation/IconText/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/PlantInfoPanel/Infomation/TimeTextLayout/Layout/TimeText=ChangeFontSizeByPercentage(0.95)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/PlantInfoPanel/Infomation/TimeTextLayout/Layout/ResultText=ChangeFontSizeByPercentage(0.95)
+
+MapScene/MapUI(Clone)/CommandCanvas/SpendMoneyUI(Clone)/Window=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Temperature/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Motivation/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/H/Text=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/darkness/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/sociability/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/risk/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/hentai/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/Instinct/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/Humanity/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/Reliability/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/joshi-pow/Text=ChangeFontSizeByPercentage(0.65)
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/Text=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/NormalSkill=ChangeFontSizeByPercentage(0.9)
+
+MapScene/MapUI(Clone)/CommandCanvas/PhotoShotUI(Clone)/HowToGroup=ChangeFontSizeByPercentage(0.7)
+
+CraftScene/Canvas/Add/List/Text Category=UGUI_HorizontalOverflow(overflow)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=UGUI_VerticalOverflow(truncate)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=ChangeFontSizeByPercentage(1.29)
