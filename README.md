@@ -20,12 +20,13 @@ English fan translation project for Honey Select 2. The translations are applied
 
 ## Contribution
 
-Any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience you can help by proofreading or using Google translate or other translation services and then cleaning up the translation using sanity and a bit of logic. Absolutely no raw machine translations will be accepted, users can use [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases) for that.
+Any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience you can help by proofreading or using Google translate or other translation services and then cleaning up the translation using sanity and a bit of logic. Raw machine translation must be kept in its designated folder, but is preferable to avoid them.
 
 Translations are all inside of `Bepinex\Translation\en\` folder. They are then split into the following folders:
 - `RedirectedResources` - Replacements for strings embedded in asset files. Preferred over `Text` for accuracy and performance.
 - `Text` - Normal text replacements and modifications.
-- `Text\Localizations` - Strings under  this folder were dumped via TextDump. Translations can be added for missing entries, but new entries should not be added or merging future dumps will become difficult.
+- `Text\Localizations` - Strings under this folder were dumped via TextDump. Translations can be added for missing entries, but new entries should not be added or merging future dumps will become difficult.
+- `Text\zz_MachineTranslations` - All raw machine translations (like google translate) go here. Translated/cleaned up entries must be correctly sent to other folders. The goal is to proper translate until this folder becomes empty.
 - `Texture` - Image replacements.
 
 Coordinate with other translators on the [Illusion Soft Discord server](https://discord.gg/illusionsoft) #translation channel. To avoid translation conflicts please ask if anyone is working on a file. If you have any questions about the quality of your translations, ask for advice on the server.
@@ -33,7 +34,7 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 ### How to add or improve translations
 
 - If you want to make a simple edit simply open the file in question and click edit. After you are done editing, commit the changes and stall a pull request.
-- If you have more translations to submit [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. Again, no raw machine translations will be accepted. Proper capitalization, punctuation, and spelling is a must.
+- If you have more translations to submit [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. Again, avoid raw machine translations. Proper capitalization, punctuation, and spelling is a must.
 
 ## Text Translations
 

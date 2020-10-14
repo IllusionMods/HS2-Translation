@@ -56,7 +56,7 @@
 ライト縦=Vertical
 ライト横=Horizontal
 //ライト強さ=Strength
-補助ライト=Front
+補助ライト=Auxiliary Light
 色を初期化=Reset color
 
 //------------------------------------------------------------
