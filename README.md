@@ -40,18 +40,22 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 
 ### Known Scope Levels
 
-| Level | Description       |
-|------:|-------------------|
-| -1    | (global)          |
-| 0     | Dialogs           |
-| 2     | Main Menu         |
-| 3     | Character Maker   |
-| 4     | "Home" scene      |
-| 6     | ADV dialog scenes |
-| 7     | H scenes          |
-| 8     | Lobby             |
-| 9     | Fur's Room        |
-| 14    | Character Search  | 
+| Level | Description           |
+|------:|-----------------------|
+| -1    | (global)              |
+| 0     | Dialogs               |
+| 1     | Settings Menu         |
+| 2     | Main Menu             |
+| 3     | Character Maker       |
+| 4     | My Room               |
+| 6     | ADV dialog scenes     |
+| 7     | H scenes              |
+| 8     | Lobby                 |
+| 9     | Fur's Room            |
+| 10    | Card Uploader         |
+| 11    | HS/AI Downloader      |
+| 13    | Network Splash Screen |
+| 14    | Character Search      |
 
 ## Resource Translations
 
