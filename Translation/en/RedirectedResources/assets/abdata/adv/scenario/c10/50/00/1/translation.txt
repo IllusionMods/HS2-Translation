@@ -16,7 +16,7 @@
 //隷属{0}=
 //お話……お話……うぅ、特に話題が思いつきません。貴方は何かありますか？=
 //まずは、貴方のお話を聞かせてください。私、これでも聞き上手と言われていますので。=
-//CHOICE:親身になって話す=
-//CHOICE:積極的に話す=
-//CHOICE:受け身になって話す=
-//CHOICE:エッチな話でも=
+CHOICE:親身になって話す=Speak tenderly
+CHOICE:積極的に話す=Speak aggressively
+CHOICE:受け身になって話す=Speak passively
+CHOICE:エッチな話でも=Tell a lewd story

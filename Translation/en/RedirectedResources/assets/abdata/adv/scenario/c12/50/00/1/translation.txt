@@ -16,7 +16,7 @@
 //隷属{0}=
 //おしゃべり？　おしゃぶりじゃなくて？　まぁ、別にかまわんけどな。=
 //お話ねぇ……言葉攻めの練習でもするのか？　分かった、付き合ってやるよ。=
-//CHOICE:親身になって話す=
-//CHOICE:積極的に話す=
-//CHOICE:受け身になって話す=
-//CHOICE:エッチな話でも=
+CHOICE:親身になって話す=Speak tenderly
+CHOICE:積極的に話す=Speak aggressively
+CHOICE:受け身になって話す=Speak passively
+CHOICE:エッチな話でも=Tell a lewd story

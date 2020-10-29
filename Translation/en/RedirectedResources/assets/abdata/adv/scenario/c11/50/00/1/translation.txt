@@ -16,7 +16,7 @@
 //隷属{0}=
 //はい。貴方にご満足頂ける様に、尽力致します。=
 //はい、盛り上げ役として頑張ります。=
-//CHOICE:親身になって話す=
-//CHOICE:積極的に話す=
-//CHOICE:受け身になって話す=
-//CHOICE:エッチな話でも=
+CHOICE:親身になって話す=Speak tenderly
+CHOICE:積極的に話す=Speak aggressively
+CHOICE:受け身になって話す=Speak passively
+CHOICE:エッチな話でも=Tell a lewd story

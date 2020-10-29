@@ -11,7 +11,7 @@
 //用件{0}=
 //言わなくても分かっていますよ。エッチですよね？　貴方の目、もう完全に私しか見ていませんもの。=
 //お話ですか？　エッチですか？　なんて、聞くまでもありませんよね。エッチ……しましょう？=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

@@ -11,7 +11,7 @@
 //用件{0}=
 //では、こちらへ……早速、子種を注いで下さいませ。=
 //善は急げと申しますので、子作り致しましょう。=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back

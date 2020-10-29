@@ -11,7 +11,7 @@
 //用件{0}=
 //用件はわかってるよ。俺とセックスをするためなんだよな？=
 //一応聞いておくけど、俺とのセックス以外に何か用があるのか？=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Ask to chat
+CHOICE:Hしたい=Ask for sex
+CHOICE:なんでもない=It's nothing
+CHOICE:元に戻って=Go back
