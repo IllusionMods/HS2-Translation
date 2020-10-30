@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
+//
+汎用呼吸=Generic Breathing
+喘ぎ ゆっくり=Slow Breathing
+喘ぎ はやい=Fast Breathing
+喘ぎ 絶頂前＋絶頂=Before Climax + Climax Breathing
+奉仕 ゆっくり=Slow Service
+奉仕 はやい=Fast Service
+奉仕 絶頂前=Service Before Climax
+奉仕 絶頂＋事後=Service Climax + After Climax

@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
+//
+基本=Basic
+ポーズ=Pose
+感情=Emotions
+アクション=Action

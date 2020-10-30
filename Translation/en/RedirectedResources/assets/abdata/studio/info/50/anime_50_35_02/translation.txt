@@ -1,0 +1,24 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
+//
+//表示名=
+喜1=Happy 1
+喜2=Happy 2
+喜3=Happy 3
+喜4=Happy 4
+怒1=Angry 1
+怒2=Angry 2
+怒3=Angry 3
+怒4=Angry 4
+哀1=Sad 1
+哀2=Sad 2
+哀3=Sad 3
+哀4=Sad 4
+恥1=Shame 1
+恥2=Shame 2
+恥3=Shame 3
+恥4=Shame 4
+依存1=Dependence 1
+依存2=Dependence 2
+依存3=Dependence 3
+依存4=Dependence 4

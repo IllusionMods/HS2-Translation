@@ -1,0 +1,5 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
+//
+前髪=Bangs
+後髪=Rear Hair

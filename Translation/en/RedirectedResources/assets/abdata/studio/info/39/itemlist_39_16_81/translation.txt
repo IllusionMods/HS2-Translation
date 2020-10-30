@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.4 by Text Dump v1.4.1
 //
-//ビーチチェア=
-//ビーチパラソル=
+ビーチチェア=Beach Chair
+ビーチパラソル=Beach Parasol
 //サーフボード=
 //かき氷機=
 //かき氷=

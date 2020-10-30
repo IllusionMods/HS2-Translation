@@ -1,0 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
+//
+追加=Add Point
+//追加女H=
+//追加男H=
