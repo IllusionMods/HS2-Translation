@@ -2,11 +2,11 @@
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
 //
 //名称=
-//特別待遇室=
-//ナイトプール=
-//プレイルーム=
-//触手部屋=
-//電車=
+特別待遇室=VIP room
+ナイトプール=Night pool
+プレイルーム=Play room
+触手部屋=Tentacle room
+電車=train
 //満員電車=
-//教会=
-//夜の公園=
+教会=Church
+夜の公園=Night park
