@@ -21,12 +21,14 @@ r:"グループ *([0-9０-９]+)"=Group $1
 待ち合わせ場所に移動しますか？=Go to the lobby?
 タイトルに戻りますか？=Return to the title screen?
 寝ますか？=Do you want to sleep?
+特別待遇室に移動します\nよろしいですか？=Go to the VIP Lobby?
 
 //------------------------------------------------------------
 // Leave Room
 //------------------------------------------------------------
 待ち合わせをする=Call a Girl
 館内を回る=Walk the Hall
+特別待遇室に行く=Go to the VIP Lobby
 
 //------------------------------------------------------------
 // Characters
@@ -84,6 +86,7 @@ r:"グループ *([0-9０-９]+)"=Group $1
 ヘルプ=Help
 Hをお願いする=Ask for Sex
 容姿の変更=Change Fur Appearance
+■特別待遇室へ行く=■ Go to the VIP Lobby
 
 // Fur's Room Screen Dialogues
 キャラ検索画面に移動します\nよろしいですか？=Open the character finder screen?
@@ -145,6 +148,47 @@ Hを開始しますか？=Start a sex scene?
 //------------------------------------------------------------
 // Text\Main\HScenes.txt
 
+
+//************************************************************
+// Vip Lobby (DX Expansion)
+//************************************************************
+プラン選択=Select Service
+シトリーとHする=Sex with Sitri
+シトリーの容姿を変更する=Change Sitri Appearance
+
+//------------------------------------------------------------
+// Select Service Menu
+//------------------------------------------------------------
+ナイトラブプラン=Night Love Service
+アダルトプラン=Adult Service
+不思議体験プラン=Mystique Service
+ドキドキ密着プラン=Exciting Tight Service
+フォーエバープラン=Forever Service
+夜のお散歩プラン=Night Walk Service
+
+//When the service is selected:
+～ナイトラブプラン～=~Night Love Service~
+～アダルトプラン～=~Adult Service~
+～不思議体験プラン～=~Mystique Service~
+～ドキドキ密着プラン～=~Exciting Tight Service~
+～フォーエバープラン～=~Forever Service~
+～夜のお散歩プラン～=~Night Walk Service~
+
+//------------------------------------------------------------
+// Service Box
+//------------------------------------------------------------
+女の子キャラクター=Girl
+パートナー選択=Select Partner
+女の子衣装=Girl Clothing
+パートナー衣装=Partner Clothing
+プレイヤー=Player
+プレイヤー衣装=Player Clothing
+
+以上の内容で申請します=Request service with the above content
+取り下げ=Withdraw
+申請=Request
+
+
 //************************************************************
 // Unsorted
 //************************************************************
@@ -152,4 +196,4 @@ Hを開始しますか？=Start a sex scene?
 グループ登録中=Registering group
 プレイヤー登録中=Registering as a player
 〇〇が達成されました=〇 has been achieved
-特別待遇を申し込む=Apply for special treatment
+特別待遇を申し込む=Sign up for Deluxe Service

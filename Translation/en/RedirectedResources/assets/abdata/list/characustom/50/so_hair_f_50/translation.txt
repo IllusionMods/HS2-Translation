@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//シトリーバング=
-//和風ぱっつん=
-//ワイルドアシンメトリ=
-//エム分けぱっつん=
-//サイドロングラフバング=
+シトリーバング=Sitri Bangs
+和風ぱっつん=Japanese Straight Bangs
+ワイルドアシンメトリ=Asymmetrical Bob Over Eye 
+エム分けぱっつん=Straight Bangs in "M"
+サイドロングラフバング=Side Long with Lock Over Eye 

@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//オックスフォードシューズ=
-//パンクシューズ=
-//ウェディングパンプス=
-//コンシェルジュブーツS=
-//レースクイーンブーツ=
-//シーフブーツ=
+オックスフォードシューズ=Oxford Shoes
+パンクシューズ=Punk Shoes
+ウェディングパンプス=Wedding Pumps
+コンシェルジュブーツS=Concierge Boots Sitri
+レースクイーンブーツ=Race Queen Boots
+シーフブーツ=Thief Boots

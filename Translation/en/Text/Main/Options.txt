@@ -90,6 +90,14 @@ BGM選択=Select BGM
 普通の雰囲気=Ordinary Atmosphere
 おしゃれな雰囲気=Fashionable Atmosphere
 フュル＝アルバン＝フュール=Fur-Alban-Fur
+タイトル２=Title 2
+シトリー＝レンブラント=Sitri-Rembrandt
+ナイト・ラブ=Night love
+大人の時間=Adult time
+どこへ向かうのか=Where to go
+非現実的世界=Unreal world
+深夜の散歩=Midnight walk
+ゴールイン……？=Goal in ...?
 
 登録=OK
 
@@ -161,6 +169,14 @@ BGM選択=Select BGM
 常時=Always
 脱力しない=Disable Tiredness
 逃走しない=Disable Escape
+
+//------------------------------------------------------------
+// Extra Settings
+//------------------------------------------------------------
+追加機能=Extra Settings
+追加機能設定=Extra Settings
+Mob男カラー=Mob Man Color
+Mob女カラー=Mob Woman Color
 
 //------------------------------------------------------------
 // Dialogues

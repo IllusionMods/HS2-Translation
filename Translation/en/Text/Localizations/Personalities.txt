@@ -12,8 +12,8 @@
 //オープン=Open-hearted
 //天然=Natural
 //フュル=Fur
-//几帳面=
-//大和撫子=
-//ボーイッシュ=
-//ヤンデレ=
-//シトリー=
+//几帳面=Careful
+//大和撫子=Ideal Japanese
+//ボーイッシュ=Tomboy
+//ヤンデレ=Obsessed
+//シトリー=Sitri
