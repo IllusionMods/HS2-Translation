@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
 //
 //表示名=
-//前待機=
-//弱ループ=
-//強ループ=
-//絶頂前ループ=
-//絶頂=
-//事後=
-//脱力前待機=
-//脱力弱ループ=
-//脱力強ループ=
-//脱力絶頂前ループ=
-//脱力絶頂=
-//脱力事後=
+前待機=About To Begin
+弱ループ=Slow Loop
+強ループ=Fast Loop
+絶頂前ループ=Before Climax Loop
+絶頂=Climax
+事後=Afterglow
+脱力前待機=Tired Waiting
+脱力弱ループ=Tired Weak
+脱力強ループ=Tired Medium
+脱力絶頂前ループ=Tired Strong
+脱力絶頂=Tired Climax
+脱力事後=Tired After Sex
