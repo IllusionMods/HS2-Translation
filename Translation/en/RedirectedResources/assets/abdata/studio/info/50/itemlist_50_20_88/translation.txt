@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
+//
+//短い触手1=
+//短い触手2=
+//短い触手3=
+//触手壺=
