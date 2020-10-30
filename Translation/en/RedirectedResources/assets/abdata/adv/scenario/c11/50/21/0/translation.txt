@@ -1,0 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
+//
+//セリフ{0}=
+//他の方と致すのは私が身重になった際にお願い申し上げます。それまでは、私を抱いて下さいませ。=
+//他に相手がいることは構いません。ですが、先ずは正妻である私を孕ませて下さいませ。=
+CHOICE:誘いに乗る=Accept invitation
+CHOICE:急いで逃げる=Rush off

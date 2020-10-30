@@ -1,0 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
+//
+//セリフ{0}=
+//……うふふ、ずっと見てました……私とはもっと激しいセックスしてくれるんですよね……？=
+//消毒、しますよね……？=
+CHOICE:誘いに乗る=Accept invitation
+CHOICE:急いで逃げる=Rush off
