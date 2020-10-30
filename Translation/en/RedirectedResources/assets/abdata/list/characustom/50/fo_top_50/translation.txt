@@ -5,7 +5,7 @@
 パンクジャケットA=Punk Jacket A
 パンクジャケットB=Punk Jacket A
 ウェディングトップス=Wedding Corset
-触手（上）=Tentacles (top)
+触手（上）=Tentacles (Top)
 コンシェルジュスーツS=Concierge Suit Sitri
 レースクイーンスーツ=Race Queen Suit
 巫女服=Shrine Maiden Top

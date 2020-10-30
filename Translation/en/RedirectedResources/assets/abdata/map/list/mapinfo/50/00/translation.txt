@@ -4,8 +4,8 @@
 特別待遇室=VIP Lobby
 ナイトプール=Night Pool
 プレイルーム=Play Room
-触手部屋=Tentacle room
+触手部屋=Tentacle Room
 電車=Train
 教会=Church
-夜の公園=Night park
+夜の公園=Night Park
 //AppendMoveMap=

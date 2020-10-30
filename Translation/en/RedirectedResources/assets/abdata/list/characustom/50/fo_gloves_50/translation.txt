@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 ウェディンググローブ=Wedding Gloves
-触手（腕）=Tentacles (arms)
+触手（腕）=Tentacles (Arms)
 コンシェルジュスリーブS=Concierge Sleeve Sitri
 レースクイーングローブ=Race Queen Gloves
 シーフグローブ=Thief Gloves
