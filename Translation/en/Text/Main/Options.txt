@@ -75,22 +75,6 @@ SSR（反射）=SSR (Reflections)
 
 //Select BGM menu (Customize Music)
 BGM選択=Select BGM
-
-タイトル=Title
-マイルーム=My Room
-カスタムシーン１=Custom Scene 1
-カスタムシーン２=Custom Scene 2
-ネットワーク=Network
-妖しい雰囲気=Mysterious Atmosphere
-暗い雰囲気=Dark Atmosphere
-嫌悪な雰囲気=Disgusting Atmosphere
-隷属的な雰囲気=Submissive Atmosphere
-享楽的な雰囲気=Hedonistic Atmosphere
-好意的な雰囲気=Friendly Atmosphere
-普通の雰囲気=Ordinary Atmosphere
-おしゃれな雰囲気=Fashionable Atmosphere
-フュル＝アルバン＝フュール=Fur-Alban-Fur
-
 登録=OK
 
 //------------------------------------------------------------
@@ -161,6 +145,14 @@ BGM選択=Select BGM
 常時=Always
 脱力しない=Disable Tiredness
 逃走しない=Disable Escape
+
+//------------------------------------------------------------
+// Extra Settings
+//------------------------------------------------------------
+追加機能=Extra Settings
+追加機能設定=Extra Settings
+Mob男カラー=Mob Man Color
+Mob女カラー=Mob Woman Color
 
 //------------------------------------------------------------
 // Dialogues

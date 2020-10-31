@@ -1,10 +1,10 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//浮かび正常位=
-//浮かび後背位=
-//椅子拘束座位=
-//壁押し付けバック=
-//椅子側位=
-//ワンコバック=
+浮かび正常位=Pool Missionary
+浮かび後背位=Pool Doggy
+椅子拘束座位=Chair Restraint Sitting
+壁押し付けバック=Wall-Pressed Back
+椅子側位=Bench Side
+ワンコバック=Dog Back
 種付けプレス=Mating Press

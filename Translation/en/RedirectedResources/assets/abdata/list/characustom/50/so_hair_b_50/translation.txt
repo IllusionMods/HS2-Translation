@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//シトリーヘア=
-//ボリュームぱっつんポニー=
-//ワイルドミディアム=
-//ロングサイドテール=
-//アップスタイル=
+シトリーヘア=Sitri Hair
+ボリュームぱっつんポニー=Voluminous Long Ponytail
+ワイルドミディアム=Medium Spikes with Ponytail Behind
+ロングサイドテール=Long with Side Ponytail
+アップスタイル=Up Bun

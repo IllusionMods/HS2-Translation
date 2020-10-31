@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ハイカラリボン=
-//ウェディングティアラ=
-//ウェディングベール=
-//コンシェルジュハットS=
-//桜のかんざし=
-//前天冠=
-//巫女の飾り=
-//飾り房=
+ハイカラリボン=Color Ribbon
+ウェディングティアラ=Wedding Tiara
+ウェディングベール=Wedding Veil
+コンシェルジュハットS=Concierge Hat Sitri
+桜のかんざし=Cherry Blossom Hairpin
+前天冠=Front Crown
+巫女の飾り=Priestess Acessory
+飾り房=Bunch Acessory

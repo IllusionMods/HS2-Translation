@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//触手A=
-//触手B=
-//クンニ手コキ=
+触手A=Tentacles A
+触手B=Tentacles B
+クンニ手コキ=Cunnilingus Handjob

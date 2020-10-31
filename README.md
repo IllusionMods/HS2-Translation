@@ -56,6 +56,7 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 | 11    | HS/AI Downloader      |
 | 13    | Network Splash Screen |
 | 14    | Character Search      |
+| 15    | Vip Lobby             |
 
 ## Resource Translations
 
