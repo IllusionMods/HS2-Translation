@@ -160,12 +160,12 @@ Hを開始しますか？=Start a sex scene?
 //------------------------------------------------------------
 // Select Service Menu
 //------------------------------------------------------------
-ナイトラブプラン=Night Love Service
-アダルトプラン=Adult Service
-不思議体験プラン=Mystique Service
-ドキドキ密着プラン=Exciting Crowd Service
-フォーエバープラン=Forever Service
-夜のお散歩プラン=Night Walk Service
+ナイトラブプラン=Night Pool Service
+アダルトプラン=BDSM　Service
+不思議体験プラン=Tentacle Service
+ドキドキ密着プラン=Crowded Train Service
+フォーエバープラン=Wedding Service
+夜のお散歩プラン=Night Park Service
 
 //When the service is selected:
 #set level 15

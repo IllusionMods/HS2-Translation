@@ -138,6 +138,7 @@ Trying to match `こんにちは` for an asset using `PREFIX1` would return `Hi!
 | 8  | オープン | Open-hearted | `c08`                   | `hvoicestart_c08_*`, `hvoice_c08_*`  |
 | 9  | 天然   | Natural      | `c09`                    | `hvoicestart_c09_*`, `hvoice_c09_*`  |
 | -1 | フュル  | Fur          | `c-1`                    |                                      |
+| -2 | シトリー | Sitri        | `c-2`                    |                                      |
 
 ### Tools
 
