@@ -114,7 +114,7 @@ sr:"^残り(.*)P$"=Remaining Points $1P
 H画面=Sex Scenes
 館内を回る画面=Around the Hall
 フュルを呼ぶ画面=Call Fur
-特別待遇室画面=Vip Lobby Screen
+特別待遇室画面=VIP Lobby Screen
 
 // Help Screen Dialogue
 説明画面を終了しますか？=Do you want to exit the explanation screen?
