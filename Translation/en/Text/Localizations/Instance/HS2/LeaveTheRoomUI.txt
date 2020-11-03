@@ -3,5 +3,4 @@
 //
 //[キャラクター編集]を選び、\n女の子をグループに登録して下さい=Select [Edit Character] and register\nthe girl to Group
 //待ち合わせ場所に移動しますか？=Go to a meeting place?
-
-特別待遇室に移動します\nよろしいですか？=Go to the special room.\nIs it OK?
+//特別待遇室に移動します\nよろしいですか？=Go to the special room.\nIs it OK?
