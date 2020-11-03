@@ -5,7 +5,7 @@
 // TextResourceRedirector will add these as standard translations with the ～ stripped as well
 
 ～ナイトラブプラン～=Night Pool Service
-～アダルトプラン～=BDSM　Service
+～アダルトプラン～=BDSM Service
 ～ドキドキ密着プラン～=Crowded Train Service
 ～不思議体験プラン～=Tentacle Service
 ～夜のお散歩プラン～=Night Park Service
