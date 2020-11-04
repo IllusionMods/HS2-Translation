@@ -86,7 +86,7 @@ r:"グループ *([0-9０-９]+)"=Group $1
 ヘルプ=Help
 Hをお願いする=Ask for Sex
 容姿の変更=Change Fur Appearance
-■特別待遇室へ行く=■ Go to the VIP Lobby
+特別待遇室へ行く=Go to the VIP Lobby
 
 // Fur's Room Screen Dialogues
 キャラ検索画面に移動します\nよろしいですか？=Open the character finder screen?
@@ -160,17 +160,8 @@ Hを開始しますか？=Start a sex scene?
 //------------------------------------------------------------
 // Select Service Menu
 //------------------------------------------------------------
-ナイトラブプラン=Night Pool Service
-アダルトプラン=BDSM Service
-不思議体験プラン=Tentacle Service
-ドキドキ密着プラン=Crowded Train Service
-フォーエバープラン=Wedding Service
-夜のお散歩プラン=Night Park Service
+// Plan/Service list: RedirectedResources\assets\abdata\spr\list\*\planname
 
-//When the service is selected:
-#set level 15
-sr:^～(.*)～$=~$1~
-#unset level 15
 
 //------------------------------------------------------------
 // Service Box
