@@ -15,3 +15,8 @@ sr:"^■\s*(.*)"=■ $1
 sr:"^「([^」]+)」が達成されました$"="$1" Achieved
 
 r:"^残り([０-９0-9]+)Ｐ$"=$1P Remaining
+
+// When the service is selected:
+#set level 15
+sr:^～(.*)～$=~$1~
+#unset level 15

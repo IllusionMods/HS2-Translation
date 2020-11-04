@@ -4,3 +4,4 @@
 //キャラのメイク画面に移動します\nよろしいですか？=Go to the character makeup screen.\nIs it OK?
 //キャラ検索画面に移動します\nよろしいですか？=Go to the character search screen.\nIs it OK?
 //マイルームに戻ります\nよろしいですか？=Return to my room.\nIs it OK?
+//Hを開始しますか？=Do you want to start H ?
