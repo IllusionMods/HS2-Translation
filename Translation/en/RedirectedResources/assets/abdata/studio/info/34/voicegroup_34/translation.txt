@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-クール=Quiet
+クール=Cool
 普通=Normal
 苦労人=Hardworking
 女友達=Girlfriend
@@ -10,4 +10,4 @@
 母性的=Motherly
 ドS=Sadistic
 オープン=Open-hearted
-天然=Natural
+天然=Airhead
