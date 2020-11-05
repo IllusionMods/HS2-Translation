@@ -71,6 +71,7 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 - `list/characustom` - maker stuff
 - `list/h/animationinfo` - positions (game versions)
 - `list/h/sound` - h-subs
+- `spr/list/*/planname` - VIP services names
 - `studio` - studio stuff
 
 ### ADV translations
