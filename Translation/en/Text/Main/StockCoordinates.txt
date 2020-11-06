@@ -1,0 +1,55 @@
+//***********************************************************************
+//Illusion official coordinates (clothes cards)
+// Found in: UserData\coordinate\female
+//***********************************************************************
+
+ミイラ=Mummy
+ドラゴニックプリンセス=Dragonic Princess
+巫女=Priestess
+マジシャンズフリル=Magician Frills
+たぬき=Raccoon
+絡み触手=Tentacles
+レースクイーン=Race Queen
+パンク=Punk
+ハイカラ=High Color
+シーフ=Thief
+コンシェルジュ シトリー=Concierge Sitri
+ウェディング=Wedding
+胸あきボンデージ=Chest Bondage
+ボンデージ=Bondage
+小悪魔水着=Small Devil Swimwear
+シスター=Sister
+逆バニー=Reverse Bunny
+陸上ユニフォーム=Track Uniform
+ウエイトレス=Waitress
+ユニフォーム=Uniform
+サイクルウェア=Cycle Wear
+道着=Kimono
+白衣=White Coat
+ジャージ=Jersey
+ゴスロリ=Gothic Lolita
+エルフ=Elf
+ヒーラー=Healer
+メイド=Maid
+ライダー=Rider
+ナース=Nurse
+ダンサー=Dancer
+警備員=Security Guard
+騎士鎧=Knight armor
+ボロ布=Tattered Cloth
+制服（ニット）=Uniform (knit)
+オープンランジェリー=Open Lingerie
+パジャマ=Pajamas
+コンシェルジュ フュル=Concierge Fur
+キャンペーンガール=HS2 Campaign Girl
+チアガール=Cheerleader
+カウガール=Cowgirl
+裸サスペンダー=Naked Suspenders
+ビキニアーマー戦士=Bikini Armor Warrior
+くノ一セット=Ninja Girl Set
+犬耳セット=Dog Ear Set
+サキュバス=Succubus
+狐巫女=Fox Shrine Maiden
+セクシー兵士=Sexy Soldier
+セクシー艦長=Sexy Captain
+

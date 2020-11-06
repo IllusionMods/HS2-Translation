@@ -1,0 +1,30 @@
+//***********************************************************************
+//Illusion official character cards
+// Found in: UserData\chara\female
+//***********************************************************************
+
+//Default model
+五十嵐 美和=Ikazaki Miwa
+
+//HS2 characters
+土田 美紀=Tsuchida Miki
+林 彩花=Hayashi Ayaka
+大橋 梨花=Ohashi Rika
+シトリー=Sitri
+奥田 優奈=Okuta Yuna
+新田 渚砂=Nitta Nagisa
+金谷 はずむ=Kanaya Hazumu
+山岡 渚=Yamaoka Nagisa
+毛利 哀=Mori Ai
+川島 神楽=Kawashima Kagura
+長井 めぐみ=Nagai Megumi
+武田 美羽=Takeda Miu
+塚本 恵=Tsukamoto Megumi
+星野 希=Hoshino Nozomi
+
+//AI-Girl Characters
+ツボミ=Tsubomi
+岩間 由莉奈=Iwama Yuuna
+稲垣 千尋=Inagaki Chihiro
+川村 芽生=Kawamura Mei
+永島 みさと=Nagashima Misato

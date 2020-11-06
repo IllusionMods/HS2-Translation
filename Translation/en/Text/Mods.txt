@@ -391,41 +391,6 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 // Sideloader Modpack - Coordinates and Cards
 //***********************************************************************
 //Coordinates
-くノ一セット=Ninja Girl set
-ウエイトレス=Waitress
-エルフ=Elf
-オープンランジェリー=Open Lingerie
-カウガール=Cowgirl
-キャンペーンガール=Campaign Girl
-コンシェルジュ フュル=Concierge Fur
-ゴスロリ=Gothic Lolita
-サイクルウェア=Cycle Wear
-サキュバス=Succubus
-シスター=Sister
-セクシー兵士=Sexy Soldier
-セクシー艦長=Sexy Captain
-ダンサー=Dancer
-チアガール=Cheerleader
-ナース=Nurse
-パジャマ=Pajamas
-ヒーラー=Healer
-ビキニアーマー戦士=Bikini Armor Warrior
-ボロ布=Tattered Cloth
-ボンデージ=Bondage
-メイド=Maid
-ユニフォーム=Uniform
-ライダー=Rider
-制服（ニット）=Uniform (knit)
-小悪魔水着=Small Devil Swimwear
-犬耳セット=Dog Ear Set
-狐巫女=Fox Shrine Maiden
-白衣=White Coat
-胸あきボンデージ=Chest Bondage
-裸サスペンダー=Naked Suspenders
-警備員=Security Guard
-逆バニー=Reverse Bunny
-陸上ユニフォーム=Track Uniform
-騎士鎧=Knight armor
 HS旗袍(白)=HS China Dress (white)
 HS旗袍(红)=HS China Dress (red)
 HS旗袍(蓝)=HS China Dress (blue)
@@ -437,19 +402,6 @@ HS旗袍(蓝)=HS China Dress (blue)
 红黑旗袍=Black and White China Dress
 
 //Character Cards
-五十嵐 美和=Miwa Igarashi
-永島 みさと=Misato Nagashima
-岩間 由莉奈=Yurina Iwama
-稲垣 千尋=Chihiro Inagaki
-川村 芽生=Kawamura Meu
-奥田 優奈=Okuda Yuna
-毛利 哀=Mori
-山岡 渚=Yamaoka Nagisa
-川島 神楽=Kawashima Kagura
-長井 めぐみ=Megumi Nagai
-武田 美羽=Miwa Takeda
-星野 希=Nozomi Hoshino
-塚本 恵=Megumi Tsukamoto
 看板娘参赛=Kanban Girl
 莉莉娅=Lilia
 萝莎莉娅=Rosalia
@@ -458,11 +410,4 @@ HS旗袍(蓝)=HS China Dress (blue)
 逆羽 霞=Xayah Star Guardian reverse
 
 //Unsorted
-あかり=light
-三段ジャンプ=Jump
-下=Downward
-壊=Destruction
-左=Left
-愛=Love
-脱衣所=Changing Clothes
-ナビ子=Navigator
+
