@@ -1,5 +1,5 @@
 //***********************************************************************
-//Illusion official coordinates (clothes cards)
+// Illusion official coordinates (clothes cards)
 // Found in: UserData\coordinate\female
 //***********************************************************************
 

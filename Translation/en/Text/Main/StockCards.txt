@@ -1,5 +1,5 @@
 //***********************************************************************
-//Illusion official character cards
+// Illusion official character cards
 // Found in: UserData\chara\female
 //***********************************************************************
 
