@@ -70,8 +70,12 @@ H属性=Sex Trait
 // sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
 // RedirectedResources\assets\abdata\etcetra\list\parametername\30\00\
 
-淫乱=Kinky
+// Scope to not conflict with Color Picker
+#set level 4,8
 H=Sex
+#unset level 4,8
+
+淫乱=Kinky
 苦痛=Pain
 お尻=Ass
 
