@@ -5,7 +5,7 @@
 綺麗好き=Clean Lover
 ものぐさ=Lazy
 虚弱=Fragile
-タフネス=Tought
+タフネス=Tough
 頻尿=Weak Bladder
 我慢強い=Patient
 グラスハート=Glass Heart
@@ -47,7 +47,7 @@ TRAIT:なし=None
 TRAIT:綺麗好き=Clean Lover
 TRAIT:ものぐさ=Lazy
 TRAIT:虚弱=Fragile
-TRAIT:タフネス=Tought
+TRAIT:タフネス=Tough
 TRAIT:頻尿=Weak Bladder
 TRAIT:我慢強い=Patient
 TRAIT:グラスハート=Glass Heart

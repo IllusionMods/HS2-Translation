@@ -1,0 +1,19 @@
+//***********************************************************************
+// Subtitles for Fur dialogues
+// These ones were transcribed from the sound files and are inside subtitles plugin
+//***********************************************************************
+
+//------------------------------------------------------------
+// Calling for Fur
+//------------------------------------------------------------
+// Sound file in: abdata\sound\data\pcm\c-1\adv\30.unity3d
+失礼します。=Excuse me.
+はい。かしこまりました。=Yes. Understood.
+はい。少々お待ちください。=Yes. Please wait a moment.
+
+//------------------------------------------------------------
+// Tutorial Beginning
+//------------------------------------------------------------
+// Sound file in: abdata\sound\data\pcm\op\30.unity3d
+いらっしゃいませ。当店をご利用いただき誠にありがとうございます。=Welcome. Thank you for visiting our establishment.
+

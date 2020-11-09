@@ -1,0 +1,14 @@
+//***********************************************************************
+// Notifications that appear the first time after you request DX Services
+// Its not in "Assets" yet
+//***********************************************************************
+
+特別待遇が受けられるようになりました=You can now receive Deluxe Services
+マップ選択に「特別待遇室」が解放されました="VIP Lobby" is now available on "Leave Room" menu
+マップ選択に「ナイトプール」が解放されました="Night Pool" Is now available for map selection
+マップ選択に「特別待遇室」が解放されました="VIP Lobby" is now available for map selection
+マップ選択に「プレイルーム」が解放されました="Play Room" is now available for map selection
+マップ選択に「触手部屋」が解放されました="Tentacle Room" is now available for map selection
+マップ選択に「電車」が解放されました="Train" is now available for map selection
+マップ選択に「教会」が解放されました="Church" is now available for map selection
+マップ選択に「夜の公園」が解放されました="Night Park" is now available for map selection
