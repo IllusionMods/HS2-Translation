@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3.1
 //
-たぬき耳=Raccoon Ears
-たぬき尻尾=Raccoon Tail
+たぬき耳=Tanuki Ears
+たぬき尻尾=Tanuki Tail
 木の葉=Leaf
