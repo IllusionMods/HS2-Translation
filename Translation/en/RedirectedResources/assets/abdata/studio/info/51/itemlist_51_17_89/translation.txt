@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
 //
-//ドラゴニックホーン=
-//ドラゴニックテール=
-//ドラゴニックスリーブ（左）=
-//ドラゴニックスリーブ（右）=
+ドラゴニックホーン=Dragonic Horn
+ドラゴニックテール=Dragonic Tail
+ドラゴニックスリーブ（左）=Dragonic Sleeve (Left)
+ドラゴニックスリーブ（右）=Dragonic Sleeve (Right)

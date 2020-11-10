@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//スフィア(キャラ）=
+スフィア(キャラ）=Sphere (Character)
 キューブ(キャラ）=Cube (Character)
 ピラミッド(キャラ）=Pyramid (Character)
 コーン(キャラ）=Cone (Character)
@@ -36,7 +36,7 @@
 穴あき楕円(キャラ）=Hollow Elipse (Character)
 先尖り棒(キャラ）=Pointed Rod (Character)
 三角(キャラ）=Triangle (Character)
-//穴あき三角(キャラ)=
+穴あき三角(キャラ)=Hollow Triangle (Character)
 弧1(キャラ）=Arc 1 (Character)
 弧2(キャラ）=Arc 2 (Character)
 弧3(キャラ）=Arc 3 (Character)

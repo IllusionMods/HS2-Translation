@@ -10,8 +10,8 @@
 レンズフレアG=Lens Flare G
 丸影=Circular Shadow
 色影=Colored Shadow
-//色影(四角1)=
-//色影(四角2)=
+色影(四角1)=Colored Shadow (Square 1)
+色影(四角2)=Colored Shadow (Square 2)
 色影(六角)=Color Shadow (Hexagon)
 色影(三角)=Color Shadow (Triangle)
 色影(ハート)=Color Shadow (Heart)
