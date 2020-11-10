@@ -1,18 +1,18 @@
 //
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
 //
-//ウェディングティアラ=
-//ウェディングベール=
-//ウェディングパール=
-//ウェディングチョーカー=
-//ウェディングブーケ=
-//コンシェルジュハットS=
-//コンシェルジュスカーフS=
-//桜のかんざし=
-//前天冠=
-//巫女の飾り=
-//ハイカラリボン=
-//飾り房=
-//巾着袋=
-//ロングリボン=
-//シーフマフラー=
+ウェディングティアラ=Wedding Tiara
+ウェディングベール=Wedding Veil
+ウェディングパール=Wedding Pearl
+ウェディングチョーカー=Wedding Choker
+ウェディングブーケ=Wedding Bouquet
+コンシェルジュハットS=Concierge Hat Sitri
+コンシェルジュスカーフS=Concierge Scarf Sitri
+桜のかんざし=Cherry Blossom Hairpin
+前天冠=Front Crown
+巫女の飾り=Priestess Acessory
+ハイカラリボン=Color Ribbon
+飾り房=Bunch Acessory
+巾着袋=Drawstring Purse
+ロングリボン=Long Ribbon
+シーフマフラー=Thief Muffler

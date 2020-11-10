@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//棺桶=
-//棺桶(ふた)=
-//ゴシックベッド=
+棺桶=Coffin
+棺桶(ふた)=Coffin (Lid)
+ゴシックベッド=Gothic Bed

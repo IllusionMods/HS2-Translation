@@ -4,5 +4,5 @@
 リベットアーム=Rivet Armband
 キャンペーンリストバンド=HS2 Campaign Wristband
 ウエスタンアームレット=Western Wrist Cuff
-//縄(左)=
-//縄(右)=
+縄(左)=Rope (Left)
+縄(右)=Rope (Right)

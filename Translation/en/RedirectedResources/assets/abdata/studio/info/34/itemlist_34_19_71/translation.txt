@@ -1,23 +1,23 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//クール(喘ぎ)=
-//クール(フェラ)=
-//普通(喘ぎ)=
-//普通(フェラ)=
-//苦労人(喘ぎ)=
-//苦労人(フェラ)=
-//女友達(喘ぎ)=
-//女友達(フェラ)=
-//ギャル(喘ぎ)=
-//ギャル(フェラ)=
-//気弱(喘ぎ)=
-//気弱(フェラ)=
-//母性的(喘ぎ)=
-//母性的(フェラ)=
-//ドS(喘ぎ)=
-//ドS(フェラ)=
-//オープン(喘ぎ)=
-//オープン(フェラ)=
-//天然(喘ぎ)=
-//天然(フェラ)=
+クール(喘ぎ)=Cool (Panting)
+クール(フェラ)=Cool (Blowjob)
+普通(喘ぎ)=Normal (Panting)
+普通(フェラ)=Normal (Blowjob)
+苦労人(喘ぎ)=Hardworking (Panting)
+苦労人(フェラ)=Hardworking (Blowjob)
+女友達(喘ぎ)=Girlfriend (Panting)
+女友達(フェラ)=Girlfriend (Blowjob)
+ギャル(喘ぎ)=Fashionable (Panting)
+ギャル(フェラ)=Fashionable (Blowjob)
+気弱(喘ぎ)=Timid (Panting)
+気弱(フェラ)=Timid (Blowjob)
+母性的(喘ぎ)=Motherly (Panting)
+母性的(フェラ)=Motherly (Blowjob)
+ドS(喘ぎ)=Sadistic (Panting)
+ドS(フェラ)=Sadistic (Blowjob)
+オープン(喘ぎ)=Open-hearted (Panting)
+オープン(フェラ)=Open-hearted (Blowjob)
+天然(喘ぎ)=Airhead (Panting)
+天然(フェラ)=Airhead (Blowjob)

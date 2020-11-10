@@ -3,8 +3,9 @@
 // Found in: UserData\chara\female
 //***********************************************************************
 
-//Default model
-五十嵐 美和=Ikazaki Miwa
+//Default models
+五十嵐 美和=Hatano Miwa
+主人公=Hero
 
 //HS2 characters
 土田 美紀=Tsuchida Miki

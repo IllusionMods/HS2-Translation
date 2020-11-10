@@ -10,9 +10,9 @@ r:"^([０-９0-9]+)位"=$1
 
 sr:"^■\s*(.*)"=■ $1
 
-// Achievement alert
-
+// Notifications
 sr:"^「([^」]+)」が達成されました$"="$1" Achieved
+sr:"^マップ選択に「([^」]+)」が解放されました$"="$1" can now be selected
 
 r:"^残り([０-９0-9]+)Ｐ$"=$1P Remaining
 

@@ -1,16 +1,16 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//メカ壁(ドア)=
-//メカ壁2=
-//メカ壁3=
-//メカ壁4=
-//メカ壁5=
-//メカ床1=
-//メカ床2=
-//メカ床3=
-//ガラス床1=
-//ガラス床2=
-//ガラス壁1=
-//ガラス壁2=
-//ガラス壁3=
+メカ壁(ドア)=Mecha Wall (Door)
+メカ壁2=Mecha Wall 2
+メカ壁3=Mecha Wall 3
+メカ壁4=Mecha Wall 4
+メカ壁5=Mecha Wall 5
+メカ床1=Mecha Floor 1
+メカ床2=Mecha Floor 2
+メカ床3=Mecha Floor 3
+ガラス床1=Glass Floor 1
+ガラス床2=Glass Floor 2
+ガラス壁1=Glass Wall 1
+ガラス壁2=Glass Wall 2
+ガラス壁3=Glass Wall 3
