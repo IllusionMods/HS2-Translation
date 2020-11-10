@@ -9,4 +9,4 @@
 ししおどし=Shishi-odoshi
 //小さな灯篭=
 //石の皿=
-//石橋=
+石橋=Ishibashi
