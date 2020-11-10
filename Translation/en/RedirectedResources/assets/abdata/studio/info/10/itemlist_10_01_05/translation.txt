@@ -3,5 +3,5 @@
 //
 //祠=
 鳥居=Torii
-灯篭=Lanterns
-//灯篭(灯付き)=
+灯篭=Lantern
+灯篭(灯付き)=Lantern (Illuminated)

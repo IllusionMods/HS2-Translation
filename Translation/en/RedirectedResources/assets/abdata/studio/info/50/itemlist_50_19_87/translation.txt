@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
 //
-//几帳面(喘ぎ)=
-//几帳面(フェラ)=
-//大和撫子(喘ぎ)=
-//大和撫子(フェラ)=
-//ボーイッシュ(喘ぎ)=
-//ボーイッシュ(フェラ)=
-//ヤンデレ(喘ぎ)=
-//ヤンデレ(フェラ)=
+几帳面(喘ぎ)=Careful (Panting)
+几帳面(フェラ)=Careful (Blowjob)
+大和撫子(喘ぎ)=Ideal Japanese (Panting)
+大和撫子(フェラ)=Ideal Japanese (Blowjob)
+ボーイッシュ(喘ぎ)=Tomboy (Panting)
+ボーイッシュ(フェラ)=Tomboy (Blowjob)
+ヤンデレ(喘ぎ)=Obsessed (Panting)
+ヤンデレ(フェラ)=Obsessed (Blowjob)

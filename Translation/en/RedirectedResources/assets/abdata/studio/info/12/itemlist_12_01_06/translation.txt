@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//針葉樹=
-//針葉樹(雪)=
-//針葉樹(装飾)=
+針葉樹=Conifer
+針葉樹(雪)=Conifer (Snow)
+針葉樹(装飾)=Conifer (Decoration)

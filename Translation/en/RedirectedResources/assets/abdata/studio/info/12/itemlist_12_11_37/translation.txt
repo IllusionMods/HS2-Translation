@@ -1,26 +1,26 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//雪=
+雪=Snow
 動く波動=Energy Waves
-//波紋の軌跡=
+波紋の軌跡=Trail of Ripples
 光の軌跡=Point of Light
 光の閃光=Flashes of Light
 光の粉=Sparkles of Light
-//光の雨=
-//眩い光=
+光の雨=Shower of Light
+眩い光=Dazzling Light
 放電=Electrical Discharge
 キラキラ=Sparkles
-//ブラックホール=
+ブラックホール=Black Hole
 土煙=Dust Clouds
-//斬=
-//火2=
+斬=Slash
+火2=Fire 2
 火の玉=Ball Of Fire
 火炎=Flames
 マズルフラッシュ=Muzzle Flashes
 バブルシャワー=Shower Bubbles
-//濃い液体(強)=
-//濃い液体(中)=
-//濃い液体(弱)=
-//シャワー(強)=
-//シャワー(弱)=
+濃い液体(強)=Thick Liquid (Strong)
+濃い液体(中)=Thick Liquid (Medium)
+濃い液体(弱)=Thick Liquid (Weak)
+シャワー(強)=Shower (Strong)
+シャワー(弱)=Shower (Weak)
