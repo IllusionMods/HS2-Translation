@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //祠=
-鳥居=Torii
+鳥居=Birdhouse
 灯篭=Lantern
 灯篭(灯付き)=Lantern (Illuminated)
