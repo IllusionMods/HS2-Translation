@@ -17,4 +17,4 @@
 マイクロSビキニ=Micro Strap Bikini
 ハートシール=Heart Seal
 スターシール=Star Seal
-絆創膏=Bandage Seal
+絆創膏=Band-Aid Seal

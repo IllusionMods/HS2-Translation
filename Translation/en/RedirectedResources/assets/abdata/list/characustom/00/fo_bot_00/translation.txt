@@ -18,6 +18,6 @@
 南国スカート=Tropical Skirt
 腰蓑=Grass Skirt
 レザースカート=Leather Skirt
-ストレッチパンツ=Stretch Pants
+ストレッチパンツ=Jogger Pants
 フロントリボン=Front Ribbon
 ラップスカート=Wrap Skirt
