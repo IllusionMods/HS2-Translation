@@ -9,6 +9,6 @@
 気弱=Timid
 母性的=Motherly
 ドS=Sadistic
-オープン=Open-hearted
+オープン=Open-Minded
 天然=Airhead
 フュル=Fur
