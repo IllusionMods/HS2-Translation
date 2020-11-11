@@ -1,0 +1,36 @@
+﻿//***********************************************************************
+// Subtitles for personalities in the Character Maker
+// These ones were transcribed from the sound files and are inside subtitles plugin
+//***********************************************************************
+// Sound file in: 
+// abdata\sound\data\custom\30.unity3d
+// abdata\sound\data\custom\50.unity3d
+
+お呼びでしょうか？=Did you call for me?
+私でお決まりになられましたか？=Have you perhaps decided to choose me?
+あら、私を選んでくれるの？=Oh my, did you just pick me?
+ふふ、一緒に楽しみましょう。=Hehe, let's have fun together.
+はあ、私なんですね。=Sigh, so it's me, huh?
+別に構いませんが、ちゃんとしてくださいね。=I don't really care, but please just get it right, okay?
+なになに？私がいいの？=Say what? You okay with lil ol' me? 
+いいよ、一緒に頑張ろうか。=Okay, let's both do our best.
+あはっ、あたしと遊びたいんだ。=Aha, so you wanna play with me.
+ふふ、どうしてやろっかな。=Haha, now what sorta stuff should we get up to?
+わ、私でいいんですか？=A-Are you really fine with me?
+ううぅ、緊張してすみません。=Urgh... I'm sorry I'm so worked up.
+うふふ、お任せくださいまし。=Ufufu, please leave everything to me.
+あなたの為になるよう誠心誠意務めさせていただきますわ。=To you, my dear, I will devote my heart and soul.
+へー、いい度胸じゃねえか。=Hmm? You're a plucky one, aren't you?
+何でもいいけど、つまんねえ事だけはすんじゃんえぞ。=Do as you like, but I'm not putting up with any stupid shit, you hear?
+いやあ、私を選ぶとお目が高いっすね。=Gotta say, you've got great taste in picking me.
+一肌でも二肌でも脱がせていただくっすよ。=I'll give you a hand with all sorts of things, and then some.
+えへ、私の出番ですね。=Ehe, so it's my turn now.
+とりあえず、エッチな事をすればいいんですよね？=So, like... I just have to get all sexy with you, right?
+どうかしましたか？=Is something the matter?
+私を選んでくださるんですね。が、頑張ります！=So you've graciously decided upon me. I-I won't let you down!
+ふふ、よろしくお願い致します。=Hehe, please be gentle with me.
+誠心誠意尽くさせて頂きます。=It shall be my pleasure to serve you with every fiber of my being.
+おっ？俺としたいのか？=Oh? So you want to go at it with me?
+期待してるから、よろしく頼むぜ。=I'm expecting great things, so don't let me down.
+うふふ、あなたの好きなようにしてください。=Hehe, please do whatever you want to me.
+この出会いは運命ですね=For us to cross paths like this, surely it is the work of fate!

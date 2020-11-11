@@ -1,0 +1,50 @@
+//***********************************************************************
+// Subtitles for Fur in menus
+// These ones were transcribed from the sound files and are inside subtitles plugin
+//***********************************************************************
+// Sound file in:
+// abdata\sound\data\pcm\c-1\adv\30.unity3d
+// abdata\sound\data\pcm\op\30.unity3d
+// abdata\sound\data\pcm\c-1\adv\50.unity3d
+
+失礼します。=Excuse me.
+お呼びでしょうか。=Can I help you with something?
+何かご用でしょか。=How may I help you?
+ご用件をどうぞ。=Please make your request.
+いらっしゃいませ。=Welcome.
+如何しましたか。=What do you want to do?
+私に御用でしょうか。=What is your request?
+かしこまりました。=Understood.
+少々お待ちください。=Please wait a moment.
+どうぞ。=If you please.
+こちらですね。=This way.
+悪ふざけもほどほどにして下さいますか。=Please exercise more self-restraint. Even practical jokes have their limits.
+では、失礼します。=Well then, I shall take my leave here.
+では、またお呼びください。=Then, please call me again.
+それでは、よいハニーライフを。=Then, have a good honey life!
+またお越しくださいませ。=Please come again.
+いってらっしゃいませ。=Have a good day.
+ではまた。=See you later.
+次回はこのようなことがないようお願いいたします。=Please don't do this again.
+行き過ぎた行動は控えていただけるようお願いいたします。=Please refrain from excessive behaviour.
+はい。かしこまりました。=Yes, Understood.
+はい。少々お待ちください。=Very well. Just a moment.
+こちらでは条件に沿った女の子を探し出すことができます。=You'll be able to find girls who match your tastes here.
+現在のお客様の実績を確認できます。=You can inspect your achievements here.
+操作方法などの確認ですね。=So you wish to review the user guide.
+私の見た目を変更することができます。=You can change my appearence here.
+私とのセックスをご所望なのですか。=Do you wish to have sex with me?
+また私としたいのですか。=Do you wish to have sex with me again?
+あなたもお好きですね。=You may also like this sort of things.
+こちらは、いつでも構いませんよ。=You are always welcome to go here.
+どうぞ、ご自由にお使いください。=Please feel free to use this.
+探してほしいのですか。=Were you looking for me?
+ご自由にご覧ください。=Please take a look.
+私の機嫌の取り方は載っておりませんよ。=I don't have my moods on a guide.
+今の見た目に何かご不満でも。=Is there anything about my current appearance that isn't to your liking?
+まさか、する気ですか。=Do you actually wish to do it?
+今の私に、頼みごとですか。=Do you have a request for me?
+そんな気分ではないのですが。=I'm not in the mood for that.
+いらっしゃいませ。当店をご利用いただき、誠にありがとうございます。=Welcome. Thank you for using our services.
+こちらのプランをご所望でしょうか。=Would you like to request these services?
+かしこまりました、早速ご案内いたします。=Very well. I will lead you there.

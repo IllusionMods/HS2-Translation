@@ -4,7 +4,7 @@ English fan translation project for Honey Select 2. The translations are applied
 
 ## Prerequisites
 
-- [BepInEx 5.1](https://github.com/BepInEx/BepInEx)
+- [BepInEx 5.3](https://github.com/BepInEx/BepInEx/releases/tag/v5.3)
 - [BepisPlugins for HS2](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 - [HS2_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)
