@@ -6,7 +6,7 @@
 星=Star
 三日月=Crescent Moon
 水滴=Water Drop
-絆創膏=Bandage
+絆創膏=Band-Aid
 十字=Cross
 五十字=5-Line Cross
 蝶=Butterfly
