@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-クール(喘ぎ)=Cool (Panting)
-クール(フェラ)=Cool (Blowjob)
+クール(喘ぎ)=Composed (Panting)
+クール(フェラ)=Composed (Blowjob)
 普通(喘ぎ)=Normal (Panting)
 普通(フェラ)=Normal (Blowjob)
 苦労人(喘ぎ)=Hardworking (Panting)
@@ -17,7 +17,7 @@
 母性的(フェラ)=Motherly (Blowjob)
 ドS(喘ぎ)=Sadistic (Panting)
 ドS(フェラ)=Sadistic (Blowjob)
-オープン(喘ぎ)=Open-hearted (Panting)
-オープン(フェラ)=Open-hearted (Blowjob)
+オープン(喘ぎ)=Open-Minded (Panting)
+オープン(フェラ)=Open-Minded (Blowjob)
 天然(喘ぎ)=Airhead (Panting)
 天然(フェラ)=Airhead (Blowjob)

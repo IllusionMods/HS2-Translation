@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-クール=Cool
+クール=Composed
 普通=Normal
 苦労人=Hardworking
 女友達=Girlfriend
