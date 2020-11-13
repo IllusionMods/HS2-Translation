@@ -4,7 +4,7 @@
 袴=Hakama
 パンクボトム=Punk Denim
 ウェディングスカート=Wedding Skirt
-触手（下）=Tentacles (bottom)
+触手（下）=Tentacles (Bottom)
 コンシェルジュスカートS=Concierge Skirt Sitri
 巫女袴=Shrine Maiden
 リボンベルトスカート=Ribbon Belt Skirt
