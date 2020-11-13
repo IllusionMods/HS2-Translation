@@ -21,4 +21,4 @@
 競泳水着=Racing Swimsuit
 ハートシール=Heart Seal
 スターシール=Star Seal
-絆創膏=Band-Aid Seal
+絆創膏=Bandage Seal
