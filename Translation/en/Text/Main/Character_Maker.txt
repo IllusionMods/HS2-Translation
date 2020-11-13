@@ -192,7 +192,7 @@ Y位置=Y Axis
 回転量=Rotate Unit
 拡縮量=Scale Unit
 
-操作軸=Axis
+操作軸=Show Axis
 移動=Move
 速度=Speed
 大きさ=Size

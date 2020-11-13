@@ -4,7 +4,7 @@
 ホロウォッチ=Holowatch
 花のリング=Flower Ring
 暴走の右手=Flames Right Hand
-抱きつきキュービー=Hug Cubby
+抱きつきキュービー=Hug Cubie
 ピストル=Pistol
 ナイフ=Knife
 杖=Staff

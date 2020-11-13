@@ -36,8 +36,8 @@
 アーガイル=Argyle
 チマヨ=Chimayo
 ギンガムチェック=Gingham Checkered
-変則ストライプ=Irregular Vertical Stripes
-変則ボーダー=Irregular Horizontal Stripes
+変則ストライプ=Irregular Horizontal Stripes
+変則ボーダー=Irregular Vertical Stripes
 丸=Circle
 ペイズリー=Paisley
 エイシェント=Ancient

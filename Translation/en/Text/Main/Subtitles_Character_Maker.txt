@@ -1,4 +1,4 @@
-//***********************************************************************
+﻿//***********************************************************************
 // Subtitles for personalities in the Character Maker
 // These ones were transcribed from the sound files and are inside subtitles plugin
 //***********************************************************************
