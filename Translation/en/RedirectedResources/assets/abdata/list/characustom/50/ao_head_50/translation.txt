@@ -7,5 +7,5 @@
 コンシェルジュハットS=Concierge Hat Sitri
 桜のかんざし=Cherry Blossom Hairpin
 前天冠=Front Crown
-巫女の飾り=Shrine Maider Ornament
+巫女の飾り=Shrine Maiden Ornament
 飾り房=Bunch Acessory
