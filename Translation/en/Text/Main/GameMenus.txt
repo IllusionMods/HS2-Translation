@@ -54,6 +54,7 @@ r:"グループ *([0-9０-９]+)"=Group $1
 登録=Assign
 容姿変更=Edit
 解除=Remove
+プレイヤー登録中=Assigned as Player
 
 ステータスをリセットする=Reset Status
 
@@ -183,6 +184,5 @@ Hを開始しますか？=Start a sex scene?
 //************************************************************
 あいうえおかきくけこさしすせそた=AIUEOKAKU
 グループ登録中=Registering group
-プレイヤー登録中=Registering as a player
 〇〇が達成されました=〇 has been achieved
 特別待遇を申し込む=Sign up for Deluxe Service
