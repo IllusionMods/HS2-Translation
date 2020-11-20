@@ -1,6 +1,16 @@
-#set level 4,8
-
 // shorter wording to fit button
 
+#set level 4,8
+
 容姿変更=Edit
+
+#unset level 4,8
+
+// Illusion let too little space for these ones, so the square needs to be removed
+#set level 1
+
+■登録=OK
+■戻る=Back
+
+#unset level 1
 

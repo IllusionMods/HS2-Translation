@@ -96,6 +96,8 @@ HS旗袍(网)=HS China Dress (fishnet)
 例の紐β="That" String β
 例の紐α="That" String α
 ljlsdq_kuangsan=Kurumi
+制服=Uniform
+上着=Jacket Dress
 
 //Male Tops
 忍者装束上=Ninja Top
@@ -171,6 +173,7 @@ ljlsdq_kuangsan=Kurumi
 アームスリーブ右=Right Sleeve
 指テーピング=Finger Taping
 乳神グローブ=Busty Goddess Gloves
+グローブ=Gloves
 
 //Male Gloves
 [SENA]手甲=[SENA] Forearm Bands
@@ -208,6 +211,7 @@ T裆黑丝=Black Stockings T
 [SENA]サポーターM1上下=[SENA] Elbow and Knee Pads M1
 [SENA]サポーターM1上=[SENA] Elbow Pads M1
 [SENA]サポーターM1下=[SENA] Knee Pads M1
+腰ベルト=Waist Belt
 
 //------------------------------------------------------------
 //Socks
@@ -270,6 +274,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 つけ毛=Hair Extension
 民国帽子=Republic of China Hat
 乳神アクセ=Busty Goddess Accessory
+セイバー=Saber
+サークレット=Circlet
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -292,6 +298,70 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 夜莺-面罩=Nightingale-Mask
 ガンツ顎=Gantz Jaw
 ドクロ仮面=Skull Mask
+
+//Basic Shapes
+基本図形：爪=Basic Shape: Nail
+基本図形：星=Basic Shape: Star
+基本図形：筒=Basic Shape: Cylinder
+基本図形：パイプ=Basic Shape: Pipe
+基本図形：台形=Basic Shape: Trapezoid
+基本図形：矢印=Basic Shape: Arrow
+基本図形：穴あきキューブ=Basic Shape: Hollow Cube
+基本図形：直角=Basic Shape: Right Angle
+基本図形：三日月=Basic Shape: Crescent Moon
+基本図形：十字=Basic Shape: Cross
+基本図形：Ｖ字=Basic Shape: V-Shaped
+基本図形：穴あき楕円=Basic Shape: Hollow Ellipse
+基本図形：先尖り棒=Basic Shape: Pointed Bar
+基本図形：三角=Basic Shape: Triangle
+基本図形：穴あき三角(通常)=Basic Shape: Hollow Triangle (Normal)
+基本図形：弧=Basic Shape: Arc
+基本図形：四分円=Basic Shape: Quarter Circle
+基本図形：半円=Basic Shape: Semicircle
+基本図形：五角形=Basic Shape: Pentagon
+基本図形：六角形=Basic Shape: Hexagon
+基本図形：穴あき六角形=Basic Shape: Hollow Hexagon
+基本図形：八角形=Basic Shape: Octagon
+基本図形：頭=Basic Shape: Head
+基本図形：平面（通常）=Basic Shape: Plane (Normal)
+基本図形：輪(通常)=Basic Shape: Ring (Normal)
+基本図形：正台形(通常)=Basic Shape: Regular Trapezoid (Normal)
+基本図形：山型多角形1(通常)=Basic Shape: Mountain Polygon 1 (Normal)
+基本図形：山型多角形2(通常)=Basic Shape: Mountain Polygon 2 (Normal)
+基本図形：長六角形(通常)=Basic Shape: Long Hexagon (Normal)
+基本図形：長五角形（通常）=Basic Shape: Long Pentagon (Normal)
+基本図形：歪み三角柱(通常)=Basic Shape: Distorted Triangular Prism (Normal)
+基本図形：マウス型右(通常)=Basic Shape: Mouse Button Right (Normal)
+基本図形：マウス型左(通常)=Basic Shape: Mouse Button Left (Normal)
+基本図形：三角横台形(通常)=Basic Shape: Triangular Horizontal Trapezoid (Normal)
+基本図形：五角横台形(通常)=Basic Shape: Pentagonal Horizontal Trapezoid (Normal)
+基本図形：円形横台形(通常)=Basic Shape: Circular Horizontal Trapezoid (Normal)
+基本図形：ドロップ立体(通常)=Basic Shape: Drop Solid (Normal)
+基本図形：ドロップ平面(通常)=Basic Shape: Drop Plane (Normal)
+基本図形：ひょうたん立体(通常)=Basic Shape: Gourd Solid (Normal)
+基本図形：ひょうたん平面(通常)=Basic Shape: Gourd Plane (Normal)
+基本図形：角リング(通常)=Basic Shape: Cone Ring (Normal)
+基本図形：立体半円(通常)=Basic Shape: Solid Semicircle (Normal)
+基本図形：立体四半円(通常)=Basic Shape: 3D Quarter Circle (Normal)
+基本図形：角型(通常)=Basic Shape: Cone (Normal)
+基本図形：直角形(通常)=Basic Shape: Right Angle (Normal)
+基本図形：斜ひし形(通常)=Basic Shape: Diagonal Rhombus (Normal)
+基本図形：歪み台形(通常)=Basic Shape: Distorted Trapezoid (Normal)
+基本図形：欠け四角(通常)=Basic Shape: Missing Cone (Normal)
+基本図形：二対多角形(通常)=Basic Shape: Two-Pair Polygon (Normal)
+基本図形：ヒレ型(通常)=Basic Shape: Fillet Button (Normal)
+基本図形：歪み多角形(通常)=Basic Shape: Distorted Polygon (Normal)
+基本図形：角なし斜ひし形(通常)=Basic Shape: Rounded Diagonal Rhombus (Normal)
+基本図形：角なし歪み台形(通常)=Basic Shape: Rounded Distorted Trapezoid (Normal)
+基本図形：角なし四角錐(通常)=Basic Shape: Rounded Square Pyramid (Normal)
+基本図形：角なし三角(通常)=Basic Shape: Rounded Triangle (Normal)
+基本図形：角なし四角(通常)=Basic Shape: Rounded Cube (Normal)
+基本図形：筒四分(通常)=Basic Shape: Quarter Cylinder (Normal)
+基本図形：半ピラミッド(通常)=Basic Shape: Half Pyramid (Normal)
+基本図形：角なし半四角錐(通常)=Basic Shape: Rounded Half Pyramid (Normal)
+基本図形：半コーン(通常)=Basic Shape: Half Cone (Normal)
+基本図形：階段型(通常)=Basic Shape: Staircase Button (Normal)
+基本図形：半カプセル(通常)=Basic Shape: Half Capsule (Normal)
 
 //------------------------------------------------------------
 //Accessories -> Neck
@@ -326,6 +396,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 手錠ケース=Handcuff Case
 警棒ホルダー=Baton Holder
 受令機=Police Radio
+レイピア（納刀）=Rapier (Sword)
+レイピア（鞘）=Rapier (Sheath)
 
 //------------------------------------------------------------
 //Accessories -> Back
@@ -386,6 +458,19 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 //Patterns
 //------------------------------------------------------------
 例の壁=Example Wall
+
+//------------------------------------------------------------
+//Paints
+//------------------------------------------------------------
+奸=Traitor
+色=Lust
+奴隷紋=Slave Pattern
+奸=Evil
+毒=Poison
+狂=Mad
+卑=Humble
+屄=Cunt
+獄=Prison
 
 //***********************************************************************
 // Sideloader Modpack - Coordinates and Cards
