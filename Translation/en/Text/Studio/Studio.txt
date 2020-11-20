@@ -681,6 +681,11 @@ r:"^FKアナルビーズ([０-９0-9]+)$"=FK Anal Beads $1
 // Animation Menu -> Current State -> Accessories
 r:"^スロ([０-９0-9][０-９0-9]+)$"=Slot $1
 
+// or if you have Studio Accesory Names plugin you need these
+r:"^スロット([０-９0-9][０-９0-9]+)$"=Slot $1
+sr:"^(?<slot_num_i>[０-９0-9]{2})\s+(?<accessory>\S.*)$"=${slot_num_i} ${accessory}
+
+
 // Animation Menu -> Current State -> Fluids
 汁=Fluids
 顔=Face
