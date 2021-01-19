@@ -51,11 +51,13 @@ r:"^大力-免费-发型([0-9]{2})"=[DALI] Free Sharing Hairstyle $1
 シャギー=Shaggy
 オールバック=All Back
 バンダナ=Bandana
+カールおさげ=Curl Ponitail
 
 //------------------------------------------------------------
 //Hair -> Bangs Settings
 //------------------------------------------------------------
 kuangsan=Kurumi
+普通の前髪=Normal Bangs
 
 //------------------------------------------------------------
 // Top
@@ -98,6 +100,19 @@ HS旗袍(网)=HS China Dress (fishnet)
 ljlsdq_kuangsan=Kurumi
 制服=Uniform
 上着=Jacket Dress
+八十八学園ブラウス=88th Academy Blouse
+カットソー=Jersey
+タートルネックセーター=Turtleneck Sweater
+半袖ブラウス（タックアウト）=Short Sleeve Blouse (Untucked)
+半袖ブラウス=Short Sleeve Blouse
+ブラウス（タックアウト）=Blouse (Untucked)
+フーディ=Hoody
+一番星ドレス（トップ）=Top Star Dress (Top)
+大力-分享恶魔Q3344929957=[DALI] Sharing Devil Q3344929957
+格闘用トップス=Fighting Top
+テストスーツ=Test Suit
+夕雲型エプロン=Yugumo Apron
+
 
 //Male Tops
 忍者装束上=Ninja Top
@@ -120,6 +135,20 @@ ljlsdq_kuangsan=Kurumi
 バレースパッツ=Volleyball Spats
 バレーブルマ=Volleyball Bloomers
 デニムスカート=Denim Skirt
+女王のスカート=Queen's Skirt
+ショートデニム=Denim Shorts
+フレアーパンツ=Flared Pants
+一番星ドレス（ボトム）=Top Star Dress (Bottom)
+ジャージ（たくし上げ）=Jersey (Rolled Up)
+ひざ丈フレアースカート=Knee Length Flared Skirt
+ひざ丈プリーツスカート=Knee Length Pleated Skirt
+ひざ丈タイトスカート=Knee Length Tight Skirt
+巻きスカート=Tied Skirt
+八十八学園スカート=88th Academy Skirt
+クラッシュデニム閉じ=Cutoff Denim Closed
+クラッシュデニム開き=Cutoff Denim Open
+格闘用スカート=Fighting Skirt
+
 
 //Male Bottoms
 忍者装束（下）=Ninja Bottom
@@ -174,6 +203,10 @@ ljlsdq_kuangsan=Kurumi
 指テーピング=Finger Taping
 乳神グローブ=Busty Goddess Gloves
 グローブ=Gloves
+八十八学園ベスト=88th Academy Vest
+一番星グローブ=Top Star Gloves
+パイロットグローブ=Pilot Gloves
+
 
 //Male Gloves
 [SENA]手甲=[SENA] Forearm Bands
@@ -212,6 +245,15 @@ T裆黑丝=Black Stockings T
 [SENA]サポーターM1上=[SENA] Elbow Pads M1
 [SENA]サポーターM1下=[SENA] Knee Pads M1
 腰ベルト=Waist Belt
+カーディガン=Cardigan
+ジャージ（前開き）=Jersey (Open)
+クリスマスポンチョ（フード）=Christmas Poncho (Hood)
+ポンチョコート=Poncho Coat
+ブレザー前開き=Blazer Open
+一番星パンツ=Top Star Pants
+女王のショール=Queen Shawl
+亀甲縛り（体操服着衣時用）=Rope Harness (For Gym Clothes)
+亀甲縛り（体操服半脱時用）=Rope Harness(For half-off Gym Clothes)
 
 //------------------------------------------------------------
 //Socks
@@ -223,6 +265,8 @@ T裆黑丝=Black Stockings T
 ｢SENA｣ソックス+レッグスリーブ=[SENA] Socks + Leg Sleeves
 ｢SENA｣ソックス+レッグスリーブ左=[SENA] Socks + Left Leg Sleeve
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Socks + Right Leg Sleeve
+一番星タイツ=Top Star High Tights
+
 
 //------------------------------------------------------------
 //Shoes
@@ -247,6 +291,10 @@ T裆黑丝=Black Stockings T
 シューズ=Shoes
 サンダル=Sandals
 バレーボールシューズ=Volleyball Shoes
+テストブーツ=Test Boots
+格闘用ブーツ=Fighting Boots
+大力-分享恶魔q3344929957=[DALI] Sharing Devil q3344929957
+
 
 //Male Shoes
 忍者草鞋=Ninja Sandals
@@ -276,6 +324,12 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 乳神アクセ=Busty Goddess Accessory
 セイバー=Saber
 サークレット=Circlet
+妹のリボン=Sister's Ribbon
+一番星クラウン=Top Star Crown
+大力-分享恶魔右q3344929957=[DALI] Sharing Devil Right q3344929957
+大力-分享恶魔左q3344929957=[DALI] Sharing Devil Left q3344929957
+レディヘッド=Lady Head
+テストヘルメット=Test Helmet
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -379,6 +433,9 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 ストップウォッチ=Stopwatch
 メダル=Medal
 乳神チョーカー=Busty Goddess Choker
+一番星ブローチ=Top Star Brooch
+一番星リボン=Top Star Ribbon
+八十八学園リボン=88th Academy Ribbon
 
 //------------------------------------------------------------
 //Accessories -> Waist
@@ -405,6 +462,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 カタナ（全）=Katana (All)
 カタナ（鞘）=Katana (Sheath)
 武蔵肩掛け上着=Musashi Shoulder Jacket
+テストバックパック=Test backpack
 
 //------------------------------------------------------------
 //Accessories -> Arms
@@ -444,6 +502,9 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 星スティック（木）=Star Power Stick (Wood)
 星スティック（金）=Star Power Stick (Gold)
 
+格闘用ブレスレット=Fighting Bracelet
+サイコガン=Psycho Gun
+
 //------------------------------------------------------------
 //Accessories -> Legs
 //------------------------------------------------------------
@@ -458,6 +519,10 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 //Patterns
 //------------------------------------------------------------
 例の壁=Example Wall
+単線(縦)=Single Line (Vertical)
+単線(横)=Single Line (Horizontal)
+単線2(横)=Single Line 2 (Horizontal)
+
 
 //------------------------------------------------------------
 //Paints
