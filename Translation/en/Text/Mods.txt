@@ -108,10 +108,11 @@ ljlsdq_kuangsan=Kurumi
 ブラウス（タックアウト）=Blouse (Untucked)
 フーディ=Hoody
 一番星ドレス（トップ）=Top Star Dress (Top)
-大力-分享恶魔Q3344929957=[DALI] Sharing Devil Q3344929957
+大力-分享恶魔Q3344929957=[DALI] Succubus Q3344929957
 格闘用トップス=Fighting Top
 テストスーツ=Test Suit
 夕雲型エプロン=Yugumo Apron
+大正義ジャケット=Taisho Jacket
 
 
 //Male Tops
@@ -148,7 +149,9 @@ ljlsdq_kuangsan=Kurumi
 クラッシュデニム閉じ=Cutoff Denim Closed
 クラッシュデニム開き=Cutoff Denim Open
 格闘用スカート=Fighting Skirt
-
+大正義スカート=Taisho Skirt
+大統領の服=President's Clothes
+大統領のスカート=President's Skirt
 
 //Male Bottoms
 忍者装束（下）=Ninja Bottom
@@ -169,6 +172,7 @@ ljlsdq_kuangsan=Kurumi
 スリングショット改=Slingshot Detached Strings
 乳神ワンピ=Busty Goddess Dress
 乳神ワンピ（透け）=Busty Goddess Dress (Sheer)
+大正義チューブトップ=Taisho Tube Top
 
 //------------------------------------------------------------
 // Inner Bottom
@@ -254,6 +258,8 @@ T裆黑丝=Black Stockings T
 女王のショール=Queen Shawl
 亀甲縛り（体操服着衣時用）=Rope Harness (For Gym Clothes)
 亀甲縛り（体操服半脱時用）=Rope Harness(For half-off Gym Clothes)
+大正義スパッツ=Taisho Spats
+ハーフコート=Open Coat
 
 //------------------------------------------------------------
 //Socks
@@ -266,7 +272,7 @@ T裆黑丝=Black Stockings T
 ｢SENA｣ソックス+レッグスリーブ左=[SENA] Socks + Left Leg Sleeve
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Socks + Right Leg Sleeve
 一番星タイツ=Top Star High Tights
-
+大正義ソックス=Taisho Socks
 
 //------------------------------------------------------------
 //Shoes
@@ -293,7 +299,8 @@ T裆黑丝=Black Stockings T
 バレーボールシューズ=Volleyball Shoes
 テストブーツ=Test Boots
 格闘用ブーツ=Fighting Boots
-大力-分享恶魔q3344929957=[DALI] Sharing Devil q3344929957
+大力-分享恶魔q3344929957=[DALI] Succubus q3344929957
+大正義シューズ=Taisho Shoes
 
 
 //Male Shoes
@@ -326,10 +333,11 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 サークレット=Circlet
 妹のリボン=Sister's Ribbon
 一番星クラウン=Top Star Crown
-大力-分享恶魔右q3344929957=[DALI] Sharing Devil Right q3344929957
-大力-分享恶魔左q3344929957=[DALI] Sharing Devil Left q3344929957
+大力-分享恶魔右q3344929957=[DALI] Succubus Right q3344929957
+大力-分享恶魔左q3344929957=[DALI] Succubus Left q3344929957
 レディヘッド=Lady Head
 テストヘルメット=Test Helmet
+大正義ヘアピン=Taisho Hairpin
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -436,6 +444,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 一番星ブローチ=Top Star Brooch
 一番星リボン=Top Star Ribbon
 八十八学園リボン=88th Academy Ribbon
+大正義ネックレス=Taisho Necklace
 
 //------------------------------------------------------------
 //Accessories -> Waist
@@ -473,6 +482,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 [SENA]アスカ武器パック(収納)=[SENA] Asuka Weapon Pack (Stored)
 [SENA]アスカ武器パック（ブレード）=[SENA] Asuka Weapon Pack (Blade)
 肘アーマー=Elbow Armor
+大正義リストバンド=Taisho Wristband
 
 //------------------------------------------------------------
 //Accessories -> Hands
