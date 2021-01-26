@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.3 by Text Dump Beta v1.4.3.2
 //
-//何か希望がございましたら、お申しつけください=
-//……どう攻めるか、悩んでしまいます=
+何か希望がございましたら、お申しつけください=Tell what you want... I'll do anything for you.
+……どう攻めるか、悩んでしまいます=... How will you attack, I wonder?
 //んっ、ん……こういう、攻め方は……いかがでしょう？=
 //あっ、あぁ……感じて……くださいね=
 //ん……私の中を……堪能して下さい……=

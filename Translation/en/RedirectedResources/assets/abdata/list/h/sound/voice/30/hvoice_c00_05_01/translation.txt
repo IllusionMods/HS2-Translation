@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-いつでも始めてください=Please start at any time
-熟考されていますね、何をお考えなのでしょう？=Thinking it over so carefully, what are you thinking about?
+いつでも始めてください=Please start at any time.
+熟考されていますね、何をお考えなのでしょう？=You are pondering. What are you thinking about?
 愉しんでいただけるように、努力致します=Hoping for a good time, I'm willing to put in some effort for it.
 悦んでもらえる攻め方を考えるのは、中々楽しいものです=Thinking about how you will please me is very fun.
 //んっ、ん……ネットリ攻められるのは……お好きですか？=
@@ -377,7 +377,7 @@
 //特濃精液のにおい……たまりません……=
 //んっ……気持ちいい……もっと出したいので、また注いで頂けませんか？=
 //あぁ……切ないです……またあなたの精液で満たして頂きたいです=
-何もしないのであれば、直ぐに帰りたいのですが=If you do not do anything soon, I will want go back before long.
+何もしないのであれば、直ぐに帰りたいのですが=If you keep me waiting, I might just leave.
 ……時間の無駄ですね=...a waste of time.
 ……退屈ですね=... that's boring.
 ……ご不満な点があるのでしたら、言っていただけませんか？=... If you have any complaints, would you please tell me?
