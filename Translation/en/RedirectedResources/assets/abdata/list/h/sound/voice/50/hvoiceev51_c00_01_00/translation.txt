@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.3 by Text Dump Beta v1.4.3.2
 //
-何か希望がございましたら、お申しつけください=Tell what you want... I'll do anything for you.
+何か希望がございましたら、お申しつけください=Tell me what you want... I'll do anything for you.
 ……どう攻めるか、悩んでしまいます=... How will you attack, I wonder?
 ん……これくらいで……どうでしょうか？=Mm... How about this?
 ん、ん……丁寧に……丁寧に……=Nn... n... slowly... slowly...
