@@ -1,3 +1,8 @@
+//***********************************************************************
+// Machine translations for Studio. All manually translated/cleaned up entries should go in:
+// RedirectedResources\assets\abdata\studio
+//***********************************************************************
+
 無感情：待機=Emotionless: Wait
 無感情：肯定=Emotionless: Affirmative
 無感情：否定=Emotionless: Negation
