@@ -42,6 +42,7 @@
 //Hair -> Back Hair
 //------------------------------------------------------------
 r:"^大力-免费-发型([0-9]{2})"=[DALI] Free Sharing Hairstyle $1
+r:"^大力-赞助发型([0-9]{2})"=[DALI] Sponsored Hairstyle $1
 オカッパ=Straight Bob
 サイドテール(左)[notail]=Side Tail (Left) [notail]
 サイドテール(右)[notail]=Side Tail (Right) [notail]
@@ -52,6 +53,11 @@ r:"^大力-免费-发型([0-9]{2})"=[DALI] Free Sharing Hairstyle $1
 オールバック=All Back
 バンダナ=Bandana
 カールおさげ=Curl Ponitail
+大力-TD沧海烟霞-发型=[DALI] TD Sea Haze - Hair
+大力-TD天华-发型=[DALI] TD Sky - Hair
+大力-眀妆-作者q3344929957=[DALI] Ming Dynasty - Author q3344929957
+大力-发型分享B1Q3344929957=[DALI] Hair Sharing B1 Q3344929957
+
 
 //------------------------------------------------------------
 //Hair -> Bangs Settings
@@ -63,6 +69,7 @@ kuangsan=Kurumi
 // Top
 //------------------------------------------------------------
 r:"^kunoichi.(.*)$"=Ninja Girl $1
+r:"^PC旗袍 变色([0-9])"=PC China Dress Color $1
 [XT]LTl蕾丝=[MOD] Lace
 HS旗袍(网)=HS China Dress (fishnet)
 旗袍=China Dress
@@ -113,7 +120,25 @@ ljlsdq_kuangsan=Kurumi
 テストスーツ=Test Suit
 夕雲型エプロン=Yugumo Apron
 大正義ジャケット=Yomiuri Giants Cheerleader Jacket
-
+HS 偶像 上衣=HS Idol Top
+HS旗袍(透)=HS China Dress (Transparent)
+HS2衬衫毛衣 改=HS2 Shirt Sweater Changed
+HS2西装外套 改=HS2 Blazer Changed
+HS2水手服 改=HS2 Sailor Suit Changed
+短袖衬衫=Short-Sleeved Shirt
+PC旗袍 原色=PC China Dress Original Color
+PH 空姐制服 上衣=PH Flight Attendant Uniform Top
+性感晚礼服=Sexy Evening Dress
+大力_TD沧海上衣=[DALI] TD Sea Top
+大力_TD天华上衣=[DALI] TD Sky Top
+大力_TD天华上衣-改旗袍=[DALI] TD Sky Top - Changed Dress
+大力_明妆-作者q3344929957=[DALI]Ming Dynasty - Author q3344929957
+大力_明妆-裸肩-作者q3344929957=[DALI] Ming Dynasty - Shoulderless - Author q3344929957
+大力-龙盔甲-作者q3344929957=[DALI] Dragon Armor - Author q3344929957
+前空きスーツ=Cleavage Suit
+ランナートップス半脱ぎ改=Runner Tops Half Off
+セーラー服(長袖)=Sailor Suit (Long Sleeves)
+セーラー服(半袖)=Sailor Suit (Short Sleeves)
 
 //Male Tops
 忍者装束上=Ninja Top
@@ -152,6 +177,32 @@ ljlsdq_kuangsan=Kurumi
 大正義スカート=Yomiuri Giants Cheerleader Skirt
 大統領の服=President's Clothes
 大統領のスカート=President's Skirt
+HS 偶像 裙子=HS Idol Skirt
+HS百褶裙 短=HS Pleated Skirt Short
+HS百褶裙 略短=HS Pleated Skirt Short-Medium
+HS百褶裙 中=HS Pleated Skirt Medium
+HS百褶裙 略长=HS Pleated Skirt Medium-Long
+HS百褶裙 长=HS Pleated Skirt Long
+HS百褶裙2 短=HS Pleated Skirt Short 2
+HS百褶裙2 略短=HS Pleated Skirt Short-Medium 2
+HS百褶裙2 中=HS Pleated Skirt Medium 2
+HS百褶裙2 略长=HS Pleated Skirt Medium-Long 2
+HS百褶裙2 长=HS Pleated Skirt Long 2
+PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
+百褶裙 短=Pleated Skirt Short
+百褶裙 略短=Pleated Skirt Short-Medium
+百褶裙 中=Pleated Skirt Medium
+百褶裙 略长=Pleated Skirt Medium-Long
+百褶裙 长=Pleated Skirt Long
+大力_TD沧海_裙子_原色=[DALI] TD Sea Skirt - Original Color
+大力_TD沧海_裙子_半透明=[DALI] TD Sea Skirt - Translucent
+大力-明妆-金属-作者q3344929957=[DALI] Ming Dynasty - Metal - Author q3344929957
+大力-明妆-金属-裸肩-作者q3344929957=[DALI] Ming Dynasty - Metal - Shouderless - Author q3344929957
+大力-龙盔甲裙-作者q3344929957=[DALI] Dragon Armor Skirt - Author q3344929957
+連邦ベルト=Federation Belt
+連合ベルト=Alliance Belt
+ランナーパンツ半脱ぎ改=Runner Pants Half Off
+
 
 //Male Bottoms
 忍者装束（下）=Ninja Bottom
@@ -173,6 +224,11 @@ ljlsdq_kuangsan=Kurumi
 乳神ワンピ=Busty Goddess Dress
 乳神ワンピ（透け）=Busty Goddess Dress (Sheer)
 大正義チューブトップ=Yomiuri Giants Cheerleader Tube Top
+連合水着襟開き=Alliance Swimsuit Cleavage
+連合水着=Alliance Swimsuit
+連邦水着襟開き=Federation Swimsuit Cleavage
+連邦水着=Federation Swimsuit
+毛衣=Sweater
 
 //------------------------------------------------------------
 // Inner Bottom
@@ -184,6 +240,7 @@ ljlsdq_kuangsan=Kurumi
 もっこり褌=Erect Loincloth
 褌=Loincloth
 陸上ブルマ=Sports Bloomers
+大力-龙盔甲裤=[DALI] Dragon Armor Pants
 
 //------------------------------------------------------------
 //Gloves
@@ -210,7 +267,15 @@ ljlsdq_kuangsan=Kurumi
 八十八学園ベスト=88th Academy Vest
 一番星グローブ=Top Star Gloves
 パイロットグローブ=Pilot Gloves
-
+連合グローブ=Alliance Gloves
+連邦グローブ=Federation Gloves
+大力-龙盔甲护手-作者q3344929957=[DALI] Dragon Armor Gauntlets - Author q3344929957
+大力-明妆特效手-作者q3344929957=[DALI] Ming Dynasty Hands Special Effects - Author q3344929957
+大力-明妆手-作者q3344929957=[DALI] Ming Dynasty Hands-Author q3344929957
+大力_TD天华_袖子B=[DALI] TD Sky Sleeve B
+大力_TD天华_袖子A=[DALI] TD Sky Sleeve A
+大力_TD沧海_袖子_半透明=[DALI] TD Sea Sleeves Translucent
+大力_TD沧海_袖子_原色=[DALI] TD Sea Sleeves Original Color
 
 //Male Gloves
 [SENA]手甲=[SENA] Forearm Bands
@@ -260,6 +325,8 @@ T裆黑丝=Black Stockings T
 亀甲縛り（体操服半脱時用）=Rope Harness(For half-off Gym Clothes)
 大正義スパッツ=Yomiuri Giants Cheerleader Spats
 ハーフコート=Open Coat
+ゼッケン上（ランナートップ改用）=Running Number Up (Runner Top Revised)
+ゼッケン上下（ランナートップ改用）=Running Number Up and Down (Runner Top Revised)
 
 //------------------------------------------------------------
 //Socks
@@ -273,6 +340,9 @@ T裆黑丝=Black Stockings T
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Socks + Right Leg Sleeve
 一番星タイツ=Top Star High Tights
 大正義ソックス=Yomiuri Giants Cheerleader Socks
+大力-龙盔-腰带-作者q3344929957=[DALI] Dragon Armor Belt - Author q3344929957
+大力-明妆腿部-作者q3344929957=[DALI] Ming Dynasty Garter - Author q3344929957
+大力_TD沧海_腿饰品=[DALI] TD Sea Garter
 
 //------------------------------------------------------------
 //Shoes
@@ -301,7 +371,16 @@ T裆黑丝=Black Stockings T
 格闘用ブーツ=Fighting Boots
 大力-分享恶魔q3344929957=[DALI] Succubus q3344929957
 大正義シューズ=Yomiuri Giants Cheerleader Shoes
-
+連合ブーツ=Alliance Boots
+連邦ブーツ=Federation Boots
+ロングブーツ=Knee-High Boots
+大力-龙爪-作者Q3344929957=[DALI] Dragon Claw - Author Q3344929957
+大力_明妆鞋-作者q3344929957=[DALI] Ming Dynasty Shoes-Author q3344929957
+大力_TD天华_鞋=[DALI] TD Sky Shoes
+大力_TD沧海_鞋=[DALI] TD Sea Shoes
+流苏小皮鞋=Fringed Leather Shoes
+HS 偶像 高跟=HS Idol High Heels
+HS 偶像 鞋子=HS Idol Shoes
 
 //Male Shoes
 忍者草鞋=Ninja Sandals
@@ -338,6 +417,17 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 レディヘッド=Lady Head
 テストヘルメット=Test Helmet
 大正義ヘアピン=Yomiuri Giants Cheerleader Hairpin
+PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
+大力_TD沧海头饰A=[DALI] TD Sea Headdress A
+大力_TD沧海头饰B=[DALI] TD Sea Headdress B
+大力_TD沧海头饰C=[DALI] TD Sea Headdress C
+大力_TD天华头饰A=[DALI] TD Sky Headdress A
+大力_明妆头巾-作者q3344929957=[DALI] Ming Dynasty Veil - Author q3344929957
+大力_明妆头饰-作者q3344929957=[DALI] Ming Dynasty Headdress - Author q3344929957
+大力-龙头盔-作者q3344929957=[DALI] Dragon Helmet - Author q3344929957
+制帽=Cap
+通信ヘッドセット=Headset
+陸軍ヘルメット=Army Helmet
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -445,6 +535,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 一番星リボン=Top Star Ribbon
 八十八学園リボン=88th Academy Ribbon
 大正義ネックレス=Yomiuri Giants Cheerleader Necklace
+太リボン=Thick Ribbon
+PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 
 //------------------------------------------------------------
 //Accessories -> Waist
@@ -472,6 +564,10 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 カタナ（鞘）=Katana (Sheath)
 武蔵肩掛け上着=Musashi Shoulder Jacket
 テストバックパック=Test backpack
+大力-龙翅膀-作者q3344929957=[DALI] Dragon Wings - Author q3344929957
+大力_明妆背金属=[DALI] Ming Dynasty Metal Back
+大力_明妆背带-作者q3344929957=[DALI] Ming Dynasty Straps - Author q3344929957
+大力_TD天华背带A=[DALI] TD Sky Straps A
 
 //------------------------------------------------------------
 //Accessories -> Arms
@@ -514,6 +610,10 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Devil Horns $1
 
 格闘用ブレスレット=Fighting Bracelet
 サイコガン=Psycho Gun
+大力_古剑=[DALI] Ancient Sword
+大力-镰刀-火-作者q3344929957=[DALI] Scythe Fire - Author q3344929957
+大力-镰刀-紫火-作者q3344929957=[DALI] Scythe Purple Fire - Author q3344929957
+大力-镰刀-作者q3344929957=[DALI] Scythe - Author q3344929957
 
 //------------------------------------------------------------
 //Accessories -> Legs
