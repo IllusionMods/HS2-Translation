@@ -58,7 +58,6 @@ r:"^大力-赞助发型([0-9]{2})"=[DALI] Sponsored Hairstyle $1
 大力-眀妆-作者q3344929957=[DALI] Ming Dynasty - Author q3344929957
 大力-发型分享B1Q3344929957=[DALI] Hair Sharing B1 Q3344929957
 
-
 //------------------------------------------------------------
 //Hair -> Bangs Settings
 //------------------------------------------------------------
@@ -120,6 +119,7 @@ ljlsdq_kuangsan=Kurumi
 テストスーツ=Test Suit
 夕雲型エプロン=Yugumo Apron
 大正義ジャケット=Yomiuri Giants Cheerleader Jacket
+大統領の服=President's Clothes
 HS 偶像 上衣=HS Idol Top
 HS旗袍(透)=HS China Dress (Transparent)
 HS2衬衫毛衣 改=HS2 Shirt Sweater Changed
@@ -175,7 +175,6 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 クラッシュデニム開き=Cutoff Denim Open
 格闘用スカート=Fighting Skirt
 大正義スカート=Yomiuri Giants Cheerleader Skirt
-大統領の服=President's Clothes
 大統領のスカート=President's Skirt
 HS 偶像 裙子=HS Idol Skirt
 HS百褶裙 短=HS Pleated Skirt Short
@@ -202,7 +201,6 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 連邦ベルト=Federation Belt
 連合ベルト=Alliance Belt
 ランナーパンツ半脱ぎ改=Runner Pants Half Off
-
 
 //Male Bottoms
 忍者装束（下）=Ninja Bottom
@@ -450,6 +448,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 夜莺-面罩=Nightingale-Mask
 ガンツ顎=Gantz Jaw
 ドクロ仮面=Skull Mask
+全頭マスク=Whole Head Mask
 
 //Basic Shapes
 基本図形：爪=Basic Shape: Nail
@@ -637,7 +636,6 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 //------------------------------------------------------------
 //Paints
 //------------------------------------------------------------
-奸=Traitor
 色=Lust
 奴隷紋=Slave Pattern
 奸=Evil
