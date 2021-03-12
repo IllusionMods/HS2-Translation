@@ -139,11 +139,20 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 ランナートップス半脱ぎ改=Runner Tops Half Off
 セーラー服(長袖)=Sailor Suit (Long Sleeves)
 セーラー服(半袖)=Sailor Suit (Short Sleeves)
+大力-分享DVAQ3344929957=[DALI] Sharing - D.VA - Q3344929957
+大力-分享DVA透明Q3344929957=[DALI] Sharing - D.VA Transparente - Q3344929957
+
 
 //Male Tops
 忍者装束上=Ninja Top
 トレーニングシャツ=Training Shirt
 警備シャツ=Security Shirt
+HS男西装 裤子=HS Men's Suit Coat
+[SENA]道着(袖なし)=[SENA] Kimono (Sleeveless)
+[SENA]ロングTシャツin=[SENA] Long T-shirt In
+[SENA]ロングTシャツout=[SENA] Long T-Shirt Out
+[SENA]Tシャツ(3色色変)=[SENA] T-shirt (3 Colors)
+シャツ（ノースリーブ）=Shirt (Sleeveless)
 
 //------------------------------------------------------------
 // Bottom
@@ -206,6 +215,10 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 忍者装束（下）=Ninja Bottom
 トレーニングパンツ=Training Pants
 警備パンツ=Security Pants
+道着（下）=Kimono (Bottom)
+制服レギンス=Uniform Leggings
+制服パンツ=Uniform Pants
+HS男西装 上衣=HS Men's Suit Pants
 
 //------------------------------------------------------------
 // Inner Top
@@ -279,6 +292,8 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 [SENA]手甲=[SENA] Forearm Bands
 [SENA]手甲・脛当=[SENA] Forearm and Shin Bands
 ビブス=Training Vest
+[SENA]軍用サスペンダー+グローブ=[SENA] Military Suspenders + Gloves
+格闘技グローブ=Martial Arts Gloves
 
 //------------------------------------------------------------
 //Pantyhouse
@@ -379,9 +394,21 @@ T裆黑丝=Black Stockings T
 流苏小皮鞋=Fringed Leather Shoes
 HS 偶像 高跟=HS Idol High Heels
 HS 偶像 鞋子=HS Idol Shoes
+HS 凉鞋(变色)=Sandals HS (Colorable)
+酒店拖鞋=Hotel Slippers
+HS 凉鞋(棕)=Sandals HS (Brown)
+HS 凉鞋(蓝)=Sandals HS (Blue)
+HS 凉鞋(红)=Sandals HS (Red)
+HS 凉鞋(黑)=Sandals HS (Black)
+HS 板鞋(变色)=Sneakers HS (Colorable)
+HS 板鞋(蓝)=Sneakers HS (Blue)
+HS 板鞋(红)=Sneakers HS (Red)
+HS 板鞋(绿)=Sneakers HS (Green)
+HS 板鞋(黑)=Sneakers HS (Black)
 
 //Male Shoes
 忍者草鞋=Ninja Sandals
+ミリタリーブーツ=Military Boots
 
 //------------------------------------------------------------
 //Accessories -> Head
@@ -426,6 +453,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 制帽=Cap
 通信ヘッドセット=Headset
 陸軍ヘルメット=Army Helmet
+大力-分享DVA-Q3344929957=[DALI] Sharing - D.VA - Q3344929957
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -513,6 +541,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 基本図形：半コーン(通常)=Basic Shape: Half Cone (Normal)
 基本図形：階段型(通常)=Basic Shape: Staircase Button (Normal)
 基本図形：半カプセル(通常)=Basic Shape: Half Capsule (Normal)
+猿轡=Gag
 
 //------------------------------------------------------------
 //Accessories -> Neck
