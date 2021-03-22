@@ -240,6 +240,8 @@ HS男西装 上衣=HS Men's Suit Pants
 連邦水着襟開き=Federation Swimsuit Cleavage
 連邦水着=Federation Swimsuit
 毛衣=Sweater
+ばってん=Forbidden Cross
+マイクロビキニトップ=Microbikini Top
 
 //------------------------------------------------------------
 // Inner Bottom
@@ -477,6 +479,8 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 ガンツ顎=Gantz Jaw
 ドクロ仮面=Skull Mask
 全頭マスク=Whole Head Mask
+狐面半分=Half Fox Mask
+狐面=Fox Mask
 
 //Basic Shapes
 基本図形：爪=Basic Shape: Nail
