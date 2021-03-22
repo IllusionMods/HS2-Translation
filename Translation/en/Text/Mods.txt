@@ -481,6 +481,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 全頭マスク=Whole Head Mask
 狐面半分=Half Fox Mask
 狐面=Fox Mask
+猿轡=Gag
 
 //Basic Shapes
 基本図形：爪=Basic Shape: Nail
@@ -545,7 +546,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 基本図形：半コーン(通常)=Basic Shape: Half Cone (Normal)
 基本図形：階段型(通常)=Basic Shape: Staircase Button (Normal)
 基本図形：半カプセル(通常)=Basic Shape: Half Capsule (Normal)
-猿轡=Gag
+
 
 //------------------------------------------------------------
 //Accessories -> Neck
