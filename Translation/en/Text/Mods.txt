@@ -139,11 +139,20 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 ランナートップス半脱ぎ改=Runner Tops Half Off
 セーラー服(長袖)=Sailor Suit (Long Sleeves)
 セーラー服(半袖)=Sailor Suit (Short Sleeves)
+大力-分享DVAQ3344929957=[DALI] Sharing - D.VA - Q3344929957
+大力-分享DVA透明Q3344929957=[DALI] Sharing - D.VA Transparent - Q3344929957
+
 
 //Male Tops
 忍者装束上=Ninja Top
 トレーニングシャツ=Training Shirt
 警備シャツ=Security Shirt
+HS男西装 裤子=HS Men's Suit Coat
+[SENA]道着(袖なし)=[SENA] Kimono (Sleeveless)
+[SENA]ロングTシャツin=[SENA] Long T-shirt In
+[SENA]ロングTシャツout=[SENA] Long T-Shirt Out
+[SENA]Tシャツ(3色色変)=[SENA] T-shirt (3 Colors)
+シャツ（ノースリーブ）=Shirt (Sleeveless)
 
 //------------------------------------------------------------
 // Bottom
@@ -206,6 +215,10 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 忍者装束（下）=Ninja Bottom
 トレーニングパンツ=Training Pants
 警備パンツ=Security Pants
+道着（下）=Kimono (Bottom)
+制服レギンス=Uniform Leggings
+制服パンツ=Uniform Pants
+HS男西装 上衣=HS Men's Suit Pants
 
 //------------------------------------------------------------
 // Inner Top
@@ -227,6 +240,8 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 連邦水着襟開き=Federation Swimsuit Cleavage
 連邦水着=Federation Swimsuit
 毛衣=Sweater
+ばってん=Forbidden Cross
+マイクロビキニトップ=Microbikini Top
 
 //------------------------------------------------------------
 // Inner Bottom
@@ -279,6 +294,8 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 [SENA]手甲=[SENA] Forearm Bands
 [SENA]手甲・脛当=[SENA] Forearm and Shin Bands
 ビブス=Training Vest
+[SENA]軍用サスペンダー+グローブ=[SENA] Military Suspenders + Gloves
+格闘技グローブ=Martial Arts Gloves
 
 //------------------------------------------------------------
 //Pantyhouse
@@ -379,9 +396,21 @@ T裆黑丝=Black Stockings T
 流苏小皮鞋=Fringed Leather Shoes
 HS 偶像 高跟=HS Idol High Heels
 HS 偶像 鞋子=HS Idol Shoes
+HS 凉鞋(变色)=HS Sandals (Colorable)
+酒店拖鞋=Hotel Slippers
+HS 凉鞋(棕)=HS Sandals (Brown)
+HS 凉鞋(蓝)=HS Sandals (Blue)
+HS 凉鞋(红)=HS Sandals (Red)
+HS 凉鞋(黑)=HS Sandals (Black)
+HS 板鞋(变色)=HS Sneakers (Colorable)
+HS 板鞋(蓝)=HS Sneakers (Blue)
+HS 板鞋(红)=HS Sneakers (Red)
+HS 板鞋(绿)=HS Sneakers (Green)
+HS 板鞋(黑)=HS Sneakers (Black)
 
 //Male Shoes
 忍者草鞋=Ninja Sandals
+ミリタリーブーツ=Military Boots
 
 //------------------------------------------------------------
 //Accessories -> Head
@@ -426,6 +455,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 制帽=Cap
 通信ヘッドセット=Headset
 陸軍ヘルメット=Army Helmet
+大力-分享DVA-Q3344929957=[DALI] Sharing - D.VA - Q3344929957
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -449,6 +479,9 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 ガンツ顎=Gantz Jaw
 ドクロ仮面=Skull Mask
 全頭マスク=Whole Head Mask
+狐面半分=Half Fox Mask
+狐面=Fox Mask
+猿轡=Gag
 
 //Basic Shapes
 基本図形：爪=Basic Shape: Nail
@@ -513,6 +546,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 基本図形：半コーン(通常)=Basic Shape: Half Cone (Normal)
 基本図形：階段型(通常)=Basic Shape: Staircase Button (Normal)
 基本図形：半カプセル(通常)=Basic Shape: Half Capsule (Normal)
+
 
 //------------------------------------------------------------
 //Accessories -> Neck
