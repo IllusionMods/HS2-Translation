@@ -396,17 +396,17 @@ T裆黑丝=Black Stockings T
 流苏小皮鞋=Fringed Leather Shoes
 HS 偶像 高跟=HS Idol High Heels
 HS 偶像 鞋子=HS Idol Shoes
-HS 凉鞋(变色)=Sandals HS (Colorable)
+HS 凉鞋(变色)=HS Sandals (Colorable)
 酒店拖鞋=Hotel Slippers
-HS 凉鞋(棕)=Sandals HS (Brown)
-HS 凉鞋(蓝)=Sandals HS (Blue)
-HS 凉鞋(红)=Sandals HS (Red)
-HS 凉鞋(黑)=Sandals HS (Black)
-HS 板鞋(变色)=Sneakers HS (Colorable)
-HS 板鞋(蓝)=Sneakers HS (Blue)
-HS 板鞋(红)=Sneakers HS (Red)
-HS 板鞋(绿)=Sneakers HS (Green)
-HS 板鞋(黑)=Sneakers HS (Black)
+HS 凉鞋(棕)=HS Sandals (Brown)
+HS 凉鞋(蓝)=HS Sandals (Blue)
+HS 凉鞋(红)=HS Sandals (Red)
+HS 凉鞋(黑)=HS Sandals (Black)
+HS 板鞋(变色)=HS Sneakers (Colorable)
+HS 板鞋(蓝)=HS Sneakers (Blue)
+HS 板鞋(红)=HS Sneakers (Red)
+HS 板鞋(绿)=HS Sneakers (Green)
+HS 板鞋(黑)=HS Sneakers (Black)
 
 //Male Shoes
 忍者草鞋=Ninja Sandals
