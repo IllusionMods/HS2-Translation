@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 イイ女は相手を迷わせるって言うっすけど～そういうことすかね～？=They say that a good woman can lead a man astray, is that what you're saying?

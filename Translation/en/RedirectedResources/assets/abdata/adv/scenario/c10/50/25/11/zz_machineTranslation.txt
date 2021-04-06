@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ここで私は……貴方に苛められてしまうのでしょうか？　それとも……苛めて欲しいのでしょうか？=Am I going to be... Tormented by you here? Or... Do you want to be tormented?

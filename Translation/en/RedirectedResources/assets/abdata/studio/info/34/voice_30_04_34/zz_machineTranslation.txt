@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 「んん…りゅ…んっ…ぇろ…ろ…んむ、ぅ…ん…はぅ…ん…」="Hmm... Ryu... Hmm... Ero... Ro... Hmm, U... Hmm... Hmm... Hmm..."

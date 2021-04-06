@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 えぇっ、見ちゃったんですかっ……あ、あれはその……つい身体が火照っちゃっただけなんですよー。=Oh, you saw it? Oh, that was just... My body was just on fire.

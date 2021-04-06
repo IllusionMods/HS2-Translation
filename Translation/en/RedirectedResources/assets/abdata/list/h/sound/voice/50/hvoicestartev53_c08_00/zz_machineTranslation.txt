@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 この触手……まだまだ私を犯す気みたいっす=These tentacles... They're still trying to fuck me.

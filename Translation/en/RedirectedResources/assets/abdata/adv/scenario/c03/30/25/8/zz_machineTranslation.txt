@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ああ、どうしよ……緊張しすぎて、全然酔えないや。=Oh, what should I do... I'm too nervous, I can't get drunk at all.

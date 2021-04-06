@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こんな格好でご挨拶なんて不格好ですけれども、助けていただけますか……？=I feel awkward greeting you in this outfit, but can you please help me?

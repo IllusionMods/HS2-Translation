@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 私、バーなんてお洒落なところに連れてきて頂いたのは初めてですわ……=I've never been taken to a bar before...

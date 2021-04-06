@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょい待ち……あー、寄り道したいところができた的な？　そんな感じ？=Wait a minute... Uh, you know, like, I've got a place to stop? Something like that?

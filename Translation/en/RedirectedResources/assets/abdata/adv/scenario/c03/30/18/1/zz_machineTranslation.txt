@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あー……縄がね……絡まっちゃって。別に変なことしてたわけじゃないんだ……=Uh... The rope... Got tangled. It's not like I was doing anything weird...

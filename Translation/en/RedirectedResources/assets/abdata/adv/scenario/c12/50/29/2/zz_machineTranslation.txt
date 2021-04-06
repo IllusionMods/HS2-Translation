@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あれ、お前も風呂なのか？　ちょうど空いたところだぜ。=Hey, are you taking a bath, too? I just got free.

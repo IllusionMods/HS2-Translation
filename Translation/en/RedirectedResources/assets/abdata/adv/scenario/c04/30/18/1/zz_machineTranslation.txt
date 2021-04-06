@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あっ、いいところに来てくれじゃん！　これ解いて？　変な悪戯とかしなくていーかんね？　普通に解くだけだよ？=Oh, you've come to the right place! Can you untie me? You don't have to play any tricks on me, right? Just solve it like normal, okay?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 待て、急にヤボ用ができた。少し寄り道するが、いちいち詮索するなよ？=Wait, I've suddenly got some business to attend to. I'm going to take a little detour, but don't pry into my business, okay?

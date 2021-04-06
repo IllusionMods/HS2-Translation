@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 コイツ、巻き付いて取れねぇ……クソ、きもちわりぃ……=I can't get this thing wrapped around me... Damn, it's so gross...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 くぁ、これは反則だろ……少し震えるだけで、こんなにっ……=Ahhh, I can't believe I'm shaking like this...

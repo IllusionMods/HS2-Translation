@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 い、いつもしてるわけじゃないんですよっ！？　今日はたまたまっ……たまたまっ、むらむらでっ！=I don't do it all the time! Today, it just happened... Just happened... It just happened... It just happened!

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んぷ、ぢゅっ…くひにちかぁがはいんらいっれ……（口に力が入らないって）=(I can't get my mouth to work)

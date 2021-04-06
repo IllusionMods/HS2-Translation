@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 恥ずかしいと感じていたはずなのに、いつの間にか気持ちいいが上回っておりました……=I should have felt embarrassed, but before I knew it, I felt more comfortable...

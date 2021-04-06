@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 何かおかしなことを口走っていたような……気のせいだと良いのですが。=I think I was saying something funny... I hope it was just my imagination.

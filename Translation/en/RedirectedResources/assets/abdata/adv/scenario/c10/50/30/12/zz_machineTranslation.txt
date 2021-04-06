@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 先程のことは……二人だけの秘密ということで、どうかお願いします。この件はそれで終わり……それがお互い一番幸せな結果かと……=What happened earlier... Is a secret between the two of us, please. That's the end of the matter... And I think that's the happiest outcome for both of us.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ここロビーだぜ？！　ここでやろうって考えるんだから……お前ってすごいな。=This is the lobby! It's amazing that you would even think of doing it here.

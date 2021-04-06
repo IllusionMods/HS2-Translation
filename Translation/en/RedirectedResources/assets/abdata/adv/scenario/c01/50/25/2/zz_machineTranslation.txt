@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ここがあなたの部屋なのね？　なかなかいい雰囲気じゃない。=So this is your room, huh? It's quite a nice atmosphere.

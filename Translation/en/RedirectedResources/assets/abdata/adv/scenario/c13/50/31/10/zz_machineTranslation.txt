@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんだか悪いことをしているみたいで、興奮してしまいました……=I felt like I was doing something bad, and I was so excited...

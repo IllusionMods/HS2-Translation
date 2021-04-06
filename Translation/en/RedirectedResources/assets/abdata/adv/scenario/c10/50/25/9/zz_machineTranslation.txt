@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんだか、いけない事をしている気分になりますね。こんな、普通はお勉強をするところでなんて……=I feel like I'm doing something wrong. I can't believe I'm in a place like this where people usually study...

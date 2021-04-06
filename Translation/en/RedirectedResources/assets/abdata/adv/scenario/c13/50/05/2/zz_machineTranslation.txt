@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あ……よかった、あなたにならどの角度から見られても大丈夫だったので……=Oh... Good, because I was fine with you looking at me from any angle...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 私の勘違いでなければ、破廉恥ことに用いる道具ばかりがある様に見えるのですが……こちらはお使いになるのでしょうか？=If I'm not mistaken, it looks like all you have are tools used for shameful things... Are you going to use these?

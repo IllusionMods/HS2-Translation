@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 急に腰が抜けてしまいまして……だらしなくて、すみません。=I'm sorry for being so sloppy, but I suddenly lost my back.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 は？　なに入ってきてんの？　マジ意味不なんですけど！　てか、ガン見し過ぎ！=What? What are you doing coming in here? I really don't get it! I mean, you're staring at me too much!

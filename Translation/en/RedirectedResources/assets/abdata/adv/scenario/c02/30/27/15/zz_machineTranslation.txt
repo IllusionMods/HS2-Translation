@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ん……まだ、くらくらしていますが……もう、大丈夫ですから……=I'm still a little dizzy, but I'll be fine...

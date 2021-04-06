@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うそ、待って……ここは流石にマズイって！　一番人通りが多い所だよ？　何考えてるの？=No, wait... This is a bad idea! It's the busiest place on the street. What are you thinking?

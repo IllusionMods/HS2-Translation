@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 寝込みを襲うなんて……普通は怒られると思うぞ。=Attacking someone in their sleep... That's usually considered pissing them off.

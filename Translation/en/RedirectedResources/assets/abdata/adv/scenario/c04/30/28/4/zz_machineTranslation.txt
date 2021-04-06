@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うわっ、いたの？　えーっと、特に変わった音とか……聞こえなかったよね？=Ahhh, you're here? Well, I didn't hear any unusual noises or... Anything, did I?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぅくっ、調子に乗り過ぎだ……バレて捕まるのはオマエの方なんだからな？=I'm not going to let you get away with this... You're the one who's going to get caught, remember?

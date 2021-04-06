@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よし、間に合ったか……最悪だけは回避できたな……=Okay, you're just in time... You've just avoided the worst of it...

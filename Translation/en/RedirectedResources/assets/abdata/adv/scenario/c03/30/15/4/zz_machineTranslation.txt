@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 えっと……う、ううん、なんでもない……。お、お陰でぐっすり眠れた！　ありがとね！=Uh... Uh... No, it's nothing... Oh, I slept so well thanks to you! Thank you!

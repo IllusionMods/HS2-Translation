@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ほ、本物の電車……ですか？　こ、ここでするなんて……顔が赤くなっちゃいます……=Is that a real train? I can't believe I'm doing this here... My face is turning red...

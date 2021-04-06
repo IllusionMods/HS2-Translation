@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 さぁ、もう流石に寝惚けてはいませんよね？　貴方は気持ちよく起きられて、私も気持ちよくて……ふふ、こんなに素晴らしいことはありません。=Now, you're not falling asleep, are you? You woke up feeling good, and I feel good... Hmmm, there's nothing better.

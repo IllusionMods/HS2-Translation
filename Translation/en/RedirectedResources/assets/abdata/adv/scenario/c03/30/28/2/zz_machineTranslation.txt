@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ん？　お前もサッパリしに来たの？　そ、そう、入れば……？=Hmm? Did you come here to get cleaned up too? Yeah, why don't you come in?

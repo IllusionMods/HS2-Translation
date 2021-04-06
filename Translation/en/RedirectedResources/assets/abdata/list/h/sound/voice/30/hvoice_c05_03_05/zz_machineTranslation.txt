@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あっ、ふぅっ、んんっ、はぁっ、一人で……するの……恥ずかしい……=I'm so embarrassed to be doing this alone...

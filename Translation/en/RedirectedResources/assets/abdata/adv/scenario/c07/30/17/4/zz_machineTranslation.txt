@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい待て、考え直せ。オレに恩を売っておけば、後々いい思いができるぞ？=Wait, wait, wait. Think again. Why don't you just ingratiate yourself with me, and you'll be in good hands later?

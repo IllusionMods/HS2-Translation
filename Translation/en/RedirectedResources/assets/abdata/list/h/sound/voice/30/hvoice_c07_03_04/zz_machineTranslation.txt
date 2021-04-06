@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んっ、はぁっ……変に弄られるよりは……一人の方が楽だな。=Mmm, huh... It's easier to be alone than to be played with in a strange way.

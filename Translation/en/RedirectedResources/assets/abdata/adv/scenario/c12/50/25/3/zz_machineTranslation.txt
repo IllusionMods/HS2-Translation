@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ここが俺の部屋だ。まぁ、あんまり大したもんはねぇけど、ゆっくりしていってくれ。=This is my room. Well, there's not much here, but please take your time.

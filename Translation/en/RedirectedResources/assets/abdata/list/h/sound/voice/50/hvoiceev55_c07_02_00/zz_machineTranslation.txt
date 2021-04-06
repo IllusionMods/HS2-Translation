@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ほら、焦れるだろ？　オマエのその顔が、俺は大好きなんだ。=See how impatient I am? I love the look on your face, you know.

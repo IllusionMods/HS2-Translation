@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょっと待ってろよ…俺が、しっかり動いてやるからな=Hold on a second... And I'll make sure this thing works.

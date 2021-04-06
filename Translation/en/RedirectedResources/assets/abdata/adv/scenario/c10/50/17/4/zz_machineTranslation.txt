@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぇ……嘘ですよね？　ま、待ってください！　本当に私、困っているのです！　お礼は何でもしますから！=Oh... You're lying, right? Wait, wait, wait! I'm really in trouble! I'll do anything to repay you!

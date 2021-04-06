@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 えぇっ、うそっ……今はダメですっ……本当にっ……本当にダメですよぉっ！=No, no, not now... Not really... Really not!

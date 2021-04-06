@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お風呂でもふたりの愛を確かめ合えるなんて幸せですわ……=I'm so happy that we can share our love in the bath...

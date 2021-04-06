@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おっと、入ってたのか？　なんてな、入ってるのが分かってて、襲いに来てやったんだよ。=Whoa, you're in there? What a surprise. I knew you were in there and I came to attack you.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あなたにお会いしたくなってしまいまして……宜しければ、少しお話いたしませんか……？=I'd like to meet you... If you don't mind, I'd like to have a little chat with you...

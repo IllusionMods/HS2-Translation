@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 マ？　アンタ……恐れ知らな過ぎでしょ……頭おかしいんじゃないの？=Ma? You... Are too fearless... Or are you crazy?

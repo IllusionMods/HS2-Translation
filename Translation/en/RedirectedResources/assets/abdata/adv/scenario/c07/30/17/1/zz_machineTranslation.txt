@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よお、なんとなくオマエが来る気がしてたぜ。意味分かんねぇ状況だと思うが、とりあえず助けてくれ。=Hey, I had a feeling you'd be here. I know this situation doesn't make any sense, but I need your help anyway.

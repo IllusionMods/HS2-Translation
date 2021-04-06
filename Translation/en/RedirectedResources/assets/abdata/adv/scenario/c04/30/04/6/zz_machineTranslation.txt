@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぁはは……一人でする筈が、二人になっちゃった♪=I was supposed to do this alone, but now there's two of us ♪

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よくわからないけど……腰に、力が入らないのよね。=I don't know what it is, but I can't seem to get any strength in my lower back.

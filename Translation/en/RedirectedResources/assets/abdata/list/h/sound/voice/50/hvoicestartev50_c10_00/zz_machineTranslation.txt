@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 水は冷たいですが……ふふ、貴方にのぼせてしまいそうです……=The water is cold, but I think I'm going to fall in love with you...

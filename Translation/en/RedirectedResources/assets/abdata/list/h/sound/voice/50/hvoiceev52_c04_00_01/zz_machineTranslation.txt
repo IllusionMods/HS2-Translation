@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょ、音は立てないでよ？　こっちが声我慢してる意味なくなるから……=Hey, don't make a sound, okay? It's not like I'm trying to hold my voice in...

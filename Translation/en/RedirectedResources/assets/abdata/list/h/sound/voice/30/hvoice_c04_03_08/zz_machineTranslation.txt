@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょっ、えっ、これっ、中で震えてっ、はぁっ、変な感じぃっ！=Wait, what, this is shaking inside me, hah, that feels weird!

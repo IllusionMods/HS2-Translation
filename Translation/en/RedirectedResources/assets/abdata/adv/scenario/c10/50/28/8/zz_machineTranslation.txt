@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まったくもう……どこにいても油断できませんね。まぁ、気持ち良かったので、文句はこれくらいで……次はあまり、驚かさないようにしてくださいね。=I can't be too careful... No matter where I am. Well, it felt good, so that's all I have to complain about... Next time, please try not to surprise me so much.

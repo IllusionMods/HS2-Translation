@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 汗を流して、また汗をかいて、忙しいこった。これでまた汗を流しにいったら、ループの発生か？=I was busy sweating and sweating some more. Now if I go back to sweat again, will it start a loop?

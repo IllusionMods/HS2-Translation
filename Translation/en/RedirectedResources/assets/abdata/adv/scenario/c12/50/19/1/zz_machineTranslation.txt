@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんだか、急に腰がおかしくなっちゃって……うまく動けないんだよ。=I don't know, my back suddenly went crazy... I can't move well.

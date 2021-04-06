@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 自分の部屋より、あなたのお部屋の方が落ち着くんです。……これからも、私を傍においていただけますか？=I feel more at home in your room than in my own... Will you continue to keep me by your side?

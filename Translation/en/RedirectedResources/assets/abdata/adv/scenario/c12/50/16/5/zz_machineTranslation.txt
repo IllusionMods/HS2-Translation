@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 もう最悪だぜ。これ以上、俺にさわるんじゃねぇよ！=This sucks, man. Don't you dare touch me any more!

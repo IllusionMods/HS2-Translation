@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 そ、その……今の様な行為を、いつもしているわけではございません。そこだけは、勘違いなさらないで下さいまし……=Well, you see... I don't always do what you just did. Please don't misunderstand me about that...

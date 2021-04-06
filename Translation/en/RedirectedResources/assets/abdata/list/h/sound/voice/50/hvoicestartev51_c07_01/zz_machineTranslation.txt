@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 いいぞ、いくらでも苛めてやる。オマエの情けない姿をもっと見せろ。=Good, I'll torment you as much as I can. Show me more of your pathetic figure.

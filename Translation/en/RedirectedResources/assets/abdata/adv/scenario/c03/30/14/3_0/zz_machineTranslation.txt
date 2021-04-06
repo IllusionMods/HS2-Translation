@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょっと大胆すぎた……？　これもほら、愛のなせる技っていうか……言わせないでよ、もう……=Was that too bold? It's just another example of love... Don't make me say it...

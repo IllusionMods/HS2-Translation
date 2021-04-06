@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 はうっ……こんな時に突然……生理現象がっ……えっと……少しだけ待っててもらっていーですか？=I'm sorry, but I'm not sure if this is the right time.

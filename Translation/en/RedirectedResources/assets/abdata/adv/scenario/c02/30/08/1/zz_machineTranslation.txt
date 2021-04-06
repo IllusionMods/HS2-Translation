@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お邪魔します。　その……一緒に入ってもいい、ですよね……？=I'm sorry to bother you. You know... It's okay if I come in with you, right?

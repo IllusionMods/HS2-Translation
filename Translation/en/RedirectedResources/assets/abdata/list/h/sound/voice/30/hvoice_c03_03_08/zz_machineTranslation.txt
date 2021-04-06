@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ね、ねぇ、この拘束は、んんっ、外してもいいんじゃ……=Hey, hey, you can take these restraints off if you want...

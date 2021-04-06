@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んぅ……お礼の前払いってことにしてね？　やることやって満足したら、ちゃんと助けてよ？=Well... Let's just call it a thank-you advance, shall we? When you're satisfied with what you've done, you can help me out, okay?

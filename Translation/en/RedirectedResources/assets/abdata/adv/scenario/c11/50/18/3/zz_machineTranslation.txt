@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こ、このまま致すのですか？　……それが貴方のお望みなのでしたら、承知致しました。=Are you going to let this happen? If that's what you want, I understand.

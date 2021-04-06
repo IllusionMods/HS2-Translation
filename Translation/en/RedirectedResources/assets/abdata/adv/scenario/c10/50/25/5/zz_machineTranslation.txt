@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 のぼせないように、気を付けないといけませんね。お互い、無理をしないようにしましょう。何かあったら、すぐに言ってください。=We have to be careful not to overexert ourselves. Let's both try not to overdo it. If you have any problems, please let me know right away.

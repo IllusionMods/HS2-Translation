@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 座学として女の性を学んだ教室で実技も学べるなんて、不思議な気持ちです。=It was a strange feeling to be able to learn practical skills in the same classroom where I learned about female sexuality as a classroom.

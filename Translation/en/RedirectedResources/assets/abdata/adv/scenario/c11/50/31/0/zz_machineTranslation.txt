@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 す、すみません……お手洗いに寄らせて頂いても、宜しいでしょうか？=I'm sorry, may I please stop by the restroom?

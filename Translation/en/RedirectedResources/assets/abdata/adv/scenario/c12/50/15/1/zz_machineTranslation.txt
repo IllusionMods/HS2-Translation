@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 悪いな、突然来ちまって……ちょっとだけ俺と付き合ってくれねぇか？=I'm sorry I came out of nowhere, but I was wondering if you could hang out with me for a while.

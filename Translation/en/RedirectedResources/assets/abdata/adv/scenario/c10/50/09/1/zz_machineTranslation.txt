@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あら？　奇遇ですね。私も丁度、汗を流したくて……きっとこれから、たくさん汗をかいてしまうと思うので……=Oh? What a coincidence. I just wanted to work up a sweat too... I'm sure I'll be sweating a lot from now on, so...

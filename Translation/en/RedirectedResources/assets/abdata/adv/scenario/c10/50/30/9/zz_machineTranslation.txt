@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あぁもうっ、こんな状態でしたら……私、どうなってしまうか……絶対に我慢なんて無理です。粗相をしても、怒らないでくださいね？=Ahhh, I don't know what will happen to me if I'm like this... I definitely can't hold back. Please don't get angry if I make a mess, okay?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ひとりでしているところを見られて恥ずかしかったのに……それ以上に感じてしまいました……=I was embarrassed to be seen doing it alone, but I felt more than that...

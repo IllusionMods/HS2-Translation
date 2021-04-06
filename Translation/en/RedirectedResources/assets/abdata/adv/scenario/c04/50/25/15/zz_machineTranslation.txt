@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おっとぉ……教会に連れてくるってことはぁ？　え……マ？　ここでするん？=Whoa... You mean you're bringing him to the church? What... Ma? You're doing it here?

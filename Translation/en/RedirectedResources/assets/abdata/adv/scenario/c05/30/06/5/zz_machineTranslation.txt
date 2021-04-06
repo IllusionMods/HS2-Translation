@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こ、こんなところでしちゃって……声、外に聞こえなかったでしょうか……？=I'm sorry for doing it here... I hope you didn't hear my voice outside?

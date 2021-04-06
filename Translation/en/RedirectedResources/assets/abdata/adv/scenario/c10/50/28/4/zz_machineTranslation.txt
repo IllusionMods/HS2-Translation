@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あぁえぇと……お湯の温度が少し高くて、つい変な声が出てしまったのですが……き、聞こえていましたか？=The temperature of the water was a little high, so I made a strange noise... Did you hear me?

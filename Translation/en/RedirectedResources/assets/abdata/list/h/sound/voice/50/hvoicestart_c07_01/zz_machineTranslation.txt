@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 どう見ても気持ち悪いだろコイツ。これで気持ちよくなれる気がしねぇ……=No matter how you look at it, it's disgusting. I don't think this is going to make me feel any better...

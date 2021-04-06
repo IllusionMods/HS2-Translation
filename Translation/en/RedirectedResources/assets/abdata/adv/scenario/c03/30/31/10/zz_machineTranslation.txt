@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 もうさ……何が常識なのか分かんなくなってきた……とりあえず、気持ちよければいいのかな？=I don't know what's common sense anymore... Should I just feel good about it?

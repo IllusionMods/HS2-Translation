@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 場所を移さず、ここで致すのですか？　こ、心の準備が……=You're not going to move, are you? I'm not sure I'm ready...

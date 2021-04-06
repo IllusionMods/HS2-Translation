@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こういった落ち着いた雰囲気でするのも、悪くはないかもですね。=It might not be a bad idea to do it in a calm atmosphere like this.

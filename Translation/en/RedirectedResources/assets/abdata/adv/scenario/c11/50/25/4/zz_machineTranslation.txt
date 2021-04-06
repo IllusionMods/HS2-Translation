@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 薄暗くて気味が悪い場所ですね。この様な状況が、より興奮を高めるのでしょうか？=The place is dimly lit and creepy. Does this kind of situation make you more excited?

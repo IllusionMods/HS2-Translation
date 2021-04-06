@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 やはりそうなるか……まぁ、最後に助けてくれれば文句はねぇ。あと、ちゃんとオレも楽しませろよ？=I'm not going to complain as long as you save me at the end. Also, make sure you entertain me too.

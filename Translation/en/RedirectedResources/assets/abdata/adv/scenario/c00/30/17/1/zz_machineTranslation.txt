@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 一番見られたくない方に、見つかるとは……みっともない姿をお見せして申し訳ございません。=I'm sorry to show you my disgraceful appearance... To be found by the person who doesn't want to be seen the most.

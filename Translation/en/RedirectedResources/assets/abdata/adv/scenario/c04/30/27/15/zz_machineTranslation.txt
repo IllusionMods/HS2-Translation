@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あー、少しは動けるようになってきたかも……マジやばいかと思った……=Oh, I think I might be able to move a little... I thought I was in serious trouble...

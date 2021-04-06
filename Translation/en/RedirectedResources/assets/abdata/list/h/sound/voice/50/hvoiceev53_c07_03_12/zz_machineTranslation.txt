@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 コイツ、命令しないと動かないタイプか？　おい、焦らすな。早くしろ……=Is he the kind of guy who doesn't work unless you tell him to? Hey, don't rush me. Hurry up...

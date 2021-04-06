@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんだここは……あの気色悪いのは生きてるのか？　信じられないな……=What the hell is this place... That freaky thing is still alive? I can't believe it...

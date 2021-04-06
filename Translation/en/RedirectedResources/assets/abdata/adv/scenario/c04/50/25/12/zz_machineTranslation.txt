@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まさかさ……電車の中でする気？　お互いに変な癖つくよ？　絶対……=You're not gonna... Do it on the train, are you? You'll get in a weird habit with each other. I'm sure.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こんなものまで用意されているとは……やっぱりあなたみたいな人に需要があるんですかね？=I can't believe they even have something like this available... I guess there's a demand for people like you after all?

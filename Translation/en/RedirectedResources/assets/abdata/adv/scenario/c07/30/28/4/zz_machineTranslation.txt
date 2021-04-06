@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おう……いたのか。早くオマエも汗を流してこいよ……気持ちいいぞ？　色々とな……=Oh... There you are. Why don't you go ahead and sweat it out... It feels good, huh? It's a lot...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あまり過激すぎるものは困りますが……判断はお任せします。=I don't want anything too extreme, but I'll leave it to you to decide.

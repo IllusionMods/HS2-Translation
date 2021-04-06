@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あ、あなたでしたか……すみません、よろしければ助けて頂けませんか？　すっぽりとはまってしまって……=Oh, it's you... Sorry, I was wondering if you could help me. I'm completely stuck in...

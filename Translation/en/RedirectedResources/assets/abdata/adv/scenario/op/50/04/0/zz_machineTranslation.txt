@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 それでは、パートナーをお呼び致しますので暫くお待ち下さい。=Now, please wait a moment while I call your partner.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あ、あはは……シちゃったね。なんか、こういうの、恋人みたいでさ、よくない？　私は、心地いいな。=Oh, haha... We did it. It's like we're lovers, isn't it? I'm comfortable with it.

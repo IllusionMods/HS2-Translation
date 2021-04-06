@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 当店のデラックスプランをご購入頂き、誠にありがとうございます。=Thank you for purchasing our Deluxe Services.

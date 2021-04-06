@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お酒と欲に溺れてしまわないよう、注意しないといけませんね。=I have to be careful not to let myself get carried away by alcohol and greed.

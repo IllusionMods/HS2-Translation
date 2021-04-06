@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お待たせしました。どこに行っていたのかは……聞かないでくださいぃ……=Sorry to keep you waiting. Don't ask me where I've been...

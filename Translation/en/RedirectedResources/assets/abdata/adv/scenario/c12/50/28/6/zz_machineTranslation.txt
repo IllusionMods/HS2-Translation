@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 わぁ、びっくりするだろ？！　なんだよ、手伝ってくれるのか？=Wow, you'd be surprised! What, are you going to help me?

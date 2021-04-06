@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 最近、ひとりでいると急に切なくなって、あなたに会いたくなっちゃうんです……迷惑でしたか……？=Lately, when I'm alone, I suddenly feel sad and want to see you... Was that annoying?

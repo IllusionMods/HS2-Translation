@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 「んっ、んっ、ふっ、んんっ、りゅにゅっ、にちっ、にちゅっ、んんっ、んぅっ」="Hmm, hmm, huh, hmm, ryunyu, nichi, nichu, nnn, nuu"

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい、なに考えてるんだ馬鹿……常識外れも大概にしろ。=Hey, what are you thinking, idiot... You're out of your mind.

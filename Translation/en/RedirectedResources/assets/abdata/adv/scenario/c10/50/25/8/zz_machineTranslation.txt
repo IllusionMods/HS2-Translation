@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お酒に酔わせずとも……私は抱けますよ。貴方は心配性なのですかね？　ふふ、可愛いところがあって少し安心しました。=You don't have to get me drunk to hold me. You're a worrier, aren't you? I'm a little relieved that you have a cute side.

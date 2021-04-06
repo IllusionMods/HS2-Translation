@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あら？　どうしたのかしら？　何もしないなんて…=What's wrong? What's going on? I can't believe you didn't do anything.

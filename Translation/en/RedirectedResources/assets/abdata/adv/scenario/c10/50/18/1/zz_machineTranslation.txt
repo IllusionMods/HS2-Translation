@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 えぇと……縄を解いていただけますか？　貴方なら、困っている人を見捨てるなんてことは……しませんよね？=Um... Can you untie me, please? You wouldn't abandon a person in need, would you?

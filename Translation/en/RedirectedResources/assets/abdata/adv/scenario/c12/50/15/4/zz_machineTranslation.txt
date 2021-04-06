@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あれ、もしかして、具合悪かったのか？　だったら、早く休んだ方がいいぞ……それじゃ、また来るからな。=Hey, maybe you weren't feeling well? If so, you'd better get some rest... Then I'll be back.

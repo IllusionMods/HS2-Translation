@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 な、何だよ……ただ、汗を流してただけだって…別になんにもしてねぇよ。=I was just sweating it out... I didn't do anything.

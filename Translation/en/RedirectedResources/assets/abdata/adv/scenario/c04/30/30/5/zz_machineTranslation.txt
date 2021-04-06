@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょ、えぇっ！？　待って！　ちょっとタイム！　え、ここトイレだよ？　なに考えてんの？　って……まぁ、雰囲気でなんとなく分かるけどさぁ。=Whoa, whoa, whoa! Wait! Time! What? This is the bathroom. What are you thinking? Well, I can kind of tell by the atmosphere...

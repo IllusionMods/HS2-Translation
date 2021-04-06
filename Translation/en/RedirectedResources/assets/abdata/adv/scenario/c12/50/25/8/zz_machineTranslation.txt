@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 いい雰囲気の店じゃん。飲みすぎて起たなくなっても知らねぇぞ。=This place has a nice atmosphere. I don't care if you drink too much and don't get up.

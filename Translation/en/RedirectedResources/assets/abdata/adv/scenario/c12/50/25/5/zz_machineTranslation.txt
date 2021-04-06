@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 風呂で遊ぶのか？　汗も流せてちょうどいいかもな。=You're going to play in the bath? Maybe it's just as well, you can sweat it out.

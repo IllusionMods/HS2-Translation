@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ったく……だから言ったろ？　まさか引いてたりしねぇよなぁ？=I told you... You're not pulling my leg, are you?

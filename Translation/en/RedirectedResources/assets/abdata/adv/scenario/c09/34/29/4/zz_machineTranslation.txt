@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 わわっ、あなたさんっ、どーしてここにっ！？　えっ、あっ、いえいえっ、別に慌ててなんていませんよーっ！？=Wow, what are you doing here? What? Oh, no, no, I'm not in a hurry!

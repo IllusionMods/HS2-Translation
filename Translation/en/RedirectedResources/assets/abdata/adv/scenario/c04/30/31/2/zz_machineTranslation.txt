@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ごめ……もう大丈夫だから。待っててくれてあんがと。=I'm sorry, I'm fine now. Thank you for waiting for me.

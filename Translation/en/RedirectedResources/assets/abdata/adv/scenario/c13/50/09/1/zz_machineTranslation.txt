@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 シャワーを浴びる短い時間も、あなたと一緒に……ひとつになりたいんです……=Even for the short time I'm in the shower, I want to be with you... As one...

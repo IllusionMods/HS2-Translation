@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ほらほら、どう動いて欲しいんだ？　ん～=Come on, come on, come on. How do you want me to move? Mmm.

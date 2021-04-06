@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 懐かしいですわ、私も小さい頃は悪いことをするとお仕置き部屋に閉じ込められてしまったものです。=I miss it. When I was little, I used to get locked up in the punishment room when I did something wrong.

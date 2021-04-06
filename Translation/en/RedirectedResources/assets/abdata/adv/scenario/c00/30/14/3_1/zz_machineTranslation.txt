@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぬるりぬるりと這う二つの舌の感触、いかがでしたか？=How was the feeling of two slimy tongues crawling on top of each other?

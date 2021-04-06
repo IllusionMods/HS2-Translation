@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お招き頂き有難うございます。ここが貴方のお部屋……少々こそばゆい気持ちになりますね。=Thank you for having me. This is your room... It's a little intimidating, isn't it?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 少しは水の中での動き方に慣れたか？　次はもっと感じさせろよ？=Have you gotten used to the way you move in the water? Next time, make me feel it more, okay?

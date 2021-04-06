@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい、オマエの顔が赤く見えるのは、オレの気のせいか？=Hey, is it my imagination, or does your face look red to you?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい、随分大胆なことを考えるな。それとも露出狂ってやつか？=Hey, that's a bold idea. Or is that exposure madness?

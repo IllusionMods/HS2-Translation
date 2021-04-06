@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 そろそろ切なくなってきたのでは？　私を求めていいのですよ？=I think it's time you started to get sad. You can ask for me, can't you?

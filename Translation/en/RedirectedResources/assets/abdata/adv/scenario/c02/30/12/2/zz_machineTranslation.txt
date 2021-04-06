@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あんな無防備に寝ていたら、それはもう頂いてくださいって言ってるようなもんじゃないですか……=If you're lying there defenseless like that, it's as if you're asking me to take it...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=I'm sorry to bother you so suddenly. I was wondering if you could stay with me for a moment.

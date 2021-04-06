@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あぁ……今すぐ忘れてぇ……私は何もしてない……何も漏らしてなぃぃ……=Oh... Forget it now... I didn't do anything... I didn't leak anything...

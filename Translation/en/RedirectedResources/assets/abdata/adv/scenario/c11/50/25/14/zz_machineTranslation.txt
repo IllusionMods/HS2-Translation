@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よ、夜とはいえ、お外で致すのは、少々恥ずかしいです……=It's a little embarrassing to do it outside, even at night...

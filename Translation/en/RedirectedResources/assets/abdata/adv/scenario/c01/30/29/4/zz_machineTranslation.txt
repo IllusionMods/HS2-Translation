@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょ……ま、まさかあなたがいるなんて……え？　ううん、なんでもありませんっ……=I didn't expect you to be here? No, it's nothing...

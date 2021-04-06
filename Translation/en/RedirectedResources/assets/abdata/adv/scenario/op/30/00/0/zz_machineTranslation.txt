@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 初めてのご来店のお客様へ、当店の概要やご利用方法をご説明させて頂くサービスがございますが、如何致しましょうか？=For first-time customers, we offer a service that provides an overview of our store and how to use it, how can we help you?

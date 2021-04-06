@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふおお、お部屋……なんかわたしの全てが見られてるみたいで……嬉し恥ずかしな気分ですよ。お、お手柔らかにお願いしますね。=I feel like my whole life is being watched... I'm so happy and embarrassed. Please be gentle with me.

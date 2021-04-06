@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 少しびっくりいたしましたけれど……あなただとわかって、ほっといたしましたわ……=I was a little surprised, but relieved to know it was you.

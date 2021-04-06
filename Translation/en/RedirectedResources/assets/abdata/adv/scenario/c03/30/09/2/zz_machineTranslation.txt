@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お互いポカポカだね……それから、スッキリ？　って、言わせるなー！　自分から言ったけども！=We're both so warm and fuzzy... And then we're refreshed? Don't make me say it! I said it myself!

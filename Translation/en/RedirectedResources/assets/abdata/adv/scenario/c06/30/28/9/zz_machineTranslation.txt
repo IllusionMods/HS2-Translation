@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ああ……あんな始まり方、あんまりですわ……今も顔から火が出てしまいそうです……=I can't believe it started that way... I feel like I'm going to burst into flames right now...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ほ、他の部屋と比べて……かなり異質な感じがするんですが……ここでして、大丈夫なんですか……？=Compared to the other rooms... It seems quite different... Is it okay to be here?

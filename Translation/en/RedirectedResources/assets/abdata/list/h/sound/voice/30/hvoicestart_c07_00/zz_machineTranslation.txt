@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 いいか？　一応オレも女だ。そこんとこ、忘れるんじゃねーぞ？=You know what? I'm a woman, too. Don't forget that, okay?

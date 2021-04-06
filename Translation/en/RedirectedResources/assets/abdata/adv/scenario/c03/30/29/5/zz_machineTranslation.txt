@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょちょ、ちょっとー！　何勝手に入ってきてんの、頭おかしいんじゃないの！？=Hey! Hey! What are you doing coming in here without permission? You're out of your mind!

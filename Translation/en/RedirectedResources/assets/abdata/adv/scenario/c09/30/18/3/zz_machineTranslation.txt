@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 え、えっと……本当にしたい……ですか？　そーですか。ふむ……だったらいーですよ♪=Uh, well... Do you really want to? Is that so? Hmm... That would be great ♪

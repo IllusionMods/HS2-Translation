@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 疲れたのなら素直に休憩しましょう。無理はよくありませんよ。=If you are tired, just take a break. You don't want to overdo it.

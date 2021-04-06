@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 もういっはいれしゅね……わかぃまひらぁ……(もう一回ですね、分かりました)=(One more time. I get it)

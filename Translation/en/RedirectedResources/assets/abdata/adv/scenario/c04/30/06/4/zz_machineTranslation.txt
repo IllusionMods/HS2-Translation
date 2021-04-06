@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うそうそっ！？　ちょっ、待っ！　えぇえっ！？　あぁっ、これはほら！　マッサージ的なやつだから！=Oh, shit! Wait, wait, wait! What the hell? Oh, look at that! It's like a massage!

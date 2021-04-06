@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 い、いっそ入ってきてくれればよかったのに……だ、だって、お前と出来ないから、シてた訳で……=I wish you would have just come in... Because I couldn't do it with you, so I...

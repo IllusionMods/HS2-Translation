@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 コイツ、やる気ないみたいだぞ？　楽しんでるのはオマエだけだな。=He's not gonna do it, is he? You're the only one who's having fun.

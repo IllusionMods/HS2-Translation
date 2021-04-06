@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あ、あはは……なんか……ハマっちゃってさぁ。助けに来てくれたんでしょ？　抜いてくれる？=Oh, haha... I'm kind of... Hooked. You're here to help me, aren't you? Can you pull it out for me?

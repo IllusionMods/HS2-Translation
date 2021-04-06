@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ねぇ……どの辺りから見てたん？　まさか最初からとか……ないよね？=Hey... Where did you start looking? You didn't start from the beginning, did you?

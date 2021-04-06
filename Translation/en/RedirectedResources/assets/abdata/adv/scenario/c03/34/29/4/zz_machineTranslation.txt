@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 えっと、お湯の音以外、聞こえなかったよね？　いや別に、何も聞こえるわけないし。ただの確認。=Well, I didn't hear anything except the sound of hot water, did I? No, not really, I didn't hear anything. Just checking.

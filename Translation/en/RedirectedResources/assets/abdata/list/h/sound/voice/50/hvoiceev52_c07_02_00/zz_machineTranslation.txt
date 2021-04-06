@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んぅくっ、押し付けてくるなっ……ただでさえ狭いんだっ、苦しいっ……=You're pushing me too hard... It's so tight, it's painful...

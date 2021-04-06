@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 貴方となら無限にできます……いいえ、無限にしたいのです……=I can do infinite things with you... No, I want to do infinite things with you...

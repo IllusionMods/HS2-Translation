@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふぁっ、あぁぁっ、これぇっ、夢中になっちゃいますぅっ……=Ahhh, I'm crazy about this...

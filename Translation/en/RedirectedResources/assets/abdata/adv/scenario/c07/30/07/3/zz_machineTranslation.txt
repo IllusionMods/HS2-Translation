@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 流石にこれはいただけねぇな。お互いの合意っての大事なんじゃねぇのか？=I can't believe I'm doing this. Isn't it important to have a mutual agreement?

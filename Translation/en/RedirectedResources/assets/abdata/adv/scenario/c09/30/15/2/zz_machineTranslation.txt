@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 突然来たのに……いっぱい温めてくれてありがとうございます。すっごく気持ち良かったですよ、えへへ。=Thank you for warming me up so much even though I came all of a sudden. It felt really good, hehehe.

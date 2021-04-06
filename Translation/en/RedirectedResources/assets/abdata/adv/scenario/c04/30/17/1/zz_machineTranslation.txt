@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お、アンタ！　丁度いいところに！　いやー、参ったよー。意味わかんない状況だと思うけどさ、とりま助けてくんない？=Oh, you! Just in time! Oh no, I'm in trouble. I know this situation doesn't make any sense, but can you help me out anyway?

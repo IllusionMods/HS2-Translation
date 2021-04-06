@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うー、やっぱなんか抵抗あるんですけど……普通に考えてキモくない？=I don't know, I'm kind of resisting it... Isn't that kind of creepy in general?

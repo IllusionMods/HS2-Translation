@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お待たせしました……あ、あはは、お手洗いの中、思ったよりも熱くって……顔、火照っちゃいました。=Thank you for waiting... Ah, haha, it was hotter than I expected in the bathroom... My face was on fire.

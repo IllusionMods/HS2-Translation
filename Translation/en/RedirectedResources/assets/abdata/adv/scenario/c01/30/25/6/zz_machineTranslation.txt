@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 中庭でするの？　誰かに見られちゃわないかしら。=Are we doing this in the courtyard? I wonder if anyone will see us.

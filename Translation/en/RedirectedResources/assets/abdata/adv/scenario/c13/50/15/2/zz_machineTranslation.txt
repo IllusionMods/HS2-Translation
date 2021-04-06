@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うふふ、１００年後もこうして愛し合いたいです……そのあともずっと仲良しで、お似合いのふたりって言われて……=I want to be able to love each other like this in 100 years... And after that, we'll always be good friends, and people will say we're a perfect match...

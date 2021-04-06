@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 和室ですか……これはこれで風情があるというか、趣があるというか……まぁ、悪くないですよー。=A Japanese style room... This is very tasteful or quaint... Well, it's not bad!

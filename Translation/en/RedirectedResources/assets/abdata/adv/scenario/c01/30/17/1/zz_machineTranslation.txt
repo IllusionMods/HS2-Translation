@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あなただったのね……ちょっと助けて欲しいの。穴にはまっちゃって……=It's you, I need your help. I'm stuck in a hole and...

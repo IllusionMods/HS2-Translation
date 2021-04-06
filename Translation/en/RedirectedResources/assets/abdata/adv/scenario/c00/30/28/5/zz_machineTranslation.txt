@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 せっかちな方ですね。押しかけずとも、私は逃げたりしませんよ？=You're an impatient man. You don't have to barge in on me. I'm not going to run away, okay?

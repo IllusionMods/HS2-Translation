@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んぶっ、くぁえるらけれ、ひほくろぉら……(咥えるだけでも、一苦労だ)=(Just sucking on it is a challenge)

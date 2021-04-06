@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 は～、サッパリサッパリ～。あれ？　もしかして待っててくれたんすかー？=Ha~, crispy crispy crispy~. Huh? Could it be that you've been waiting for me?

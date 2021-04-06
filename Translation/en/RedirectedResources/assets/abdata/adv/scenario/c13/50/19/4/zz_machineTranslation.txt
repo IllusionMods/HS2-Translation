@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ああ、持ってください……お願いです、あなたにふられたら私、生きていけないです……=Oh, please hold it... Please, I can't live with myself if you reject me...

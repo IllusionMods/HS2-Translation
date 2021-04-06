@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なっ！？　ここ、トイレですよ！　まったく、貴方という人は……=What? You're in the bathroom! You are such a...

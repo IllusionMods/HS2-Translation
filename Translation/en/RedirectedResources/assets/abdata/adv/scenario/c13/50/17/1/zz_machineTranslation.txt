@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ああ、すごい……ずっとあなたの名前を呼んでいたんです……=Oh, my gosh... I've been calling your name for...

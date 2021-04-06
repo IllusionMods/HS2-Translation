@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 酒の勢いってのは感心しねぇが。まぁ、何もできないよりはマシか。=I'm not impressed with the momentum of alcohol, though. Well, it's better than not being able to do anything.

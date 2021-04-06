@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 すみません、お待たせしてしまって……もう、大丈夫ですから。=I'm sorry to keep you waiting... It's okay now.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 一人でシャワー浴びるよりかは、気持ち良かっただろ？=It felt better than taking a shower alone, didn't it?

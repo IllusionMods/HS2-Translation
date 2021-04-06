@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うぅ、恥ずかしい姿を見せちゃったなぁ……ちょっと腰が抜けちゃってね。動けないの。=Ugh, I'm so embarrassed to show you this... I'm a little off my game. I can't move.

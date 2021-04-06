@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こ、こんな人目に付きやすいところで……あ、あはは、さすがにちょっと恥ずかしーですね。=I'm a little embarrassed to be seen in such a public place.

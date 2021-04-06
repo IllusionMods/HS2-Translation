@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ま、まさか見られてたなんて……恥ずかしい……あっ、あのっ……いつもしてるわけじゃないんですよ？=I can't believe I was being watched... I'm so embarrassed... Oh, um... I don't always do this, you know?

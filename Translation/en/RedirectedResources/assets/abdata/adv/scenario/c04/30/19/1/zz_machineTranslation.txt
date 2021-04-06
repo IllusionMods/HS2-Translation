@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あー、助かったー。　アンタ、マジ救世主！　腰抜けちゃって動けなくてさぁ……とりま、起こしてくんない？=Oh, thank God! You're a real lifesaver! I can't move because I'm too weak... Anyway, can you help me up?

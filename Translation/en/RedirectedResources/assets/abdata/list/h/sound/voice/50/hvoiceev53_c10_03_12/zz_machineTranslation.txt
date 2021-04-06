@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 はぁ……私の身体……もしかして探られてしまっていますか？=Huh... My body... Is it possible that I'm being probed?

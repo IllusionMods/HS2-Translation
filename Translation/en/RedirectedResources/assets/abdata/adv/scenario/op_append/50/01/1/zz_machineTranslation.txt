@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 続きまして、お選び頂いたプランに合わせお客様やパートナーの衣服を変更することが出来ます。ご希望がありましたらお選びください。=Next, you can change the clothing of the client and partner according to the service you choose. Please choose if you have any request.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 見て見ぬ振りをしてくれるんですね……ある意味、それも優しさですよー。=You pretend not to see it... In a way, that's kindness too!

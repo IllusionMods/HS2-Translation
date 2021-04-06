@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 アンタ、どれだけスる気？　お風呂なら、いくら汚してもへーきってことっしょ？=How dirty are you going to get? If you're taking a bath, you can get as dirty as you want, right?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まさかあなたさんがのぞき魔だったなんて！　だったなんてーっ！=I can't believe you're a peeping tom! I can't believe you were!

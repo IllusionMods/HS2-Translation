@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 私を酔わせてどうする気ですか？　……結局、酔わなくてもするんでしょう？=What are you going to do if you get me drunk? After all, you'd do it even if you weren't drunk, right?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お、お邪魔します……えぇと、貴方の迷惑でなければ、お風呂と……その、色々ご一緒させて頂いてよろしいですか？=Well, if it's not too much trouble for you, may I join you for a bath and some other things?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 身体を綺麗にする場所で汗だくになる……趣がありますね。=Sweating in a place that cleanses the body... Quaint, isn't it?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ……この不格好な姿には、深い事情があるのです。好んでしているわけではありません。=... There is a deeper reason for this awkward appearance. It's not something I like to do.

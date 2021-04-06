@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 貴方のお部屋でするなんて、ドキドキします。きっと、色々されてしまうのでしょうね……ふふ、お手柔らかに……お願いします。=I'm thrilled to be doing this in your room. I'm sure you'll do a lot of things to me... Hmm, please be gentle... Please.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 え……この状態でなんて……ああ、そんな……許してくださいまし……=I can't believe I'm doing this... Oh, no... Please forgive me...

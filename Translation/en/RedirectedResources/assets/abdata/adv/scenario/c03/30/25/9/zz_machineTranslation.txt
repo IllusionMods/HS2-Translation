@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 わぁ、本当に教室だ……ここの施設って、本当にこういうところ気合い入ってるよね……=Wow, it's really a classroom... The facilities here really put a lot of thought into these things...

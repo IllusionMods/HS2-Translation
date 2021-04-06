@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ……昼間よりかは見つかりにくいかもしれませんが、気を付けないといけませんね。=... It may be harder to find than in the daytime, but we have to be careful.

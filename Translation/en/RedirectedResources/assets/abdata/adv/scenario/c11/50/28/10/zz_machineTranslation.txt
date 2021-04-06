@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お風呂上りだからか、いつもより身体が温かくて……とても心地よかったです。=Maybe it was because I had just finished taking a bath, but my body was warmer than usual... And I felt very comfortable.

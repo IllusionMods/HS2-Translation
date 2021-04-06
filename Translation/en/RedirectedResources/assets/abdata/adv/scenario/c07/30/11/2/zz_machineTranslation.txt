@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ハッ、良かったじゃねぇか。これで、トイレの時もオレがいつ来るかって、ドキドキできるだろ？=That's good, isn't it? Now you can be nervous about when I'll come to the bathroom, right?

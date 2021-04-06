@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ひ、一つ弁明をさせて下さい。この縄は決して私の趣味ではございません。=Hi, please allow me to make one excuse. This rope is not my hobby.

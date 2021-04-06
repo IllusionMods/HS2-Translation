@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まぁ、期待してなかったと言えば嘘になるけど……私の事、お見通しって感じで、恥ずかしいな……=Well, I'd be lying if I said I wasn't expecting it, but I'm embarrassed to say that you seem to know everything about me...

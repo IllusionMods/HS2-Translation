@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんかさ、トイレでするってドキドキするよね？　イケナイことしてる感じ？　背徳的って言うのかな？=It's kind of exciting to do it in the bathroom, isn't it? Like you're doing something naughty? It's immoral, isn't it?

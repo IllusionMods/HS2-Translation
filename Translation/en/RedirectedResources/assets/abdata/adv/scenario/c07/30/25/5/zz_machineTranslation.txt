@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 風呂でするのか……まぁ悪くない。好き放題に汚せるっていうのは、何かと便利そうだしな。=Doing it in the bath... Well, that's not so bad. The fact that I can get as dirty as I want seems to come in handy.

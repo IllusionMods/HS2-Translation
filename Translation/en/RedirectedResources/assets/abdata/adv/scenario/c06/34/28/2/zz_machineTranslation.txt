@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あら……もしかして、お待ち頂いてしまいましたか？　その、湯浴みをしておりまして……=Are you waiting for me? Well, I was taking a bath...

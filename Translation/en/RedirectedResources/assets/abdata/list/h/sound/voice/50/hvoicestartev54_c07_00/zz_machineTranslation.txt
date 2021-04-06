@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぅ……わんこはいやら……ちゃんろひとのめしゅとひて、あちゅかっれくれぇ……（わんこは嫌だ。ちゃんと人の雌として扱ってくれ）=(I don't want a doggie. You have to treat me like a human female.

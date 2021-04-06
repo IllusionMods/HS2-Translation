@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お邪魔します。　普通の部屋……ですね。　とりあえず、する事する為にも準備をお願いします。=Sorry to bother you. A normal room... Right? At any rate, please get ready for what you're going to do.

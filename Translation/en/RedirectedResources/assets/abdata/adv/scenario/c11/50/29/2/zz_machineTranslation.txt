@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あら？　良い時に来られましたね。丁度、空きましたので直ぐにご利用できますよ。=Oh? You've come at a good time. It's just opened up, so you can use it right away.

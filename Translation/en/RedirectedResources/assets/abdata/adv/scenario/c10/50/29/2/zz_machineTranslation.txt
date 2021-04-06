@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あら、貴方も来ていたのですね……ふふ、汗を流すのはいいですよね。心も体もリフレッシュできて。=Oh, so you're here too... Hmmm, it's good to work up a sweat, isn't it? It refreshes the body and mind.

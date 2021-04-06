@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 えぇと、ゆっくりするのもいいですよね？　私は好きですよ。=Eh, it's good to slow down, isn't it? I like it.

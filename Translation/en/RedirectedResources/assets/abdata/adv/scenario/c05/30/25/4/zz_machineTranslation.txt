@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こ、この部屋って……そういう部屋……ですよね……な、なんだか不思議な感じ……=This room... Is that kind of room... Right?

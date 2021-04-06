@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んっ……不自由なまま、玩具(がんぐ)が突き刺さっています……=Hmmm... A toy is sticking out of me while I'm crippled...

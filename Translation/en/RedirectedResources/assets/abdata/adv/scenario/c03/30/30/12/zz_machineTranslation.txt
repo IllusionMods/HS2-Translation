@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うー、恥ずかしさのレベルが、段違いだよ……これ、絶対二人だけの秘密にしてね？=The level of embarrassment is way out of proportion... You'll have to keep this between us, right?

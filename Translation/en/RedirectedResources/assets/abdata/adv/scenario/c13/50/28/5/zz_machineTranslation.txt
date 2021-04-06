@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 きゃっ！？　あ、あの、ここで、ですか……？　はい、わかりました……=What the hell? Oh, um, here, is it? Yes, I understand...

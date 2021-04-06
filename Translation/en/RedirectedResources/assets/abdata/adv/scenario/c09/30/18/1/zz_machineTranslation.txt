@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 この縄をー、なんとなく触ってたらー、こんなことになっちゃってー、わぁ、本当ですよー！=I was just touching this rope, and this is what happened... Wow, it's true!

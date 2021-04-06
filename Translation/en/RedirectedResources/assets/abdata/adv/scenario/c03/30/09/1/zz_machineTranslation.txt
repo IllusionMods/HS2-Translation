@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あのさ、私たちなら一緒に入っても大丈夫だよね？　汗でべとべとしちゃって、待てなくてさ……=You know, we can go in together, right? I'm all sweaty and sticky and I couldn't wait to...

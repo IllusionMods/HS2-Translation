@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい……トイレにまで入ってくるとか、オマエはどんだけ変態なんだ？=Hey... How perverted do you have to be to come into the bathroom?

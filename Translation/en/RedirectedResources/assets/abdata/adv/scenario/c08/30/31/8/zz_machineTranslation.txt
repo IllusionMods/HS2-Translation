@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んん～？　どこ行くんすかー？　おしっこ禁止っすかー？=Hmm~? Where are you going? Is it forbidden to pee?

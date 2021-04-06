@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふふ、折角いいところに来たのですから……とことんお互い楽しみましょう……=Well, now that we're in the right place, let's enjoy each other's company...

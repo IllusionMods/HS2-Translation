@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぁ……この様なみっともない姿をお見せして、申し訳ございません。=I'm sorry to show you such a disgraceful appearance.

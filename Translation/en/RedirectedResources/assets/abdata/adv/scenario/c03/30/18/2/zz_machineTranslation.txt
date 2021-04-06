@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 わぁ、ありがとー！　ほんともう、命の恩人！大袈裟じゃなくて、それくらい不安だったんだから。=Wow, thank you! You really saved my life! I'm not exaggerating, that's how anxious I was.

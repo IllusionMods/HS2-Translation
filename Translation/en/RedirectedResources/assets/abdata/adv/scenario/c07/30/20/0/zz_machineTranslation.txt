@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 オマエな……そういう趣味があるのは否定しないが、少しはこっちの事情も考えろ。=I don't deny that you have such a hobby, but you have to think about our situation a little bit.

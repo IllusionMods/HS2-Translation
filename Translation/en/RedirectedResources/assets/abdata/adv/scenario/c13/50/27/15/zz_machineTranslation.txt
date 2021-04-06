@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あ、あの、ちょっと記憶が飛んでいて……変なこと言ってませんでした……？=Oh, um, I'm having a bit of a memory lapse... Didn't I say something strange?

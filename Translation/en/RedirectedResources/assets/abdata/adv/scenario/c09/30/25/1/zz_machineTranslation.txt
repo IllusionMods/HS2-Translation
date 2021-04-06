@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふおお、こんな場所でもやっちゃうんですね……あなたさん、もしかしたらとんでもない大物かもしれないですー！=You might be a very big fish!

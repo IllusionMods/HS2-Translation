@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふぁっ！？　なんで今っ！　ちょっと……最悪っ！　あーもう、恥ずかし過ぎっ！　早く出てってよぅ……！=Whoa! Why now? Ahhh! I'm so embarrassed! Get out of here!

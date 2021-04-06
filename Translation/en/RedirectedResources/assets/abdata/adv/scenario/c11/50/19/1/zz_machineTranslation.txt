@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お、お恥ずかしい限りなのですが、腰を抜かしてしまいまして……=Oh, I'm so embarrassed to say that I've been sitting on my...

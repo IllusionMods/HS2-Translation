@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 実はさ、お前の部屋の方が落ち着くんだよな……これからも、ちょくちょく来てもいいかな？=Actually, I feel more at home in your room... Can I come here from time to time?

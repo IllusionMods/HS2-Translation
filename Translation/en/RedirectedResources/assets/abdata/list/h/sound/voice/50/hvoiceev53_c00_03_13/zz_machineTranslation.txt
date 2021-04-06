@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ねっとりと絡みついて、私を放す気はない様です=It's all tangled up in me, and it doesn't seem to want to let me go.

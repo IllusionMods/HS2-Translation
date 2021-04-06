@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 アタシ、アンタの目覚まし時計になっちゃおっかな♪　早起きとかダルいけど、咥えられるなら全然アリ♪=I think I'll be your alarm clock ♪

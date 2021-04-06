@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 夜なので人に見つかる心配は少なそうですが、スリルも減ってしまうのではありませんか？=Since it's nighttime, there seems to be less worry about being spotted, but wouldn't that reduce the thrill?

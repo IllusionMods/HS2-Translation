@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あっ、あぁっ、んんっ、中でっ……すごいっ、動いてますぅっ……=Ahhh, it's inside... It's moving so fast...

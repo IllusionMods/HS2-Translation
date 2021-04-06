@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ……あっ、そ、その、スる前にゲームでもする？　やろうと思えばカラオケもできるし……それからお菓子もあるし……=Do you want to play a game before you go out? We can do karaoke if we want, and we have snacks...

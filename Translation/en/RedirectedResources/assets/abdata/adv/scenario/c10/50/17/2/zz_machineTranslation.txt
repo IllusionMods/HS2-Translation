@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふぅ……貴方なら絶対に助けてくれると信じていました。本当にありがとうございます。=Hmm... I was sure you would help me. Thank you so much.

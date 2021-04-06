@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こちらで私が責めれば良いのでしょうか？　ご期待に添えるかは分かりませんが、了解です。=Can I be the one to punish here? I don't know if I can live up to your expectations, but I understand.

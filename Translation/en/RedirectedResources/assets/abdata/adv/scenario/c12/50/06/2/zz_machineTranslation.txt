@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ち、ちが……これは違うんだ……ちょっと、気分が、盛り上がってだな……=No, no, no, this is different, I'm just in the mood, you know...

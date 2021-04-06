@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 私……焦らすのも焦らされるのも、あまり好きでは無いのですよね……=I... Don't really like to be rushed or rushed...

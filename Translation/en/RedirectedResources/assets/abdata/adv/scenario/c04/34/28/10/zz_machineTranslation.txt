@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 アタシの身体、火照ってて気持ち良かったっしょ？　まさか、それが狙いだったりして？=Didn't it feel good to have my body on fire? Isn't that what you wanted?

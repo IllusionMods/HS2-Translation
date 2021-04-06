@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 えっと、痛いのとかはやめてね？　ここまで来て、それは無理って思うかもしれないけど。私はほら、普通にスるだけで十分だから。=Um, don't make it hurt or anything, okay? I know you've come this far and you might think that's impossible. I'm fine with just a normal slurp, you know.

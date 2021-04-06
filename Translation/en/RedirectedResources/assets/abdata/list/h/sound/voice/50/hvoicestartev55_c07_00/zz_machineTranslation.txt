@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 オレは別に信心深いほうじゃねぇが……神をも恐れないってのはオマエみたいな奴を言うんだろうな。=I'm not a religious person, but... I guess it's people like you who have no fear of God.

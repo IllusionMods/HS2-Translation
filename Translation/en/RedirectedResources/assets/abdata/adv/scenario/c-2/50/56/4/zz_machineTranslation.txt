@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 少々戯れたかっただけなのですか？　しようがないお客様ですね……=You just wanted to have a little fun, didn't you? You're a helpless customer...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 そんなっ……！　すみません、本当に私っ、限界なのです……！　んんっ、た、大変なことになりますよっ？=No! I'm sorry, I'm really at my limit! No, you'll be in trouble.

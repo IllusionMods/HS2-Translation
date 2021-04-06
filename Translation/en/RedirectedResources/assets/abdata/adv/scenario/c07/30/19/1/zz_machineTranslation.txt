@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うぅ、まさか腰を抜かすとはな。オレとしたことがやっちまった。すまねぇが、少し助けてくれないか？=I never thought I'd be sitting down. I'm sorry, I've done something wrong. I'm sorry, but I need a little help.

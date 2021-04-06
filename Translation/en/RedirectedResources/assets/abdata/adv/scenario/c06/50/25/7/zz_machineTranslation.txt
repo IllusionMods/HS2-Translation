@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こちらの施設は洋室も素晴らしいのですが、やはり和室は心が安らぎますわね。=The Western-style rooms are great, but the Japanese-style rooms are very relaxing.

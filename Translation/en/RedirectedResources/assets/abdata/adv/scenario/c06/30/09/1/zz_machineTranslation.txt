@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 失礼いたします、あなたがシャワーに入られるのを見て……その、アピールしなければと思いまして……=Excuse me, I saw you getting into the shower and I thought I should make a statement...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ご一緒してもよろしいでしょうか？　あなたと一緒にシャワーを浴びたい気分なんです。=Do you mind if I join you? I'm in the mood to take a shower with you.

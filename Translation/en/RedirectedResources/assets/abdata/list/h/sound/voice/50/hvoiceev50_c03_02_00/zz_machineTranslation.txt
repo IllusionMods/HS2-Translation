@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 や、やるなら早くしてよ、恥ずかしいって言わなかった……？=Hey, if you're gonna do it, do it fast. Didn't you say you were embarrassed?

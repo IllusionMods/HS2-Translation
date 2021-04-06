@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 いい雰囲気の場所っすね……悪くないっすよ～。=It's a place with a nice atmosphere... Not bad at all!

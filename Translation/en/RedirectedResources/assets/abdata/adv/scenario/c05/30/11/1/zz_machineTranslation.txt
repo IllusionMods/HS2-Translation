@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふふっ、たまにはこういうサプライズもいいと思いませんか？=Phew, don't you think it's nice to have a surprise like this once in a while?

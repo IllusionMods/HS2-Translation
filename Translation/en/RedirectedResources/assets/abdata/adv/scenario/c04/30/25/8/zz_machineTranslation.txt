@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふーん、酔わせないと襲うこともできない系？　アンタ、臆病なんだ？　んふ、かわたんかよ♪=Hmm, the kind that can't even attack you unless you're drunk? You're a coward, aren't you? You're a coward, aren't you?

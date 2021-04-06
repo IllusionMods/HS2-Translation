@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぁ……お待たせして、申し訳ございません。その……少々用事が長引いてしまいまして……=I'm sorry to keep you waiting. It's just that I've been running late for something.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 はぁっ、いい感じっしょ？　ゆっくり形、合わせてこーねっ♪=It's nice, isn't it? Let's get it in shape ♪

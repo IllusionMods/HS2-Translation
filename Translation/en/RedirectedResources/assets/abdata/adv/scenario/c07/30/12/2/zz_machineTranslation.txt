@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ハッ、朝一の搾りたてってのは、やっぱ濃くていいな。毎朝搾り取りに来てやってもいいぞ？=Haha, freshly squeezed first thing in the morning is really nice and thick. You can come and squeeze it every morning if you want.

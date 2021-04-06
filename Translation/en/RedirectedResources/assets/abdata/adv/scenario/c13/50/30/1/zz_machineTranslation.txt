@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あの、トイレを覗かれるのは……恥ずかしいです……びっくりしますし……=Well, I'm... Embarrassed... To be seen in the bathroom... And I'm surprised...

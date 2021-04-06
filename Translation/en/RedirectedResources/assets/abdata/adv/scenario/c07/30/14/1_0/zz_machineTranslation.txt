@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んちゅむ、はぁっ……おっ、おきらみらいらぞ？　まぁ、オレらはかんけぃらく、ちゅづけるらけだがら……=Oh, you're a miracle worker, aren't you? Well, we're just a bunch of guys who want to get away from it all...

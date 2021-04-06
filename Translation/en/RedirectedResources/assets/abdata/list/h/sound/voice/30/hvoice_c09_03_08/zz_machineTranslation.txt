@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 やっ、あっ、ああぁっ！　待ってっ、待ってっ……あああぁんっ！=Oh, no, no, no! Wait, wait, wait, wait... Aahhh!

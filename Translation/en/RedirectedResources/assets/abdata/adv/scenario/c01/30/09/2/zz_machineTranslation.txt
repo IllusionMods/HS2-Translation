@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 気持ち良かったわね。また、一緒にシャワー、浴びたいわ。=That felt good. I'd like to take a shower with you again.

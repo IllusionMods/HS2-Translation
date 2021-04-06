@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ああ、こんな水たまりになって……私のこと嫌いにならないなら、見ていいですよ……=Oh, I'm such a puddle... And if you don't hate me, you can look...

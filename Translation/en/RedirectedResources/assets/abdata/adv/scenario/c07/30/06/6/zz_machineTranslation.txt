@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まんまと乗せられたみたいで少し癪だが。結果的には丁度良かったな。=I'm a little annoyed that I've been taken for a ride. But in the end, it worked out just fine.

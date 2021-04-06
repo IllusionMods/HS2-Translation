@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ハァ、ハァ、もう満足すかー？　私、もう帰るっすー。=Ha, ha, are you satisfied already? I'm leaving now.

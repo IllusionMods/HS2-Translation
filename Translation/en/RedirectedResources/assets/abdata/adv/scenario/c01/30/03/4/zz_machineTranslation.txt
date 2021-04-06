@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょ、ちょっと……こんな時に入ってくるなんて。=Hey, hey, hey... You can't just walk in at a time like this.

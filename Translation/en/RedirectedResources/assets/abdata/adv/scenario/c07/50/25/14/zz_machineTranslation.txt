@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 夜の散歩を楽しむやつはいるが。こんな不健全な理由でウロついてるのはオレらだけだろうな。=There are those who enjoy walking at night, though. I guess we're the only ones who hang around for such unhealthy reasons.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 失礼します。お背中もろもろ、流させていただきますね。=If you'll excuse me. I'm going to let your back and everything else flow.

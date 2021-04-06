@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まさか、覗きがバレないとでも思ってたのか？　それは流石に、都合よく考え過ぎだろ。=Don't tell me you didn't think you'd be caught peeping? That's just too convenient.

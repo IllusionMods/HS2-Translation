@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 パートナーと出会う為には、お好みのパートナーカードをグループへと登録して頂く必要がございます。=In order to meet a partner, you need to register your preferred partner card to the group.

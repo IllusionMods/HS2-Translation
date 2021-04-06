@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 やっぱり一緒にシャワー浴びるのって……恋人同士みたいで悪くないよな、うん。=After all, taking a shower together... It's not so bad when you're like two lovers, right?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まるで本物の電車の様ですね。ここで致すとなると、少し妙な気分になってしまいそうです……=It's like a real train. I'd feel a little strange if I had to do it here...

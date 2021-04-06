@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 貴方も我慢が出来なくなった際は、駆け込みに来て下さい。=When you can't take it anymore, please come to us.

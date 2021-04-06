@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 成程、ここが"ぱりぴ"の聖地でございますね？　いよいよ私も、"ぱりぴ"の一員になる時が……何だか緊張致します……=I see, this is the sacred place of "Palippi", isn't it? The time has finally come for me to become a member of "Pallippi"... I'm somewhat nervous...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ど、どうですか？　ここが私の部屋、なのですが……自分の部屋なのに、なんだか落ち着きませんね。と、とりあえず……始めて……しまいますか……=What do you think? This is my room, but... Even though it's my room, I feel uncomfortable. Anyway, let's start...

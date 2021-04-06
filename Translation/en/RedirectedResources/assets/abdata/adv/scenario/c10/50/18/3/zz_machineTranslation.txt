@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 やはり……そうなりますか。いえ、貴方となら嫌ではないのですが……最後にはきちんと、助けてくださいますよね？=After all... That's how it is, isn't it? No, I don't mind being with you, but in the end, you will help me, right?

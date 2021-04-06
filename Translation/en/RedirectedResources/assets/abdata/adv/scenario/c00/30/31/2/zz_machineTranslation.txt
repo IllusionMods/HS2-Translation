@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お待たせしました。……どうなさいました？　息が上がっているようですが？=Sorry to keep you waiting... What's wrong? You look like you're breathing.

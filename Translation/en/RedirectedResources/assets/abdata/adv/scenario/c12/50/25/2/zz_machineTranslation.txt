@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 結構いい部屋じゃねぇか。まぁ、すぐに散らかすんだけどな。=It's a pretty nice room, isn't it? Well, it gets messy easily.

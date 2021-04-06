@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょ、外？　うっわ、めっちゃアブノーマルじゃん。アンタ、そーいう趣味があったわけ？=Wait, outside? Wow, that's really abnormal. You're into that kind of thing?

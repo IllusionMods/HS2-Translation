@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ほう、面白い場所じゃないか。ここなら色々遊べそうだ……=Well, this is an interesting place. We can have a lot of fun here...

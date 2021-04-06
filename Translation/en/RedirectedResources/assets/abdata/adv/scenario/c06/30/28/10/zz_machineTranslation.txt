@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 今日は慌ただしくなってしまいましたね、次はしっかりとお待ちしておりますわ……=It's been a hectic day. I'll be waiting for you well next time...

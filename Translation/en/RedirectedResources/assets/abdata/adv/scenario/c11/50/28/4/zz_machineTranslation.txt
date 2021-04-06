@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 これからお風呂ですか？　……へ？　私の顔が赤い……？　そ、それはお風呂上りですので、当然のことではないでしょうか……？=Are you going to take a bath now? Huh? My face is red? Well, isn't that natural after taking a bath?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お邪魔しますー！　シャワー、一緒に浴びましょー！　お湯も節約できますし！=Sorry to bother you! Let's take a shower together! We'll save hot water!

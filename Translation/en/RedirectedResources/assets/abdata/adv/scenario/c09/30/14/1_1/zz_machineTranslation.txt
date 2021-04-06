@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぇるぅっ、んっ、れりゅぅっ……ほほははふふへはいはほー。=Yeruuh, nnnn, reeluuh... Ho-ho-ha-ha-ha-ha-ha.

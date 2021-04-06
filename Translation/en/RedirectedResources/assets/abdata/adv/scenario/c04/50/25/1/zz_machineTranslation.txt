@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 え、ここってけっこー人通るよ？　なに、見せつけたい系？　アンタどんだけ自信過剰なの？=Oh, there's a lot of people passing through here. What, you want to show off? How overconfident are you?

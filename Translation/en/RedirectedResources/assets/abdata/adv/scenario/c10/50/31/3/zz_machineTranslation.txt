@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あ、あ、あの……覗きは、よくないですよ？　わ、私のしていたことも、褒められたものではありませんので……今回はお互い様ですが……=Oh, uh... Peeping is not good, you know? What I was doing was also not something to be praised, so...

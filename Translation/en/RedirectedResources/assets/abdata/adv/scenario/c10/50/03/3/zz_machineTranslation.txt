@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ひゃっ！？　何故ここにいるのですかっ！？　うぅ、心の準備が……=What the hell? Why are you here? Ugh, I'm not ready...

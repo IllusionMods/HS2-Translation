@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 失礼いたします、夫婦のような入浴をと思いまして、もしあなたさえ宜しければ、こちらで……=If you'll excuse me, I thought we could bathe like a married couple here, if that's all right with you...

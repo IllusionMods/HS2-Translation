@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あれ……ここにいたの？　もしかして、待っててくれたとか？=Hey... You're here? Maybe you were waiting for me or something?

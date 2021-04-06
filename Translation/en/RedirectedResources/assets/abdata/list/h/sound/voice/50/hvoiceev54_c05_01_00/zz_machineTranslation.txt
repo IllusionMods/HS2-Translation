@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おひんぽぉ……わぁしのおひんぽぉ……(おちんぽ、私のおちんぽ)=(Penis, your penis)

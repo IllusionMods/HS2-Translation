@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 私にできないことはないですよ……♪　なんでも命令してください……♪=There's nothing I can't do ♪ You can command me to do anything ♪

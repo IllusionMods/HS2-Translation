@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 湯上りの時より、身体がポカポカしている気がします。ふふ、湯冷めの心配は……特になさそうですね。=I feel like my body is more warm than when I took a bath. Hmmm, I guess I don't have to worry about getting cold.

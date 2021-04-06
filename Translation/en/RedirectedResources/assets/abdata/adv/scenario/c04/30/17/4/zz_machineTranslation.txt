@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 へ？　ちょ……それは無くない？　ちょっと助けるだけじゃん。あんま手間じゃないよ？ちゃんとお礼もするから！　ねー待ってー！=Huh? Wait... Isn't that possible? It's just a little help. It's not too much trouble. I'll even pay you back! Hey, wait!

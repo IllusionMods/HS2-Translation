@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふおお、とうとう教室でもやっちゃいますかっ！？　これは間違いなくドキドキしちゃいますよー！=Wow, they're finally doing it in the classroom! This will definitely make me nervous!

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 その、腰が抜けちゃって……嫌いにならないでください、お願いです……=I mean, I've lost my back... Please don't hate me, please...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おお、いらっしゃいましたか！　えーっと特に用事はないのですが、ちょっとあなたさんに会いたいなーと思いまして！　えへへ！=Oh, you're here! Well, I don't have anything special to do, but I just wanted to see you! Ehehe!

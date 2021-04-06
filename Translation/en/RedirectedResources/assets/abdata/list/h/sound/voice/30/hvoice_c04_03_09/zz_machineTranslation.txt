@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ひぁっ、動けなくして中ブルブルさせるのっ、反則ぅっ……！=Huh, you're making me move and shake inside, that's illegal!

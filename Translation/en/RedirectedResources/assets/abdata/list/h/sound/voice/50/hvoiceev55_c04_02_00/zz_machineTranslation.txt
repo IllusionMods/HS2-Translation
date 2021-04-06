@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょっと焦らした方が絶対気持ちよくなるから、信じなって♪=Trust me, you'll feel better if you hurry a little ♪

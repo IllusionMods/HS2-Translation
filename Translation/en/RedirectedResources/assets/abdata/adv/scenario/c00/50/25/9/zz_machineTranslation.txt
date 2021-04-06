@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 イメージプレイには最適なお部屋ですね。妄想が膨らんでしまいます。=It's the perfect room for imaginary play. My imagination is soaring.

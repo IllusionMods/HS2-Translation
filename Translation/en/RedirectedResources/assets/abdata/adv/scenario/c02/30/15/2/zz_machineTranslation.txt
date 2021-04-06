@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 私、こんなにも求める子だったなんて……あ、あなたのせいですよ……？=I didn't know I was such a seeking child... Oh, it's your fault?

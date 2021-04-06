@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まぁ、こういう場所のお風呂ですから……するのは当然、って事ですね……=Well, it's a bath in a place like this, so I guess it's only natural...

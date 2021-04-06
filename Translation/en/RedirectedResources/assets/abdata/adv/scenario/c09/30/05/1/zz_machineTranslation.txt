@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まさかあなたさんがそんな人だったなんて……ビックリオブビックリですよ。=I didn't think you were that kind of a person... You are a big surprise.

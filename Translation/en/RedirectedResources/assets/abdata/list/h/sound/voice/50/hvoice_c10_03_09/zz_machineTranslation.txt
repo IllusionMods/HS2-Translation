@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あぁぁ……身体の奥から、じんわりと気持ちいいのが広がって……=Ohhhh... From deep inside my body, a nice feeling spreads softly...

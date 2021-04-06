@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 このお部屋は、風情がありますね。私に気を使ってくださったのですか？　ふふ、それでは、恩返しをしないといけませんね。=This room is very tasteful. Did you take care of me? Hmm, then I should return the favor.

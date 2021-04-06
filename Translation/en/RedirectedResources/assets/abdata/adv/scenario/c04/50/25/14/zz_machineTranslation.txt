@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 野外かぁ……まぁ夜なのが救いだけど……なんか緊張してきた……=Out in the open... Well, thank God it's at night... But I'm starting to get nervous...

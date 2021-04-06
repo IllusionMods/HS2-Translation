@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ご丁寧に道具まで揃えられて……いかにもな部屋ですね。こういう事に興味があるんですか？=You even have your own tools... It's quite a room. Are you interested in this kind of thing?

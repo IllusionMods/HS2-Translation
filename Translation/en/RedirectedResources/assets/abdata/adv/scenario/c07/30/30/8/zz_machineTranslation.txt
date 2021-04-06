@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい待て……オレの話を聞いてなかったのか？　今はまずいって言ったよな？=Hey, wait... Did you not hear what I said? Didn't I tell you this was a bad time?

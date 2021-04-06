@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふふーん、隙あり！　なんちゃって♪　ねぇ、エッチなことしてあげよっか？=There's an opening. Hey, let's do something naughty, shall we?

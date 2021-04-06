@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ま、まあ……！　覗いていらっしゃったのですね、もう……あなたという人は……=Oh, my! You've been peeping at me, haven't you, you... You...

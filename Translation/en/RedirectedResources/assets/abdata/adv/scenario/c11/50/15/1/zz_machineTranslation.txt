@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 貴方のことが恋しくなりまして……突然訪ねてしまい、申し訳ございません。=I'm sorry for visiting you so suddenly.

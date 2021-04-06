@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 じ、自分の部屋に人が来るなんて……それだけでちょっと変な感じがします……恥ずかしい……=I'm embarrassed to have someone come to my room... It's a little weird...

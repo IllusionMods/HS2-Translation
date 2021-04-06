@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あれ……？　私は何を……？　どうも記憶が曖昧です……=What the? What did I? My memory is a little fuzzy...

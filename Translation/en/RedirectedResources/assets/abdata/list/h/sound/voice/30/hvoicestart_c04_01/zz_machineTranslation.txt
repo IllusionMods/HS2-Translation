@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 さて、どーやって気持ちよくしてくれんの？　期待してるから♪=Now, how are you going to make me feel? I'm counting on you ♪

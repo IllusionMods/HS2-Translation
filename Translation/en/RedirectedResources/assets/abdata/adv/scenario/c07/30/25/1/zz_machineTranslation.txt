@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい、本気か？　人通りが激しいなんてもんじゃねぇぞ？　つまりそういう覚悟をしなきゃいけねぇんだ。分かってんのか？=Are you serious? It's not like there's a lot of traffic. I mean, you have to be prepared for that. Do you understand that?

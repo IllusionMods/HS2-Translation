@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ようこそ。人様にお見せるほどの部屋ではありませんが、どうぞお寛ぎください。=Welcome. We don't have a lot of room to show you, but please make yourself at home.

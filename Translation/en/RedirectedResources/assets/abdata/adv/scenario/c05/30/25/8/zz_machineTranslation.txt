@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ん……お酒を飲むところでなんて……ちょ、ちょっと大人っぽいというか……少し恥ずかしいですけど……いいですよ？=It's a little bit embarrassing, but it's okay, right?

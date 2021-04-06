@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 風呂覗いてたんだな……ある意味、健全っちゃ、健全だな。=You've been peeking in the bath... In a way, it's healthy, isn't it?

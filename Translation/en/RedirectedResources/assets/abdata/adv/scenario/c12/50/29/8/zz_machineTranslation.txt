@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 今度は押しかけないで、最初から一緒に入ろうぜ。まぁ楽しかったからいいけどな。=Next time, don't barge in on me. Let's go in together from the beginning. Well, it was fun, so that's good.

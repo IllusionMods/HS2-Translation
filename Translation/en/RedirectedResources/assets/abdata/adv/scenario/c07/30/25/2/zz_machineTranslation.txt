@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ほう、これがオマエの部屋か。やっぱ匂いが違うな。本人にはよく分かんねぇだろうが。=Oh, so this is your room. I knew it smelled different. You probably don't know what I'm talking about.

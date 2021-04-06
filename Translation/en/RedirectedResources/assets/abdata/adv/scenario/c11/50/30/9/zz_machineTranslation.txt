@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こ、このままでは漏れてしまいます……貴方はそれで宜しいのですか……？=If I don't, it will leak... Are you okay with that?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 どーよ♪　アタシの部屋に入れてもらえるなんて、アンタ幸せもんなんだかんね？=You're so lucky to have me in your room, aren't you?

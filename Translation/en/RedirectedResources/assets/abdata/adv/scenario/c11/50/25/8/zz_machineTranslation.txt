@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 私には縁遠い場所でして……お手数ですが、こちらのお店の作法をご教示頂きたく存じます。=It is a place that I am not familiar with... I would appreciate it if you could tell me the etiquette of this restaurant.

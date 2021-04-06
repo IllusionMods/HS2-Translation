@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 もしもーし！　あなたさーん！　わたしが来ましたよー！　お部屋にいらっしゃいますかー！？=Hello! Hey, you! I'm here! Are you in your room?

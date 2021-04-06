@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんなんすか？　何もしないなんて、見掛け倒しっすか？=What is it? Is it just for show that you're not going to do anything?

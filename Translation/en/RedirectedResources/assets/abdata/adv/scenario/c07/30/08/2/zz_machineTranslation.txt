@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 風呂ってのはやっぱ気持ちいいもんだな。二人で入れば尚更だ。=Baths are always a good feeling. Especially when it's just the two of us.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ドキドキするシチュエーションです……誰も来ないといいんですが……=It's a thrilling situation... And I hope no one comes...

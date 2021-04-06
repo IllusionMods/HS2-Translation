@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 はは……けっこー雰囲気あんねココ……なんつーかアレだね……本格的って感じ？=This is a very atmospheric place... It's kind of... Authentic?

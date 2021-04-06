@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんだよ？！　急に入ってきやがって。お前ってホントせっかちだな。=What the hell? You came in here so suddenly. You're really impatient, aren't you?

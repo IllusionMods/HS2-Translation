@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ここは……あの、ロビー……ですわ。こんなところでひとつになるのですか？=This is... Um, the lobby... Do you want to become one in a place like this?

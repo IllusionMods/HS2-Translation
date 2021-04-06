@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 まったく、汗を流しに来て逆に汗かいてたんじゃ、話になんねぇな。=It's no good coming here to sweat if you're sweating all over the place.

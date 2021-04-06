@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こんな所でしちゃうなんて、誰か来ないかドキドキしたわ。=I can't believe I'm doing this here. I'm so nervous that someone will come.

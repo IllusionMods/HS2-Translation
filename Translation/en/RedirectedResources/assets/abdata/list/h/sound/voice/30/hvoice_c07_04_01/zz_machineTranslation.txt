@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んっ、こんなもんじゃ物足りねぇか？　欲張りなやつめ……=Hmm, isn't this enough for you? You greedy bastard...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あの、あの、こんなところでして、いいんでしょうか……でも、スタッフの人たちが何も言わないなら、いいんです、よね……=I don't know if it's okay to do this here, but if the staff doesn't say anything, then it's okay...

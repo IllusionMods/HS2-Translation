@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 いやー、あなたのお部屋ってどんなもんかと思ってー施設の人に場所を聞いて来たってわけっすよー。=Well, I was wondering what your room was like, so I asked the staff at the facility where it was.

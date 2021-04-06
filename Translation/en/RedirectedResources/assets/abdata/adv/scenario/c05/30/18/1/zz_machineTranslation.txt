@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ま、まさかこんな姿を……こ、これには色々ワケがあってですね……=I didn't expect to see you like this... There's a reason for this...

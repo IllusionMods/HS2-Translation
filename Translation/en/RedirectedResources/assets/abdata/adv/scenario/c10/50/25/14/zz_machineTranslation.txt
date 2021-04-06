@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 な、なんだか落ち着きませんね……誰かの視線を常に感じるような……=I feel uncomfortable... Like I can always feel someone's eyes on me...

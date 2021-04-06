@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 へぇ、雅な雰囲気ってやつか？　オマエにこんな気が使えるとは、少し驚いた。まぁ、落ち着いてするにはいいかもな。=Oh, you mean the elegant atmosphere? I'm a little surprised that you can be so thoughtful. Well, it's a good way to calm down.

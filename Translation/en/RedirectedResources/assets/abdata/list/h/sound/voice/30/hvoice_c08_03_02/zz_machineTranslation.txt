@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ギリギリセーフ～。これすごい勢いで出るやつだー。=Just in time. This is the kind of thing that comes out with great force.

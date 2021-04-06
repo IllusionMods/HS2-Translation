@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 そのまま行っちゃうのね？　どうすればいいのよ。=You're just going to leave, aren't you? I don't know what to do.

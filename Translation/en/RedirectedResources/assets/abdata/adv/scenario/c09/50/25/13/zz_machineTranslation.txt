@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 な、なんだか不気味なお部屋ですー……そもそも、これは本当にお部屋なんですかぁ？=What a creepy room... Is this really a room in the first place?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あまり汚して欲しくはないですが……あなたに出来ますかね？=I don't want it to get too dirty, but... Can you do it?

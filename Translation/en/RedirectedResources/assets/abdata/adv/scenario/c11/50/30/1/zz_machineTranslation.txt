@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お、お手洗い中の姿をご覧になっても、楽しいことはございませんよ？=Oh, it's no fun to see you in the bathroom, is it?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うふふ、いい汗を掛けましたね。私もさっぱり致しました。=You worked up a good sweat, didn't you? I also felt refreshed.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ちょっ、えぇっ！？　待って待って待って！　ほんと、やばいんだってば！=Whoa, whoa, whoa, whoa! Wait, wait, wait, wait! We're in trouble!

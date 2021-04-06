@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ここが私がお借りしているお部屋ですわ。そんな場所であなたとひとつになると思うと……お顔が熱くなってくるのを感じます……=This is the room I'm renting. The thought of being united with you in such a place makes my face feel hot...

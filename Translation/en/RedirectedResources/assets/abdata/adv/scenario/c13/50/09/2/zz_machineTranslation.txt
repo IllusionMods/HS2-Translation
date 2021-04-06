@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 シャワーをこんなに長く感じられるなんて……きっと、あなたのことを本当に愛しているからですね……=I can't believe how long the shower feels... It must be because I really love you...

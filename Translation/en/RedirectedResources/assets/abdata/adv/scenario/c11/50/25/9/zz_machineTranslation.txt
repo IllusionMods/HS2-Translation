@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 教室で致す機会は私にはなかったので、経験することは無いと思っていたのですが……人生、何が起こるか分かりませんね。=I never had the opportunity to do it in a classroom, so I thought I would never experience it, but... You never know what will happen in life.

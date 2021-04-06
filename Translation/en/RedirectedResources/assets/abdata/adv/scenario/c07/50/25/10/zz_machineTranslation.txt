@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 いかにもオマエが好きそうな所だな。ムードは良いが、オレには合わなそうだ。=It looks like the kind of place you'd like. The mood is good, but it's not for me.

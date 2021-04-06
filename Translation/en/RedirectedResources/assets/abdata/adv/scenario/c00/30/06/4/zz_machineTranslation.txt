@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 っ……一人で愉しむつもりでしたが、予定を変更しなければならないようですね。=I was going to enjoy this alone, but it looks like I'll have to change my plans.

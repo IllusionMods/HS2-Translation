@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 焦らした方が長く楽しめるようになると聞いたもので……=I've heard that the more you hurry, the longer you'll be able to enjoy it...

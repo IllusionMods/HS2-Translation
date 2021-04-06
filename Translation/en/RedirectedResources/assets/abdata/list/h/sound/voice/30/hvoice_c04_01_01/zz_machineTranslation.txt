@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んふ～、放置プレイ中です♪　どう？　焦れてきた？=Mmm... I'm being neglected. ♪ What do you think? Are you getting impatient?

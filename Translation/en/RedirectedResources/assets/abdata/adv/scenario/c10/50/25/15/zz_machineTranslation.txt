@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 少々罰当たりな気もしますが……気持ちが高ぶってしまうのは否定できませんね……=It may seem a bit punitive, but I can't deny that it makes me feel excited...

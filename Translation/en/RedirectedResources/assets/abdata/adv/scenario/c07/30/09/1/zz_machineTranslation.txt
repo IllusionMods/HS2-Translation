@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい、オレにもシャワーを浴びさせてくれよ。なんなら、オマエのシャワーでもいいぞ。=Hey, let me take a shower, too. You can take your shower if you want.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 こ、こんなお勉強……したくありませんでしたわ……もうお嫁に行けません……=I didn't want to study like this... I can't marry anymore...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あっ、あなたさんっ、ちょうどいいところにっ！　色々あって、今こんな感じになっちゃって……もしよろしければお助けをー！=Oh, you, you're in the right place! I've been through a lot, and now I'm like this... If you could help me, please!

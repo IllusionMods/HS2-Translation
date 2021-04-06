@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふっふっふ、まさかわたしが乱入するとは思ってなかったでしょー？=You didn't think I was going to break in, did you?

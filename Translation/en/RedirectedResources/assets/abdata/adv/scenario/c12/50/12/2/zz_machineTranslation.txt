@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 中々濃厚な朝どれザーメンだったな、今日も元気な一日になりそうだ。=It was a very rich morning cum, and it's going to be a very healthy day.

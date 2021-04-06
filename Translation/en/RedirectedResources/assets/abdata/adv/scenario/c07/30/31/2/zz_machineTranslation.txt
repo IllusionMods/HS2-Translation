@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 待たせたな。女は色々と面倒なんだ、分かるだろ？=Sorry I kept you waiting. Women can be a pain in the ass. You know that, right?

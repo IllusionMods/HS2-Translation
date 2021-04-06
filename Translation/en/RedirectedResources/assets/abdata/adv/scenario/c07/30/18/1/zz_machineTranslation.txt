@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よし、よく来た。とりあえずこれを解け。ちゃんとご褒美はやるから、変な気起こすなよ？=Okay, you're here. Untie this for now. I'll give you a good reward, so don't freak out, okay?

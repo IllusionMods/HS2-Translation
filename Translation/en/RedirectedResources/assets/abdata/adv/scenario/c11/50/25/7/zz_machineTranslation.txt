@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 やはり畳の匂いは落ち着きますね。穏やかな心持ちで情事に望めそうです。=After all, the smell of tatami mats is soothing. I think I can go about my business with a peaceful mind.

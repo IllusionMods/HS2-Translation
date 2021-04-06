@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 どうだ？　オレの部屋は。まぁ普通だろ？　便利なのは、誰にも邪魔されないってとこくらいか。=What do you think? My room. It's pretty normal, right? The only thing convenient about it is that no one disturbs me.

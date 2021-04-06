@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よ、夜とはいえ……誰かに見られるかもしれませんよ……？　ほ、本当にするんですか……？=Even though it's nighttime... Someone might see you? Are you sure you want to do this?

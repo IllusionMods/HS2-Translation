@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あなたなの？　ちょっと待って……縄が、絡まってるのよ。=Is that you? Wait a minute... The rope, it's tangled.

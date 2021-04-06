@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あれ？　どうしたんすか？　なんかエロいことが始まるんじゃないんすか=What? What's going on? Isn't something erotic about to happen?

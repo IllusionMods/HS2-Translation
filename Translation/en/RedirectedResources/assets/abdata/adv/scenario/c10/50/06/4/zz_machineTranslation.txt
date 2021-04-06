@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ぁっ、えっ！？　い、いつから見ていたんですか？　うぅぅ……恥ずかし過ぎて、顔が熱いです……=Oh, what? When did you start looking at me? I'm so embarrassed, my face is so hot...

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うぅ、腰が抜けて動けないのです。できれば手を貸して頂けますか？　貴方に迷惑はかけたくなかったのですが……すみません。=Ugh, I can't move my back. Can you help me if you can? I didn't want to cause you any trouble, but I'm sorry.

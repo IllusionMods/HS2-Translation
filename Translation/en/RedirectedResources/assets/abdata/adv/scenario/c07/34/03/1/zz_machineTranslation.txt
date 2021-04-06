@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 おい、バレてんぞ……コソコソしても無駄だ、ぶっ飛ばされねぇうちに出てけ。=Hey, they know you're here... There's no point in sneaking around, get out before I blow you away.

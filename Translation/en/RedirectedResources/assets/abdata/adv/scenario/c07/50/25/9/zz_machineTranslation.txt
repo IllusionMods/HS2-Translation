@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ほう、教室なんて、また変わったところで……いや、変態ぽいところでしたがるな……=Oh, you want to go to a strange place like a classroom... Or a perverted place like a classroom...

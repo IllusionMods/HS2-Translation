@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あのう……ここだと他の人が来たときに困ってしまうような……でも、あなたがいいなら、いいですよ……=Um... It's not like I'm going to have any trouble with other people coming here... But if it's okay with you...

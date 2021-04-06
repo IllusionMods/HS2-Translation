@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 うぅ、もうここまで来たら……覚悟を決めるよ。何があっても、全部お前のせいだからね？=Ugh, I've come this far... And I'm ready to go. No matter what happens, it's all your fault, okay?

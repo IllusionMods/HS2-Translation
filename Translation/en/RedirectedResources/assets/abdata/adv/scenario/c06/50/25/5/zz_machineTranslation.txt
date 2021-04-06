@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 普段裸で入るお風呂といっても……いえ、お風呂だからこそあなたと入るのは、その……=Even though it's a bath that you usually take naked... No, it's a bath that I take with you because it's the...

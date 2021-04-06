@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 じゅぷっ、じゅつちゅるっ……ふふ、おはようごじゃいます……=Sip, sip, sip, sip... Good morning...

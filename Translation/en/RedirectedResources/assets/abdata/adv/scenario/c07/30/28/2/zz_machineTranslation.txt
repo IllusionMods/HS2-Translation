@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ん？　こんなところで何をしてるんだ？　まさか、覗いてたんじゃないだろうな？=Hmm? What are you doing out here? You weren't peeping at me, were you?

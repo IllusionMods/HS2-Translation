@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 きゃっ、ちょ、ちょっとっ……さすがにこんなところはダメですよっ……=Hey, hey, hey! You're not supposed to be here...

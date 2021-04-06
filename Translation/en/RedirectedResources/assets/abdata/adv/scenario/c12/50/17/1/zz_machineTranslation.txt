@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 お、お前、こんな所に……？！　いや、それより、ちょっと手を貸してくれないか？=Oh, you're here? No, it's more like, can you give me a hand here?

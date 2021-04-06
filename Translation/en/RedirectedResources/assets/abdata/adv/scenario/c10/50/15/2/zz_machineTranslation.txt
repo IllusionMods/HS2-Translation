@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 ふふ、貴方の部屋に、私の匂いが残ってしまいましたね……なんて、少し調子に乗り過ぎでしょうか。=I guess I'm getting a little carried away with my scent in your room.

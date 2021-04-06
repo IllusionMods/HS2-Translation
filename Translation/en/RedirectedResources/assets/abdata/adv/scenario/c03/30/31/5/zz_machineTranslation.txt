@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 はぁっ！？　うっそ……ちょっ、待って待って！　今トイレ中！　って、見れば分かるでしょぉー！=Huh? No... Wait, wait, wait! I'm in the bathroom! You'll see!

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よう、背中を流しに来てやったぜ。ありがたいだろ？　ほら、もっと喜べよ。=Hey, I'm here to wash your back. Thanks for that, huh? You should be more than happy.

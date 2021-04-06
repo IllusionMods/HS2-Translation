@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 気持ちよかったのは確かですが……もう少し自重してくださいね？=I'm sure it felt good, but... A little more self-restraint, please?

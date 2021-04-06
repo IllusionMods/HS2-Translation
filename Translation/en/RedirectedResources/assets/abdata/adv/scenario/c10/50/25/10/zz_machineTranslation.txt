@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 とても雰囲気の良い所ですね。ムードがあり過ぎて少し戸惑ってしまいますが……嫌な感じではありません。=It's a place with a very nice atmosphere. It's a little confusing because it's so moody, but... Not unpleasant.

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 あ、あれぇ……なんかわたしー、いつもよりもおばかになっちゃってたよーな気がしますー。=Oh, that... I feel like I've become even more silly than usual...

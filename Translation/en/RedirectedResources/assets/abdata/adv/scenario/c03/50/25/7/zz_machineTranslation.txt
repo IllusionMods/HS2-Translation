@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 なんか和室って、妙にかしこまっちゃうよね？　そんなことない？　緊張というか……=A Japanese-style room seems to be a strange and formal place, doesn't it? Don't you ever feel that way? I'm nervous...

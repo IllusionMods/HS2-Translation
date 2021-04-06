@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 泊まり込みでするってのは、気が楽でいいな。これからも、ちょくちょく利用させてもらうぞ。=It's nice and easy to stay overnight. I'll be using this place more often.

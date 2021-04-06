@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 チッ、なんて時に入ってきやがる……オマエ、絶対覗いてたな？　分かってて入ってきただろう？=What a time to come in... You were definitely peeping at me, weren't you? You knew I was coming in, didn't you?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 う……ふ、普通に見られるより、恥ずかしいんですが……っ=I'm more embarrassed than I normally would be, but...

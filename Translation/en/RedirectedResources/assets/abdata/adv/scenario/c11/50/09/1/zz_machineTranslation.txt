@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 汗を流す前に、運動を致しませんか？　その方がより気持ちよくなれますよ？=Why don't you do some exercise before you sweat? It will make you feel better, right?

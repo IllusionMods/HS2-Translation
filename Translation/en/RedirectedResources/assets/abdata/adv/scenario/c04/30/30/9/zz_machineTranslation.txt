@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 んんぅ……アンタが悪いんだかんね？　何が起きても……アタシは悪くないんだから……=Well... It's your fault, isn't it? No matter what happens... It's not my fault...

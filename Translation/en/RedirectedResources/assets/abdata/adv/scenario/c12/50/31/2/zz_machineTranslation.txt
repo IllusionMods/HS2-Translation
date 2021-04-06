@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 悪い、待たせたな。……どうかしたのか？　息が上がってるけど？=Sorry, I kept you waiting. What's wrong with you? You're breathing a little hard.

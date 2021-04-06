@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 よし、いたな。なんだか無性にオマエに会いたくなってな。悪い気はしないだろう？=Okay, there you are. I just wanted to see you for some reason. You don't feel bad, do you?

@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 やはりやめませんか？　こんな生き物、絶対普通ではありせんよ……=Why don't we just stop? These creatures are definitely not normal...

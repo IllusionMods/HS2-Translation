@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 もうどうなっても知らねぇぞ？　オマエが招いたことだ……何が起きても、全部受け止めろ。=I don't care what happens now, okay? You brought this on yourself... No matter what happens, you have to take it all in.

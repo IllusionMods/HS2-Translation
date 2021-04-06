@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 とりま、最初は優しくね？　そんくらい分かってんしょ？=Anyway, be nice at first, okay? You know that, don't you?

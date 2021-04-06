@@ -1,5 +1,5 @@
 //***********************************************************************
-//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
 また随分似合わない所に来ちまったな。オレに愛とか求められても困るぞ？=You've come to a very unsuitable place again. You can't expect me to love you, can you?
