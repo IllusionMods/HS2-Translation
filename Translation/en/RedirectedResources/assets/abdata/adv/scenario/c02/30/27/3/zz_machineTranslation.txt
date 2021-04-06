@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+まだヒリヒリします……はぁ……=It still tingles... Haha...
+プレイとはいえ、ああいうのはちょっと……=Even though it's play, it's not like that...
+好意{0}=Favors {0}
+愛の鞭とか……そ、そんなので騙されませんからね？=I'm not going to be fooled by a love whip or anything like that, okay?
+まったく、痕になったらどうする気ですか……責任取ってもらいますよ？=What do you think you're going to do when you get those scars... You're going to have to take responsibility.
+享楽{0}=Enjoyment {0}
+……やられた分は、いつかやり返してやりますから。=... I'll get back at you for what you did to me.
+次は私の番で構いませんよね？　か・ま・い・ま・せ・ん・よ・ね？=You don't mind if I'm next, do you? You don't mind, do you?
+嫌悪{0}=Disgust {0}
+何ですか？　噛みつかれたいんですか？=What is it? Do you want to be bitten?
+はぁ、最っ低……=Huh, that's low...
+隷属{0}=Slavery {0}
+私はマゾな雌豚です……とでも言えばいいんですか？　……間違いじゃないですけど。=I'm a masochistic sow... Or should I say "I'm a masochistic sow"? I'm not making any mistakes.
+どんなプレイでも、感じたもの勝ちですから……ね？=No matter how you play, you win if you feel it... Right?
+依存{0}=Depends{0}
+あなたが望む事であれば、どんなプレイでも受け入れますから……=I'm open to any kind of play, as long as it's what you want...
+あ、あの、嫌がった方がよかったですか？　あなたが見ていると思うと、つい……=Oh, um, should I have hated it? I just thought you'd be watching, and I just...

@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+続けるんだ？　別にいいよ=You want to keep going? I don't care.
+このまま続けるんだ？　おっけー=You're just gonna keep doing this? All right.

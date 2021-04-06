@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Disgust {0}
+……痴漢は犯罪です。それはどこであろうと変わりません。=... Molestation is a crime. That doesn't change no matter where you are.
+裁かれるその時を震えて待てば良いのです。=You can wait with trembling for the time when you will be judged.
+……貴方は人の風上にも置けない下劣な人間です。=... You are a vile human being who deserves no better.
+そのことを、どうかご自覚なさって下さい。=Please be aware of this fact.
+貴方に罪の意識はないのですか？　どこまで厚顔無恥なのですか？=Don't you have a guilty conscience? How brazen can you be?
+本当に全く何も感じていないのだとしたら、貴方は人ではありません……=If you really don't feel anything at all, then you're not a person...

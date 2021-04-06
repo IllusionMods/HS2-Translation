@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あれ、こんな所でどうしたんですか？=Hey, what are you doing here?
+どうしました？　まさか……覗いてたりしてませんよね……？=What's the matter? You're not... Peeping at me... Are you?
+えっと……まぁ、何をしていたかは聞かない事にしてあげますけど、どうしましたか？=Well... Well, I won't ask you what you were doing, but what happened?
+……何してるんですか？　まさか……=... What are you doing? I don't think...
+はぁ……っと、すみません、する前から火照ってしまいまして……=Huh... Sorry, I was burning up before I did that...

@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversation {0}
+私達二人の子供とお話されたいのでしょうか？　それでしたら、先ずは子供を授からないといけませんね。=Do you want to talk to our two children? If that's the case, we need to have a child first.
+ええ。私が身重になった際は、お腹の子へ存分に語り掛けて下さい。=Yes. When I become very sick, please talk to my baby to the fullest.

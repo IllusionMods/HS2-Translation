@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+疲れた状態でお酒を飲むのは、あまりオススメできませんので……=It is not recommended to drink alcohol when you are tired, so...
+少しゆっくりと……二人の時間を楽しみましょうか……=Let's take it a little slower... Enjoy our time together...
+大丈夫ですか？　お身体、冷えておりませんか？=Are you okay? Are you feeling cold?
+私はむしろ熱いくらいですので……寒いようでしたら抱き締めてください。=I'm rather hot... So if you are cold, please hug me.
+なんだかまだ、身体が浮いているような気分です。=I feel like my body is still floating.
+夢見心地とは、正にこういう状態を言うのでしょうね……=I guess this is what dreaming is all about...

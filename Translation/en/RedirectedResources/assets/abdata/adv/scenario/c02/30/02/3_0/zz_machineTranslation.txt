@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+返答肯定1普通{0}=Reply affirmative 1 normal {0}
+やっぱり、そう思いますよね？=You still think so, don't you?
+ふむ、同じ意見ですね。=Hmm, I agree with you.
+返答肯定1好意{0}=Reply Affirmative 1 Favor {0}
+あなたと同じ意見でよかったです。=I'm glad I agree with you.
+そうですか、私と同じ考えなんですね……=Okay, so you think like I do...
+返答肯定1享楽{0}=Reply Affirmation 1 Enjoyment {0}
+へぇ、あなたもですか。=Oh, you too?
+ふふっ、私の意見に合わせてくれたんですか？=Hmmm... You've adjusted to my opinion?
+返答肯定1嫌悪{0}=Reply Affirmative 1 Disgust {0}
+あなたと一緒の考えだなんて……=I can't believe I'm thinking like you.
+……今からでも意見変えられませんか？=... Can't you change your opinion now?
+返答肯定1隷属{0}=Reply Affirmation 1 Slavery {0}
+あなたも同じ気持ちですか。=Do you feel the same way?
+そうですか、あなたも同じ感性をお持ちなんですね。=Well, I see you have the same sensibility.
+返答否定1普通{0}=Reply negation 1 normal {0}
+あら、意見の相違ですかね？=Oh, is that a difference of opinion?
+私とはちょっと違う考えみたいですね。=You seem to think a little differently than I do.
+返答否定1好意{0}=Reply Negative 1 Favor {0}
+あ……そ、そうですか……=Oh... Well, I see...
+あなたはそう思ってるんですね……=So you think that...
+返答否定1享楽{0}=Reply negation 1 enjoyment {0}
+あら、食い違いましたね。=Oh, we had a discrepancy.
+ふぅん……あなたはそう思うんですか。=Hmmm... You think so?
+返答否定1嫌悪{0}=Reply Deny 1 Dislike {0}
+そうですか、同じ考えじゃなくてよかったです。=Well, I'm glad we don't think alike.
+よかった、同類とは思われたくないので。=Good, because I don't want to be thought of as one of them.
+返答否定1隷属{0}=Reply negation 1 slavery {0}
+そうですか、同じ気持ちだったらよかったんですけどね。=Well, I wish I felt the same way.
+私の考えはあまり一般的ではないって事ですかね？=Does that mean my idea isn't very common?

@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+わぁ、いーじゃないですかー。誰かに好かれるってことは素敵なことですよー！=Wow, isn't it nice! It's nice to be liked by someone!
+まぁ、好意にも色々ありますからね。そーいうのも悪いことじゃないですよ！=Well, there are many kinds of favors, aren't there? There's nothing wrong with that!
+好意{0}=Favors {0}
+え……わたしはどーかって？　そ、そーですね……なんか、うーん……直球で聞かれると照れちゃいますよ……=Well... What about me? Well, I guess I'm a little embarrassed if you ask me directly...
+わたしだったらー……好きな相手にはどーんでばーんでぎゅーってなりますけどね。どーんでばーんでぎゅーっ！=If it were me, I'd give the person I love a "Dondeband" kiss. I'd be like, "Donde bang and squeeze!
+享楽{0}=Enjoyment {0}
+そーですねー……やっぱり好きな人だからこそ、エッチもしたいって思うんじゃないでしょーか？　嫌いな人とはしたくないですよ、多分。=Well... I think you want to have sex with someone because you like them. I don't want to have sex with someone I don't like, I guess.
+確かに、自分に好意を向けてくれる人は好きになっちゃうかもしれませんねー。あ……でも、そーじゃなくても、好きになっちゃうこともありますけど♪=It's true that you may fall in love with someone who likes you. But even if you don't, you can still fall in love with them ♪
+嫌悪{0}=Disgust {0}
+なんていうかー、わたしには全然関係ない話みたいな気がするんですけどー。=I don't know what to say... I feel like this is totally unrelated to me.
+こーいう話、あなたさんとはあんまりしたくないですねぇ。=I don't really want to talk about this kind of thing with you.
+隷属{0}=Slavery {0}
+わぁ、結構深いことを考えてるんですねー。わたし、単純だからー……そこまで考えてなかったです、えへへ。=Wow, you're thinking about something pretty deep, aren't you? I'm so simple... I didn't think that far, hehe.
+あなたさんがそー考えてくれるのなら……えっと……そのー……う、嬉しいですよっ、えへへ♪=If you think so... Well... I'm happy... Hehehe ♪

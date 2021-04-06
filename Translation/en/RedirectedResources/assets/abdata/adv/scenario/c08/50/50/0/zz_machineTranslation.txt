@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+なかなかいい場所っすね、気に入ったすよー。=It's a nice place, I like it!
+こんな所に連れて来るなんて、なかなかやるじゃないっすか。=It's quite a feat to bring him here.
+それじゃ、あなたと一緒に素敵な夜を楽しむっすよ～。=I'm going to enjoy a nice evening with you then!
+ナイトプールなんて、小洒落た所知ってるっすねー。=You know a fancy place like a night pool.
+ここで飲み明かそうって事っすか？=So we're just gonna sit here and drink it all away?
+私は、あなたの色んなものが飲みたいんすけどねー。=I'd like to drink your various things, though.
+おやおや、いい雰囲気のナイトプールっすね～。=Oh, well, it's a night pool with a nice atmosphere!
+なんで、私をこんな所に誘ってくれたんすかー？=Why did you invite me to this place?
+なんか作戦があるんなら、受けて立つっすよ？=If you have a plan, I'll take it, okay?

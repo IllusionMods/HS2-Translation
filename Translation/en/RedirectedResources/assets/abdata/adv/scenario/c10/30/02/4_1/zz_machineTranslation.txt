@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話事後B普通{0}=Conversation Post B Normal {0}
+色々お話できて楽しかったですね♪　意見の交換は、やはり大事です。=It was fun to talk about various things... It is important to exchange opinions ♪
+貴方のおかげで、また違った見かたができそうです。お話できて良かったです。=Thanks to you, I will be able to see things in a different way. It was nice to talk with you.
+会話事後B好意{0}=Conversation Post B Favor {0}
+貴方の言葉、全て参考にさせて頂きます。どれも貴重なご意見ばかりで、まとめるのが大変そうですが。=I will refer to all of your words. All of your opinions are so valuable that it will be difficult to summarize them.
+うぅ、メモを取っておけば良かったです。とにかくお話するのが楽しくて……貴方の言葉を、聞き逃していた部分があるかもしれません。=Ugh, I should have taken notes. Anyway, I was enjoying talking with you... I may have missed some of your words.
+会話事後B享楽{0}=Conversation Post B Enjoyment {0}
+三人でお喋りも楽しいものですね。特に貴方のお話は、凄く面白かったです。=It's fun to chat with the three of us. Your story in particular was very interesting.
+こうして、みんなでお話するだけでも、十分なストレス解消になりますね。なんだかスッキリしました。=Just talking with everyone in this way is enough to relieve stress. I felt somewhat refreshed.
+会話事後B嫌悪{0}=Post-conversation B disgust {0}
+少しですが、見聞は広まったと思います。貴方の意見も……まぁ、参考程度にはなりました。=I think I've broadened my horizons a bit. Your opinion was... Well, it was helpful.
+それなりに有意義が話ができたのではないでしょうか？　最初から高望みはしないのが吉ですね。=I'm sure we had a meaningful conversation. It's a good thing that you don't have high hopes from the start.
+会話事後B隷属{0}=Conversation Post B Subjugation {0}
+私、お二人の邪魔になっていませんでしたよね？　それだけでも、確認しておきたくて……=I didn't interfere with the two of you, did I? I just wanted to make sure that...
+貴方の意見は、どれも素晴らしかったです。私には無い物を、たくさん持っていらっしゃるのですね。=All of your opinions were excellent. You have a lot of things that I don't have.

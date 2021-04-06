@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+はぁ、そうですか。=Huh, I see.
+わかりました、それではまた。=Okay, I'll see you then.
+好意{0}=Favors {0}
+……そうですか、では。=... I see, then.
+用がなくても私に会いに来てくれた、という事にしておきますね。=I'll just say that you came to see me even if you didn't need me.
+享楽{0}=Enjoyment {0}
+私の顔を見に来ただけって事ですね、わかりました。=So you're just here to see my face, I get it.
+あら、何もしないんですね、わかりました。=Oh, you're not going to do anything, I get it.
+嫌悪{0}=Disgust {0}
+なら声をかけないでください。=Then don't call out to them.
+そうですか、なら私に用はないですよね、さようなら。=I see, then you have no use for me, goodbye.
+隷属{0}=Slavery {0}
+そうですか、残念です……=Well, I'm sorry to hear that...
+また何かありましたら、いつでも声をかけてください。=If there is anything else I can do for you, please feel free to contact me anytime.

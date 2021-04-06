@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversation {0}
+何を言ってるんだ？　俺と出会った時点でセックスするのは確定だ。=What are you talking about? I'm pretty sure you're going to have sex with me when you meet me.
+俺と会って、なんでもないなんて事はないだろ。わかってるよ、ちょっと焦らしてるだけなんだろ？=You can't just meet me and expect it to be nothing. I know, I know. You're just being a little impatient, right?

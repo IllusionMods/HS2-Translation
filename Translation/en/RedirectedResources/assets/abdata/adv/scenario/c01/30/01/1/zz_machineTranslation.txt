@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversation {0}
+おしゃべりより、一緒に気持ち良くなりたいわ。=I'd much rather feel good with you than chat with you.
+お話もいいけど、もっと素敵な喘ぎ声を聞かせてあげたいわ。=I'd love to talk to you, but I'd like to hear more of your wonderful moans.

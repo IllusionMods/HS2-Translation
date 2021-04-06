@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelude B normal {0}
+あれ、お前たち、仲良かったの？=Oh, you guys were close?
+３人で話そっか。=Let's talk in private.
+前フリB好意{0}=Prelude B Favor {0}
+どもども、私もいるよー♪　お忘れなくー。=Hi there, I'm here too ♪ Don't forget ♪
+もしかしてふたりとも、仲いい感じ？=Do you two seem to be getting along?
+前フリB享楽{0}=Prelude B. Kyouraku {0}
+３Ｐ、じゃなくて、３人で話そっか♪=Threesome. No, no, no. Let's just talk ♪
+おー、賑やかになってきた。いいねいいね♪=Oh, it's getting crowded. Nice. Nice. ♪
+前フリB嫌悪{0}=Pretense B Disgust {0}
+えー、お前はお呼びじゃないんだけどなぁ……=Eh, you're not wanted here...
+なに？　このまま私達に混ざる気？　図々しい。=What? You're just going to join us? You're being presumptuous.
+前フリB隷属{0}=Prelude B Slave {0}
+やっほー、私のこともちゃんと構ってくれたら嬉しいな……=Yay, I'd be happy if you could take care of me too...
+あ、３Ｐしにきたの……？=Oh, you're here for a threesome?

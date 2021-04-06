@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+汎用{0}=General Purpose {0}
+あなたのこと……ずぅっとずぅっと……待ってましたよ……♪=I've been waiting for you... For so long... For so long ♪
+今まではあなたの自由な時間……これからは私とあなただけの自由な時間、です……♪=From now on, it's just you and me ♪
+今日も産毛の一本に至るまで、あなたを愛して愛して、愛し尽くしています……♪=Today, I love, love, love you down to the last hair on your head ♪
+風呂{0}=Bath {0}
+うふふ……♪　偶然だと思いますか……？　私がお風呂にいることが、ですよ……♪=Do you think it's a coincidence? That I'm in the bath ♪
+今この瞬間、このお風呂以外の世界が滅亡しちゃえばいいんですけど……♪=At this moment, I wish the world outside of this bath would die ♪
+用件{0}=Business {0}
+あなたの用件知ってます……♪　心臓の音と目線、それに汗のかき方と、私との将来の赤ちゃんのもとを大事にしまってある場所の大きさで……♪=I know what you want ♪ By the sound of your heart, the way you look at me, and the way you sweat, and the size of the place where you keep the source of your future baby with me ♪
+それじゃああえて聞いちゃいますね……♪　私に何か、用事ですか……？=Then I dare to ask you ♪ What do you want from me?

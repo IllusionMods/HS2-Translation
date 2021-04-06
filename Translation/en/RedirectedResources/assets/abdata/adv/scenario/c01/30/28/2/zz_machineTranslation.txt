@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あれ……ここにいたの？　もしかして、待っててくれたとか？=Hey... You're here? Maybe you were waiting for me or something?
+気が付かなくてごめんね……=I'm sorry I didn't recognize you...
+一緒に入ろうって、声かけてくれれば良かったのに。=You should have asked me to come in with you.
+ここで……私が上がるのを待ってたの……？=You were just... Waiting for me to come up here?
+どうせならあなたと一緒に浴びたかったわ……うふふ。=I would have bathed with you anyway... Ugh.

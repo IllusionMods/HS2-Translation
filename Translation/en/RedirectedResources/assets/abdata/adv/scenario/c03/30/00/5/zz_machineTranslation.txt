@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+ちょっ、それは流石に過激じゃない？=Wait, that's a bit extreme, isn't it?
+うわー、そこまで考えたことはなかった……=Wow, I hadn't thought that far ahead...
+好意{0}=Favors {0}
+まぁ、一度意識しちゃうとね……=Well, once you're aware of it...
+夢中になれるものがあるっていいよね……=It's nice to have something to obsess over...
+享楽{0}=Enjoyment {0}
+ほんとそれ。お前はよく分かってる。=That's right. You know exactly what I'm talking about.
+同志よ……ここにいたか……！=Comrade... You're here.
+嫌悪{0}=Disgust {0}
+早口になると……更に気持ち悪くなるね。=When you talk too fast... You make me feel even worse.
+あーはいはい、分かった分かった……=Oh yes, I understand that I understand...
+隷属{0}=Slavery {0}
+まぁ、楽しんだもん勝ちってことかな？=Well, I guess having fun is a win-win, right?
+それはわりと……凄いことなんじゃ？=Wouldn't that be rather... Amazing?

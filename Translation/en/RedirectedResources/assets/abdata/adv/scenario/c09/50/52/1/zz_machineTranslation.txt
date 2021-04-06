@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Disgust {0}
+もう……わたしはあなたさんの傍にはいたくないですよ……=I don't want to be around you anymore...
+どうしてわたしなんですか？　わたしじゃないといけないんですかぁ？=Why me? Why does it have to be me?
+はぁぁ……あなたさんは、ずっとエッチなことしか考えてないんですか？=Huh... Are you the one who only thinks about sex all the time?
+だとしたら、それはもう病気ですっ。お医者さんに診てもらってください。=If that's the case, you're sick. Please see a doctor.
+うぅ……こんなの普通に犯罪ですよ、犯罪っ。=Ugh... This is a normal crime, a crime!
+悪いことしたんですから反省してくださいっ。=You've done something wrong, so please be sorry.

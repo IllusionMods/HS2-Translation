@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんでもない返答A普通{0}=An unremarkable response A. Normal {0}
+なんだ？　人数が一人増えただけでビビってんのか？=What is it? Just one more person and you're freaking out?
+おい、ただ邪魔しに来ただけか？　クソ悪趣味だな。=Hey, did you just come to interrupt me? It's in fucking bad taste.
+なんでもない返答A好意{0}=An unremarkable response A favor {0}
+あ？　どっちかが邪魔ってことか？　いいご身分だな。=Oh? You mean one of us is in the way? You're in good company.
+二人きりじゃねぇと何も出来ないってか？　女々しいやつめ。=You can't do anything unless it's just the two of you? You're such a pussy.
+なんでもない返答A享楽{0}=Nothing Reply A Kyouraku {0}
+ただの寂しんぼってやつか？　クソ迷惑なやつだな。=Just a lonely guy, huh? A fucking annoying one.
+なら、さっさとどっかへ行ったらどうだ？　オレらの邪魔をするな。=Then why don't you get the hell out of here? Get out of our way.
+なんでもない返答A嫌悪{0}=Nothing Reply A Disgust {0}
+チッ、構ってちゃんはお呼びじゃねぇんだよ。=I don't want to be bothered by you.
+オレらもオマエにゃ用はねぇよ。さっさと消えろゴミクズ。=We have no use for you either. Get out of here, you piece of trash.
+なんでもない返答A隷属{0}=Nothing Reply A Slavery {0}
+おいおい、どうした？　コミュ障ってやつか？=Whoa, whoa, whoa. What's the matter? What are you, a commie?
+んぅ？　そう言えばオレらが構ってくれると思ったか？=Hmm? Did you think we'd mind if you said that?

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+まあ……そうなのですか？　あら、こんにちは。=Well... Is that so? Oh, hello.
+その様な事が……あ、どうも。=That's... Oh, thank you.
+前フリA好意{0}=Pretense A Favor {0}
+納得のいく理由ですね……ぁ……うふふ、お会いできて嬉しく存じます。=It's a good reason... Ah... Ugh... I'm glad to see you.
+成程……ん？　貴方もいらしていたのですね。=I see... Hmm? You're here too, aren't you?
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+それはそれは……うふふ、こんにちは。=That's it... Ugh, hello.
+少数派であろうと意見は……あら？　こんにちは。=Even if you're in the minority, your opinion is... Oh? Hello.
+前フリA嫌悪{0}=Pretense A Disgust {0}
+……意図的に無視をしていたのですが、伝わりませんでしたか？=... I've been deliberately ignoring you. Didn't you get the message?
+……私と彼女の会話を邪魔しないで頂けませんか？=... Would you mind not interrupting my conversation with her?
+前フリA隷属{0}=Prelude A Slavery {0}
+確かにお仰る通りです……あ、直ぐにご挨拶できず、失礼致しました。=I'm sorry I didn't get a chance to greet you sooner.
+その様な意見があるのですね……あら？　貴方の気配に気づかないとは……不覚です。=I see you have such an opinion... Oh? I'm sorry I didn't notice your presence.

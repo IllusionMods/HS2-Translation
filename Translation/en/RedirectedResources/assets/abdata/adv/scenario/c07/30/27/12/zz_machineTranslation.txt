@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+ぅ……ぁ……まれ……おいれいくら……んぅ……まっれくぇぇ……=... Rare... Mako... Makiku...
+ぁひ……ぅ……かぁらが……おかひぃ……ずっろふぅえれ……んぁぁ……=Ahi... Ugh... You... Are... So... Strange... You... Are... So... Strange... You... Are... So... Strange.
+んぁ……なんらこぇ……かぁらが……あちゅぃ……じゅっろ……あちゅぃぃ……=... What is... Achuri... Achuro... Achuri...

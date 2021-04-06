@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+依存{0}=Depends{0}
+私、ようやくわかったんです……♪　私が一体どんな人間で、あなたとどうなりたいのか……うふふ……♪=I've finally figured out who I am and what I want to do with you... Ugh... Ugh ♪
+うふふ、後悔しないでくださいね……♪　あなたが私をこんな風にしたんですよ……♪=Ummm, don't regret it ♪ You made me this way ♪

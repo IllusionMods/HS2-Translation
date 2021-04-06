@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+享楽{0}=Enjoyment {0}
+どう、なかなか興奮したんじゃない？　私は、とっても楽しかったわ。=Well, that was pretty exciting, wasn't it? I had a lot of fun.
+またこういう風に遊びたかったら、いつでも言ってね、うふふ。=If you want to play like this again, just let me know anytime, ugh.
+思わず、熱中しちゃったわね。=I got carried away, didn't I?
+あなたにも楽しんでもらえたなら、嬉しいわ。=I hope you enjoyed it as much as I did.
+良かったわ……こんなに興奮したのは久しぶりよ。=It was good... I haven't been this excited in a long time.
+また、あなたと一緒に遊びたいわ。=I want to play with you again.

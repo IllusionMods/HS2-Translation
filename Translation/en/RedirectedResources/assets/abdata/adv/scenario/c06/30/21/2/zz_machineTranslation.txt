@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+あらあら、逃げられると思っている所が本当に可愛いですわぁ♪　ほーら、捕まえたぁ……♪=Oh my, it's really cute that you think you can escape ♪ See, I got you ♪
+逃がしませんわよ……うふ、うふふふ、改めて教育して差し上げないといけないようですわね♪=I will not miss... Ufu, Ufufu, it seems that I have to educate again and not
+逃げ出した=He got away.

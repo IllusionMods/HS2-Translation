@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+お話タイムしゅーりょー。で、よかったん？　まだ何か話したいことあった？=It's story time, thank you. So, are you happy? Was there anything else you wanted to talk about?
+ふぅ、何気に結構話し込んじゃったね。=Hmmm... I've been talking a lot.
+好意{0}=Favors {0}
+んふ、アンタと話してると、時間が経つのが早いわ♪=Time flies when I'm talking to you ♪
+もーちょっと話してたかったけど、流石にそろそろ自重かな？=I wanted to talk to you for a little while longer, but I guess it's time to pull my weight, huh?
+享楽{0}=Enjoyment {0}
+あは、話してるだけでも、結構楽しかったわ♪=Haha, it was pretty fun just talking to you ♪
+アンタ、わりとトーク力あるんじゃない？　退屈しなかったわ～。=You're a rather good talker, aren't you? I was never bored!
+嫌悪{0}=Disgust {0}
+話し終わり？　だったら即サリ決めさせてもらうけど。=Are you done talking? If that's the case, I'll decide immediately.
+はぁ、無駄な時間だった。なんでこんなやつの話聞いちゃったんだろ。=Huh, that was a waste of time. I don't know why I listened to this guy.
+隷属{0}=Slavery {0}
+あれ、お話はもう終わり系？　別にもっと付き合ってあげてもいいよ？=Is this the end of the story? I'd be happy to keep you company.
+色々話せて楽しかったわ。またトークのお誘い歓迎って感じ♪=It was fun talking to you. I feel like I'm welcome to talk to you again ♪

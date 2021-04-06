@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ここが俺の部屋だ。まぁ、あんまり大したもんはねぇけど、ゆっくりしていってくれ。=This is my room. Well, there's not much here, but please take your time.
+一応、ここが俺の部屋だよ……なんだよ、あんまりじろじろ見なくていいからな。=In case you're wondering, this is my room... What the hell, don't stare at me too much.
+ここが俺が使ってる部屋だ。お前が一緒だともっと楽しい部屋になりそうだな。=This is the room I'm using. It's going to be more fun with you in it.
+お前を連れてきたくなかったけど、しょうがねぇから入れてやったんだぞ、変な事すんなよ。=I didn't want to bring you in, but I had no choice but to let you in, so don't do anything weird.
+別に、普通の部屋だと思うけど……お前と一緒に使うならちょっと普通じゃない部屋になりそうだな。=Nothing, I think it's a normal room... But if I'm going to use it with you, it's going to be a little out of the ordinary.

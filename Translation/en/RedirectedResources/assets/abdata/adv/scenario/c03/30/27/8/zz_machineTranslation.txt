@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+え、なに？　私なんか悪いことした？　調子悪かったとか……？=What? What? Did I do something wrong? Was I in a bad mood?
+え、も、もう終わり……？　だって、色々準備とか……あ、なな、なんでもない！=What, you're done? Because I've got a lot of preparations to do... Oh, no, nothing!
+好意{0}=Favors {0}
+私……もしかして魅力なかった？=Am I... Unattractive?
+あ……あーっ！　もしかして用事？　もー仕方ないな、私のことはいいから早く行きなって、ね！=Oh... Aah! Are you running an errand? Don't worry about me, just go, okay?
+享楽{0}=Enjoyment {0}
+あっれれー、私のエロエロっぷりに恐れをなしちゃった？　勇気が出たらまたかかってきなね♪=Oh, my, have you been intimidated by my eroticism? When you get the courage, come at me again ♪
+あーっ！　お前さてはうんこだろ！　ぷぷーっ、早く済ませてきなよ、漏らしちゃったら大変だし♪=Aah! You're a turd, aren't you? Pssst. Go finish it. You're gonna shit your pants ♪
+嫌悪{0}=Disgust {0}
+まあ、こっちとしては願ったりかなったりだけど。=Well, that's what I'm hoping for.
+あ、いいんだ？　じゃ、さよならー。=Oh, you don't mind? Well, goodbye.
+隷属{0}=Slavery {0}
+あ……え、えっと……うん、わかった……色々理解した……=Uh... Uh... Yeah, okay, I understand... A lot...
+ああ、エロで変態な私のために放置プレイを……ありがとう……ムラムラしながら待ってるから……=Oh, leave it for me, erotic and perverted... Thank you... I'll be waiting for you, horny and all...
+依存{0}=Depends{0}
+ふぅん、待たせてムラムラさせるつもりなんだぁ♪　私をケダモノにした罪は、結構重いよぉ♪=You're trying to make me horny by keeping me waiting... The crime of making me an animal is pretty serious ♪
+オッケー、エロ貸し１ねぇ♪　手帳に書いておくから♪=Okay, you owe me one. I'll write it down in my notebook ♪

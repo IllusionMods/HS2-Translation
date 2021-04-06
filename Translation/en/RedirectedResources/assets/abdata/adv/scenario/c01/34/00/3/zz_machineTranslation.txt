@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+そうなの？　ならいいけど。=Is that so? I hope so.
+そう、ちょっと残念ね。=Yeah, I'm a little disappointed.
+好意{0}=Favors {0}
+本当に偶然会っただけなのね。=We really just met by chance, didn't we?
+あら、なんでもないの？　でも、声をかけてくれただけでも嬉しいわ。=Oh, it's nothing? But I'm glad you called me out.
+享楽{0}=Enjoyment {0}
+本当に何でもないの？　何か用があるなら遠慮なく言ってね。=Are you sure it's nothing? If you need anything, don't hesitate to ask.
+なんでもないなんて、何かあるように思っちゃうわ。=It's not like it's nothing, it's like it's something.
+嫌悪{0}=Disgust {0}
+なんでもないなら、別にいいわよ。=If it's nothing, it's fine.
+そう、なら問題ないわね。=Well, that's no problem.
+隷属{0}=Slavery {0}
+あなたがなんでもないなら、それでいいんだけど……=If it's nothing to you, that's fine, but...
+本当に何でもないの？　用があればいつでも声をかけてくれていいのよ。=Are you sure it's nothing? If you need me, you can always call on me.

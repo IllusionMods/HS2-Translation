@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話事後A普通{0}=Conversation Post A Normal {0}
+それじゃ、私たちはこれで。=Well, we'll leave you to it.
+じゃあ、また会いましょう。=Well, I'll see you around.
+会話事後A好意{0}=A favor after the conversation {0}
+今度また、ゆっくり話しましょう。=Let's talk again soon.
+それじゃあ、またお話しましょう。=Well, I'll talk to you later.
+会話事後A享楽{0}=Conversation After A Enjoyment {0}
+それじゃ、またおしゃべりを楽しみましょう。=Well then, let's enjoy chatting again.
+この次も、また盛り上がりましょうね。=Let's get excited again next time.
+会話事後A嫌悪{0}=Conversation Post Aversion {0}
+楽しかったわ、それじゃあ、また。=That was fun. I'll see you then.
+私たちは、これで……また会いましょう。=We will now... Meet again.
+会話事後A隷属{0}=Conversation Post A Subjugation {0}
+あなたとお話しできて嬉しかったわ。=It's been a pleasure talking to you.
+あなたとのおしゃべり、素敵な時間だったわ。=I had a wonderful time chatting with you.

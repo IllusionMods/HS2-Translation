@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+そうっすねー、私は～……あ、どもっすー。=That's right... I'm... Oh, hi...
+まー深く考えてるつもりはないんすけどー……あー、知ってる顔だと思ったらあなたっすかー。=I don't mean to think too much about it, but... Oh, I thought I knew you.
+前フリA好意{0}=Pretense A Favor {0}
+なんだかんだ無視できない話っすよねー……おっ、噂をすれば～。=It's a story that can't be ignored for some reason...
+いやーこれは大事な話っすよー……っとー主役の登場っすねー。=Well, this is an important story... And here comes the main character.
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+もう性癖の問題っすよねー……あっ、いいところも来たっすねー。=It's a matter of sexuality now... Oh, I've come to the right place too.
+ちょっと話題が過激すぎたっすかねー？　ありゃ、こんなところまでどうしたんすかー？=Was the topic a little too extreme? What's wrong with you?
+前フリA嫌悪{0}=Pretense A Disgust {0}
+あんま考えたくないすけどー……あー……こんちはーっす。=I don't really want to think about it, but... Ah... Good afternoon.
+コメントしづらいんすけどー……おっと……っすー。=It's hard to comment, but... Oops... Oops... Oops.
+前フリA隷属{0}=Prelude A Slavery {0}
+なーんか濡れてきちゃったんすけどー♪　あ……今の聞こえちゃったっすか？=I'm starting to get wet... Did you hear what I just said?
+てかこんな話して引いてないすかー？　おおっ、おつかれさまっすー。=I don't know if I'm attracting attention by talking like this. Oh, good night!

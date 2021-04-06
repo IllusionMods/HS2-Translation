@@ -1,0 +1,33 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+返答肯定1普通{0}=Reply affirmative 1 normal {0}
+あなたも同じ考えなのね。=So you think the same way.
+あなたも同じ意見なのね。=I see you share my opinion.
+返答肯定1好意{0}=Reply Affirmative 1 Favor {0}
+良かったわ、あなたも同じ意見で。=I'm glad you agree with me.
+あなたも同じ考えだなんて嬉しいわ。=I'm glad you think so too.
+返答肯定1享楽{0}=Reply Affirmation 1 Enjoyment {0}
+やっぱり、あなたもそう思うのね。=I knew you would agree with me.
+そうよね、あなたも同じで良かったわ。=I know, and I'm glad you're the same.
+返答肯定1嫌悪{0}=Reply Affirmative 1 Disgust {0}
+そうなの、あなたも同じなのね。=Oh yeah, you're the same way, aren't you?
+あなたも同じ意見だったのね、ふぅん。=You had the same opinion. Hmm.
+返答肯定1隷属{0}=Reply Affirmation 1 Slavery {0}
+あなたも同じ意見だなんて、すごく嬉しいわ。=I'm so glad that you agree with me.
+あなたの意見も同じだったなんて、最高に嬉しいわ。=I'm so glad that you share my opinion.
+返答否定1普通{0}=Reply negation 1 normal {0}
+あら、考え方が違うのね。=Oh, you think differently.
+あなたは違う意見なのね。=I see you have a different opinion.
+返答否定1好意{0}=Reply Negative 1 Favor {0}
+そういう考え方もあったのね。=I didn't know that was the way to think.
+あなたはそういう意見なのね。=So that's your opinion.
+返答否定1享楽{0}=Reply negation 1 enjoyment {0}
+なるほど、そういう考え方もあったのね。=I see. That's one way of thinking about it.
+そういう意見もあるのね。=So that's what some people think.
+返答否定1嫌悪{0}=Reply Deny 1 Dislike {0}
+ふーん……違う意見なのね。=Hmmm... Different opinions, I see.
+返答否定1隷属{0}=Reply negation 1 slavery {0}
+あら、意見が違ってしまったわね。=Oh, we've had our differences, haven't we?
+あなたは違う考え方なのね。=You think differently.

@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+……そうだな、やっぱり人から好きって言われるのは嬉しいもんだぜ。=... Well, it's always nice when people say they like you.
+――俺も昔は恋愛とか興味あったけどさ……今もないわけじゃないんだぜ。=--I used to be interested in love and stuff... But it's not like I'm not still.
+好意{0}=Favors {0}
+……お前と恋愛の話とかすると思わなかったな……いや、別に嫌じゃないぞ……むしろ、その……=... I never thought I'd be talking about love with you... No, I don't mind... It's more like...
+――ロマンティックなシチュエーションって、一度は体験してみたいもんだぜ……今この瞬間も、悪くないけどな。=I'd like to experience a romantic situation at least once... This moment is not so bad, though.
+享楽{0}=Enjoyment {0}
+やっぱ愛があれば気持ち良さが変わるもんなのかな……まぁすげぇ気持ちいい相手がいたら、それはもう愛してるみたいなもんか。=I wonder if love changes how good it feels... Well, if you have a partner that feels great, it's like you love them already.
+……恋人同士だからって、セックスに特別も何もないような気がするんだよな……出して入れるもんは一緒だろ？=... I don't think there's anything special about sex just because we're lovers... What we put out and put in is the same, right?
+嫌悪{0}=Disgust {0}
+俺は別に、お前の事何とも思ってないから……いや、マジで。=I don't think anything of you, so... No, seriously.
+……この話、まだ続けるのかよ。=... You're still going to keep talking about this?
+隷属{0}=Slavery {0}
+……好きとか嫌いとか正直わかんねぇけど……要するに合うか合わないかって事だろ？=... I honestly don't know if I like it or not... But the bottom line is whether it fits or not, right?
+……俺はお前の事嫌いじゃないぜ……好きって言うのとはちょっと違う気がするけどな。=... I don't hate you... Although I don't think that's the same as liking you.

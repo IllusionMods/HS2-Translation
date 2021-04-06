@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+返答は当然イエスですよ。=The answer is yes, of course.
+断る理由はありません、お付き合い致します。=I have no reason to refuse.
+好意{0}=Favors {0}
+お誘いいただき誠にありがとうございます。喜んでお相手致します。=Thank you very much for your invitation. I would be happy to be your partner.
+それはそれは。では善は急げと言いますから、直ぐに繋がり合いましょう。=Well, well, well. So let's hurry up and connect right away.
+享楽{0}=Enjoyment {0}
+そう仰ると思い、既に股を濡らしておりました。今すぐ挿入可能ですよ？=I was already wetting my crotch, thinking you would say that. You can insert it right now, okay?
+私も身体が疼いておりましたので、そのお誘いは渡りに船でございます。=My body was aching, too, so the invitation was a blessing in disguise.
+嫌悪{0}=Disgust {0}
+では、直ぐにいたしましょうか。=So let's get right to it.
+十中八九そう仰ると思ってました。本当にセックスのことしか頭にないのですね。=I thought you'd say that more than once. You really only care about sex, don't you?
+隷属{0}=Slavery {0}
+やはりセックスのお誘いでしたか。勿論、お相手致します。=I knew you were asking me to have sex with you. Of course I'll have sex with you.
+いつお誘いがあっても問題ないよう、身体は整えております。早速始めましょう。=My body is ready for any invitation that may come my way. Let's get started right away.

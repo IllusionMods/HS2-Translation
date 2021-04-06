@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+貴方のお相手を務めることが出来たでしょうか？　ご不満がございましたら、次の機会までに改善致しますので、お申しつけください。=I hope I was able to serve you well. If you have any complaints, please let me know so that I can improve before the next time.
+お疲れ様です。体力を消費する行為ですから、しっかりお体を休めて下さいね。=Thank you for your hard work. It is an activity that consumes a lot of physical energy, so please rest well.
+好意{0}=Favors {0}
+事を終えた直後にお顔を合わせるのは、こそばゆいですね。その……素敵な一時を有難うございました。=It's chilling to see you right after we've done things. Thank you for that... Wonderful moment.
+あぁ、鏡を見ずとも赤面しているのが分かります……己の気持ちを律することが出来ない未熟物で申し訳ありません……=I don't need to look in the mirror to see that I'm blushing... I'm sorry I'm so immature that I can't control my feelings...
+享楽{0}=Enjoyment {0}
+身体の火照りが収まりません……また私を抱いて下さいね？=I can't stop the burning in my body... Please hold me again, okay?
+これから貴方と致すのが楽しみで仕方ありません。うふふ、末永く宜しくお願い致しますね？=I can't avoid but look forward to meeting you in the future. I'm looking forward to working with you.
+嫌悪{0}=Disgust {0}
+お疲れ様でした。体を休めたいので、これで失礼致します。=Thank you for your hard work. I want to rest, so I'll leave you now.
+これで終了という事でしたら、失礼させて頂きますね。=If this is the end of it, I'd like to be excused.
+隷属{0}=Slavery {0}
+あまりの心地よさに昇天してしまいそうでした……また、お声がけ頂けるのを心待ちにしております。=It was so comfortable that I felt like I was about to ascend into heaven... I am looking forward to hearing from you again.
+あの、はしたなく乱れ過ぎてはいなかったでしょうか……？　もし下品な顔を晒しておりましたら、申し訳ございません。=Um, I hope I didn't make too much of a mess? I apologize if I have exposed my vulgar face.
+壊れ{0}=Broken {0}
+うふふ……ふふ……んふふ…………うふふふ……=Ufufu... Fufu... Ufufufu...
+きもひ、よかった……れす……ありがろぅ……ごじゃいましゅ……=I'm glad you were... Res... Thank you. I'm so...
+依存{0}=Depends{0}
+うふふ、私が孕むまで子種を注ぎ込みに来てくださいね。=Ummm... Please come and pour your child seed into me until I am impregnated.
+今日の思い出で自身を慰めながら、次の機会をお待ちしております。=I will comfort myself with the memories of today and look forward to the next opportunity.

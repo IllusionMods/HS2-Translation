@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+おい、いるか？　いたら返事をしろ。=Hey, are you there? Answer me if you are.
+チッ、いねぇのか……ったく、無駄足踏ませやがって……=Damn, you're not here... You're wasting my time...

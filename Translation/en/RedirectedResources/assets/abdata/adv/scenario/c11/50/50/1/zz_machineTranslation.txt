@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+ぷかぷかと浮かんでいたので、普段よりお疲れではありませんか？=You were floating in the water, so you must be more tired than usual.
+時間が許す限り、ここでゆっくり致しましょう……=We'll stay here as long as time permits...
+火照った身体……冷えたところで、もう一度飲み直しませんか？=Your body is on fire... Why don't you take another drink when you've cooled down?
+今日は、その……まだ、貴方と一緒にいたい気分なんです……=Today, I... Still feel like being with you...
+ひんやりとして、気持ちのいいぷれいでしたね。=It was cool and pleasantly refreshing.
+……ですが、少し身体……冷えてしまった様です。……傍で、温めて頂けませんか？=But I think I'm a little cold. Would you mind warming up beside me?

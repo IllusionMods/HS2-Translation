@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+おぉい、俺だけど……部屋にいるのか？=Oh, hey, it's me... Are you in your room?
+あれ、いないのか……しょうがねぇ、また今度にするか。=Oh, he's not here... Oh well, maybe another time.

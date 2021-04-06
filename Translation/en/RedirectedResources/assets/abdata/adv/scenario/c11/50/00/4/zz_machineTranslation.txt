@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+成程……それは興味深いです。=I see... That's interesting.
+共感して頂けると嬉しいのですが、私は――=I hope you can relate to that, but I--
+好意{0}=Favors {0}
+……結局、先に好きだと自覚してしまった方が、負けなのかもしれませんね。=... In the end, the one who realizes that he likes her first may be the one who loses.
+その……私は、貴方が傍にいて下さるだけで幸せです……=I'm just happy that you're here with me...
+享楽{0}=Enjoyment {0}
+……想定外ですが、効果的かもしれません。参考に致しますね。=... Unexpected, but it may be effective. I'll refer to it.
+そうですね……貴方の仰る通り、試してみる価値はありそうです。=Yes... You're right, it's worth a try.
+嫌悪{0}=Disgust {0}
+……秘密です。貴方に喋るつもりはございません。=... Is a secret. I'm not going to tell you.
+……貴方は夢見がちなのですね。正直、意外です。=... You are a dreamer, aren't you? To be honest, I'm surprised.
+隷属{0}=Slavery {0}
+私は……好意を寄せる方が幸せなら、それで充分です。=As for me... As long as the person who likes me is happy, that's good enough for me.
+うふふ……それは素敵ですね。=Ummm... That's nice.

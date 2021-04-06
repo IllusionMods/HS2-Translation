@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+ありがとう、ございます……その……気持ちのいい時間でした。=Thank you, thank you... Well... It was a pleasant time.
+また誘ってくれると嬉しいですけど……それはあなた次第ですよね。=It would be nice if you could invite me back... But that's up to you.
+……楽しいと思っていたのは、私だけではないですよね？　一人だけ浮かれていた、なんてこと……ないですよね？=... I wasn't the only one who thought it was fun, was I? I wasn't the only one who was having fun, was I?
+あなたも楽しめたのなら……また、私をここに連れてきてください。=If you enjoyed it as much as I did... Please bring me back here.
+……普通にするより大変だったと思いますけど、疲れてませんか？=... I know it was harder than normal, but aren't you tired?
+もう少しここで休憩するなら、私も付き合いますよ……お酒でも飲みながら。=If you'd like to rest here for a while longer, I can keep you company... With a drink or two.

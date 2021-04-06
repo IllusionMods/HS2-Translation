@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelude B normal {0}
+せっかくだから、あなたも一緒にどう？=Since you're here, why don't you join us?
+今ちょうど、おしゃべりしてたのよ。=We were just chatting.
+前フリB好意{0}=Prelude B Favor {0}
+あなたとも一緒におしゃべりしたいわ。=I'd love to have a chat with you too.
+あなたが一緒にいてくれるなら私も嬉しいわ。=I'd be happy to have you with me.
+前フリB享楽{0}=Prelude B. Kyouraku {0}
+私たちと一緒に楽しくおしゃべりしない？=Why don't you come and have a nice chat with us?
+あなたも一緒なら私たちも楽しいわ。=If you're with us, we'll have fun too.
+前フリB嫌悪{0}=Pretense B Disgust {0}
+こんな所でどうしたの？=What's wrong with this place?
+何か用事でもあったのかしら？=Is there something I can do for you?
+前フリB隷属{0}=Prelude B Slave {0}
+あなたも一緒にどう？　多い方が盛り上がるわよ。=Would you like to join us? The more, the merrier.
+あなたも一緒にお話ししましょうよ。=You're welcome to join us for a chat.

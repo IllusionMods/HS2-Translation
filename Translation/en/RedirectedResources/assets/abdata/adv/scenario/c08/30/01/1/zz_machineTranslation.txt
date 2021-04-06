@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversation {0}
+あの、口調はこれ直したんですけど中身はそのまま……というか更にHなので、セックス、したいです。=Well, I fixed the tone of voice, but the content is the same... Or even more H, so I want to have sex with you.
+わ、私はあなたとHがしたいんですっ！！　あ、す、すみません大声だしちゃって……=I want to have sex with you! I'm sorry I shouted so loud...

@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+お楽しみ頂けたのでしたら、幸いです。=I hope you enjoyed it.
+私で良ければ、また何時でもお付き合い致します。=If it's okay with you, I'm always happy to help.
+好意{0}=Favors {0}
+うふふ、つい話し込んでしまいましたね。=I'm sorry, I just got carried away.
+楽しい時間程、早く過ぎてしまいます……名残惜しいですが、続きはまた次回ですね。=The more fun you have, the faster it goes by... I'll miss you, but I'll see you next time.
+享楽{0}=Enjoyment {0}
+こうやってお話をするのも楽しいものですね。また、お誘い頂けると嬉しく存じます。=It is fun to talk to you like this. I would be happy if you could invite me again.
+あら……？　もうこんなに時間が過ぎていたのですね。お話が楽しくて、気づいていませんでした。=Oh my? I didn't realize how much time had already passed. I was enjoying our conversation so much that I didn't notice.
+嫌悪{0}=Disgust {0}
+まともな話題を振れる様になってから、お声がけ頂きたいものです。=I would like to hear from you when you are able to talk about something decent.
+分かり切っていたことですが、時間を無駄にしてしまいました。=I knew it was obvious, but I was wasting my time.
+隷属{0}=Slavery {0}
+貴方への理解度が深まった気がして、楽しい時間でした。有難うございます。=I enjoyed the time I spent with you, and I feel that my understanding of you has deepened. Thank you very much.
+貴方とお話出来て、大変嬉しく存じます。=It is a great pleasure to talk with you.

@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+依存{0}=Depends{0}
+私、もうあなたなしではいられないわ……もちろん、あなたもそうなんでしょ？=I can't be without you anymore... And of course you can't either, can you?
+もう、あなたとのエッチがないと……私が私でなくなっちゃいそうよ……=If I don't have sex with you, I won't be me anymore...

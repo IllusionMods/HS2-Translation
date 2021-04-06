@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+できれば、他の人とこういう事はしないでください。私は、貴方に全て捧げる覚悟でいます……ですから貴方も……私だけを見てください。=If you can, please don't do this with anyone else. I'm ready to give you everything I have... So you... Look only at me.
+ふふ、私とどんな事がしたいですか？　遠慮しないで言ってみてください。その全部を、私が叶えて差し上げますから。=Hmm, what would you like to do with me? Don't be shy, just say it. I'll make it all come true for you.
+貴方といる時間が私にとって一番幸せです。重いと思われようが構いません。ありのままの私を、受け入れて欲しいのです。=I'm happiest when I'm with you. I don't care if you think I'm heavy. I just want you to accept me as I am.

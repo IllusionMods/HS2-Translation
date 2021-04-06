@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Bath normal {0}
+あら、あなたもお風呂なの？=Oh, you're taking a bath too?
+お風呂で会うなんて偶然ね。=What a coincidence that we met in the bathtub.
+風呂普通用件{0}=Bath normal matters {0}
+で、何か用なの？=So, what can I do for you?
+何、どうかしたの？=What, what's wrong?
+風呂好意{0}=Bath Favors {0}
+まさかお風呂で会えるなんてね。=I never thought I'd see you in the bathtub.
+お風呂に来たら、あなたに出会えたわ。=I came to the bath and found you.
+風呂好意用件{0}=Bath favors {0}
+もしかして、私に何か用？=What do you want from me, by any chance?
+何か用があるのかしら？=What can I do for you?
+風呂享楽{0}=Bath Enjoyment {0}
+お風呂で会えるなんて、すごく嬉しいわ。=It's so nice to see you in the bath.
+こんな場所で会えるなんて、ドキドキするわ。=I'm so thrilled to see you in a place like this.
+風呂享楽用件{0}=Enjoying the Bath {0}
+ひょっとして、私に何か用があるの？=What do you want from me, by any chance?
+何か私に用事があるんじゃないの？=Isn't there something you wanted to see me about?
+風呂嫌悪{0}=Bath Aversion {0}
+どうしてあなたがここに？=Why are you here?
+こんな所であなたと会うなんて……=I can't believe I'm meeting you here.
+風呂嫌悪用件{0}=Bath Abomination {0}
+何か用事があるのかしら？=Is there something I can do for you?
+私に何か用なの？=What do you want from me?
+風呂隷属{0}=Bath Slavery {0}
+お風呂で出会うなんて、なんだか色々想像しちゃうわ。=I can't imagine what it's like to meet someone in the bathtub.
+こんな楽しそうな場所で出会えるなんて、嬉しいわ。=It's nice to see you in such a fun place.
+風呂隷属用件{0}=Bath Slavery {0}
+あなたからの用事なら何でも聞くわよ。=I'll listen to whatever you need from me.
+大丈夫、あなたの用事なら全部聞いてあげるわ。=Don't worry, I'll take care of all your needs.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=An unremarkable response B. Normal {0}
+また、気が変わったら……いつでも声をかけてください。私達は待ってますよ。=And if you change your mind... Please call on us anytime. We'll be waiting for you.
+私達、入りにくい空気を作ってしまっていましたか？　だとしたら……すみません。=Did we make it difficult for you to enter? If so, I'm sorry.
+なんでもない返答B好意{0}=An unremarkable response B Favor {0}
+何か、考え過ぎていないですか？　私達は別に、貴方を拒んだりしませんよ？=Aren't you overthinking things? We're not going to reject you, okay?
+あの……後でこちらから伺わせていただきます。余計なお世話で……なければですが……=Um, I'll come to you later. If it's not too much to ask...
+なんでもない返答B享楽{0}=Nothing Reply B Kyouraku {0}
+本当にいいのですか？　後で後悔しませんか？　もう一度考えてみてもいいのですよ？=Are you sure you want to do this? Won't you regret it later? You can think about it again, can't you?
+貴方がそれでいいのなら、私は止めませんが……何か思い出したら、また来てください。=If that's what you want, I won't stop you... But if you remember anything, please come back.
+なんでもない返答B嫌悪{0}=Nothing Reply B Disgust {0}
+なんですか？　嫌がらせですか？　貴方のそういうところ、本当に迷惑です。=What is it? Are you harassing me? That part of you really annoys me.
+意味不明ですね。私達に用が無いのなら、早く他のところへ行ったらどうですか？=I don't understand. If you don't want us, why don't you just go somewhere else?
+なんでもない返答B隷属{0}=Nothing Reply B Slavery {0}
+なんだか、意味深ですね？　本当は何かあるのでは？　少し、気になってしまいますね……=It's kind of significant, isn't it? Isn't there really something to it? I'm a little curious...
+話に入るのって、勇気がいりますよね。私も、他人のことは言えませんが……三人でお話したら、きっと楽しいと思いますよ？=It takes a lot of courage to enter into a conversation, doesn't it? I can't speak for others, but I'm sure the three of us would have a lot of fun talking together, don't you think?

@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+まぁまぁ良かったな。慣れればもう少しはマシになるだろ。そのうち、また相手を頼むかもな。=Well, that was okay. Once you get used to it, it'll get a little better. Maybe I'll ask you to be my partner again soon.
+まぁ、最初はこんなもんだろ。オレを嫌な気分にさせなかっただけで十分だ。オマエがまたシたいってなら、付き合ってやってもいい。=Well, that's what happens at first. It's enough that you didn't make me feel bad. If you want to have sex again, I'll go out with you.
+好意{0}=Favors {0}
+で、オレの抱き心地はどうだった？　まさか、悪いとは言わねえよな？　ほら、怒らないから、正直に言っていいぞ。=So, how was my hug? You're not going to tell me it was bad, are you? Come on, I'm not mad at you, you can be honest with me.
+身体の相性ってのはなかなかだったんじゃねぇか？　オマエもそう思ったんなら、またオレを誘えばいい。=The physical chemistry was pretty good, wasn't it? If you feel the same way, you can ask me out again.
+享楽{0}=Enjoyment {0}
+終わってみればあっという間だな。ハッ、そんだけ夢中になってたってことか……おい、次も期待してるぞ。=It'll be over before you know it. Ha, that's how engrossed I was... Hey, I'm looking forward to the next one.
+悪くは無かった。でも、オレはまだ満足してねぇぞ。次はもっとオレを楽しませろ。分かったな？=It wasn't bad. But I'm still not satisfied. Next time, you'll have to entertain me more. Do you understand?
+嫌悪{0}=Disgust {0}
+ったく、誰かさんのせいで、オレの貴重な時間を無駄にしちまった。で？　どう落とし前つけんだオマエ？=Oh, man, someone's wasted my valuable time. So? How are you going to settle this?
+はぁ、終わりだ終わり。オマエはもう、さっさと帰れ。一応ヤったよしみだ、ぶっ飛ばすのは勘弁しといてやる。=I'm done. I'm done. You can go home now. I'm not going to kick my ass, just for the record.
+隷属{0}=Slavery {0}
+正直、予想以上だった。オレもオマエも、初対面にしちゃ上出来だ。ハッ、またオレを抱かせてやるよ。嬉しいだろ？=Honestly, it was more than I expected. You and I both did very well for our first meeting. Ha, I'll let you hold me again. Wouldn't that be nice?
+オマエ、なかなかいいモンもってるな。よし、これからもオレが相手してやるから、オレが呼んだらすぐに来い。=You've got some good stuff here. All right, I'll keep you company from now on, so come right away when I call you.
+壊れ{0}=Broken {0}
+んぁ……なんらこれ……やりしゅぎぅろ……こうなうろか……はぁ……=Well... What a... Dosyugi-yew... It's like this... Sigh...
+はぁ……おぇは……いまどうらっれるんら……ぁー、わけがわかんれぇ……=I don't know what's going on right now... Ah, I don't understand...
+依存{0}=Depends{0}
+よし、第一印象は合格だ。次またオレとする時のために、身体は綺麗にしておけよ？=Okay, you've made a good first impression. Keep your body clean for the next time you're with me, okay?
+一度でもヤっちまったんだ。オマエはもう、オレから一生離れらんねぇぞ。=I've had sex with you once. You'll never be able to get away from me again.

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+???=????
+こ、これは……ちょっと困ったことになってしまいました……はぅぅ……=This is... A bit of a problem... Haha...
+い、今、誰かに来られたら……でも……ひ、人が来ないと助けてもらえないし……=I mean, if someone came to me right now... But... If no one came to me, I wouldn't be able to get help...
+どこからか声が聞こえる・・・=I can hear voices coming from somewhere...

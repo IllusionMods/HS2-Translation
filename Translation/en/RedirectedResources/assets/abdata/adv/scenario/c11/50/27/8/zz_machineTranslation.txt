@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+えっと……何かご用事でも思い出されたのですか？=Um... Did you remember something?
+貴方も私も絶頂しておりませんが……=You haven't climaxed and neither have I, but...
+好意{0}=Favors {0}
+……もしかして、体調が優れないのですか？　私に出来ることがありましたら、何でもお申しつけください。=... Are you not feeling well, by any chance? If there is anything I can do for you, please let me know.
+ど、どうなさいました？　えっと……私が何か気に障ることをしてしまったのでしたら、大変失礼致しました……=How can I help you? Well, if I have done something to offend you, I am very sorry...
+享楽{0}=Enjoyment {0}
+この身体の疼きを私はどうすれば良いのですか……=What am I to do with this tingling in my body...
+お互い不満足のまま終わるのは、いかがなものでしょうか？=How would you like to end up unsatisfied with each other?
+嫌悪{0}=Disgust {0}
+……もう、何も言うことはありません。=... I have nothing more to say.
+はぁ……貴方の行いにはため息しか出てきません。=I can't avoid but sigh at your actions.
+隷属{0}=Slavery {0}
+……貴方がそう仰るのでしたら。=... If that's what you're asking.
+分かりました……何かございましたら、直ぐにでもお呼びくださいね。=I understand... If there is anything else, please call me right away.
+依存{0}=Depends{0}
+これも、ぷれいの一種なのでしょうか……？=Is this also a kind of puissance?
+次は、絶対に貴方の子種を注いでください。お願い致します。=Next time, please make sure to pour your seed into me. Please do.

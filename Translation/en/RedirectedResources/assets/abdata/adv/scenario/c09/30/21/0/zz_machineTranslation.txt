@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+あなたさんの愛を独り占めできないのは分かっています……でも……わたしのこともきちんと愛して欲しいですよ。=I know you can't love me all by yourself, but I want you to love me, too.
+お願いします……今、身体が火照って堪らないんです……あなたさんの愛で癒やしてください……=Please... My body is on fire right now and I can't stand it... Please heal me with your love...

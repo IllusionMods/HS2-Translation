@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+あら、こんにちは。=Oh, hello.
+ちょうどいい所にいたわね。=You were just in the right place.
+前フリA好意{0}=Pretense A Favor {0}
+こんな所で会えるなんてラッキーだわ。=I'm so lucky to see you here.
+あなたに会えるなんて嬉しいわ。=I'm so happy to see you.
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+あなただったのね、会えて嬉しいわ。=Oh, it's you. I'm so glad to see you.
+あなたにこんな所で会えるなんて。=I never thought I'd see you here.
+前フリA嫌悪{0}=Pretense A Disgust {0}
+なんだ、あなたも来たのね。=What, you're here, too.
+あら、あなただったのね？=Oh, it was you, wasn't it?
+前フリA隷属{0}=Prelude A Slavery {0}
+嬉しいわ、あなたがここに来るなんて。=I'm glad you're here.
+あら、あなただったのね、嬉しいわ。=Oh, it's you. I'm so glad it's you.

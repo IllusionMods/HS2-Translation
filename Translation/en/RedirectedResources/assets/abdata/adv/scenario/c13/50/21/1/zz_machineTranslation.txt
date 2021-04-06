@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+うふふふ、目玉をくりぬくのは可哀そうですから、私だけしか見えないぐらい、気持ちよくなってもらいますね……♪=I'm sorry to gouge out your eyeballs, so I'm going to make you feel so good that I'm the only one who can see you ♪
+あなたの世界から私以外の人を消し去ってあげますね……♪=I'm going to erase everyone but me from your world ♪

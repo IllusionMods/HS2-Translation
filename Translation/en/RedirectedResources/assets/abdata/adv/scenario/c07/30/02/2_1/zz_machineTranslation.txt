@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+オマエはどう思う？　意見を聞かせろ。=What do you think? Give me your opinion.
+一応オマエの意見も聞いてやる。言ってみろ。=I'll listen to your opinion, too. Tell me.
+おい、オマエの考えはどうだ？　聞かせてみろ。=Hey, what do you think? Let's hear it.
+聞くだけ無駄だと思うが……オマエも何か意見があるか？=I don't think it's worth asking... Do you have an opinion?
+そうだな、一応オマエの意見も聞いておくか。=Well, let's see what you have to say about it.

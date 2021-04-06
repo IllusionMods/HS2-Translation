@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+まぁっ、そんなことまで……刺激的ですね……=Ahhh, that's so... Exciting...
+えっと、趣味は人それぞれですから……=Well, everyone has their own hobbies, so...
+好意{0}=Favors {0}
+そういうのが、お好きなんですね……覚えておきます。=That's the kind of thing you like... I'll keep that in mind.
+だ、大胆ですね……少し、憧れてしまいます。=It's bold... I admire it a little.
+享楽{0}=Enjoyment {0}
+はぁ、なんだか身体が、熱くなってきました。=Huh, my body is starting to feel hot.
+ふふ、とても楽しそうに話すのですね。=Hmm, you talk very happily, don't you?
+嫌悪{0}=Disgust {0}
+そういう話しかできないのですか？　正直に言って、不快です。=Is that all you can talk about? Honestly, it's offensive.
+盛り上がっているところ悪いですが……この話、いつまで続きますか？=I'm sorry to interrupt your excitement, but... How long can we continue this conversation?
+隷属{0}=Slavery {0}
+凄いですね。私も見習いたいです。=It's amazing. I'd like to learn from you.
+なんと言うか……は、恥ずかしくなってきました。=What can I say... Ha, I'm getting embarrassed.

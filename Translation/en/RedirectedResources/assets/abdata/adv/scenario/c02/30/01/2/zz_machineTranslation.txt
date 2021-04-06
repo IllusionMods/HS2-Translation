@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversation {0}
+はい♪　どんなプレイでも構いません、お好きにお使いください♪=Yes. ♪ Any play, any play, use it as you wish ♪
+勿論です。　あなたに使われる事が、私の喜びですから……♪=Of course. It's my pleasure to be used by you ♪

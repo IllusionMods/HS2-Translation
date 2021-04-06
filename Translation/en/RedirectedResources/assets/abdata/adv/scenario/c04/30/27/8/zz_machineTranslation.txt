@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+は？　どゆこと？　意味不なんですけどっ！=What? What do you mean? I don't get it!
+え、こマ？　アンタ、どんだけ意気地なしなの？=What, Koma? How cocky are you?
+好意{0}=Favors {0}
+あー、マジ萎えた。アタシ、ヒトを見る目はあるつもりだったんだけどなー。=Oh, I'm really deflated. I thought I had a good eye for people, but...
+え、まさか本気で終わり？　うっわ、サイテー。期待したアタシが馬鹿だったわ。=What, you're not seriously done? Ugh, that's terrible. It was stupid of me to get my hopes up.
+享楽{0}=Enjoyment {0}
+あんさー、こーいう時間の無駄が、アタシ一番嫌いなわけ。このイライラ、どーしてくれんの？=You know, I hate wasting time like this the most. What are you going to do about this frustration?
+アンタ、なにしに来たの？　アタシに嫌がらせ？　そーいうの、お呼びじゃないから。=What are you doing here? Are you harassing me? That's not what I'm here for.
+嫌悪{0}=Disgust {0}
+アハッ、アンタなかなか分かってるじゃん♪　そーそ、なんもしないがせーかいだから♪=You know what you're doing, don't you?
+へぇ～、いざとなったら怖くなったってやつ？　キモくてビビりとか、救えないね。=Oh, so you're the one who got scared when it came to it? Creepy and scared, I can't avoid it.
+隷属{0}=Slavery {0}
+えぇ……流石に萎えるんですけどぉ……アタシのこの火照りは、どーしてくれんの？=I'm not sure what to do about my burning...
+うっわ、マジ最悪……なんもされないとか、誰が予想できるん？=Ugh, that really sucks... Who could have predicted that nothing would be done?
+依存{0}=Depends{0}
+なに？　チョーシ悪かった？　そーいうのはさ、先に言ってくれないと困るんですけどー……=What? Did I do something wrong? If you don't tell me first, I'll be in trouble...
+アンタさー、なんか勘違いしてない？　アンタのやる気とかカンケーないから。アタシを気持ちよくしないで、他に何すんの？=You're making a mistake, aren't you? I don't care about your motivation. If you don't make me feel good, what else are you going to do?

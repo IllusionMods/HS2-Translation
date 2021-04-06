@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Bath normal {0}
+あれ、お風呂？　モテたいなら、身体は綺麗にしときなよー♪=Is that a bath? If you want to be popular, you should keep your body clean ♪
+あー、絶対覗きに来たでしょ？　もう目がエロいもん♪=I'm sure you've come to take a peek. Your eyes are so sexy ♪
+風呂普通用件{0}=Bath normal matters {0}
+それでー、アタシに何か用？=So, what do you want from me?
+ご指名はアタシですかー？　なんて♪=Is it me you want? Ahhh ♪
+風呂好意{0}=Bath Favors {0}
+誰を覗きに来たのかな～？　アタシ？　ねぇアタシでしょ？=Who are you here to spy on~? Me? Hey, it's me, right?
+お風呂入りに来たの？　清潔なのはポイント高いね～♪=Did you come to take a bath? It's a good thing I'm clean ♪
+風呂好意用件{0}=Bath favors {0}
+何か用事？　アタシで良ければ話聞くよ～。=What do you want? If it's okay with you, I'll listen to you~.
+とりま、どっかでダベる？=Anyway, do you want to hang out somewhere?
+風呂享楽{0}=Bath Enjoyment {0}
+うんうん、アンタの目的はだいたい分かってるから。お風呂といえばってやつだよねぇ……んふふ♪=I know exactly what you want. I know what you want ♪
+アンタがお風呂にいると、なんかもう怪しさしかないわ～♪=When you're in the bath, it's all very suspicious ♪
+風呂享楽用件{0}=Enjoying the Bath {0}
+まーアタシのとこに来たってことは……そういうこと？=Well, if you came to me, does that mean?
+で、ご用件は？　顔だけ見に来たってわけじゃないっしょ？=So, what can I do for you? You didn't just come here to see me, did you?
+風呂嫌悪{0}=Bath Aversion {0}
+うわ、怪し……なんでアンタがお風呂にいんの？=Wow, that's weird... Why are you in the bathroom?
+アンタがいるってだけで、安心してお風呂も入れないわ。マジ迷惑。=I can't even take a bath without worrying that you'll be there. It's really annoying.
+風呂嫌悪用件{0}=Bath Abomination {0}
+アタシに何か用なの？　何もないならさっさと消えて。=What do you want from me? If you don't have anything for me, get the hell out of here.
+ボーっと突っ立ってないで、何か用事があるならさっさと言って。=Don't just stand there in a daze, if you have something to do, just say it.
+風呂隷属{0}=Bath Slavery {0}
+おおっと、アタシと一緒にお風呂に入りに来たとか？　んふ、裸の付き合いしちゃいますぅ？=Oh, you're here to take a bath with me? We're going to be naked together, aren't we?
+アタシは匂いが濃いのとかもイケるタイプだけど。普通は清潔にしてた方が好まれるよね～。=I'm the type of person who can handle a strong smell. It's usually better to be clean, isn't it?
+風呂隷属用件{0}=Bath Slavery {0}
+これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=Is this a trend that I should expect to see a lot of? Or is this just a normal errand?
+んで、アタシに何かして欲しい系？=So, you want me to do something for you?

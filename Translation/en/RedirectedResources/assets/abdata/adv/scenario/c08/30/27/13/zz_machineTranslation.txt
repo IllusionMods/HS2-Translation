@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+さ……さすが……に……ヤりすぎ……っす……=That's... That's... That's... That's too much.
+も……ゆるして、っす……あなたのほ、が……スケベで……いいす、から……=I... Forgive me... But... You... Are... More... Dirty... And... Better... Than... Me.

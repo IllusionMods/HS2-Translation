@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+おぉ……なんか面白そうな話じゃん？=Oh... That sounds like an interesting story, doesn't it?
+うわ……そこまでしちゃうんだ？=Wow... You'd go that far?
+好意{0}=Favors {0}
+……ぁはは、アンタ過激だね。=... Hahaha, you're so radical.
+いやぁ……アタシはそこまでは……=Well, I'm not that good...
+享楽{0}=Enjoyment {0}
+……分かる。あるあるだわそれ。=I know what you mean. That's what I'm talking about.
+あーねー、そういうねー。だいたい理解した。=Oh, yeah, you're right. I almost understand.
+嫌悪{0}=Disgust {0}
+なにそれ……アタシの知らない世界の話だわ。=It's a world I don't know.
+ふーん。どうでもいいけど……興奮し過ぎ。=Hmm. Whatever... You're too excited.
+隷属{0}=Slavery {0}
+……あは、アンタも好きだねぇ。=... Haha, you like it too, don't you?
+……うんうん。ちょっと分かるかも。=Yeah, yeah. I think I know what you mean.

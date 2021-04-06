@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話事後B普通{0}=Conversation Post B Normal {0}
+ご回答いただき、ありがとうございました。=Thank you very much for your answer.
+あなたにお伺いして良かったです。=I'm glad I asked you.
+会話事後B好意{0}=Conversation Post B Favor {0}
+あなたのご意見が聞けて、良かったです。=I'm glad to hear your opinion.
+また少し、あなたのことを知れた気がします。=I feel like I know a little more about you.
+会話事後B享楽{0}=Conversation Post B Enjoyment {0}
+あなたとお話ししてみて、とても良かったと思います。=It has been a pleasure talking with you.
+他の方のご意見も伺ってみたくなりました。=I would like to hear what other people have to say about this.
+会話事後B嫌悪{0}=Post-conversation B disgust {0}
+……ご回答、感謝致します。=... Thank you for your answer.
+参考にはしませんが、お答えいただいたことには感謝します。=I don't have a reference, but I appreciate your answer.
+会話事後B隷属{0}=Conversation Post B Subjugation {0}
+いちいちもっともなご意見に感服致しました。=I was very impressed with your righteous opinions.
+あなたの考え方が、少し分かった気がします。=I think I understand your way of thinking a little better now.

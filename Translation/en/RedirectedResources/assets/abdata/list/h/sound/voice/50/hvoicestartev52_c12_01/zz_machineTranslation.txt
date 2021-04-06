@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ふざけんな、続けるわけないだろ=Don't be silly. I'm not going to continue.
+やめろっ…続けたくないんだよ=Don't... Don't do this.

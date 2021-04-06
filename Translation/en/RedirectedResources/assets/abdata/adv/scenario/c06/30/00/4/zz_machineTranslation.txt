@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+あなたはパートナーとしてとても興味深い人ですわ、先日お見掛けしたとき―――=You're a very interesting person to partner with, and when I saw you the other day...
+最近、あなたに好意を覚えまして、と申し上げますのも―――=I'd like to say that I've taken a liking to you recently.
+好意{0}=Favors {0}
+もしもの話ですよ？　もしも、あなたと家庭を築けるのでしたら―――=What if? If I could start a family with you...
+あなたと過ごす、なんでもない時間が好きです、もし時を止める魔法が使えたら、あなたと―――=I like to spend ordinary time with you, and if I could use magic to stop time, I would spend it with you.
+享楽{0}=Enjoyment {0}
+このままでは私、あなたを支配してしまいそうで……この前、こんなことがありましたの―――=I'm afraid I'll end up dominating you if I don't... This happened to me the other day...
+この前、勇気を出して本屋さんのSMコーナーに行ってみたのですが―――=The other day, I got up the courage to go to the BDSM section of the bookstore---.
+嫌悪{0}=Disgust {0}
+あなたは本来、そこまで悪い方ではないと思うのですが―――=I don't think you're inherently that bad---
+この間、偶然あなたをお見かけしたのですけど、そのときに―――=I happened to see you the other day, and...
+隷属{0}=Slavery {0}
+あなたのことを考えていると、すぐに時間が過ぎてしまいます、この間も―――=Time passes quickly when I'm thinking about you, even the other day---
+私のお世話は痒い所に手が届いていますか？　例えばですけれど―――=Is my care scratching an itch? For example...

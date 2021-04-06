@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+依存{0}=Depends{0}
+新婚初夜って、素敵ですね……=A honeymoon is a wonderful thing...
+早く……家族を増やしていきたいです。=I can't wait... To expand my family.
+素敵な初夜でしたね……=It was a beautiful wedding night...
+私、あなたなしではいられませんから……=I can't be without you, so...
+初夜の契り……結んでいただけましたね……=I'm glad you could make it to our wedding night.
+この契り……私は絶対に破りませんから。=I'll never break this contract with you.

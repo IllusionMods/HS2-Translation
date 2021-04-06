@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あ……そ、そうでしたか……=Oh, I see...
+た、たまたまお会いしただけだったんですね。=Oh, we just met by chance, didn't we?
+好意{0}=Favors {0}
+あ……て、てっきり私を探してくれたのかと……すみません……=I'm sorry, I thought you were looking for me.
+ぐ、偶然声を掛けて頂いただけですもんね。=You just happened to call on me, didn't you?
+享楽{0}=Enjoyment {0}
+あ……せっかく会えたと思ったんですけど……本当にたまたまただったんですね……=Oh... I thought I'd just met you... But it was really just a coincidence...
+そう……ですか……では、あまり引き止めない方がいいですね。=Well... Okay... Then I'd better not hold you back too much.
+嫌悪{0}=Disgust {0}
+で、でしたら……よ……呼び止めないでください……=So... Please don't stop me.
+そ、そうですか……良かった……そ、それじゃ私はこれで……=Well, that's good... Well, I guess I'll just...
+隷属{0}=Slavery {0}
+なんでもない……ですか……うぅ、ちょっと残念です……=Nothing... Huh... Ugh, I'm a little disappointed...
+せ、せっかくお会い出来たと思ったのに……また何かあれば、声をかけてくださいね。=If you have any questions, please do not hesitate to contact me.

@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+おーい。いるー？　ちょっと開けてくんなーい？=Hey, there. Are you there? Can you open the door for me?
+なんだ、居ないのか……マジ無駄足……だる……=What, you're not here... You're really wasting your time...

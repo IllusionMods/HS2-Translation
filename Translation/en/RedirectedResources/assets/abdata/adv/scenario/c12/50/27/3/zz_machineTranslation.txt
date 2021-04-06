@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+痛いだろ、バカ。もうちょっと手加減しろよ。=You're hurting me, idiot. You need to take it a little easier on yourself.
+あんなに痛いのは勘弁して欲しいぜ、まったく。=I don't want it to hurt like that, not at all.
+好意{0}=Favors {0}
+お前、あれで興奮してたのか？　しようがねぇなぁ、まったく。=Were you excited by that? I can't avoid it.
+お前が喜んでたのはいいんだけどさ……結構、キツかったんだぜ。=I'm glad you're happy about it, but... It was pretty tough.
+享楽{0}=Enjoyment {0}
+痛かったけど、気持ち良くなれるならなんだっていいかな。=It hurt, but I guess anything that makes me feel better is good.
+俺、痛いのより、気持ちいいの方が好きなんだけどな。=I like feeling good better than hurting, though.
+嫌悪{0}=Disgust {0}
+あんなの痛いだけだろ、何の意味があるんだよ。=That thing just hurts, what's the point?
+ふざけんなよ……ただ痛かっただけじゃねぇか。=Don't be silly... It just hurt, didn't it?
+隷属{0}=Slavery {0}
+中々の苦痛だったよ……悪くないな。=That was some pain... Not bad.
+あぁいうプレイが趣味なのか？　だったら、とことん付き合うけどね。=Is that the kind of play you're into? If that's the case, I'll go out with you all the way.
+依存{0}=Depends{0}
+どんな苦痛だって、お前が望むなら全部受け入れるぞ。=Whatever pain you want, I'll take it all.
+こんな苦痛、全部受け止められるのは、俺ぐらいなものだぞ。=I'm the only one who can take all this pain.

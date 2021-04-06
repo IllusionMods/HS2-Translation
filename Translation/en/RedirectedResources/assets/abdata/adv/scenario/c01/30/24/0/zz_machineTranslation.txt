@@ -1,0 +1,45 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+私、初めてなんだけど大丈夫かしら……？　優しく、お願いね。=I've never done this before. Is it okay? Be gentle, please.
+初めての相手があなただなんて、なんだかちょっと緊張しちゃうわね。=It's kind of nerve-wracking to be with you for the first time.
+私、初めてなのよ？　でも、あなたが相手なら、安心ね。=It's my first time, you know? But with you, I don't have to worry.
+好意{0}=Favors {0}
+嬉しいわ、初めての相手があなただなんて……すごく幸せよ。=I'm so happy, I'm so happy to have you as my first partner.
+私、こういう事初めてなの……だから、よろしくね。=I've never done anything like this before, so I'm glad you're here.
+私ね、経験がないの。でもあなたが相手だから、すごくドキドキしてるわ。=I've never done this before. But now that I'm with you, I'm really excited.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+いいわよ……初めてだけど、あなたに喜んでもらいたいの。=Okay... This is my first time, but I want to make you happy.
+私、初めてだけどあなたを気持ちよくしてあげたいの。=I'm new at this, but I want to make you feel good.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+私、こういうの経験がないけど、あなたが喜ぶ所を見たいのよ。=I have no experience in this kind of thing, but I want to see you happy.
+初めてだけど頑張ってみるわ。あなたに喜んで欲しいもの。=It's my first time, but I'll try my best. I want you to be happy.
+享楽より80～100{0}=80-100{0}
+経験はないけど、気持ち良くなる自信はあるのよ。=I'm not experienced, but I'm confident I'll feel good.
+実はね、あなたとこうして気持ち良くなってみたかったのよ。=Actually, you know, I've always wanted to feel good like this with you.
+嫌悪より20～49{0}=From disgust 20-49{0}
+私、初めてなんだけど……いいわよ、仕方がないわね。=I've never done this before, but... Okay, I guess I don't have a choice.
+経験がないからよくわからないんだけど、別に、いいわよ。=I don't know, I've never done this before, but I don't mind, I don't mind.
+嫌悪より50～79{0}=50-79 from disgust {0}
+あんまり気が乗らないんだけど……付き合ってあげるわよ。=I'm not really in the mood... But I'll keep you company.
+言っておくけど……私、初めてなのよね。まぁ、仕方ないから別にいいけど。=Just so you know... This is my first time. Well, I don't care if I have to.
+嫌悪より80～100{0}=80-100{0} than disgust.
+まったくその気はないけど……仕方がないから付き合うわよ。=I don't want to at all but I have no choice but to go out with you.
+初めてだからとか、もうあんまり関係ないけど早く済ませて欲しいわ……=I don't know if it's my first time or not, and it doesn't matter much anymore, but I hope it's soon...
+隷属より20～49{0}=From slavery 20-49{0}
+初めてだから自信はないけど、あなたの好きにしてもいいから。=It's my first time, so I'm not sure, but I can do whatever you want.
+あなたとエッチできるなんて、すごく楽しみだわ。=I'm so excited to have sex with you.
+隷属より50～79{0}=50-79{0} from servitude.
+私があなたを気持ちよくしてあげるわ。初めてだけど、自信はあるのよ。=I'm going to make you feel so good. It's my first time, but I'm confident.
+私の初めて、あなたにもらって欲しいのよろしくね。=I want you to have my first, and I want you to take care of it.
+隷属より80～100{0}=80-100{0} from servitude.
+初めてだってこと忘れるくらい、思いっきり感じさせて。=Let me feel it so much that I forget it's my first time.
+私、初めてだからわからないの。あなたに全部お任せするわ。=I don't know, it's my first time. I'll leave everything up to you.
+壊れ{0}=Broken {0}
+………………=...
+いいのよぉ、私どうなってもいいのぉ……だからぁ、エッチなことたくさんしましょう。=It's okay, I don't care what happens to me... So let's do lots of naughty things.
+依存{0}=Depends{0}
+いいのよ、あなたと一つになりたいの。初めてだからって気にしないでね。=It's okay, I want to be one with you. Don't worry about it being your first time.
+初めてだけど、あなたと繋がりたいのよ。よろしくね。=I'm new here, but I'd like to connect with you. It's nice to meet you.

@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+なんだ、またアンタかぁ。ふふぅ、アタシのこと気に入ったってわけ？=Oh, it's you again. So you like me, huh?
+へぇ～、アタシのこと忘れられなかった感じ？　まー、好かれて悪い気はしないからな～。=Oh, so you feel like you couldn't forget me? Well, I don't feel bad about being liked, you know.
+好意より20～49{0}=20-49{0} from favor
+お、また会ったじゃん。挨拶とか、そういうメンディーことはもう無しね？　アタシとアンタの仲っしょ？=Oh, there you are again. No more greetings or anything like that, right? It's just me and you, right?
+ちょりーっす！　はい、じゃあヤルか～♪　もう一度ヤっちゃってんだからさ、お互い遠慮は無しってことで♪　それでいーっしょ？=Hey! Since we've already done it again, there's no need to hold back ♪
+好意より50～79{0}=50-79{0} from favor.
+へぇ、またアンタと会えるとか……わりと嬉しみ。じゃ、とりまヤろっか♪　話は後でもできるっしょ？=I'm so glad to see you again. We can talk about it later, can't we?
+おっと、マ？　またアタシのこと選んでくれたん？　なんだ、アンタわりかしいーやつじゃん♪　気分いーからサービスしてやっちゃおっかなー♪=Whoa, Ma? Did you choose me again? I'm in a good mood, so I'll give you some service ♪
+好意より80～100{0}=80-100{0} over favoritism
+アハッ、アンタ分かってんじゃん。そうそう、アンタはアタシを選んでればいーの。ちゃんとハッピーにしたげるからさ。=You know what I'm talking about. Yes, you just have to choose me. I'll make sure you're happy.
+やっほ、元気してた？　アンタじゃなくて、アンタの下半身の方ね。アタシがキョーミあるのは、そっちだけだから。=Hi, how are you? It's not you, it's your lower body. That's the only thing I'm interested in.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+……なにボーっとしてんの？　もしかして、アタシに襲って欲しいとか？=... What are you waiting for? Do you want me to attack you?
+またアタシに犯されに来たの？　アンタも好きだね～♪　ま、アタシもちょっと欲求不満気味だったし、丁度いっかな～♪=Did you come here to be fucked by me again? I'm sure you'll like it too... Well, I was feeling a little frustrated myself, so I figured it was perfect ♪
+享楽より50～79{0}=50-79 from Kyouraku {0}
+もう準備できてる？　アタシ、待つのって嫌いだからさ～。んふ～、アタシと会うってことは、即ヤラれるくらいの覚悟でよろ♪=Are you ready to go? I don't like waiting for things to happen. If you're going to meet me, you should be prepared to get fucked right away ♪
+よっしゃ、ヤろヤろ！　色々ヤってみたいこと、いっぱいあんだから♪=All right, let's go, let's go! I've got so many things I want to do ♪
+享楽より80～100{0}=80-100{0}
+アタシをココに呼んだってことは、つまりそーいうことっしょ？　いーんじゃない。溜まってるもの同士、遠慮は無しってことで！=That's what you meant when you invited me here, isn't it? It's okay. We're all pent up, so let's not hold back!
+ぢゅる……ヤッバ、涎垂れてきた……アタシ、どんだけ飢えてんだって感じだよねぇ～。ま、そーいうわけなんで……アンタにはとことん付き合ってもらうから♪=I'm drooling... I feel like how hungry I am! So that's why... I'm going to have you accompany me all the way ♪
+嫌悪より20～49{0}=From disgust 20-49{0}
+うわ、また来たの？　懲りないねぇアンタも。まー来ちゃったんならヤってやってもいーけど……=Oh, you're here again? You never learn, do you? Well, if you're here, I'd be happy to fuck you, but...
+そーだよねー、キモい奴はこーいうとこ来るしかないよねー。かわいそーだから、ちょっとだけ相手したげる。=That's right, creeps have no choice but to come to this kind of place. I feel sorry for them, so I'll give them a little company.
+嫌悪より50～79{0}=50-79 from disgust {0}
+だからさ、なんで来るわけ？　アンタ、自分がどれだけキモいか分かってる？　あー、ほんっと、迷惑……=So, why are you here? Do you know how creepy you are? It's really annoying...
+アンタさ、自分とする相手のこと考えたことある？　アタシも空気読めるタイプじゃないけどさー。アンタはヤバいわ、ガチヤバ……=Have you ever thought about the person you're doing it with? I'm not the type of person who can read the air, but you know what? You're in trouble.
+嫌悪より80～100{0}=80-100{0} than disgust.
+ねー、なんでアンタみたいのがまた来てんの？　キモいやつは入ってくるだけで犯罪だから。=Hey, why is someone like you here again? It's a crime just to come in if you're a creep.
+あー無い……ガン萎え……アタシ、パスで。アンタみたいのは、一人で一生オナニーしてなって。=I'll pass. If you're like you, you should masturbate alone for the rest of your life.
+隷属より20～49{0}=From slavery 20-49{0}
+また呼んでくれるとか、嬉しみ～♪　アンタも軽いノリでしたくなったってコトっしょ？　分かってるから、また好きにしていーよ♪=I'm glad you invited me back... You wanted to do something light, didn't you? I know, so you can do whatever you want again ♪
+ねぇ、もうアタシ濡れてるから……アンタの好きなタイミングで始めちゃって♪　気持ちよくしてくれれば、何でもいーからさ。=I'm already wet, so you can start at any time you like... As long as you make me feel good, anything is fine ♪
+隷属より50～79{0}=50-79{0} from servitude.
+今日はどこを気持ちよくしてくれんの？　胸？　アソコ？　アンタ変態っぽいから、お尻とか言いそう。ま、どこでもいーから、早く始めちゃって♪=Where are you going to make me feel good today? My breasts? Your vagina? You seem like a pervert, so you might say butt. Well, I don't care where, just get it over with ♪
+アタシ、わりと期待してるからさ、ちゃんとヤってね？　アンタのことも、まぁまぁ気に入ってるから。しつぼーとかさせないでよ？=I'm rather excited about it, so make sure you fuck me, okay? I like you a lot, too. Don't make me pester you or anything.
+隷属より80～100{0}=80-100{0} from servitude.
+アハッ、匂いで分かるっしょ？　アタシ……既にめっちゃ濡れてるから……相手にするには、楽でいーっしょ？=You can smell it, can't you? I'm already very wet, so it's easy for you to take me on, isn't it?
+ヤバ、早くも体火照ってきた……アンタのせいだかんね？　ちゃんと責任とって？=Oh no, my body is already burning... It's your fault, isn't it? Will you take responsibility?

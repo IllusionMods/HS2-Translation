@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+実はさ、お前の部屋の方が落ち着くんだよな……これからも、ちょくちょく来てもいいかな？=Actually, I feel more at home in your room... Can I come here from time to time?
+汎用{0}=General Purpose {0}
+やっぱり、お前と一緒の時間が一番きもちいいぜ……なんか、照れちまうな、アハハ……=I feel the best when I'm with you... I feel so embarrassed, hahaha...
+このままずっと一緒にいたい……なんて、わけにはいかねぇよな……我儘はいわねぇよ。=I don't want to be with you forever...
+ありがとな、すげぇ嬉しかった。これ以上いたら帰りたくなくなっちまうから……じゃあ、またな。=Thanks, that was really nice. If I stay any longer, I won't want to leave... So I'll see you later.

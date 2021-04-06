@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+す、すみません……お手洗いに寄らせて頂いても、宜しいでしょうか？=I'm sorry, may I please stop by the restroom?
+あの……大変申し訳ございませんが、少々お待ち頂けないでしょうか？=Um... I'm very sorry, but could you please wait a moment?
+すみません、お花を摘みに参っても宜しいでしょうか？=Excuse me, may I come and pick some flowers?
+少々お待ち頂け……いえ、お待ち頂く必要はございません。用事を思い出したので、失礼致します。=If you'll wait a moment... No, there's no need to wait. No need to wait. I've just remembered something, so if you'll excuse me.
+その……このままでは行為の真っ最中に決壊してしまいそうで……お手洗いへ寄りたいのですが、宜しいでしょうか？=I'm afraid I'm going to break down in the middle of the act, and I'd like to stop by the restroom, if that's okay.

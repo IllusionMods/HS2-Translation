@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+H事後B普通{0}=H posterior B normal {0}
+ここでお開きですか？　それではまた。=Are we done here? See you later.
+また三人でするのも、悪くなさそうです。=It's not a bad idea for the three of us to do it again.
+H事後B好意{0}=H posterior B favor {0}
+それでは、失礼します。次のお誘いも待っていますね。=Now, if you'll excuse me. I'll be waiting for your next invitation.
+3Pも悪くありませんが……いえ、何でもありません。失礼します。=Threesomes aren't so bad, but... No, it's nothing. Excuse me.
+H事後B享楽{0}=H Post B Enjoyment {0}
+次の機会が大変待ち遠しいです。=I am very much looking forward to the next opportunity.
+名残惜しいですが、ここで終わりですね。=I'm sorry to leave you, but I think we're done here.
+H事後B嫌悪{0}=H posterior B aversion {0}
+……では、失礼致します。=If you'll excuse me...
+……さようなら。=... Goodbye.
+H事後B隷属{0}=H Post B Subjugation {0}
+この続きはまたの機会に。では、失礼致します。=We'll continue this another time. Now, if you'll excuse me.
+またいつでもお誘いをお持ちしています。さようなら。=I look forward to your invitation again any time. Good-bye.

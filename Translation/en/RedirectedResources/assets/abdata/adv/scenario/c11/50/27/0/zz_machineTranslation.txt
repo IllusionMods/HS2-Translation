@@ -1,0 +1,44 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ふぅ……貴方にも絶頂していただけた様で、何よりです。=I'm glad to hear that you were able to climax as well.
+心地良い時間を過ごすことが出来ました。誠に有難うございます。=I was able to spend a pleasant time. Thank you very much.
+お疲れ様です。またお相手して頂けると嬉しく存じます。=Thank you for your time. I will be glad to have your company again.
+好意より50～79{0}=50-79{0} from favor.
+肌を重ねる度に、貴方との相性が良くなっている気がしているのですが……そう思っているのは、私だけでしょうか……？=I feel like I'm getting more compatible with you every time we get under each other's skin... Or am I the only one who thinks that?
+貴方のお陰で、身も心もぽかぽかしております。=Thanks to you, my body and soul are warmed.
+離れ難いと強く思うこの気持ちこそが、貴方に恋をしている証なのですね……大切に感じます。=This strong feeling of not being able to leave you is the proof that I am in love with you... I feel it is very important.
+好意より80～100{0}=80-100{0} over favoritism
+我儘だとは理解しているのですが、もっと貴方の温もりを感じたいと思っております。……次の機会も、楽しみにしておりますね。=I understand that this is selfish, but I would like to feel your warmth more... I look forward to the next opportunity.
+貴方に抱かれた嬉しさ、終わってしまう寂しさ……色々な想いが入り混じったこの瞬間が、何だかとても愛おしいです。=The joy of being held by you, the loneliness of it being over... This moment of mixed feelings is somehow very dear to me.
+貴方への愛や感謝をお伝えしたいのに、どう表現したら良いのか分からないのです……私もまだまだ勉強不足ですね。=I want to tell you how much I love and appreciate you, but I don't know how to express it... I still have a lot to learn.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+次回はさらに快楽を求めていきましょうね。=Let's go for more pleasure next time.
+さて、次のまぐわいは何時に致しましょう？　今から待ち遠しいです。=Now, what time shall we have our next maguey? I can't wait for it.
+うふふ、大変満足致しました。貴方も同じ気持ちでしたら幸いです。=I was very satisfied. I hope you feel the same way.
+享楽より80～100{0}=80-100{0}
+愛欲に溺れるというのは、今の様な行為を指すのでしょうね。=I guess the term "addicted to lust" refers to the kind of behavior we are seeing now.
+もっと貴方を責めていた……いえ、何でもありせん。お相手して頂き、誠に有難うございます。=I would have punished you more... No, it's nothing. Thank you very much for your time.
+うふふ、貴方の前ですと素直な自分を出すことが出来る気がします。また致しましょうね。=I feel that I can show my honest self in front of you. Let's do it again.
+嫌悪より50～79{0}=50-79 from disgust {0}
+……終わりでよろしいのですね？　畏まりました。=... Are you sure you want to finish? I'm sorry.
+最後まで、気分が高揚することはありませんでした。=By the end, I didn't feel uplifted.
+早く湯浴みをしたい気分です。=I can't wait to take a hot bath.
+嫌悪より80～100{0}=80-100{0} than disgust.
+肌を重ねても、疲れしか感じませんでした。=I felt nothing but tiredness as I piled on the skin.
+これ以上、貴方と同じ空間にいたくなかったので、終わって頂けて安心致しました。=I didn't want to be in the same space with you any longer, so I was relieved when you finished.
+貴方の悪臭がこびりついていないか心配です……=I'm worried that your stench might be sticking to me...
+隷属より50～79{0}=50-79{0} from servitude.
+何故、気持ち良いことはこんなにも幸福を感じるのでしょうか？　誠に不思議です。=Why does feeling good make us feel so happy? It's a real mystery.
+終わりでよろしいのですね？　畏まりました。本日もお疲れ様です。=Are you sure you want to finish? Thank you very much. Thank you again for your hard work today.
+私は何時でもお相手致しますので、遠慮なさらずお声がけ下さい。=I'm always happy to help, so please don't hesitate to ask.
+隷属より80～100{0}=80-100{0} from servitude.
+本日も私を躾けて頂き、誠に有難うございました。=Thank you very much for disciplining me today.
+次回はさらに貴方を満足させてみせますので、また宜しくお願い致します。=I will try to satisfy you even better next time, so please come again.
+この様な幸福を感じてしまって良いものなのか……少々不安になってしまいます。=I'm not sure if it's okay to feel this kind of happiness... It makes me a little nervous.
+依存{0}=Depends{0}
+お互い満足出来るとは、やはり私達は相性が良いと思いませんか？=If we can satisfy each other, don't you think we're a good match?
+うふふ……与えて頂いた思い出と温もりで、暫くは生きて行けそうです。=Ummm... I think I can live for a while with the memories and warmth you have given me.
+もう病みつきになってしまいそうです……貴方はどうでしょう？　私の身体に病みつきでしょうか？=I think I'm going to be addicted to it... What about you? Are you addicted to my body?

@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ねぇ……部屋にいるの？=Hey... Are you in your room?
+あら、いないのかしら？　残念ね。=Oh, he's not here, is he? Too bad.

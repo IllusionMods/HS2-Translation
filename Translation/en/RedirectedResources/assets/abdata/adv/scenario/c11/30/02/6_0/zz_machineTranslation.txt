@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+H事後A普通{0}=H posterior A normal {0}
+破廉恥な行為でしたが、喜んで頂けたのなら幸いです。=It was a shameful act, but I hope it pleased you.
+背徳的だからこそ、興奮してしまったのでしょうね……=The immorality of it all must have excited her...
+H事後A好意{0}=H posterior A favor {0}
+……偶にでしたら、こういった行為も悪くないかもしれません。=... On occasion, this kind of action may not be a bad thing.
+その……私だけでは、もう貴方を絶頂まで導けないのでしょうか……？=Well... Can't I lead you to climax on my own anymore?
+H事後A享楽{0}=H Post A Enjoyment {0}
+三人での行為に、興奮を隠しきれませんでした。=I couldn't hide my excitement at what the three of us were doing.
+全員の仲が深まった気が致しませんか？=Don't you feel like we're all getting to know each other better?
+H事後A嫌悪{0}=H Post A Aversion {0}
+この様な機会が、もう訪れないことを祈っております。=I hope that such an opportunity will never come again.
+だらけきった顔で私達を見ないで下さい。=Please don't look at us with your slack-jawed face.
+H事後A隷属{0}=H post A subjugation {0}
+さんぴぃ……とても破廉恥でしたね。=Sampii... That was very shameful.
+次の機会までに、さんぴぃの技術を磨いてまいります。=I will polish up my sanpy skills before the next opportunity.

@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+も、う……許し、て、くださ、まし……=Forgive me, please...
+ああ……なんて、淫ら、な……=Ahhh, you're such a slut.

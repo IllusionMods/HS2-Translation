@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+享楽{0}=Enjoyment {0}
+はぁ……とってもスッキリいたしました。ふふ、貴方はどうでしたか？=I feel so refreshed. Hmm, how about you?
+聞くまでも無いと思いますが……一応、確認しておきたいですね。=I don't think I need to ask... But I'd like to make sure.
+こんな素敵な体験ができるとは……貴方に感謝しなくてはいけませんね。=I have to thank you for this wonderful experience.
+ふふ……またいつでも、私に苛められたくなったら言ってください。=Hmm... Anytime you want to be tormented by me again, just let me know.
+すみません。少々興奮し過ぎてしまった気がします……=I'm sorry. I think I got a little overexcited...
+でも、許して頂けますよね？　貴方が望んだことなのですから……=But you'll forgive me, won't you? It's what you wanted...

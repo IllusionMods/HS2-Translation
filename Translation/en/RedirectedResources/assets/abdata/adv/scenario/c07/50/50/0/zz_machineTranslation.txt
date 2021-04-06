@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+ふーん、オマエはこういうチャラい場所が好きなのか？=Hmmm... You like this kind of flirtatious place?
+らしいっちゃらしいけど……なんか落ち着かねーなぁ……=I guess that's the way it's supposed to be, but I'm feeling restless...
+おい、どうせヤるんだろ？　だったらさっさと始めろよ。=Hey, you're gonna fuck me anyway, right? Then get on with it.
+オレは普通の女みたいに、ムードが良くねぇとヤダとか言わねぇぞ？=I'm not like most women who say they don't like it when the mood isn't right.
+結局ヤルことは一緒なんだ、いちいち気にするだけ無駄だろ。=In the end, we all do the same thing, so there's no point in worrying about it.
+まぁ……もしプールの中でするなら、面白そうではあるけどな……=Well... If we were to do it in a pool, it would be interesting...
+オマエ、オレがこういうとこ来たらはしゃぐとでも思ったのか？=Did you think I'd be excited to come here?
+ハッ、浮かれてんのはオマエだけだよ。ま、とりあえず酒でも飲むか……=You're the only one who's getting carried away. Well, let's just have a drink...
+どうせ酔わせて襲う気だったんだろ？　先に酔いつぶれたりすんなよ？=You were going to get him drunk and attack him anyway, right? Don't get drunk first, okay?

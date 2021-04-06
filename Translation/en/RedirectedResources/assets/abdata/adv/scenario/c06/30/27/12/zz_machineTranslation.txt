@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+これ、が……セッ、クス……=This... Is... C... C...
+気持、ち……い、です、わ……=It feels... Good.
+うふ……うふ、ふ……=Mmm... Mmm, mmm...

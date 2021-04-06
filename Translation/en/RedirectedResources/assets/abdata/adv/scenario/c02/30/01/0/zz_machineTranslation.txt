@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+汎用{0}=General Purpose {0}
+あぁ……あなたから会いに来てくれたなんて……=I can't believe you came to see me.
+あなたに会いたいという願い、通じたようですね。=It seems that my wish to see you has been answered.
+嬉しい……あなたと出会えるなんて……♪=I'm glad... To meet you ♪
+風呂{0}=Bath {0}
+あなたもお風呂ですか？　さ、一緒に入りましょう？=Are you taking a bath too? Come on, let's go in together.
+あ……ささ、こちらへ……冷えてしまいますよ？=Oh... Come on, come here... You're going to get cold, okay?
+用件{0}=Business {0}
+さて……あなたのお望みは、勿論私とのセックス……ですよね？=Now... What you want, of course, is to have sex with me... Right?
+それでは、早速セックスの準備に取り掛かりましょう。　……違いませんよね？=So let's get ready to have sex... No difference, right?

@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+それで、本当に話しだけでいいのか？　身体が疼いてんじゃねぇか？=So, are you sure you want to just talk? Your body is aching, isn't it?
+おい、我慢すんな。どうせ話してる間も、ムラムラしてたんだろ？=Hey, don't hold back. You were getting horny while we were talking anyway, right?
+好意{0}=Favors {0}
+まさか、話だけで終わりってことはねぇよな？　そんなお子ちゃまじゃねぇだろ？=You're not just going to talk about it, are you? You're not that naive, are you?
+おい、正直になれ。ずっと、オレの身体をチラチラ見てたのは分かってんだぞ？=Hey, come on, be honest. I know you've been glancing at me the whole time, okay?
+享楽{0}=Enjoyment {0}
+今までの話は前戯みたいなもんだろ？　なら、本番をしねぇとな。=What we've been talking about is like foreplay, right? Then we need to do the real thing.
+オマエの話に付き合ってやったんだ。次はオレに身体を貸してもらうぞ。=I went along with your story. Next time, you'll have to lend me your body.
+嫌悪{0}=Disgust {0}
+おい、オマエのくだらない話でストレスが溜まっちまった。解消させろ。=Hey, your nonsense is stressing me out. Let me get rid of it.
+やっぱ、オマエとは話すだけ無駄だな。身体だけオレに預けてりゃいいんだ。=It's no use talking to you, after all. All you have to do is leave your body in my hands.
+隷属{0}=Slavery {0}
+待て、話より、もっとオレを簡単に満足させる方法があるだろ。それをやれ。=Wait, there are easier ways to satisfy me than talking. Do it.
+まさか、すんなり帰らせてもらえるとは思ってないよな？　本番はこれからだぞ？=You don't think they're just going to let you leave, do you? We're just getting started, okay?

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+なんか、また今日も痛いやつになるのか？　加減してくれよな。=What, are you going to be another painful one today? You'll have to add to it.
+痛いのに結構慣れてきたけど……あんまりやりすぎるなよ。=I'm getting pretty used to the pain, but... Don't go too far.
+好意{0}=Favors {0}
+お前がやりたいなら……痛い事でも、もう大丈夫だぜ。=If you want to do something... Painful, you can do it now.
+痛い事も、お前にされるなら、なんか、悪くないんだよな。=Something painful isn't so bad if it's done by you.
+享楽{0}=Enjoyment {0}
+本当に痛いのが、気持ち良くなるのか……だんだんわかってきた感じだ。=It's like I'm starting to understand what really hurts and what feels good...
+痛いのも慣れてきたからな、お前の好きにしていいぞ。=I'm getting used to the pain. You can do what you want.
+嫌悪{0}=Disgust {0}
+お前のせいで、痛いのが変に感じるようになっちまったじゃないか！=You're making me feel weird about the pain!
+女を痛がらせるのが好きなんて、お前絶対どうかしてるよ……=You're out of your mind if you like making women hurt...
+隷属{0}=Slavery {0}
+お前が喜んでくれるなら、多少乱暴されたってかまわないぜ。=I don't mind being a little rough as long as it makes you happy.
+お前に痛めつけられた所が、妙に疼くんだ……もっと痛くされれば、もっと感じるかも知れないな……=I'm feeling a strange tingle where you've been hurting me... Maybe if you hurt me more, I'll feel it more...

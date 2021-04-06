@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+返答肯定1普通{0}=Reply affirmative 1 normal {0}
+わーかるっすー。私もそう思ってたんすよー。=I know, I know. I was thinking the same thing.
+やっぱそうっすかねー？　かなり同意っすよー。=Is it really so? I quite agree with you.
+返答肯定1好意{0}=Reply Affirmative 1 Favor {0}
+さすが～わかってくれて嬉しいっすよ～。=You're right - I'm glad you understand!
+むふふー私が信頼してる人なだけあるっすね～。=He's just someone I trust, isn't he?
+返答肯定1享楽{0}=Reply Affirmation 1 Enjoyment {0}
+あなたも好きっすね～。また今度ヤッてあげるっすよ～。=I like you too! I'll fuck you again sometime!
+それってフリっすかー？　襲ってほしいって意味っすかー？=Is that pretend? Does it mean you want me to attack you?
+返答肯定1嫌悪{0}=Reply Affirmative 1 Disgust {0}
+まー普通そう答えるっすよねー。=Well, that's usually the answer, isn't it?
+ふむふむ、なるほどー。=Hmmm... I see...
+返答肯定1隷属{0}=Reply Affirmation 1 Slavery {0}
+それって今からガバっとやってくれるってことっすかねー？=Does that mean you're going to do it now?
+そんなこと言われたら期待しちゃうじゃないすかー。=If you say something like that, I'm going to get my hopes up, aren't I?
+返答否定1普通{0}=Reply negation 1 normal {0}
+へ～、なんだか意外っすねー。=Wow, that's kind of surprising.
+ありゃ、そうくるとは思わなかったっすねー。=Oh, I didn't see that coming.
+返答否定1好意{0}=Reply Negative 1 Favor {0}
+あなたならそう答えるかなーって思ってたっすよー。=I was wondering if you would answer that way.
+あはは、なんかあなたらしい答えっすねー。=Haha, that's a very you answer.
+返答否定1享楽{0}=Reply negation 1 enjoyment {0}
+えー、そうすかねー？　いいと思うんすけどー。=Oh, is that so? I think it's good.
+まー、この手の話は人それぞれっすからねー。=Well, this kind of thing is different for each person, isn't it?
+返答否定1嫌悪{0}=Reply Deny 1 Dislike {0}
+私とは違う感じっすねー。=You're not like me.
+そうっすかー。=Oh, I see.
+返答否定1隷属{0}=Reply negation 1 slavery {0}
+え～？　私だからっていじわるしてないすかー？=Huh? Aren't you teasing me just because it's me?
+ん～？　さてはここに来る前に射精して性欲がなくなってるんじゃないすかー？=Hmmm? Well, maybe you ejaculated before you came here and lost your libido.

@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+あら、どうしたの？　まさか、起きるまで待っててくれたの？=Ahhh. What's wrong? You didn't wait for me to wake up, did you?
+あら、おはよう。もしかして、ずっとここにいたの？=Oh, good morning. Have you been here all this time by any chance?
+ひょっとして私を待っててくれたの？　嬉しいわ、ありがとう。=Have you been waiting for me by any chance? I'm so glad. Thank you.
+どうしてこんな所にいるの？=Why are you here?
+どうしたの、こんな所で？　呼んでくれたらすぐに起きたのに。=What's wrong with you? What are you doing here? I would have woken up as soon as you called me.

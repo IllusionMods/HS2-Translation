@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+返答肯定2普通{0}=Reply affirmative 2 normal {0}
+貴方もそうなのですか？　同じ考えで嬉しく存じます。=Are you one of them? I'm glad we're on the same page.
+まあ、貴方も同じなのですね。=Well, you are the same, aren't you?
+返答肯定2好意{0}=Reply Affirmative 2 Favor {0}
+うふふ、貴方とお揃いで照れてしまいます。=I'm so embarrassed that I'm wearing the same one as you.
+同じ意見で、大変嬉しく存じます。=I am very happy to hear the same opinion.
+返答肯定2享楽{0}=Reply Affirmation 2 Enjoyment {0}
+うふふ、私達は馬が合いそうですね。=Hmmm... I think we'd be a good match.
+まあ、同意見とは……私達、相性が良いのかもしれませんね。=Well, I guess we agree... We're a good match, aren't we?
+返答肯定2嫌悪{0}=Reply affirmative 2 dislike {0}
+貴方もそう思われるのですか？　奇遇ですね。=You think so, too? What a coincidence.
+私と同じ考えなのですね……少々驚きました。=You think like me... I was a little surprised.
+返答肯定2隷属{0}=Reply Affirmation 2 Slavery {0}
+貴方もですか？　何だか面映ゆいです。=You too? It's kind of embarrassing.
+私と同じ考えをお持ちなのですね。大変嬉しいです。=I'm glad to know that you have the same idea as me. I'm very glad.
+返答否定2普通{0}=Reply Negative 2 Normal {0}
+あら……私とは違った考えをお持ちなのですね。=Oh my... You think differently than I do.
+貴方のご意見も、素晴らしいです。=Your opinion is also excellent.
+返答否定2好意{0}=Reply Negative 2 Favor {0}
+その様なご意見もあるのですね……流石です。=I'm glad you have such an opinion... You're right.
+私にはない発想でした。貴方は着眼点が違いますね。=I hadn't thought of that before. You have a different point of view, don't you?
+返答否定2享楽{0}=Reply negation 2 enjoyment {0}
+成程……貴方はその様な考えをお持ちなのですね。=I see... You have that kind of thinking.
+それが貴方の見解なのですね。=That's your view, isn't it?
+返答否定2嫌悪{0}=Reply Deny 2 Dislike {0}
+私とは違う考えをお持ちですね。=You have a different idea than I do.
+やはり、私達の相性は良くない様です。=It seems that we are not a good match after all.
+返答否定2隷属{0}=Reply negation 2 slavery {0}
+貴方のご意見も、尊重致します。=I respect your opinion as well.
+素敵な考え方だと、私は思います。=It's a nice way of thinking, I think.

@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+享楽{0}=Enjoyment {0}
+どう、楽しかった？　私は結構盛り上がったよ。=How was it? Did you have fun? I had a pretty good time.
+こういうのだったら、また付き合ってもいいけどね。=If it's something like this, I wouldn't mind going out with you again.
+結構、熱くなって遊んじゃったかも……=I think I got a little carried away...
+お前も楽しかったよな？　だったらいいんだけど。=You had a good time too, right? I hope so.
+ふぅ……最高に面白かったぁ。=Phew... That was the funniest thing I've ever seen.
+たまには、こういうのも悪くないね。=It's not so bad sometimes.

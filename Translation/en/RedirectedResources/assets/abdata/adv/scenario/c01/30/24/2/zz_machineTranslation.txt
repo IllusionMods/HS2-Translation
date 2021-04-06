@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+こんな感じで良かったのかしら？　あんまり自信がないわね。=Is this what I'm supposed to do? I'm not so sure.
+私、変な所なかったかしら？　おかしかったら遠慮なく言ってね。=I hope I didn't do anything wrong. Please don't hesitate to tell me if I'm wrong.
+好意{0}=Favors {0}
+初めての相手が、あなたで良かったわ。なんだか幸せよ。=I'm glad you're my first partner. I'm kind of happy.
+ありがとう、私の初めてをもらってくれて。相手があなたで良かったわ。=Thank you for giving me my first. I'm glad it was you.
+享楽{0}=Enjoyment {0}
+エッチがこんなに気持ちいいなんて思わなかったわ。もっと試してみたくなっちゃうわ。=I never thought sex could feel this good. It makes me want to try it more.
+初めてのエッチであんなに感じちゃうなんて。これよりもっと気持ち良くなれるなら、最高だわ。=I can't believe I felt that way after my first time having sex. If it can get any better than this, it'll be great.
+嫌悪{0}=Disgust {0}
+終わったのね？　なら、もういいわ。=You're done, right? Then I'm done.
+これでもう十分でしょ？　これで最後にしてほしいわ。=That's enough, isn't it? I hope this is the last of it.
+隷属{0}=Slavery {0}
+初めてでこんなに気持ちよくしてもらえるなんて……私、本当に幸せ者ね。=I'm so lucky to be able to make you feel so good for the first time.
+こんなに気持ちよくされちゃったら、他の事なんにも考えられなくなるわ。=If you make me feel this good, I won't be able to think about anything else.
+壊れ{0}=Broken {0}
+気持ち、よかったわぁ。私ぃ、もっともっと感じたいのぉ……=That felt so good. I want to feel more and more...
+最高に、感じちゃったわぁ……もっと、気持ちよくなってみたいのぉ。=I feel so good... I want to feel even better.
+依存{0}=Depends{0}
+どうだった、私とのエッチは？　もっと気持ちよくなれるようにがんばるわ。=How was it, having sex with me? I'll do my best to make it more pleasant.
+初めてだったから、あんまり自信なかったけど、次はもっと上手になって、あなたを喜ばせてあげる。=It was my first time, so I wasn't very confident, but next time I'll be better and please you.

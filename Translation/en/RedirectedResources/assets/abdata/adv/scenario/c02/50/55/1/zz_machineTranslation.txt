@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+依存{0}=Depends{0}
+今からでも、婚姻届を書いて出しに行きませんか？　私の欄は、もう記入済みです。=Why don't you go and fill out your marriage certificate now? My section has already been filled out.
+あ……でも、証人の欄は私達だけじゃ埋められませんね……残念です。=Oh... But we can't fill in the witness column by ourselves... Unfortunately.
+あなたの愛を感じることが出来て、私は幸せです……私の愛は、あなたに伝わっていましたか？　伝わっていない様でしたら、もう一度……=I'm happy to feel your love... Did you feel my love for you? If not, please try again...
+あ……伝わっていたんですね。それは良かったです……♪=Oh... You got the message. That's good to hear ♪
+教会であなたと……本当に夢の様な時間でした。=With you in the church... It was truly a dream come true.
+……夢じゃないですよね？　幸せ過ぎて、自分の妄想だったのかと、疑ってしまいそうです……=... I'm not dreaming, am I? I'm so happy, I'm starting to wonder if I'm imagining things...

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お前はどう思う？=What do you think?
+お前の場合はどうなんだ？=What about you, huh?
+お前の考えってどうなの？=What's your idea of a good time?
+お前はどうなの？　正直興味ないけど……=What about you? Honestly, I'm not interested, but...
+お前はどうなんだ？　聞かせてくれよ。=What about you? Let's hear it.

@@ -1,0 +1,5 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+私の起こし方も悪くないでしょ？=Not a bad way to wake me up, is it?

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+お前と何度も続けたから、セックスにも慣れてきたぜ。=I've done it so many times with you, I'm getting used to having sex with you.
+俺、なんだか今日はいつも以上に気持ち良かった気がするんだけど、Ｈになれてきたかな。=I feel like I felt even better than usual today, but I guess I'm getting used to H.
+好意{0}=Favors {0}
+お前のおかげで、身体がセックスに慣れてきたみたいだ。=Thanks to you, my body seems to be getting used to sex.
+お前とセックスするたびに、身体の相性が良くなっていくみたいだ。=It seems like every time I have sex with you, our physical chemistry gets better and better.
+享楽{0}=Enjoyment {0}
+いいセックスだったな。次はもっと楽しめそうだ。=That was good sex. I think I'll enjoy it more next time.
+お前のおかげで、一段とセックスに体が慣れてきたみたいだ。これからはもっと気持ち良くなれそうだ。=Thanks to you, I think my body is getting more used to sex. I'm sure I'll feel much better from now on.
+嫌悪{0}=Disgust {0}
+セックス、前よりちょっと楽かもな……お前じゃなきゃ、もっといいのに。=Sex, maybe a little easier than before... If it wasn't for you, it would be better.
+セックス自体は嫌いじゃないけど……相手がなぁ……=I don't mind the sex, but... The partner...
+隷属{0}=Slavery {0}
+どうやら俺、セックスに慣れてきたみたいだ。これからもどんどん開発していってくれよ。=Apparently I'm getting used to having sex. Please continue to develop me more and more.
+俺の身体が、お前とのセックスを楽しめるようになってきたみたいだ。=It's like my body is starting to enjoy having sex with you.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+何を話しましょうか？=What can I tell you?
+お話ですか、構いませんよ。=You want to talk about it? I don't mind.
+好意{0}=Favors {0}
+どんな話が聞きたいんですか？=What kind of story do you want to hear?
+まぁ、おしゃべりくらいなら……=Well, we could at least chat...
+享楽{0}=Enjoyment {0}
+時間はありますし、別に構いませんよ。=I have time, and I don't mind if you don't.
+私とおしゃべりですか……いいですよ？=You want to have a chat with me... Okay?
+嫌悪{0}=Disgust {0}
+あなたに何を話せと……=What do you want me to tell you...
+……手短にお願いします。=... Please be brief.
+隷属{0}=Slavery {0}
+もしかして、根掘り葉掘り聞かれちゃうんですかね？=Maybe they're going to ask you to dig deeper?
+はい、何でも応えますよ。=Yes, I'll respond to anything.

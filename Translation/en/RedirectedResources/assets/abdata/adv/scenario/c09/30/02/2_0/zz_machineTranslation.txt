@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なにしてたのA普通{0}=What were you doing?
+宇宙人について話してたんです！　信じるか信じないか、みたいなー！=We were talking about aliens! Like, believe it or not!
+ちょーど男同士の恋愛について語ってました！　ＢＬです、ＢＬ！=I was just talking about love between men! It's BL, BL!
+なにしてたのA好意{0}=What were you doing?
+好きな人のことを話してたんですよー。恋愛について興味津々なお年頃ですし♪=I was talking about the person I like! She was at an age where she was very curious about love ♪
+人に嫌われるのは嫌だなーってことを語ってたんです。なんか……嫌いな人からも嫌われたくないっていうかー……八方美人的な？　あはは。=I was talking about how I don't want to be hated by people. It's like... You don't want to be disliked even by people you dislike. Hahaha.
+なにしてたのA享楽{0}=What were you doing there, Kyouraku?
+大きな声では言えないのですが……ちょっと……エッチなことについて話してたんです……興味ありますか？　ふふっ。=I can't say this out loud, but... We were just... Talking about something naughty... Would you be interested? Hmm.
+どーやったら可愛く見えるか話してたんですよ。仕草とか話し方とか……やっぱり語尾は変えていくべきですかねにゃんわん！=We were talking about how to make her look cute. We talked about gestures, how to talk... I think we should change the endings of our words.
+なにしてたのA嫌悪{0}=What were you doing?
+面倒な人に会わずに済む方法を考えてたんです……まぁ、無駄なんですけどね。=I was trying to think of a way to avoid meeting troublesome people... Well, it's useless.
+疲れた時はどーやって休むかって話をしてたんですよ……なんか最近、疲れることが多い気がするんでー。=We were talking about how to rest when we are tired... I feel like I've been tired a lot lately.
+なにしてたのA隷属{0}=What did you do, A slave?
+どーいう結婚式がしたいかーみたいなお話をしてたんです。二人きりとかー、海外とかー、どれもこれも憧れますけどねー、えへへ。=We were talking about what kind of wedding we wanted to have. Just the two of us, overseas, all of these are things I long for... Hehe.
+マグロについて考えてたんですよー。どーしてベッドで動かないとマグロって言うんですかねー。マグロは止まることなく、めちゃくちゃ早く泳ぐのにー！=I was thinking about tuna. Why do they call them tuna if they don't move in bed? Tuna swim very fast, without stopping!

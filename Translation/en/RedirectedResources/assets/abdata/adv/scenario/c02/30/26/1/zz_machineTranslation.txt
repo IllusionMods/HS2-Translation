@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+まったく、私なんかを求めるなんて……物好きな方ですね。=You're a very curious person to want me, aren't you?
+私とあなたはただのセフレだという事、忘れないで下さいね？=Don't forget that you and I are just friends, right?
+好意より20～49{0}=20-49{0} from favor
+はぁ、そんなに私としたいのなら、好きにすればいいんじゃないですか？=Huh, if you want to do it with me so badly, why don't you do what you want?
+はいはい、やればいいんですよね？　やれば……=Yes, yes, if you do it, right? If you do it...
+好意より50～79{0}=50-79{0} from favor.
+別に期待してるわけじゃないですけど……今日はどんな風にするんですかね？=It's not that I'm expecting you to... But how are you going to do it today?
+ほら、女を待たせないで下さい。　するんでしょう？=Come on, don't make me wait for a woman. You will, won't you?
+好意より80～100{0}=80-100{0} over favoritism
+ふん、そんなエッチなあなたを受け入れる私に感謝してほしいですね。=Hmm, you should be grateful to me for accepting such a naughty you.
+……何ですか？　嫌いだったらそもそもこんなとこにいないんですが。=... What is it? If I didn't like it, I wouldn't be here in the first place.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+さて、今日は何のエッチをしますかね？=Now, what kind of sex are we going to have today?
+私、するからには楽しくなきゃ嫌ですから。=I don't like to do things unless I enjoy doing them.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+……何ですか？　その期待するような眼差しは……=... What is it? That expectant look in your eyes...
+息、荒いんですけど。　これだから変態は……=I'm breathing too hard. This is why perverts...
+享楽より80～100{0}=80-100{0}
+興奮しすぎです。　手を煩わせないでください……=You're too excited. Please don't bother with the...
+あまり暑苦しくならないうちに、さっさとしてしまいましょう。=Let's get on with it before it gets too hot.
+嫌悪より20～49{0}=From disgust 20-49{0}
+はぁ、すればいいんですよね……？=Huh, I should just do it?
+別に私じゃなくてもいいはずなのに……=It doesn't have to be me, but...
+嫌悪より50～79{0}=50-79 from disgust {0}
+わざわざ私を選ぶなんて、本当に趣味が悪いですね。=You have really bad taste to go to the trouble of choosing me.
+……あなた、わざと私を選んでますよね？=... You're picking me on purpose, aren't you?
+嫌悪より80～100{0}=80-100{0} than disgust.
+はぁ、なんでこんな奴なんかと……=Huh, why would I want to be with someone like...
+挨拶なんていりません。　さっさとヤってさっさと終わりにしてください。=No need to say hello. Just get it over with and get it over with.
+隷属より20～49{0}=From slavery 20-49{0}
+はい、今日も一日、よろしくお願いします。=Yes, I hope you have a great day.
+また私なんですね。　……別に構いませんが。=It's me again, isn't it? I don't mind.
+隷属より50～79{0}=50-79{0} from servitude.
+まったく、あなたに誘われるのが癖になっちゃったら、どう責任取ってくれるんですか……？=How will you take responsibility for me if I get into the habit of asking you out?
+……別に待ってなんかいませんよ？　……いいからさっさと始めてくださいっ！=... I'm not waiting for you... Just get on with it!
+隷属より80～100{0}=80-100{0} from servitude.
+……ちょっとした事でもいいですから、何かあったらすぐ言ってください。=... I don't care if it's just a little thing, please tell me right away if you need anything.
+その、え、選んでくれて、ありがとうございます……=Well, uh, thank you for choosing me...

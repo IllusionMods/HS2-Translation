@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+悪くないと思うわ、その話。=I don't think that's a bad idea, that story.
+いいわね、私この話、大好きよ。=Great, I love this story.
+好意{0}=Favors {0}
+あなたと、この話ができるなんて、すごく嬉しいわ。=I'm so happy to be able to talk about this with you.
+こんなに楽しくおしゃべりができるなんて、相手があなただからかしら？=I wonder if it's because I'm talking to you that I'm having so much fun.
+享楽{0}=Enjoyment {0}
+いいわね、おしゃべりしてるだけで、なんだか身体が火照ってくるわ。=That's nice. Just chatting with you makes me feel like I'm on fire.
+おしゃべりも楽しいけど、私、気持ちいい事も大好きよ。=Talking is fun, but I also love to feel good.
+嫌悪{0}=Disgust {0}
+あなたの話も、退屈しのぎにはなりそうね。=Your story seems to be a good way to pass the time.
+この話、正直あんまりよくわからないのよね。=To be honest, I don't really know much about this story.
+隷属{0}=Slavery {0}
+あなたとこんな事お話できるなんて、私本当に幸せだわ。=I'm so happy to be able to talk about this with you.
+楽しいわね……あなたのお話、もっと聞きたいわ。=It's fun... I'd love to hear more of your stories.

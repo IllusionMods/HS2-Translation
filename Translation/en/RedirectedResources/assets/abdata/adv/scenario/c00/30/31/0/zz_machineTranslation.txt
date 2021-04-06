@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+少しだけ、お時間を頂戴してもよろしいでしょうか？=May I have a moment of your time, please?
+直ぐに戻りますので、少しだけお待ちいただけますか？=I'll be right back. Can you give us a moment, please?
+ここで粗相をしてはいけないので、お手洗いへ寄ってもよろしいでしょうか？=I don't want to make a mess here, so may I stop by the restroom?
+少し用事を思い出しましたので、失礼致します。=I remembered a few things, so please excuse me.
+すみません、お手洗いに寄りたいのですが……もちろん、覗いてもらって結構ですよ。=Excuse me, I need to stop by the restroom... Of course, you are welcome to take a peek.

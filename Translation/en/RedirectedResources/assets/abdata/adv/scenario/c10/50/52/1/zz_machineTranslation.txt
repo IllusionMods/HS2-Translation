@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Disgust {0}
+最低です……後先考えず本能だけで行動するなんて、獣と同じですよ？=It's disgusting... Acting on instinct without thinking ahead is just like an animal, isn't it?
+むしろ、獣の方がもう少し考えて動くでしょうね。貴方は最早獣以下です……=In fact, a beast would think and act a little more. You're no better than a beast...
+これはもう……立派な犯罪ですよ。誰であろうと言い逃れはできません。=This is a crime of the highest order. No matter who you are, you can't get away with it.
+貴方が一生を棒に振るのは勝手ですが……私を巻き込まないでくださいね。=I don't care if you want to spend the rest of your life with me, but please don't bring me into this.
+もう信じられません……貴方の愚かさには本気で呆れました……=I can't believe it anymore... Your stupidity has really gotten to me...
+私だけでなく、社会全体のために……貴方はきっちり裁かれるべきです。=Not only for my sake, but for the sake of society as a whole... You must be brought to justice.

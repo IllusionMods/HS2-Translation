@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelude B normal {0}
+こんにちは。どなたかをお探しでしょうか？=Hello. Are you looking for someone?
+私か彼女に何かご用でしょうか？=What can I do for you or her?
+前フリB好意{0}=Prelude B Favor {0}
+こんにちは。良かったら、あなたもお話しませんか？=Hello. If you'd like, you can talk to me, too.
+どうされました？　お話でしたら喜んで……とは私の一存では言えませんね。=How can I help you? It's not up to me to say that I'd be happy to talk to you.
+前フリB享楽{0}=Prelude B. Kyouraku {0}
+3Pをしたいとという本音がお顔に出ていますよ。=You can see in her face that she really wants to have a threesome.
+私たちを前にして昂るのは分かりますが、興奮を抑えてくださいね。=I know you are excited to see us, but please try to control your excitement.
+前フリB嫌悪{0}=Pretense B Disgust {0}
+普通の人なら、会話中に声をかけたりしませんよ。=Normal people don't talk to each other during a conversation.
+楽しい気分が霧散しました。=My happy mood fizzled out.
+前フリB隷属{0}=Prelude B Slave {0}
+二人纏めて犯したい、そう考えているお顔ですね。=You look like you want to fuck both of them together, don't you?
+あなたに犯されながら彼女と会話をするのも、趣がありそうですね。=It would be quaint to have a conversation with her while she is being fucked by you.

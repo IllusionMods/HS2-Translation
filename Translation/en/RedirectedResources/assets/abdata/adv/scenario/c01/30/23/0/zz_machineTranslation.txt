@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+いいのよ、あなたさえよければ……私は何だってしてあげるから。=It's okay, as long as it's okay with you I'll do whatever you want.
+もっと気持ちよくなりたいの。あなたと一緒に気持ち良くなりたいわ。=I want to feel better. I want to feel good with you.
+いいわ、あなたの好きにして。私もそれが一番好きなの。=Okay, do what you want. That's what I like best, too.

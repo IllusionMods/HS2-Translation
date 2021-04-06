@@ -1,0 +1,55 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ふーん、アンタがアタシの相手ってわけね。うーん……ナシよりのアリかなぁ。=So you're my partner, huh? Hmmm... I guess I'd rather have you than not.
+ま、お互い気持ちよくなれればいーわけだし？　とりまよろ♪=Well, as long as we both feel good, right? Anyway, thank you ♪
+どーもー。欲求不満でこんなとこ来ちゃったビッチでーす。=Hello. I'm a bitch who came here out of frustration.
+なんて……ちょっと寒かった？　挨拶とか苦手なんだよね～。てか、男子的にはとりまヤらせろって感じっしょ？=How... A little cold? I'm not very good at greeting people. I'm not very good at greeting people... I mean, boys want me to fuck them, right?
+お、おっすー！　とかでいいんかな？　なんか恥ずいんですけど……ほ、ほら、こーいうときは男子がリードするべきだし？=Oh, whoa! I'm embarrassed. It's kind of embarrassing... But, you know, boys should take the lead in this kind of situation, right?
+好意{0}=Favors {0}
+へぇ～。アンタ、わりとタイプかも。アタシはどう？まー、タイプじゃなくてもシてもらうけどね。そのためにこんなとこまで来たんだし……=Wow. I think you might be my type. What about me? Well, even if you're not my type, I'll have you do it. That's why I came all this way...
+おっと、これはアタリ引けた感じ？　アハッ、マジアガるんですけど。=Oops, does this look like I got a bite? Ahaha, I'm getting really excited.
+あーごめんね？　アタシ、基本こんなノリだから。ヤる相手としては……気楽でいーっしょ？=Oh, I'm sorry. I'm basically like this. As for the person I'm going to fuck... It's easy, right?
+ほうほう……初対面でいきなりヤるとか、流石にどうかなーって思ってたんだけど……アンタなら、割とアリかなぁ。今更チェンジとか、ナシだかんね？=I was wondering if it would be a good idea to suddenly fuck her when we first met. It's not like you're going to change your mind now, is it?
+享楽より20～49{0}=20-49 from Kyouraku{0}
+ねぇ、もしかして、もう大きくなってたりすんの？　いやほら、第一いんしょーって大事じゃん？　これから色々スるんだしさ、ね♪=Hey, is it possible that you've already grown up? No, you see, first impressions are important, right? We're going to be doing a lot of things from now on, you know ♪
+お、来た来た……ヤリたくて盛った男子が。=Oh, here they come... The boys who were heaping up to get laid.
+ま、アタシもひとのこと言えないんですけど……ほら、アタシなら即ヤっちゃってもいいよ？　挨拶とか、メンディーっしょ？=Well, I can't speak for others either, but... You know, if it's me, I can fuck you right away. I'm sure you'll say hello to her.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+いきなりこんなこと言うのなんだけさ……アタシ、攻めるのが好きなタイプなんだよね。=I don't know why I'm saying this out of the blue, but I'm the type of person who likes to attack.
+アンタはどう？　まぁどっちにしろ、最初は攻めさせてくんない？=What about you? Well, either way, why don't you let me attack first?
+こーいう時ってさ、普通男がリードすると思うんだけど……=In this kind of situation, the man usually takes the lead...
+アンタ、トロそうだしアタシに任せてくんない？　悪いようにはしないからさ♪=You look like a slow learner, so why don't you let me handle this? I won't let anything bad happen to you ♪
+享楽より80～100{0}=80-100{0}
+会っていきなりで悪いんだけどさ、アタシの奴隷になる気はない？=I'm sorry to meet you so suddenly, but do you want to be my slave?
+ちゃんと気持ちいいことはしたげるよ？　どうする？　悪い条件じゃなくない？=I'm gonna make you feel good, okay? What do you say? It's not a bad deal, is it?
+あーあ、アタシを選んじゃったか。ごしゅーしょーさま。アタシ、ちょっと性欲ヤバたんだから。アンタにも、それなりに頑張ってもらうかんね？=Oh, I guess you chose me. Goshou-sama. I had a bit of a problem with my libido. You're going to have to work a little harder, aren't you?
+嫌悪より20～49{0}=From disgust 20-49{0}
+え、マジ？　アンタみたいのが相手なの？　ガン萎え……これ、チェンジできない系？=Oh, really? You're dealing with someone like you? Is this the kind of thing you can't change?
+キモ……なんていうか、存在がキモい。これでヘタクソだったら、即サリ決定っしょ……=It's gross... I mean, its very existence is gross. If you're not good at this, you're going to have to be sacked immediately...
+嫌悪より50～79{0}=50-79 from disgust {0}
+ちょマ？　こマ？　ありえんてぃーでしょ……せめて人間とヤリたいんですけど……=Choma? This? It's impossible... At least I want to fuck a human...
+待って、なんでアタシを選んだの？　ノリが軽いからチョロそうとか思った？　マジそーいうの迷惑だから。あーウザ……めっちゃ病むんですけど……=Wait, why did you pick me? Did you think I'd be easy to get along with? That's really annoying. It's annoying, and it's making me really sick.
+嫌悪より80～100{0}=80-100{0} than disgust.
+ナイナイ！　アンタ、完全にナシよりのナシだから。てか近寄んないで？　ケーサツ呼ぶよ？=Nai-nai! You're totally more pear than pear. Just stay away from me, okay? I'll call the cops.
+え、なに？　なんでブタがこんなとこ来てんの？　話が違うんだけど……マジテンサゲ……=What? What? Why are you pigs here? That's not what I was talking about...
+隷属より20～49{0}=From slavery 20-49{0}
+えっと、アンタ的にアタシってどう？　こー見えて、わりと尽くすタイプだかんね？　敬語とかは、期待しないでほしーけど。=Well, what do you think of me? I look like I'm the type of person who would do anything for you, right? Don't expect me to be respectful, though.
+ねぇ、アタシがゴホーシしたげよっか？　そういうの期待して来たんしょ？　なら、アタシを選んだのはアタリかもよ♪=Hey, do you want me to goose you? You came here expecting something like that, right? If so, then maybe you've chosen the right one ♪
+隷属より50～79{0}=50-79{0} from servitude.
+うっわ。今、アタシの胸ガン見してたっしょ？　そういうのスグ分かんだかんね？=Ugh. You were just staring at my chest, weren't you? You can tell that kind of thing right away, can't you?
+アハ、別に責めてるわけじゃないから安心しなって。アタシもさ、見られて悪い気分はしてないから……=I'm not accusing you of anything, so don't worry. I don't feel bad about being seen either, so...
+アタシをどーやって気持ちよくしてくれんの？　ちゃけば、結構期待してるから……=How are you going to make me feel? If you do, I'm pretty sure I can count on you...
+隷属より80～100{0}=80-100{0} from servitude.
+あー、とりまヤリたいっしょ？　分かってるって。アタシ、別にそーいうので引いたりしないから。むしろ、話が早くて助かるって感じ？=Oh, you just want to get laid, don't you? I know. I'm not attracted to that kind of thing. In fact, I'm glad you're talking so quickly.
+んふ……アタシはもう準備できてるから、いつでもどーぞ♪=I'm ready to go, so feel free to ask me anytime ♪
+壊れ{0}=Broken {0}
+………………=...
+ぁ……ぅ……らに？　ん……ぁんらとすぇばぃーろ？=Oh... Uh... Lani? N... N... Rato... Sebairo?
+依存{0}=Depends{0}
+ヤバ、待って……もう濡れてきた……うっそ……アタシこんな痴女みたいな……=Oh no, wait... I'm already wet... Oh no... I'm such a lascivious...
+アンタ、なにもの？　催眠術とかそっち系、アタシにかけた？=What are you? Did you hypnotize me or something like that?
+もー挨拶とかいいからさ……早く気持ちよくしてよ。それが男の役目でしょ？=I don't care if you say hi or not, just make me feel better. That's the role of a man, isn't it?
+アンタもついでに、気持ちよくしてあげるからさ……=I'll make you feel good while I'm at it...

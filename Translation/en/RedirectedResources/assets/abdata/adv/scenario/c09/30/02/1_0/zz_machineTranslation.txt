@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+おお、これはこれは！=Oh, well, well, well!
+あ、あなたさんじゃないですかー。=Oh, it's you, isn't it?
+前フリA好意{0}=Pretense A Favor {0}
+あっ、こんにちはー！=Oh, hello!
+おおっ、ちょうどいいところにー。=Oh, just in the right place.
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+今、お話が盛り上がってるとこですよー。=We're having a great conversation right now!
+あはっ、あなたさんに会えるとテンション上がっちゃいますー！=Haha, I get so excited when I see you!
+前フリA嫌悪{0}=Pretense A Disgust {0}
+うわぁ……会っちゃったー……=Wow... We met...
+えー、まさかあなたさんが来るなんてー。=I can't believe you're here.
+前フリA隷属{0}=Prelude A Slavery {0}
+もしかしてわたしに会いに来てくれたんですか……なんちゃって、えへへ。=Did you come to see me by any chance?
+おお、噂をすれば……って感じですねー！=Oh, speak of the devil!

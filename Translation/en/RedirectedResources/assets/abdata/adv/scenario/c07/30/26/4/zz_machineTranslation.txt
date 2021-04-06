@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+痛いのにも慣れてきたが、痛いだけってのは芸がねぇな。その辺りの加減を間違えるなよ？=I've gotten used to the pain, but it's not very artistic to just say it hurts. Don't make the mistake of taking it too far, okay?
+そもそも、痛いと気持ちいいは本質的には似てるらしいな。まぁ、今ならそれも多少は分かる。=In the first place, I heard that pain and feeling good are essentially similar. Well, I can understand some of that now.
+好意{0}=Favors {0}
+今日もオレを痛めつける気か？　ハッ、流石に慣れてきたからな……やられっぱなしにはならねぇ。=Are you going to hurt me again today? Ha, I'm getting used to it... I won't be left in the dust.
+最近、苦痛にも耐性がついてきたな。どうも、オマエのせいでオレに変な癖がついちまったらしい。=I'm getting more tolerant of pain these days. It seems that I've developed a strange habit because of you.
+享楽{0}=Enjoyment {0}
+痛いのも気持ちいいのも結局は刺激だ。そう深く考えることでもねぇが……分けて考える方が間違ってたみてぇだな。=Pain and pleasure are both stimuli in the end. It's not something to think about too much, but... It seems that it was wrong to think about them separately.
+よし、オマエ……オレを痛めつけてみろ。どうした？　得意だろ？　オレが慣れてきてるのに、オマエがビビッてちゃ意味ねぇぞ？=All right, you... Go ahead and hurt me. What's up? You're good at that, right? What good is it if you're scared when I'm getting used to it?
+嫌悪{0}=Disgust {0}
+おいクズ。どうせ、乱暴にしかできないんだろう？　オマエがそんなんだから、オレが慣れちまったじゃねぇか。=Hey, bum. You can only do it roughly anyway, can't you? I've gotten used to it because you're like that.
+オマエに期待する方が間違ってると分かったからな、少し考え方を変えた。痛かろうが気持ち悪かろうが、なんでも来いだ。=I realized that I was wrong to expect anything from you, so I changed my mind a little. I don't care if it hurts, if it's uncomfortable, whatever.
+隷属{0}=Slavery {0}
+案外オレ達は、相性がいいのかもしれねぇな。このオレがマゾに目覚めるとは、正直予想外だったが。=Maybe we're a better match than I thought. To be honest, I didn't expect that I would become a masochist.
+オレは元々、ガツガツされるのは嫌いじゃない。少しくらい乱暴にされた方が、求められてるって気になるだろ？=I don't like to be pushy. I don't like to be pushy, but I do like to be a little rough, because it makes me feel wanted.

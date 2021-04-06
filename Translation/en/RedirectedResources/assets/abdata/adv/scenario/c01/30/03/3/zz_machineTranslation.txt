@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ちょ、ちょっと？！　どうしてこんな所に入ってくるのよ。=Hey, hey, hey! Why are you coming in here?
+え、なに？！　どうしたの？　何かあったの？=What, what? What's going on? What's going on?
+あら、何かしら？　もしかして一緒に入りたいの？=Oh, what is it? Do you want to come in with me, by any chance?
+ちょっと！？　何考えてるのよ。=Hey! What are you thinking about?
+どうしたの？　一緒に入りたいなら言ってくれればいいのに。=What's wrong with you? If you want to come in with me, why don't you just tell me?
+あら、一緒に洗いっこしたいの？　いいわよ、ウフフ。=Oh, you want to wash with me? Okay, ugh.

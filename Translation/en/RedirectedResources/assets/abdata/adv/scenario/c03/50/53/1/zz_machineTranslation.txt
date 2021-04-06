@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+隷属{0}=Slavery {0}
+触手ってすごいね……あんだけ動かれたら、そりゃ気持ち良くなっちゃうよ。=Tentacles are amazing... They make you feel so good when they move that much.
+これ、また使ってみてもいいかも……=Maybe I can use this again...
+はぁ……私、触手に遊ばれちゃった感じ？=Huh... Do I feel like I've been played by tentacles?
+こんなに感じちゃうなんてなぁ……=I can't believe I feel this way...
+お前、よく触手なんて持ち出してきたな。=How dare you bring up tentacles?
+また、これで遊びたいかも……=I might want to play with this again...

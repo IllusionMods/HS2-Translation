@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話事後A普通{0}=Conversation Post A Normal {0}
+んじゃ、そろそろお開きでいーのかな？　またね～♪=Well, I guess it's time to call it a night, huh? See you ♪
+さて、じゃあ解散しよっか？　じゃーね～♪=Well, let's break up, shall we? See you ♪
+会話事後A好意{0}=A favor after the conversation {0}
+名残惜しいけど、そろそろ解散かな？　で、いいよね？=I'm sorry to leave you, but I think it's time to break up. And that's okay, right?
+はい、んじゃーお話終わり！　このままだとずっと喋ってそうだし。=Okay, I'm done talking! I feel like I'm going to be talking forever.
+会話事後A享楽{0}=Conversation After A Enjoyment {0}
+話してるだけでも気持ちよくなれるもんななんだねー。でも、そろそろ自重しとこっか？=Just talking to you makes me feel good. But I think it's time for me to pull myself together.
+ではでは、この辺で終わっとく？　あんま長話してもアレだしね。=Well, I guess we're done here, then. I don't want to talk too long.
+会話事後A嫌悪{0}=Conversation Post Aversion {0}
+もう終わりでいーしょっ？　話してるだけで疲れてきちゃった。=I think we're done here, don't you? I'm getting tired just talking about it.
+んじゃ、アタシはもう帰るから。続けたい方はご自由にー。=Well, I'm leaving now. If you want to continue, be my guest.
+会話事後A隷属{0}=Conversation Post A Subjugation {0}
+さてと……どっかで切らないと、ずっと続きそうだし。ここらでお別れかな～？=Well... If I don't cut it off somewhere, it's going to go on forever. I guess this is where I'll say goodbye.
+じゃ、それっぽくまとまったってことで。かいさーん！=Well, then, I guess it's all coming together. Mr. Kai!

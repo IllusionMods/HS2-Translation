@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+HしようA普通{0}=Let's do H. A. Normal {0}
+エッチするの？　私は別にいいけど。=Are you going to have sex? I'm fine with it.
+いいわよ、あなたのお誘いですもの。=Okay, it's your invitation.
+HしようA好意{0}=I'll do you a favor.
+エッチに誘ってくれるなんて嬉しいわ。=I'm glad you asked me to have sex with you.
+勿論いいわよ。=Sure, sure.
+HしようA享楽{0}=Let's have some fun.
+私もあなたとエッチしたいと思ってたのよ。=I've always wanted to have sex with you, too.
+きっとそう言うと思ってわ……たくさんエッチしましょう。=I knew you would say that... Let's have lots of sex.
+HしようA嫌悪{0}=Let's H. A. Hate {0}
+そう来ると思ったわ、別にいいけど。=I knew you'd come around. I don't mind.
+他にすることないのかしら。=Isn't there anything else to do?
+HしようA隷属{0}=Let's H A slave {0}
+あなたが望むなら、私はいつでもエッチＯＫよ。=I'm always up for sex if you want it.
+せっかくなんだからエッチしないと勿体ないわよね。=It would be a shame if we didn't have sex since we're so close to each other.

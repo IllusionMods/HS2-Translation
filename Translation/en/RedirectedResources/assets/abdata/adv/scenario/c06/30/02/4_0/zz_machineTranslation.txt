@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話事後A普通{0}=Conversation Post A Normal {0}
+本日は有難うございました、それでは失礼いたします。=Thank you very much for your time today, and now if you'll excuse me.
+またお話を聞かせてくださいましね、またお会い致しましょう。=Please tell us your story again, and we will meet again.
+会話事後A好意{0}=A favor after the conversation {0}
+それでは、ご機嫌麗しゅう……=I hope you're having a good day.
+そろそろお時間ですか？　名残惜しいですが、またお会い致しましょう。=Is it time for you to go? I'm sorry to see you go, but I'll see you again.
+会話事後A享楽{0}=Conversation After A Enjoyment {0}
+ではまた、後でお会いいたしましょうね……♪=So I'll see you later ♪
+では、あなたさえ宜しければ後で誘ってくださいまし……♪=Now, if it's all right with you, you can ask me out later ♪
+会話事後A嫌悪{0}=Conversation Post Aversion {0}
+それでは、失礼いたします……=Now, if you'll excuse me...
+では、さようなら……=Well, good-bye...
+会話事後A隷属{0}=Conversation Post A Subjugation {0}
+貴重なお時間を割いて頂き、有難うございました。=Thank you very much for taking your valuable time to help us.
+もし他にご用がありましたら、あとで個別で仰ってくださいまし。=If there is anything else you need, please let me know individually later.

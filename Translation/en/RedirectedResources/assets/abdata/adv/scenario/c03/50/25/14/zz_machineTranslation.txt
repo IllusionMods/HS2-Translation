@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんな場所……一体どこから出てきたわけ？=This place... Where the hell did it come from?
+こんな場所あったんだ……ふぅん、静かでいいじゃん♪=I didn't know there was a place like this... Hmm, it's nice and quiet ♪
+こんな所で何して遊ぶの？　まぁ、わかってるんだけどね♪=What are you doing playing here? Well, I know ♪
+こんな夜にこんな所に来て……なんのつもりなの？=What do you think you're doing... Coming here at this time of night?
+静かな場所だね……いいよ、どこでも付き合うから♪=It's a quiet place... Okay, I'll go with you anywhere ♪

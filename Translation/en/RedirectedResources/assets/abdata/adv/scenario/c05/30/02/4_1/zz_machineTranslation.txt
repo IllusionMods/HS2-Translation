@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話事後B普通{0}=Conversation Post B Normal {0}
+あなたとお話出来て良かったです……参考になりました。=It was nice to talk to you... And informative.
+や、やっぱり……たくさんの方の意見を聞くことは大切ですね。=After all... It is important to hear the opinions of many people, isn't it?
+会話事後B好意{0}=Conversation Post B Favor {0}
+お話を聞かせてくれて、ありがとうございました。=Thank you for sharing your story with us.
+ふふっ、あなたの意見が聞けて良かったです。=Phew, it's good to hear your opinion.
+会話事後B享楽{0}=Conversation Post B Enjoyment {0}
+ほんの少しだけでも……あなたのことが知られて良かった……=I'm glad they know about you... Even if it's just for a little while.
+え、えっと……少しでもあなたの好みが理解できるよう、頑張りますね。=Well, um... I'll do my best to understand your tastes as much as possible.
+会話事後B嫌悪{0}=Post-conversation B disgust {0}
+そ、そういう考え方の人なんだとは……理解しました……=Well, I didn't know that's how you think... But I understand...
+う……こ、今後の参考には……させて頂きます……=I'll keep that in mind for future reference...
+会話事後B隷属{0}=Conversation Post B Subjugation {0}
+ふふっ、あなたの言葉……何よりも重みがあります……=Hmm, your words... They carry more weight than anything else...
+すごく……勉強になりました……また聞かせてくださいね。=I learned a lot... And I hope you'll let me hear more.

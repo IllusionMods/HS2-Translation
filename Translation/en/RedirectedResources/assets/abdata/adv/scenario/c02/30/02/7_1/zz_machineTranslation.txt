@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=An unremarkable response B. Normal {0}
+私達はもう少しお話していますので。=We have a few more stories to tell.
+では、またの機会にでも。=Well, maybe some other time.
+なんでもない返答B好意{0}=An unremarkable response B Favor {0}
+それでは、また後で会いましょう。=So I'll see you later.
+次はまた、時間がある時にでも……=Maybe next time, when I have more time...
+なんでもない返答B享楽{0}=Nothing Reply B Kyouraku {0}
+それでは、またあなたの話の続きでもしていますかね。=So, I guess we're back to your story.
+こんな機会を逃して勿体ないですね……まぁ、いいですけど。=It's a shame to miss such an opportunity... Well, okay.
+なんでもない返答B嫌悪{0}=Nothing Reply B Disgust {0}
+さ、私達も行きましょう……=Come on, we'll go with you...
+何もなくてよかったです、ほんと……=I'm glad nothing happened to you, really...
+なんでもない返答B隷属{0}=Nothing Reply B Slavery {0}
+少し期待しましたが……残念です。=I had a little bit of hope, but... Too bad.
+では、私達は猥談の続きでもしていますね。=Well, I guess we'll just continue our obscene conversation.

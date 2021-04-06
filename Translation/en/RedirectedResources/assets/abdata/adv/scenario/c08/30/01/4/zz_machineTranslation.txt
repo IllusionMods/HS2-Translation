@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+H{0}=H{0}
+元に？　いやいや、今更なんとかっすーみたいな態度は無理ですよ……あなたに、恋してるんです。=Ex? No, no, no, you can't act like you're somehow kasusu now... I'm in love with you, with you.
+ま、前の私はああいう風に振る舞って自分を守ってただけなんです……駄目ですか？=Well, I was just protecting myself by acting like that before... No?
+Home{0}=Home{0}
+あ、あなたに言われてちょっと落ち着いたっすー。いや、もう……恋は病～。やばいすよこれー。=Oh, I'm a little calmer now that you've told me. Oh, no... Love is a disease. It's really bad.
+あ～～恥ずかしい所見られてマジショックっすー。あの……私のことヤになってないっすかー？=I'm really shocked that you saw my embarrassing part. Um... Aren't you getting attracted to me?

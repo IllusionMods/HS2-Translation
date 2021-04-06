@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+え？　なんとなく顔見に来ただけ？　アンタも良くわかんないことするねぇ……=What? You just came to see me for some reason? You do things I don't understand too...
+あっそ……って、マジで何も用ないの？=Oh, really? You don't have anything to do with this?
+好意{0}=Favors {0}
+急用でも出来た？　まぁいいや、また何かあったら呼んで。=Did something come up? Well, whatever. Call me if you need anything else.
+ん？　なんか思わせぶりな感じ？　とりま、じゃーねでいいのこれ？=Hmm? What's that supposed to mean? Anyway, is this okay?
+享楽{0}=Enjoyment {0}
+なに？　緊張してんの？　かわたんかよ～♪=What? Are you nervous? You're a kowtow ♪
+ん、りょ。んじゃ、適度に欲求不満になったら、またアタシんとこ来て。=Yeah, sure. Then, when you get moderately frustrated, come back to me.
+嫌悪{0}=Disgust {0}
+なにそれ。何も用がないなら、最初から顔見せないでくれる。=What's that? If you don't have anything to do with me, don't show your face to me in the first place.
+うん、まぁそれが懸命な判断じゃん？　アタシもアンタには用無いし。=Yeah, well, that's a good decision, right? I have no use for you either.
+隷属{0}=Slavery {0}
+えー、放置プレイってやつですかー？　なんか冷たくなーい？=Is that what you call neglectful play? Isn't that a little cold?
+ありゃ、ちょっと肩透かし。まぁ、何か用があったら気軽に話しかけてよ。=Oh, I'm a little disappointed. Well, if you need anything, feel free to talk to me.

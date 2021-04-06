@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+悩み所ですね……貴方はどう思いますか？=What do you think?
+貴方の意見を聞いてみたいです。遠慮なさらず、どうぞ……=I'd like to hear what you have to say. Please don't hesitate to...
+この場合……貴方なら、面白いことを言ってくれそうですね。どうですか？=In this case... I think you'd have something interesting to say. What do you think?
+あまり気は進みませんが……貴方はどう思っているか、聞いてもいいですか？=I don't really like the idea of it, but can I ask you what you think?
+まずは、貴方の意見を聞きたいです。色々と参考にしたいので……=First of all, I would like to hear your opinion. I'd like to refer to various...

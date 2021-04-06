@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Did you enjoy having sex with me? Me? Well... Neither good nor bad, I guess?
+とても充実したひと時でした。あなたとは良い関係を築けそうな気がします。=It was a very fulfilling time. I feel that I can have a good relationship with you.
+好意{0}=Favors {0}
+何かご不満などはございませんでしたか？　忌憚のないご意見をお聞かせ願います。=Did you have any complaints? Please give us your honest opinion.
+この様な快感があるとは……初めて知りました。きっと私たちは身体の相性が良いのでしょうね=This is the first time I've ever known such a pleasant sensation. I guess we must have good physical chemistry.
+享楽{0}=Enjoyment {0}
+快楽に溺れるという言葉の意味、この身で実感しました。=I realized with my own body the meaning of the phrase "drowning in pleasure".
+なるほど……あなたとのセックス、これからが楽しみです。本日はどうもありがとうございました。=I see... I'm looking forward to having sex with you, from now on. Thank you very much for your time today.
+嫌悪{0}=Disgust {0}
+お疲れさまでした。　本日は解散と致しましょう。出来れば、これきりな事を願わせて頂きます。=Thank you for your hard work. Let's disband for today. If possible, I hope this will be the last time.
+ふぅ……身体の相性はともかく、心の相性の悪さが否めません。これからは、他の方をお誘いした方が良いかと思います。=Hmm... I can't deny the incompatibility of our bodies, but not of our minds. From now on, I think it would be better to invite someone else.
+隷属{0}=Slavery {0}
+ふぅ……申し訳ございません、たった一度肌を重ねただけで、あなたとのセックスの虜になってしまったようです。=Hmmm... Sorry, I seem to have become a prisoner of sex with you after just one skin-to-skin encounter.
+セックスを終えたばかりだと言うのに、もう次の機会を求めてしまっています。お誘い、お待ちしていますね。=You've just finished having sex, and you're already looking for another opportunity. I'll be waiting for your invitation.
+壊れ{0}=Broken {0}
+あはぁ……しぇっくすらけしてぇ……生きていたいれすぅ。=I want to live...
+ふふふ……きもひいことはぁ、さいこーれすよねぇ？=I'm sure you'll agree that being creepy is pretty cool, right?
+依存{0}=Depends{0}
+この程度で満足されては困ります。　私は掴んだら放さない女ですから……覚悟、しておいてくださいね？=I don't want you to be satisfied with this level. I'm a woman who won't let go once I've grabbed her... So please be prepared, okay?
+私を魅了してしまった以上、あなたに選択肢は御座いません。あなたは私と共に果てる運命にあるのですから……ふふっ。=Since you have charmed me, you have no choice. You are destined to die with me...

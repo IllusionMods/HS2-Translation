@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+うぁ……ひかいが……ぼぁけへましゅ……=Ugh... My hikaika... Boke hemau...
+き、きもひいころしか……かんぁえられないれす……=I can't even remember when I was a kid...
+ここぁ……ろこなのれしょう……？=Is this... The place?

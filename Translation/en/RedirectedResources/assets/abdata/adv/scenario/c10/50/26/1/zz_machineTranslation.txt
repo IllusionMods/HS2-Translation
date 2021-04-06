@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あ、どうも……また貴方の相手を務められるなんて光栄です。今回も期待に応えられるように、頑張りますね=Oh, hi... It's an honor to be your partner again. I'll do my best to live up to your expectations this time as well.
+私のこと、気に入って頂けたのですか？　その……少しだけ、自信がついたかもしれません。貴方のおかげです。ありがとうございます♪=Did you like me? Well, I think I've gained a little confidence. It's thanks to you. Thank you very much ♪
+好意より20～49{0}=20-49{0} from favor
+もう貴方とすることに、あまり抵抗はありません。軽い女だと思わないでくださいね？　あくまで貴方だから……ですよ？=I don't have much qualms about doing it with you anymore. Please don't think I'm a lightweight, okay? It's just you, you know?
+ふふ、今日はどんなことをして頂けるのでしょう。楽しみと言っては、少しはしたない感じですが……その……色々とよろしくお願いします。=I wonder what you will do for me today. It's a bit of a letdown to say I'm looking forward to it, but... Well... Please take care of everything.
+好意より50～79{0}=50-79{0} from favor.
+な、なんだか、落ち着かないですね……わ、私だけでしょうか？　うぅ、すみません。少しその……舞い上がってしまっているようです。=I don't know, I feel uncomfortable... Is it just me? Ugh, I'm sorry. I think I'm getting a little carried away.
+ほ、本日も、よろしくお願いいたします！　えぇと、その、私、一生懸命頑張りますので！　遠慮なくなんなりと、お申しつけください……！=I'm looking forward to working with you again today! Well, I mean, I'll do my best! Please don't hesitate to ask me anything!
+好意より80～100{0}=80-100{0} over favoritism
+あ、あの……貴方は……私の事をどう思って…………や、やっぱり何でもないです……始めましょうか？=Oh, um... What do you think of me... Nothing after all... Shall we begin?
+例え、身体だけの関係でも……私は嬉しいです。貴方に求めてもらえる事が、とても幸せで……て、いきなり私、何を言っているのでしょうね……=Even if it's just a physical relationship, I'm happy. I'm so happy that you want me... What am I suddenly saying?
+享楽より20～49{0}=20-49 from Kyouraku{0}
+貴方を見ると、身体が勝手に火照ってしまって……こんな風になるなんて、自分でも驚いています。また、その……一緒に気持ちよくなりましょうね？=When I look at you, my body starts to burn on its own... I'm surprised that I'm like this. I'm surprised that I've become this way... Let's make each other feel good again, shall we?
+その……挨拶はもういらないですよね？　ここに来たのはお話をするためではなくて……すぐにでも私と……シたいからですものね？=I mean... No more greetings, right? You didn't come here to talk to me, you came here because you want to have sex with me right away, right?
+享楽より50～79{0}=50-79 from Kyouraku {0}
+準備はもう整えてきましたので、貴方さえよろしければいつでも構いませんよ？　今すぐにでも、始められます……ふふ♪=I've already made preparations, so if it's okay with you, I'm ready to go. We can start right now ♪
+貴方が興奮しているの、何となく分かりますよ。ふふ、待ち切れませんか？　でしたら早速……二人でまた……気持ちいいことを、いたしましょう♪=I can kind of see why you're so excited. Can't wait? Then let's do something nice again, just the two of us ♪
+享楽より80～100{0}=80-100{0}
+さぁ、早く始めましょう？　貴方とたくさんシたいので……ふふ、はしたない女だと思いますか？　実は……その通りなんです♪=Come on, let's get started, shall we? I want to have lots of sex with you... Do you think I'm a slut? Actually, I do ♪
+私の身体、もう既にかなり熱くなっています。貴方もきっと同じなのではありませんか？　ふふ、分かってますから、恥ずかしがることはありませんよ？=My body is already quite hot. I'm sure you're the same, aren't you? I know, so don't be shy, okay?
+嫌悪より20～49{0}=From disgust 20-49{0}
+私、こういう事は相性が大事だと思うのです。まぁ、やってみなければ分からないのが困りものですが……=I think chemistry is important in this kind of thing. Well, the trouble is that you don't know until you try, but...
+選ぶ楽しみというものもありますから。私のことは気にせずに、もっと他の方とシて頂いても構わないのですよ？=There is also the pleasure of choice. If you don't care about me, you can go out with more people, you know?
+嫌悪より50～79{0}=50-79 from disgust {0}
+貴方のためにもはっきり言っておきますね？　私は貴方があまり好きでは無いです……ですから、私に固執されても時間の無駄ですよ？=Let me be clear for your sake, okay? I don't like you very much... So you're wasting your time sticking with me, okay?
+失礼ですが、他に相手はいなかったのですか？　どうしても私でなければいけない理由は無いと思うのですが……=Excuse me, but were there no other partners? I don't think there's any reason why it has to be me...
+嫌悪より80～100{0}=80-100{0} than disgust.
+貴方は楽しいのかもしませんが、私は逆です。このまま始めても、きっとお互い不幸になりますよ？　身体より、気持ちが大事だと……私は思います……=It may be fun for you, but it's the opposite for me. If we start like this, we'll both be unhappy, won't we? I think the feeling is more important than the body...
+はぁ……困りましたね……本当に困りました。貴方と……上手くできる自信がありません。短く終わらせましょう。たぶん、それが一番です……=I'm in trouble... Really in trouble. I'm not sure I can... Get along with you. Let's make it short. Maybe it's best to...
+隷属より20～49{0}=From slavery 20-49{0}
+えぇと……もう初対面ではありませんので、貴方の好きなようにしてみてください。私はまだ、あまり自信がないので……=Well... We're not meeting for the first time anymore, so you can do what you want. I'm still not too sure about...
+私、早くその……こういう事に慣れたいので。貴方に色々教えて欲しいです……よ、よろしくお願いします。=I want to get used to this kind of thing as soon as possible. I'd like you to teach me a lot of things... Please.
+隷属より50～79{0}=50-79{0} from servitude.
+私にどんな事をしたいか、考えてきてくれました？　私も色々想像して……期待、していますので……じっくりたっぷり、楽しみましょうね♪=Have you thought about what you want to do to me? I've been imagining and hoping for the best, so let's take our time and have lots of fun ♪
+そ、それでは……早速始めますか？　あ、えぇと……私、焦り過ぎですね？　すみません。その……お叱りなら、いくらでも受けますので……=Well, then... Shall we get started? I'm in too much of a hurry, aren't I? I'm sorry. I'll take any scolding you want...
+隷属より80～100{0}=80-100{0} from servitude.
+できればその……引かないでくださいね？　私……実は苛められたい願望があるようで……強めにして頂けると……う、嬉しいかもしれません。=If you can, please don't pull away, okay? I think I actually have a desire to be tormented, so if you could make it stronger, I might be happy.
+貴方に私が感じさせられますか？　なんて……ごめんなさい。今のは本心ではなくて、生意気な事を言えば苛めてもらえるかなと……=Can you make me feel? I'm sorry. I didn't mean what I said. I was just hoping that if I said something cheeky, you'd torment me...

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+よお。なんだ、オレらの邪魔をしに来たのか？=Hey, man. What, are you here to mess with us?
+ハッ、予想通りだ。女二人でいたら、絶対寄って来ると思ったよ。=Ha, just as I expected. I knew that if there were two women, they would definitely come by.
+前フリA好意{0}=Pretense A Favor {0}
+おい、二人でオマエのことを待っててやったんだ。感謝しろよ。=Hey, we've both been waiting for you. You should be grateful.
+ほう、丁度オマエの話をしてたところだ。地獄耳ってやつか？=Oh, I was just talking about you. Hell ears, huh?
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+ほら来たぞ。女に飢えた、卑しい豚が。=Here they come. A lowly, woman-hungry pig.
+何しに来た？　欲望がダダ漏れで気持ち悪ぃぞ？=What are you doing here? What's with all the lust, man? It's disgusting.
+前フリA嫌悪{0}=Pretense A Disgust {0}
+なんで寄って来た？　お呼びじゃねぇぞ？=Why'd you come by? You're not wanted here.
+女同士で楽しんでるところにたかってきやがって、オマエはハエか？=What are you, a fly in the ointment?
+前フリA隷属{0}=Prelude A Slavery {0}
+ハッ、二人いれば、どっちかは引っかけられると思ったか？=Huh, you'd think with two of them, one of them would be able to hook you?
+おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=Whoa, there's a lonely guy looking at me, huh? You want to join him?

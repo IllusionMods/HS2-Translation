@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+私、こんなにも求める子だったなんて……あ、あなたのせいですよ……？=I didn't know I was such a seeking child... Oh, it's your fault?
+汎用{0}=General Purpose {0}
+ありがとうございます。また……シたくなったら、お邪魔するかもです……=Thank you very much. If I feel like... Shimmying again, I might just drop by...
+こうやっていると……何だか、その……夫婦、みたいですね……=It's like we're a married couple...
+もう少し、このまま……というわけにもいきませんね……=We can't just keep going... For a little while longer...

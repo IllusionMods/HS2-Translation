@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+あーはいはい、そっち系の話ね。アンタも好きだねぇ……=Yeah, yeah, yeah, that's what I'm talking about. You like that too...
+えぇっ、いきなりそういう話をされてもねぇ……=Well, I don't know if that's what you're talking about...
+好意{0}=Favors {0}
+ちょ、あんま大きい声でそういうこと話さないっ。=Don't talk about that kind of thing too loudly.
+え……それマジで言ってる？=What... Are you serious about that?
+享楽{0}=Enjoyment {0}
+……うーん、アタシは気持ちければ基本なんでもいーよ♪=I don't care what it is as long as it feels good ♪
+あはっ、下ネタですかぁ？　んふふ、アタシ以外にはそういう話しない方がいいよ？=Haha, is that a joke? Mmmm, you shouldn't talk about that kind of stuff with anyone but me.
+嫌悪{0}=Disgust {0}
+は？　知らないし……キモ……=Huh? I don't know... Creepy...
+てかさ、いきなり下ネタ振ってくるとか。アンタって下半身に脳がついてんの？=I mean, you're talking down to me out of the blue. Do you have a brain in your lower body?
+隷属{0}=Slavery {0}
+うわ……結構ズバっとくるね。返し悩むわぁ……=You're pretty straight to the point. I'm having trouble returning it...
+……ねぇ、アタシはいいけど。あんま大きい声でそういう話しない方がよくない？=Hey, I don't mind, but... It's better not to talk about such things too loudly, right?

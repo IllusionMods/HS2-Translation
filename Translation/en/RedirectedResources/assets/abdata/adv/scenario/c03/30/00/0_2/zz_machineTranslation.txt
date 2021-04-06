@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Bath normal {0}
+やっほー……なんて気軽に挨拶できるか！　あっち行けーーっ！=Yoo-hoo... How dare you greet me so casually! Get away from me!
+も、もしかしてエッチのお誘い？　それなら、まずは、か、身体！　身体洗ってよ？=Are you asking me to have sex with you? If so, let's start with your body! Why don't you wash your body?
+風呂普通用件{0}=Bath normal matters {0}
+というかさ、こ、こんな所で何してるの？=I mean, what are you doing here?
+それでさ、わ、私に何か用？=So, uh, what do you want from me?
+風呂好意{0}=Bath Favors {0}
+一緒に入っちゃう？　なんて、冗談だってば。恥ずかしすぎるって！=Do you want to come in with me? I'm kidding. It's too embarrassing!
+あ……えっと、お前もお風呂？　なんか、こういう小さいことでも合うと嬉しいね。=Oh... Uh, you're taking a bath too? It's kind of nice when we can fit these little things together.
+風呂好意用件{0}=Bath favors {0}
+そ、それでさ……私に何か用事があったんでしょ？　何かなぁって……。=So, so... You wanted something from me, right? I was wondering...
+ほら、用事があるなら、遠慮せず言って。=Here, if you need anything, don't hesitate to ask.
+風呂享楽{0}=Bath Enjoyment {0}
+あれぇ、奇遇じゃん♪　ん？　奇遇じゃなかったりして？　私の追っかけかぁ？=What a coincidence! What if it's not? Are you following me?
+いつお前とヤるってなってもいいように、身体は綺麗にしとかないとなぁ♪=I have to keep my body clean so that I can fuck you whenever I want to ♪
+風呂享楽用件{0}=Enjoying the Bath {0}
+どうせヤリにきたんでしょ？　もちろん、ご指名は、わ・た・し？　ふふふ♪=You came here to fuck me anyway, right? Of course, you're here for me, aren't you? Mmm-hmm ♪
+もう目がエロくなってるよ。目的がバレバレだぁ♪=You've already got a sexy look in your eyes. It's so obvious what you want ♪
+風呂嫌悪{0}=Bath Aversion {0}
+やっぱ、お風呂やめようかな。お前がいるし……=I think I'm going to stop taking baths. You're here and...
+え、なんでいるの？　お風呂を汚さないで？=What? Why are you here? Don't you want to make a mess in the bathroom?
+風呂嫌悪用件{0}=Bath Abomination {0}
+用件があるなら、さっさと話して。=If you have something to say, say it quickly.
+私はお前と話すことなんてないけど。お前は違うの？=I don't have anything to say to you. You don't?
+風呂隷属{0}=Bath Slavery {0}
+あ、ちょうどよかった……身体を洗うのと洗わないの、どっちがそそるかな……？=Oh, just as well... Which is more intriguing, washing the body or not washing the body?
+あ、私のお風呂を覗きに来たの？　減るものじゃないから、いいよ、はい……=Oh, you came to take a peek at my bath? It's nothing to diminish. Okay, yes...
+風呂隷属用件{0}=Bath Slavery {0}
+それで、私に声をかけてくれたってことは、やっぱりエロ？　私、またエロだった……？=So, if you approached me, is it porn? Was I being erotic again?
+何か私に命令したいことでもあった？　なんでも従うけど……=Is there something you want to tell me to do? I'll do whatever you want, but...

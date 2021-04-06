@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんでもない返答A普通{0}=An unremarkable response A. Normal {0}
+はえー、そーなんですかー？=Oh, really?
+なーんだ、残念ですよー。=Nah, I'm sorry to hear that!
+なんでもない返答A好意{0}=An unremarkable response A favor {0}
+あらら……なんか寂しいですねー。=Oh my... How lonely it is!
+せっかく会えたのにー……でも仕方ないですね。=I've come so far to meet you... But I can't avoid it.
+なんでもない返答A享楽{0}=Nothing Reply A Kyouraku {0}
+あはは……わたし、なんかちょっとだけ期待しちゃいましたよ、もー。=Hahaha... I was expecting a little bit more than that.
+ふぇぇ、がっかりですー……色々楽しいお話できると思ったんですがー。=I thought we could have a lot of fun talking...
+なんでもない返答A嫌悪{0}=Nothing Reply A Disgust {0}
+はぁぁ……だったら最初から声なんてかけないでほしーんですけどー。=If that's the case, I wish you wouldn't have approached me in the first place.
+なんでもないならそれでいーです、はいー。=If it's nothing, that's fine, yes.
+なんでもない返答A隷属{0}=Nothing Reply A Slavery {0}
+はぅ……お忙しいところ、お呼び止めして申し訳ありましぇっ……ありませにゅー！=I'm sorry for stopping you while you're busy... No problem!
+そーですか……ちょっと悲しいけど、次に期待しておきますねー。=Oh well... I'm a little sad, but I'll look forward to the next one.

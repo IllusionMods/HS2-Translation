@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+いい時間だったぜ……やっぱり、場所の雰囲気って大事なんだな。=It was a good time... I guess the atmosphere of a place is important.
+お前の事、もっと好きになりそうだぜ。=I think I'm going to like you more.
+何だか、いつもより感じてたかも知れないぜ……=I don't know, maybe I felt it more than usual.
+こういう雰囲気でするのも、悪くなかったな。=It wasn't a bad idea to do it in this kind of atmosphere.
+お前と、いい時間が過ごせて嬉しかったぜ。=I'm glad I got to spend some quality time with you, man.
+また、こういう所に連れてきてくれよな。=You're going to have to bring me back to a place like this.

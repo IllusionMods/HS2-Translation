@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+……好きだからって、何でも言う事聞くかって言われたら……俺は嫌だな。=... If you're asking me if I'm going to do whatever you say just because I like you, I don't want to.
+……命令とお願いは違うだろ？　まぁ、人それぞれだと思うけどな。=... There's a difference between an order and a request, right? Well, I guess it depends.
+好意{0}=Favors {0}
+う～ん、恋とか愛とかよくわかんねぇけど……相手が喜ぶことをしたいって思うのは普通だろ。=I don't know about love or romance, but I think it's normal to want to do what makes the other person happy.
+……駆け引きとか、そういうのは良く分かんねぇけど……なんでもいう事聞くのは違う気がするぜ。=I don't know how to play games or anything like that, but I don't think it's right to do whatever you want.
+享楽{0}=Enjoyment {0}
+――気持ちいいならなんだっていいんじゃねぇの？　深く考えたってしょうがねぇだろ。=-What does it matter if it feels good? There's no point in thinking too much about it.
+……俺にはよくわかんねぇけど、楽しめればそれでいいんじゃねぇの。=... I don't know about that, but I guess it's all good as long as you enjoy it.
+嫌悪{0}=Disgust {0}
+……なんの話してんだ？　知るか、そんなもん。=... What are you talking about? I don't know, something like that.
+……それで？　何が楽しいんだ、その話？=... So? What's the fun in that, that story?
+隷属{0}=Slavery {0}
+言われるとおりに動く方が楽な場合もあるからな。否定する気はねぇよ。=Sometimes it's easier to do as you're told. I'm not trying to deny it.
+SとかMとか、誰だってそういうものは持ってるんじゃねぇのか？　その場その場で強く出る方がどっちかってだけだろ。=Doesn't everyone have something like that, S or M? It's just a matter of which one comes out stronger in the moment.

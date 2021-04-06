@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あら、こんな素敵な場所あったのね。=Oh, I didn't know there was such a beautiful place.
+あなたってこんな所も知ってるのね……素敵だわ。=You know all this stuff... It's nice.
+いいわね、なかなかいい雰囲気だわ、うふふ。=I like it. It's quite a nice atmosphere. Mmm-hmm.
+あら、こんな所があったの？　知らなかったわ。=Oh, I didn't know there was such a place. I had no idea.
+こんな場所に連れてきてくれるなんて、あなたって素敵ね。=It's so nice of you to bring me to a place like this.

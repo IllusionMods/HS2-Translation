@@ -1,0 +1,45 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+初めまして。何かと至らない点があるかと思いますが、ご容赦頂けますと幸いです。=It's nice to meet you. I hope you will forgive me for any inadequacies I may have.
+初対面の殿方と破廉恥な事をする……あ、改めて言葉にすると些か恥ずかしいですね。=Doing something shameful with a gentleman you've never met before... Oh, it's a little embarrassing to put it into words again.
+ほっ、優しそうな方がお相手で安心致しました。末永く……かは、まだわかりませんが、よろしくお願い致します。=I am relieved to know that I am dealing with someone who seems kind. I don't know if it will be for a long time, but I look forward to working with you.
+好意{0}=Favors {0}
+貴方の様な素敵な殿方がお相手だなんて……何だか夢の様です。=It's like a dream come true to have such a wonderful gentleman as you as my partner.
+貴方のことが好きです。……初対面の女に言われても信じられないかと思いますので、その……身体で証明致しますね。=I like you... I think it's hard to believe what a woman you've never met says, so I'll prove it with my body.
+えっと……頬が赤くなっているのは気にしないで頂けますか？　照れているだけですので……=Well, don't mind that my cheeks are getting red. I'm just embarrassed...
+享楽より20～49{0}=20-49 from Kyouraku{0}
+やはり殿方は主導権を取りたいものなのでしょうか？　いえ、他意はございません。ただ、貴方に興味があったもので……=Do you still want to take the initiative? No, I didn't mean anything by it. I was just curious about you...
+初めまして。拙い部分もありますが精一杯頑張りますので、よろしくお願い致しますね。=It's nice to meet you. I'm not very good at some things, but I'll do my best, so please give me your support.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+初めまして、私は――と、会話に興じる気分ではない様ですね。では、挨拶はこれくらいにして、早速致しましょうか？=Nice to meet you, I'm not in the mood for conversation. I'm not in the mood for conversation, so let's just say hello and get started, shall we?
+うふふ、根拠はありませんが、貴方とは良い関係を築けそうな気がします。よろしくお願い致しますね。=I don't have any evidence, but I have a feeling that I will be able to build a good relationship with you. I look forward to working with you.
+享楽より80～100{0}=80-100{0}
+私は女性は男性の三歩後ろを歩くべきだと思っておりますが……こと男女の営みにおいては別です。……申し上げている言葉の意味、お分かり頂けますよね？=I believe that a woman should walk three steps behind a man... Except when it comes to sex... You know what I mean, don't you?
+いかがわしいことがお好きですよね？　ふふ、隠さなくても結構です。貴方が私の同類ということは、一目見ただけで分かりましたから。=You like to do shady things, don't you? Hmm, you don't have to hide it. I could tell from a glance that you were my kind of person.
+嫌悪より20～49{0}=From disgust 20-49{0}
+その……不躾を承知で申し上げますが、少々体調が優れなくて……お早めに切り上げて頂けないでしょうか？=Well, I don't mean to be rude, but I'm feeling a little under the weather, and I was wondering if you could leave early.
+初対面の殿方といきなり致すのは、少々抵抗はありますが……郷に入っては郷に従えと言いますし、致し方ありませんね。=I was a little uncomfortable with the idea of suddenly having sex with a man I've never met before, but as they say, when in Rome, do as the Romans do, so it couldn't be helped.
+嫌悪より50～79{0}=50-79 from disgust {0}
+どういった施設か承知の上で訪れたつもりでしたが、見通しが甘かったようですね。……いえ、独り言ですのでお気になさらず。=I thought I knew what kind of facility I was going to visit, but I guess I wasn't paying attention... No, I'm just talking to myself, so don't worry about it.
+貴方の様な方とも肌を重ねなければいけないのですね……=I'm going to have to get under the skin of people like you...
+嫌悪より80～100{0}=80-100{0} than disgust.
+どうして私に声をかけたのですか？　女性なら他にもいるでしょう？ 本当にどうして……=Why did you ask for me? There are other women out there, aren't there? Why did you really...
+やる気のない女を抱いても楽しくないと思いますので、他の方に声をかけることをお勧め致します。=I don't think it's fun to hold an unwilling woman, so I suggest you reach out to someone else.
+隷属より20～49{0}=From slavery 20-49{0}
+初めまして。その、こういった経験はあまりないものでして……お手数をおかけしますが、手取り足取り教えていただけないでしょうか？=It's nice to meet you. I'm sorry to bother you, but I was wondering if you could give me a hand with this.
+初めに申しておきますと、私、少々緊張しております……ですが、お気遣いは無用です。未熟者なりに誠意を尽くしますので。=First of all, let me say that I am a little nervous, but don't worry. But don't worry, I'll do my best in my inexperience.
+隷属より50～79{0}=50-79{0} from servitude.
+精一杯、貴方のお相手を務めさせていただきます。至らぬ点がありましたら、遠慮なく躾けて頂けると……=I will do my best to be your companion. If you have any problems, please don't hesitate to discipline me...
+お恥ずかしい話なのですが、幼少の頃から厳しく躾けられていたせいで、その……痛みに敏感でして……多少は乱暴にして頂いても、問題ございませんよ？=I'm embarrassed to say this, but I was disciplined very strictly from an early age, and I'm... Sensitive to pain... So I have no problem with a little rough treatment.
+隷属より80～100{0}=80-100{0} from servitude.
+私は、貴方色に染まる準備は出来ています。貴方が望む関係を築いて参りますので、何なりとお申し付けください。=I am ready to be your color. I am ready to build the relationship you desire, and I am at your service.
+見栄も体裁も投げ捨て欲に狂ってみたい……腹の内では淫らなことを考えている女ですが、問題ございませんか……？=I'm a woman who wants to throw away her looks and appearances and go crazy with lust... I'm a woman who thinks lewd things inside my belly... Is there a problem?
+壊れ{0}=Broken {0}
+………………=...
+あはは……あぁたが……気持ひよく、しへく下さるのれすねぇ……=Haha... You... Make me feel so good...
+依存{0}=Depends{0}
+お声がかかるのを、一日千秋の思いで心待ちにしておりました。さぁ、私を孕ませてください。=I've been looking forward to hearing from you for a thousand years. Now, please impregnate me.
+自己紹介代わりに、おちんちんを挿入して下さいますか？　そうすれば、貴方の人柄が全て分かりますので。=Would you mind inserting your penis into me instead of introducing yourself? That way, we can learn all about your personality.

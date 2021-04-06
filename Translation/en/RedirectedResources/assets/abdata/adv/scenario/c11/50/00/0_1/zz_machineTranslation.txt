@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+汎用普通{0}=General-purpose normal {0}
+こんにちは。=Hello.
+どうも。破廉恥なことばかり考えてはいけませんよ？=Thanks. Don't keep thinking about all the shameful things you've done, okay?
+何かをお探しですか？=Are you looking for something?
+汎用普通用件{0}=General-purpose normal case {0}
+えっと……私に何かご用でも？=Um... Can I help you?
+もしかして、私をお探しだったのでしょうか？　勘違いでしたら、申し訳ございません。=Perhaps you were looking for me? I apologize if this is a misunderstanding.
+汎用好意{0}=Generic favor {0}
+うふふ、こんにちは。=Mmmm, hello.
+お会いできて、大変嬉しいです。=It is a great pleasure to meet you.
+お元気そうで何よりです。=I am glad to hear that you are doing well.
+汎用好意用件{0}=General Favor {0}
+……思い違いでなければ、私に何かご用でしょうか？=... If I'm not mistaken, what can I do for you?
+もし何かございましたら、ご遠慮なさらずにお申しつけ下さいね。=If there is anything you need, please don't hesitate to let us know.
+汎用享楽{0}=General Enjoyment {0}
+うふふ、どなたかお探しですか？=Ummm, who are you looking for?
+貴方のお顔を見れて、嬉しいです。=I'm glad to see your face.
+貴方が楽しそうで、何よりでございます。=I'm glad you're enjoying yourself.
+汎用享楽用件{0}=General Enjoyment Case {0}
+あら……私にご用があったのでしょうか？=Oh... Did you want to see me?
+もしかして、貴方の目的は私だったのですか？=Could it be that you were after me?
+汎用嫌悪{0}=General aversion {0}
+貴方のお顔など、見たくはありませんでした。=I did not want to see your face.
+何故こちらにいらっしゃるのですか？=Why are you here?
+はぁ……失礼、ため息がこぼれてしまいました。=Huh... Excuse me, I had to sigh.
+汎用嫌悪用件{0}=General dislike {0}
+……何故、出て行かないのです？　まさか、私に用があるのですか？=... Why don't you just leave? Don't tell me you have some business with me?
+……何かあるのでしたら、早く仰って下さいませんか？　私も暇ではございませんので。=... If there's something you want to tell me, please do so quickly. I don't have time for this either.
+汎用隷属{0}=General Purpose Slavery {0}
+こんにちは。丁度、貴方のことを考えておりました。=Hello. I was just thinking about you.
+あら……この様な所でどうなさいました？=Oh... What are you doing here?
+本日のご予定はお決まりでしょうか？=Do you have any plans for today?
+汎用隷属用件{0}=General Slavery Conditions {0}
+もしご用件がございましたら、何なりとお申し付け下さい。=If you need anything else, please let us know.
+えっと……私でお力になれる事でしたら、微力ながらお手伝い致します。=If there is anything I can do to help you, I will do my best to help you.

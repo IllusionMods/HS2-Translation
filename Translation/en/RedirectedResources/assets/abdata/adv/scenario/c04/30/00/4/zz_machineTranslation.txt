@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+うーん、また微妙なとこ突いてくるね～。=Hmm, you're hitting on a subtle point again!
+……コイバナって、そこまで得意じゃないんだよねぇ。=... I'm not that good at conversations, you know.
+好意{0}=Favors {0}
+あー分かる。分かりみが深い。=Oh, I understand. It's deep.
+とりま、もうちょい詳しく。=Anyway, let's get a little more detailed.
+享楽{0}=Enjoyment {0}
+……で、それをアタシに話して、どう答えて欲しい系？=... So, what do you want me to say when you tell me about it?
+まー人それぞれっしょ。で、話は終わり？=Well, to each his own, I guess. So, are we done?
+嫌悪{0}=Disgust {0}
+いや……そんなこと聞かれても困るし。=No... That's not what I want to hear.
+あーパス……なんでアンタとそんな話しなきゃいけないわけ？=Oh, pass... Why do I have to talk to you like that?
+隷属{0}=Slavery {0}
+……へぇ、そういう考え方もあるんだ。=... Wow, that's one way of thinking about it.
+……それってさ、アタシに気があるってこと？=... Does that mean you have feelings for me?

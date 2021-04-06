@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お待たせ。大丈夫よ、もう用事は済んだから。=Hey, guys. It's okay. I'm done here.
+ちょっと待たせちゃったかしら？　ごめんなさい。=I hope I didn't keep you waiting too long. I'm sorry.
+ちょっと気持ちいい用事だったんだけど……あなたも呼べば良かったわね。=It was kind of a pleasant errand... But I should have invited you too.
+どこに行っていたかなんて……あなたには関係ないわ。=It's none of your business where I've been.
+あなたを待たせてると思ったら、なんだか落ち着かなかったわ。=It was kind of unsettling to think that I was keeping you waiting.

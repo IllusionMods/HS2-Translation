@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+おーい、私だよー！　遊びに来てやったよーん！=Hey, it's me! I've come to visit you!
+なんだ、いないのか……ちぇ～、つまんないの。いや、あいつのことだから居留守って線も……=What, he's not here? Ah, he's so boring. No, it's just that he's a jailer...

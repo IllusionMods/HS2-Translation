@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversation {0}
+話？　そんなものは、ヤリながらでもできるだろうが。=A story? You can do that stuff while you're getting laid.
+面倒なやつだな。話は後だ、とりあえずヤらせろ。=You're a pain in the ass. We'll talk later, but for now, let me fuck you.

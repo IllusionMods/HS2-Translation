@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+反応がないようだ=Doesn't seem to be responding.
+はぁぅ……んぅぅ……すぅ……んぅぁ……=Ahhh... Mmm... Ssshh... Mmm...
+んぅ……すぅ……はぁ……んっ……=Mmm... Soooo... Hhh... Mmm...

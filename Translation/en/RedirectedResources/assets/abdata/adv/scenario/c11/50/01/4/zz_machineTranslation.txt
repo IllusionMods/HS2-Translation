@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+H{0}=H{0}
+……親になる心構えが出来ていないことが、不安なのですか？　それはこれから学んでいけば問題ございません。さぁ、致しましょう？=... Are you worried that you are not ready to be a parent? That's no problem, you'll learn in the future. Let's do it, shall we?
+元に……？　その様な些細なことは後回しにして、今は私を孕ませることだけをお考えになって下さい。=Back to? Please put such trivial matters behind you and think only of impregnating me for now.
+Home{0}=Home{0}
+はっ……私は何を……？　とんでもないことを口走っていた様な……？=What am I doing? I think I said something terrible?
+も、申し訳ございません。気持ちが急くあまり、我を忘れておりました……=I'm sorry about that. I was in such a hurry that I forgot to...

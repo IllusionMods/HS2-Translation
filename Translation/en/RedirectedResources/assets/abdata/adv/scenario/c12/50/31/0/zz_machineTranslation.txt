@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+悪い、ちょっとだけ待っててくれねぇか？=I'm sorry, can you hold on for a second, please?
+直ぐ戻るからさ、ちょっとだけ待っててくれよ？=I'll be right back. Just give me a second, okay?
+悪いな、ちょっと用足してくるから。=I'm sorry, I have to go run some errands.
+俺、用事を思い出したから……ついてくんなよ。=I just remembered something, so... Don't follow me.
+すまない……トイレに行ってくるから、待っててくれ。=I'm sorry... I'm going to the bathroom, wait for me.

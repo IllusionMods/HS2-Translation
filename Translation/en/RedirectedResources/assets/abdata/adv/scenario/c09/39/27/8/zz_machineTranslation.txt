@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あれ？　もーやめちゃうんですかー？=Huh? Are you going to stop now?
+……？　これでいーんですか？　まぁ、その……あなたさんがそう言うならわたしはいーですけど……=? Are you okay with this? Well, I mean, if that's what you want, I'm fine with it, but...
+好意{0}=Favors {0}
+も、もしかして……何かわたしに問題でもありましたか？　だったら遠慮なく言ってほしーですよー。=Is there... Is there something wrong with me? If so, please don't hesitate to tell me.
+えー、こーいう終わり方、なんか超不安になるんですけどー……もしかしてわたしって魅力ないですか？=Well, this kind of ending makes me feel super uneasy... Am I unattractive, perhaps?
+享楽{0}=Enjoyment {0}
+えーっと……念のため聞きますけどー、わたしのこと、焦らそうとしてるわけじゃないんですよね？=Well... Just to be sure, you're not trying to rush me, are you?
+まさかとは思うんですが……突然勃たなくなった……なんてことはないですよね？=I don't think so, but... You didn't suddenly lose your erection, did you?
+嫌悪{0}=Disgust {0}
+何もしないなら時間取らせないでくださいよ、もー！=If you're not going to do anything, don't take up my time, damn it!
+え？　これで終わり？　やったー！　あなたさんみたいな人にもいいところはあるんですねぇ！=What? That's it? Yay! I guess people like you have their good points too!
+隷属{0}=Slavery {0}
+えっと……もしかして、わたしが知らないだけで……こーいうエッチもあるんでしょーか？=Is there such a thing as this kind of sex that I just don't know about?
+あなたさんが今日はやめておくって言うのならー……わたしは黙って従いますけどー……なんかちょっとだけ消化不良です……=If you say not to do it today, I'll obey without saying a word, but I'm a little indigestion...
+依存{0}=Depends{0}
+こんな気持ちのままお預けされるのは切ないですけど……その分、次回は燃え上がりますもんね。期待しています、ふふふっ。=It's sad to be left with such a feeling, but... That's why the next time will be more exciting, right? I'm looking forward to it, phew.
+わたしへの愛が冷めたわけじゃ……ないですよね？　もしそうだとしたら……わたし……わたし……はぅ……=It's not like your love for me has cooled down... Right? If that's the case... Then I... I... Ah...

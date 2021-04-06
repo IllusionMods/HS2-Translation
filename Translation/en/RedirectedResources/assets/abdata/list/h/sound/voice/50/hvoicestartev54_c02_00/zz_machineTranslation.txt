@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+まら……あしょぶんれすれ……(まだ、遊ぶんですね)=(You still play, don't you?)
+いっはい……やしゅみはいれす……(一回休みたいです)=(I want to take a break)

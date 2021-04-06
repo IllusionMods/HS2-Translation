@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Bath normal {0}
+あ……貴方もお風呂でしょうか？=Oh, are you taking a bath, too?
+ここでお会いすると、ドキドキ致します……=I'm thrilled to see you here...
+風呂普通用件{0}=Bath normal matters {0}
+えっと……私に何かご用でも？=Um... Can I help you?
+もしかして、私をお探しだったのでしょうか？　勘違いでしたら、申し訳ございません。=Perhaps you were looking for me? I apologize if this is a misunderstanding.
+風呂好意{0}=Bath Favors {0}
+えっと……あまり見ないで下さいまし……これから綺麗にする所でしたので……=Well... Don't look too hard... But I was just about to clean up...
+折角ですので、お背中でもお流し致しましょうか？=Would you like me to wash your back for you?
+風呂好意用件{0}=Bath favors {0}
+……思い違いでなければ、私に何かご用でしょうか？=... If I'm not mistaken, what can I do for you?
+もし何かございましたら、ご遠慮なさらずにお申しつけ下さいね。=If there is anything you need, please don't hesitate to let us know.
+風呂享楽{0}=Bath Enjoyment {0}
+覗きが目的で来られたのですよね？　うふふ、隠さなくても結構ですよ。=You came here to peek, didn't you? You don't have to hide it.
+破廉恥な事をお考え中ですね？　お顔を見れば分かります。=You're thinking of something shameful, aren't you? I can see it in your face.
+風呂享楽用件{0}=Enjoying the Bath {0}
+あら……私にご用があったのでしょうか？=Oh... Did you want to see me?
+もしかして、貴方の目的は私だったのですか？=Could it be that you were after me?
+風呂嫌悪{0}=Bath Aversion {0}
+っ……貴方に出くわすとは、ついていません。=I didn't think I'd run into you.
+……覗きに来られたのですか？　最低です。=... Have you come to take a peek? You're the worst.
+風呂嫌悪用件{0}=Bath Abomination {0}
+……何故、出て行かないのです？　まさか、私に用があるのですか？=... Why don't you just leave? Don't tell me you have some business with me?
+……何かあるのでしたら、早く仰って下さいませんか？　私も暇ではございませんので。=... If there's something you want to tell me, please do so quickly. I don't have time for this either.
+風呂隷属{0}=Bath Slavery {0}
+この様な場所でお会いすると、少々照れくさいです。=It's a little embarrassing to meet you in a place like this.
+ぁ……その下半身の膨らみは……私で、興奮して下さった証でしょうか？=Is that bulge in your lower half a sign that I've turned you on?
+風呂隷属用件{0}=Bath Slavery {0}
+もしご用件がございましたら、何なりとお申し付け下さい。=If you need anything else, please let us know.
+えっと……私でお力になれる事でしたら、微力ながらお手伝い致します。=If there is anything I can do to help you, I will do my best to help you.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+HしようA普通{0}=Let's do H. A. Normal {0}
+え、ええ、私は、その、構いませんけれど……=Well, yeah, I, uh, I don't mind, but...
+はい、喜んで……あ、宜しいでしょうか？　３人ですることになってしまいますが……=Yes, I'd be happy to... Oh, may I? It'll just be the three of us, but...
+HしようA好意{0}=I'll do you a favor.
+あなたがしたいのでしたら、私に否やはございませんわ……=If that's what you want, I don't have a choice...
+まあ、３人でなんて大胆ですわ……私は良いと思いますけれど、いかが？=Well, the three of us are daring... But I think it's a good idea, don't you?
+HしようA享楽{0}=Let's have some fun.
+うふふ、３人でなんて、素敵ですわね……♪　是非、致しましょう……♪=Mmmm, the three of us together would be wonderful ♪ Let's do it ♪
+私たちを見て、催してしまったのですね、もちろんお受けいたしますわ……♪=You've seen us, you've had it, of course we'll accept ♪
+HしようA嫌悪{0}=Let's H. A. Hate {0}
+私は構いませんけれど、この方がお嫌なのではなくて……？=I don't mind, but it's not that you don't like him?
+どういたしましょう？=What do you want me to do?
+HしようA隷属{0}=Let's H A slave {0}
+はい、あなたが３人でしたいと仰るなら。=Yes, if you want the three of us.
+わかりました、できればふたりでご奉仕させて頂きたいのですけれど、宜しいでしょうか？=Okay, I would like to serve you both if possible, is that okay?

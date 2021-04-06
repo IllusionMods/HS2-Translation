@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+へぇ……ちょっと興味あるかも。=Hmm... I might be interested in that.
+なんか……危ない話してる？=Are we talking about something... Dangerous?
+好意{0}=Favors {0}
+それはそれで、凄いと思うけど……=That would be awesome, but...
+私はそこまで……出来るかなぁ……？=I don't know if I can... Do that much?
+享楽{0}=Enjoyment {0}
+なにそれ、流石にやり過ぎじゃない？=What is that? Isn't that a bit much?
+おー、なんか……凄いね……=Ooh, that's kind of... Awesome...
+嫌悪{0}=Disgust {0}
+うわ……どん引き……それ本気？=Wow... That's a bit of a stretch... Are you serious?
+いやー……冗談でもそれはないわー。=Oh no... I'm kidding, but that's not going to happen.
+隷属{0}=Slavery {0}
+そういうね。うんうん、分かる分かる。=That's right. Yeah, yeah, I know.
+そうそうそうそう、いいねいいね！=Yeah, yeah, yeah, yeah, yeah. Good, good, good!

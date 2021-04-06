@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+あー、なんか他の女の匂いがするー。ずっこーい！　アンタだけ気持ちよくなるとか許さないから……アタシを気持ちよくするのが、アンタの役目でしょ！=Oh, I can smell another woman's scent. That's creepy! I won't allow you to be the only one who feels good... You're supposed to make me feel good!
+へぇー、アタシのいない所でお楽しみですかぁ？　そんなん許されないよねぇ？　これはちょっと、躾け直す必要があるわ。うん、今すぐ。=Oh, you're having fun where I'm not? That's not allowed, is it? This is something that needs to be redisciplined. Yeah, right now.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+おっすー。今日は二人でお出迎えだよ。=Whoa. The two of us are here to welcome you today.
+じゃーん。なんと、今日は特別ゲスト付きです。=Ta-da! Today we have a special guest.
+前フリA好意{0}=Pretense A Favor {0}
+やっほ。なに？　ガールズトークに混ざりにきたん？=Yoo-hoo. What? Did you come to join the girl talk?
+お、来たね。丁度アンタの話してたとこ♪=Hey, you're here. I was just talking about you ♪
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+噂をすればってやつかな～。有名人のお出ましだ～♪=I guess that's what you get for talking about it. There's a celebrity in town ♪
+やっと来たね～。アタシら、アンタを待ってたんだよ～。=You've finally arrived! We've been waiting for you~.
+前フリA嫌悪{0}=Pretense A Disgust {0}
+うわ、来たよ……折角楽しい話をしてたのになぁ……=Wow, here he is... We were just having a nice talk...
+なに？　呼んでないけど？　女子の輪に入ってこないでくれない？=What? I didn't call you. Can you please not come into the girls' circle?
+前フリA隷属{0}=Prelude A Slavery {0}
+ほら来たじゃん。アタシが電波で呼び寄せたんだよ♪=There you are. I'm the one who brought you here by radio ♪
+ナイスタイミング♪　今日はアンタがいないねーって、話してたとこ。=We were just talking about how you're not here today ♪

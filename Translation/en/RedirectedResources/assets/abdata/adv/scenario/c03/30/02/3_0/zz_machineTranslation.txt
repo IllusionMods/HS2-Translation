@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+返答肯定1普通{0}=Reply affirmative 1 normal {0}
+そうそれ！　やった、分かってくれる人がいた♪=That's it! I've found someone who understands me ♪
+でしょでしょ？　やっぱそーだよね♪=Isn't it? I'm sure it is ♪
+返答肯定1好意{0}=Reply Affirmative 1 Favor {0}
+あーよかったー。お前と同じだ～♪=Oh, thank goodness. I'm just like you ♪
+えへ、お前と意見が合っちゃったね♪=Well, I guess you and I see eye to eye ♪
+返答肯定1享楽{0}=Reply Affirmation 1 Enjoyment {0}
+だよね？　もうそうとしかならないよね？=Isn't that right? That's the only way to go, right?
+お前ってヤツは、やっぱり私の理解者だよ♪=You're the one who understands me ♪
+返答肯定1嫌悪{0}=Reply Affirmative 1 Disgust {0}
+あはは、そーなんだー？=Haha, is that so?
+あーあ、その答えはブーメランなんだけどなー。=Oh, that answer is a boomerang, though.
+返答肯定1隷属{0}=Reply Affirmation 1 Slavery {0}
+あ、一緒……あはは……ちょっと恥ずかしいね。=Oh, we're together... Haha... That's a little embarrassing.
+お前と意見が合うなんて、ちょっと珍しいかもね。=It's a little unusual for me to agree with you.
+返答否定1普通{0}=Reply negation 1 normal {0}
+えー、ほんと？　そーなるかなー？=Oh, really? Do you think that'll happen?
+それはどうなん？　本当にそれでいいの？=What about it? Are you sure that's what you want?
+返答否定1好意{0}=Reply Negative 1 Favor {0}
+うーん、ちょっと……理解しがたいかなぁ……=Well, it's just... It's hard to understand...
+まぁ……人それぞれってことにしとこっか。=Well... To each his own, I suppose.
+返答否定1享楽{0}=Reply negation 1 enjoyment {0}
+あれ、違った？　そっかー、違うかー。=Was that different? Oh, I see... No.
+えぇっ、絶対お前が間違ってるって……=Oh, I'm pretty sure you're wrong...
+返答否定1嫌悪{0}=Reply Deny 1 Dislike {0}
+はいはい、お前がそうならそれでいいんじゃない。=Yes, yes, if that's you, that's fine.
+ふぅん……=Hmm...
+返答否定1隷属{0}=Reply negation 1 slavery {0}
+あー、そうなっちゃう？　うーん、合わないねぇ……=Oh, you're gonna do that? Well, it doesn't fit...
+えっとー、まぁ全部が一緒じゃなくてもね……うん。=Well, it doesn't have to be all the same... Yeah.

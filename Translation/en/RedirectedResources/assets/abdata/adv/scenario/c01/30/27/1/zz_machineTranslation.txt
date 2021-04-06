@@ -1,0 +1,28 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あなたが気持ち良かったなら、それで十分だわ。=If it made you feel good, that's good enough for me.
+あなたに喜んでもらえたなら、私もうれしいわ。=I'm glad you're happy with it.
+良かった、あなたにイってもらえてうれしいわ。=Good, I'm glad you came.
+好意{0}=Favors {0}
+あなたがイってくれたなら、私も幸せよ。=If you come, I'll be happy.
+嬉しいわ、あなたに感じてもらえたなんて。=I'm glad you could feel it.
+あなたの快感の役に立てたのね、よかったわ。=I'm glad I could be of service to your pleasure.
+享楽{0}=Enjoyment {0}
+気持ち良かったでしょ？　私もうれしいわ。=It felt good, didn't it? I'm happy for you.
+あなたにイってもらえて良かったわ、私もイキそうだったもの。=I'm glad you came, because I was about to come too.
+あなただけイったみたいね。感じてもらえてよかったわ。=It looks like you were the only one who came. I'm glad you could feel it.
+嫌悪{0}=Disgust {0}
+気持ち良かったみたいね？　なら、これでおしまいにしましょう。=Looks like it felt good, huh? Then let's get this over with.
+もうイったんでしょ？　だったら満足したんじゃないの。=You already came, didn't you? Then you must have been satisfied.
+十分楽しんだみたいね？　私もこれで終わりにして欲しいわ。=Looks like you've had your fun, huh? I hope you're done with me, too.
+隷属{0}=Slavery {0}
+あなただけでもイってくれてよかったわ、ウフフ。=I'm glad you at least came, ugh.
+私の身体で、あなたを気持ちよくできたみたいね。=It looks like my body was able to make you feel good.
+嬉しいわ、イってもらえて……私とのエッチも悪くないでしょ？=I'm so glad you came... Having sex with me isn't so bad, is it?
+依存{0}=Depends{0}
+ほら、私の身体でイケたでしょ？　もう、離れられないわよ。=See, now you can cum on my body, can't you? You're never going to get away from me.
+私の身体でイってくれるなんて最高に幸せよ、ウフフ。=I'm so happy that you're cumming on my body, ugh.
+気持ち良かったでしょ？　やっぱり私たち最高のパートナーなのよ。=Didn't that feel good? We're the best of partners after all.

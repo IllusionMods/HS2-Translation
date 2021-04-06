@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+依存{0}=Depends{0}
+なんだなんだ？　まさかオレに本気で惚れちまったのか？=What the hell? You're not seriously in love with me, are you?
+こんなガサツな女のどこが気に入ったんだよ？　ん？=What do you like about this crass woman? Hmm?
+ほら、答えられねぇのか？　そんなんじゃ無理矢理襲われても文句言えねぇぞ？=See, you can't answer? You can't complain about being forcibly attacked like that, can you?
+へぇ、まさかオレがこんな女々しい所に誘われるとはねぇ……=Wow, I never thought I'd be invited to such a feminine place...
+どんだけ祈っても、神様は助けてくれねぇぞ？=No matter how much you pray, God won't help you, okay?
+そもそもオマエはオレのものだしな……今更誓いもクソもねぇだろ。=You're mine to begin with, so there's no point in swearing an oath now.
+神聖な場所を汚しにくるなんて……オマエはいけない奴だなぁ。=You're a bad guy, coming here to defile a sacred place.
+そういう罰当たりなやつには、たっぷりお仕置きが必要だ。=Those punishers need a good spanking.
+オレが神様の変わりに、オマエの懺悔を聞いてやるよ。=I'll listen to your confession instead of God.

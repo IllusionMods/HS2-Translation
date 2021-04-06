@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+そのまま行っちゃうのね？　どうすればいいのよ。=You're just going to leave, aren't you? I don't know what to do.
+ちょっと、このまま放置するつもりなの？　それは、それでいいけど。=Wait, you're just gonna leave it like that? That's what I'm talking about.
+ちょっと、助けてくれないのね？　どういうつもりなのよ。=Hey, you're not gonna help me, are you? I don't know what you think you're doing.
+いいわ、あなたが放置してくれるなら……私、一人で悶えてるわ。=Okay, if you'll just leave me alone I'll just writhe in agony on my own.

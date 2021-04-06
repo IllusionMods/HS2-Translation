@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+ふ～ん、そうなのか。……あ、よぉ！=Hmm, I see... Oh, yo!
+そんな話もあるんだな……お、こんちは！=There's a story about that... Oh, hello!
+前フリA好意{0}=Pretense A Favor {0}
+それは面白いな。……ん？　お前も来てたのか、こんちは。=That's interesting... Hmm? You're here too, aren't you?
+いいな、その話……あ、お前だったのか、元気そうだな。=I like that story... Oh, that was you, you look good.
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+そうか、なるほどねぇ……ん？　なんだお前、女がいるからやって来たのか？=I see, I see... Hmm? What, you came here because of a woman?
+その話、もうちょっと詳しく……ああ？　お前もここに来てたんだな。=Could you be a little more specific about that story... Ah? You've been here too, haven't you?
+前フリA嫌悪{0}=Pretense A Disgust {0}
+正直言って、良くわかんねぇな……ん？　何んだお前、何か用かよ？=Honestly, I don't know what's going on... What's up, man? What do you want?
+本当にそう思ってんのか？　……あ、なんだよ？　話の途中なんだけど。=You really think so? Oh, what the hell? I'm in the middle of a conversation.
+前フリA隷属{0}=Prelude A Slavery {0}
+分からなくはないか……ん？　やっぱりお前も来てたのか。=I don't know... Hmm? I knew you were here too.
+確かに、それも悪くないな。……ん？　お前か、よく来たな。=Sure, that's not so bad... Hmm? You, you're here.

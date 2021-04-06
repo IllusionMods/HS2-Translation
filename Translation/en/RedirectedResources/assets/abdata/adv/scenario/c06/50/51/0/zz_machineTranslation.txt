@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+享楽{0}=Enjoyment {0}
+身動きが取れないんですのね？　どうして差し上げようかしら？=You're stuck, aren't you? What can I do for you?
+あなたも、興奮しているようですわね。=You, too, seem to be excited.
+よろしいですわ……私が、悶えさせて差し上げます。=Very well... I will make you writhe.
+あら……素敵な恰好ですわね。=Oh my... You're dressed wonderfully.
+見ているだけで、なんだか興奮してまいりましたわ。=I'm getting excited just looking at it.
+期待していただいても、よろしいですわよ。=You can count on it, you know.
+身動きが取れないなんて、大変ですわね。=It's so hard to get around, isn't it?
+私が、助けて上げられればよろしいのですが……=I wish I could help you, but I can't.
+残念ながら、お助けすることはできないんですのよ……うふふ。=Unfortunately, I can't avoid you... Ugh.

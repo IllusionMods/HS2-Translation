@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ここからはロビーにてパートナーをお呼びして頂くか、もしくは自らの足でパートナーの居る場所へと出向く必要がございます。=From here, you will need to call your partner in the lobby or go to the partner's location on your own.
+どちらを選ぶかはお客様の自由となっておりますが、本サポート中に限り、まずはパートナーの呼び出しから始めて頂きたく思います。=It is up to you to choose which one you would like, but we would like you to start by calling your partner only during this support.
+それでは、ロビーへと向かいましょう。=Now, let's head to the lobby.

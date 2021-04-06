@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+それでは、至らぬ点がございましたらいつでもご指導くださいましね。=If you have any questions, please do not hesitate to contact me.
+本日もたくさん学ばせて頂きます、どうぞ宜しくお願いいたします。=I will learn a lot today, thank you very much.
+好意より20～49{0}=20-49{0} from favor
+まだまだ不慣れではございますが、あなたの為にも尽力させていただきます。=I am still new to this, but I will do my best for you.
+いずれ立派な妻となり母となるため、本気で臨ませていただきますわ。=I'm going to take this seriously so that I can eventually become a great wife and mother.
+好意より50～79{0}=50-79{0} from favor.
+歩み寄る機会を作って頂き感謝いたします、よいお時間にいたしましょう。=I thank you for the opportunity to approach you.
+初夜を済ませたばかりの初々しい夫婦のようにぎこちない距離感も楽しめたらと存じます。=I hope you can enjoy the awkward distance like a couple who just had their wedding night.
+好意より80～100{0}=80-100{0} over favoritism
+いち早くあなたとの夜伽に慣れて、お互いの身体で愛を伝え合う関係になりたいですわ。=I would like to get used to having a nighttime companionship with you as soon as possible, so that we can communicate our love to each other with our bodies.
+あなたを愛する心に、身体が追い付くよう何度も身体を重ね合いましょう。=Make love to each other over and over again so that your body can catch up with your love for you.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+あなたに喜んでいただけると私も嬉しいのです、後は身体が行為に慣れることを待つばかりですわ。=I'm glad you're happy, and I'm just waiting for my body to get used to the act.
+私の奉仕で、あなたが快楽を得てくださるのは嬉しいのですが……この胸の高鳴りは一体……？=I'm glad that you're getting pleasure from my services, but what is this excitement in my heart?
+享楽より50～79{0}=50-79 from Kyouraku {0}
+夜伽も生け花やピアノと同じですね、本日も少しずつコツを掴んで参りますわ♪=A night vigil is just like a flower arrangement or a piano, I'll get the hang of it little by little today ♪
+まだ拙い奉仕ではございますが、たくさん練習して参りましたので、是非お試しになってくださいね♪=I'm still not very good at serving, but I've been practicing a lot and I hope you'll give it a try ♪
+享楽より80～100{0}=80-100{0}
+ひとりでいるときは大人のおもちゃでご奉仕の練習をしておりますの、成果をご覧になられます？=When I'm alone, I've been practicing with adult toys, would you like to see the results?
+ご奉仕は花嫁修業の一環です、どうか私に実践の機会を与えてくださいまし♪=Service is part of my bridal training. Please give me the opportunity to practice it ♪
+嫌悪より20～49{0}=From disgust 20-49{0}
+その……本日は無茶をすることのないようお願いできますでしょうか……=Well... Could you please try not to do anything rash today...
+本日はしっかりとした性行為の勉強をさせて頂きたく存じます、私たちはパートナーなのですから……=Today, I would like to give you a solid study of sexual behavior, because we are partners...
+嫌悪より50～79{0}=50-79 from disgust {0}
+私が不慣れだからといって、優しくはしてくださらないのでしょうね……？=You won't be nice to me just because I'm new to this?
+乱暴は……やめてくださいまし。=Please don't be violent.
+嫌悪より80～100{0}=80-100{0} than disgust.
+もうお会いすることは二度とないと思っていたのですが……=I thought I would never see you again, but...
+本日はお相手させていただきますが、どうかこれきりにして頂きたく存じます。=I will be your companion today, but please let this be the last time.
+隷属より20～49{0}=From slavery 20-49{0}
+まだまだ未熟者ではございますが精一杯尽くさせて頂きますわ。=I am still inexperienced, but I will do my best.
+真に献身的な女とは何か、本日もご教授いただけますと幸いです。=I hope you will continue to teach us today what a truly devoted woman is.
+隷属より50～79{0}=50-79{0} from servitude.
+まだまだ教わることの多い身ではございますがこのご恩はいつか必ずお返しいたしますわ。=I still have a lot to learn from you, but I will definitely repay you for this favor someday.
+不慣れな私を丁寧に導いてくださって有難うございます、本日も宜しくお願いいたします。=Thank you very much for guiding me so carefully, I am not used to this, and I look forward to working with you again today.
+隷属より80～100{0}=80-100{0} from servitude.
+理想像がわかっている分、現実の私を省みると不甲斐なくなりますが、一歩一歩近づいて参ります。=As much as I know what the ideal image is, I feel disappointed when I reflect on my reality, but I will get closer step by step.
+良妻賢母は一日にしてならずですわ、本日も手取り足取り、導いてくださいますか？=A good wife and a wise mother do not become one in a day, so will you guide me today?

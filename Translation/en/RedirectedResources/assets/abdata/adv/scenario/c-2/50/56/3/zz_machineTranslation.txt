@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ふぅ……さすがに、少々疲れてしまいました……=Hmmm... As expected, I'm a little tired...
+お客様……大変気持ち良いのですが、もう少々、加減をしていただけると助かります……=Sir... It feels very good, but it would be nice if you could slow it down a bit...

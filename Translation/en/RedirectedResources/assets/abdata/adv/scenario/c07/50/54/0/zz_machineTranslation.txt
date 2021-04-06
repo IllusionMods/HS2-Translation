@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+おぃ、おぇをどうしゅるつもりら？　どうしぇこぇは、たらのさんぽじゃないんらろ？=Hey, what are you going to do with me? What's the matter with you? You're not a tiger, are you?
+すぅなら、はぁくしろ……じらしゃれるろはしゅきじゃないんら……=If you're going to do this, you're going to have to do it... Because it's not the right thing to do...
+んぅ……オレに犬ににゃれって言うのか？　おまぇ、ちょうひにのぃしゅぎらぞ？=You want me to turn into a dog? You're a little too young for that, aren't you?
+しぇいぜいかいいにゅにかみちゅかれらいように……きをちゅけるんらな……=I don't know what to do...
+おまぇは……どこまれおぇをはじゅかしめぅりゅもりなんら……=You... Are the only one who can make me feel better about myself.
+きもひよぐさぇうと、おぇがおぇでなくなっれくんら……だかりゃ、やめれくぇ……=I can't take it anymore... So stop it...

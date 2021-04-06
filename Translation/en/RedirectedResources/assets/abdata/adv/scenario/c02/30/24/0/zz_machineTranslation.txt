@@ -1,0 +1,45 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+はじめまして、あなたが私のお相手ですか。　……まぁ、別に誰でもいいんですけど。　ほら、さっさと始めて下さい。=Nice to meet you, are you my partner? Well, I don't really care who you are. Here, please get started.
+よろしくお願いします。　お互い、身体だけの関係と割り切ってエッチしていきましょう。=I'm looking forward to working with you. Let's have sex with each other, and let's keep it as a physical relationship only.
+私を指名したんですね。　…………どうしたんですか？　早くやる事ヤってしまいましょう？=You picked me, didn't you? What's going on? Let's just get it over with, shall we?
+好意{0}=Favors {0}
+声、かけてくれたんですね。　……ほ、ほら、早くエッチしちゃいましょう？=You called out to me, didn't you? Hey, come on, let's have sex soon, shall we?
+ふぅん……まぁ、あなたになら身体を許しても問題なさそうですね、よろしくお願いします。=Hmmm... Well, it looks like I won't have a problem allowing myself to be bodily with you, thank you.
+あなたとするんですね。　……何ですか？　別に誰も嫌だなんて言ってないじゃないですか。=It's with you, isn't it? What is it? No one said anything about not wanting to.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+はじめまして。　……とりあえず、楽しむ事だけを考えましょう？=Nice to meet you... For now, let's just think about having fun, okay?
+こんにちは。　あなたの性癖に興味はありませんけど、やるだけやってみましょうか。=Hello. I'm not interested in your sexuality, but let's just do it, shall we?
+享楽より50～79{0}=50-79 from Kyouraku {0}
+なるほど、初対面の相手とのプレイですか。　……まぁ、いいんじゃないですか？=I see. So you're playing with someone you've never met before? Well, it's okay, isn't it?
+初めて出会った相手に期待を寄せるなんて、あなたもなかなかエッチですね。=You are quite naughty to have such high expectations for someone you have just met.
+享楽より80～100{0}=80-100{0}
+あなたは、私に何をされてもいいという覚悟の上でここに来たんですよね？=You came here with the determination to do whatever it is you want to do to me, didn't you?
+別に、初めての相手でも遠慮する必要なんてありませんから。　……お互いに。=There's no need to hold back, even if it's your first time... Each other.
+嫌悪より20～49{0}=From disgust 20-49{0}
+……私は、ここでならセックスが出来ると聞いて来ただけですので。=... I only came because I heard that we could have sex here.
+……何見てるんですか？　そんな暇があったら、さっさとする事しましょう？=... What are you looking at? If you don't have time for that, why don't you just get on with it?
+嫌悪より50～79{0}=50-79 from disgust {0}
+別に、私を選んでもらわなくても構わなかったんですが……=You didn't have to choose me, but...
+はぁ、わかってますよ、すればいいんでしょう？=Huh, I know, I know. Why don't I just do it?
+嫌悪より80～100{0}=80-100{0} than disgust.
+いやらしい顔……これだから男は……=That's why men are so...
+はぁ……例え気に入らない相手でもしなくちゃいけないのがここのルールですから……=Huh... Even if you don't like someone, you have to do it, because that's the rule here...
+隷属より20～49{0}=From slavery 20-49{0}
+あなたが、私に気持ちいいセックスを教えてくれるんですね？　よろしくお願いします。=You're the one who's going to teach me how to have good sex, aren't you? I'm looking forward to it.
+あの、するからには気持ちよくしてもらわないと困りますので……お願いします。=Well, since I'm going to do it, I need you to make me feel good, so... Please.
+隷属より50～79{0}=50-79{0} from servitude.
+はぁ、男を見るだけで身体がうずき出すなんて……ほんと、自分が嫌になります……=I really hate myself that my body starts tingling at the mere sight of a man...
+こんにちは。　では早速しましょうか。　……これ以上は待ち切れそうにないですし。=Hello. Shall we get on with it? I don't think I can wait any longer.
+隷属より80～100{0}=80-100{0} from servitude.
+初対面の人に言う事じゃないんですけど……お願いします、どうか私の事、滅茶苦茶にして下さい……っ=I know it's not something I'm supposed to say to someone I've never met before, but please, please, please make a mess of me...
+挨拶なんていりませんから、早く私とセックスして下さい、お願いします。=I don't need to say hello, just have sex with me, please.
+壊れ{0}=Broken {0}
+………………=...
+はぃ……ぇっち、するんですね……=You're going to do that, aren't you?
+依存{0}=Depends{0}
+あの、私、エッチな事でも何でもしますから……ずっと傍にいて下さい、お願いします……っ=Well, I'll do anything, even naughty things... Please stay with me forever, please...
+私を愛して下さい。　私を繋ぎ止めて下さい。　私を……離さないで下さい……っ=Please love me. Please hold me together. Don't let me go...

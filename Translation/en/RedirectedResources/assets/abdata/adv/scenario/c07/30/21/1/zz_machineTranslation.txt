@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+いい返事だ。まぁ、断るなんて選択肢はそもそもオマエには無いんだがな。=Good answer. Well, you don't have the option of refusing, do you?
+よし、それでいい。素直なやつは嫌いじゃないぞ。他の女に浮気したことは、まぁ多目にみてやる。=Okay, that's good. I don't mind an honest man. I'll cut you some slack for cheating on me with another woman.

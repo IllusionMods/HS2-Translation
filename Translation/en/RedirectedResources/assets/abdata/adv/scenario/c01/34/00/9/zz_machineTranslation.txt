@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+えっと……あなたさえよければエッチしない？=Well... If it's okay with you, will you have sex with me?
+その、なんだかエッチな気分になったって言ったら引いちゃう？　それとも付き合ってくれる？=I mean, if I told you that I felt like having sex with you, would you be turned off? Or would you go out with me?
+好意{0}=Favors {0}
+ねえ、お話だけで終わりじゃないでしょ？　エッチしたいって顔に書いてあるわ。=Hey, it's not just a story, is it? It's written all over your face that you want to have sex.
+わがままを言うと、もう少しあなたと一緒にいたいわ。……あなたの温もりを感じていたいの。=Selfishly, I'd like to spend a little more time with you... I want to feel your warmth.
+享楽{0}=Enjoyment {0}
+ふふ、あなたと話してたら身体が火照ってきちゃった。エッチ、付き合って貰うわよ？=I was talking to you, and my body was burning. I'm going to have sex with you, okay?
+やっぱり、あなたとは話だけじゃ物足りないわ。エッチしましょ、エッチ。=After all, talking is not enough with you. Let's have sex, let's have sex.
+嫌悪{0}=Disgust {0}
+どうせエッチに誘うのよね？　だったら始めましょ。時間がもったいないわ。=You're going to ask me to have sex with you anyway, aren't you? Then let's get started. It's a waste of time.
+あなたがエッチに誘おうとしていたのはバレバレよ。はぁ、したいなら、最初から言えばいいじゃない。=It's obvious that you were trying to get me to have sex. Huh, if you want to, why don't you just say so from the beginning?
+隷属{0}=Slavery {0}
+……もしかして、エッチしたくなった？　ふふ、大丈夫よ、私も同じ気持ちだもの。=Do you want to have sex with me? It's okay, I feel the same way.
+話しているうちに、どんどん気分が高まってきちゃったわ。……どうやら、あなたも同じみたいね。=I'm getting more and more excited as we speak... Apparently, so are you.

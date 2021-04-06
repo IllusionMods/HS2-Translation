@@ -1,0 +1,28 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あれ？　なんだよ、もう終りなのか？=Huh? What, is that the end of the line?
+お前だけ満足したみたいだな……まぁ、いいけど。=Looks like you're the only one satisfied... Well, okay.
+なんだよ。これで終わりだなんてすげぇ物足りないぜ……=What the hell? I can't believe this is the end...
+好意{0}=Favors {0}
+俺の身体で気持ちよくなってくれたなら、俺も嬉しいよ。=If my body made you feel good, I'm happy for you.
+お前が俺で感じてくれたなら……それだけで充分だぜ。=If you can feel it in me that's good enough for me, man.
+良かった。お前に喜んでもらえるよう、これからもがんばるぜ。=Good. I'll keep working hard to make you happy.
+享楽{0}=Enjoyment {0}
+なんだよ、お前だけしかイってないじゃん。俺ももっと気持ち良くなりたかったぜ。=What the hell, you're the only one who came. I wanted to feel better, too.
+お前さぁ、俺で感じすぎなんじゃないのか？　まぁ、いいけどな。=You know, I think you're feeling too much for me. Well, that's okay.
+次は絶対一緒に気持ち良くなろうぜ。=Next time, we'll definitely feel better together.
+嫌悪{0}=Disgust {0}
+イケて良かったな、俺も疲れなくて良かったよ。=I'm glad you made it. I'm glad I'm not too tired.
+お前が射精したかっただけなら、別に俺はいなくてもよかったんじゃないのか？=If all you wanted to do was ejaculate, you didn't need me to be there, did you?
+自分だけいって終わりなら、次からは一人でやってくれよ。=If you're done with just yourself, do it alone next time.
+隷属{0}=Slavery {0}
+なんだ、俺はまだだったんだけど……お前がいったならそれでいいかな。=Well, I wasn't there yet, but I guess that's okay if you are.
+今回いけなかった分、次は思いっきり感じさせてもらうからな？=If I can't do it this time, I'll make you feel it the next time, okay?
+自分だけ満足して終わるなんて……結構いじわるなんだな。=You're quite a tease, aren't you, to end up satisfying only yourself?
+依存{0}=Depends{0}
+お前をいかせられるなんて、最高に盛り上がったぜ。=It was so exciting to be able to make you come, man.
+お前にいってもらって、すげぇ嬉しいよ。俺は大満足だぜ。=I'm so glad you said that. I'm very happy.
+お前が射精したくなったら、いつでも俺が手伝ってやるからな。=Whenever you feel like ejaculating, I'll be there to help you.

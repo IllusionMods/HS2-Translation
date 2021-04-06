@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Disgust {0}
+まったく、あなたには困った物ね。=You're a real pain in the ass, you know that?
+あんな事するなら、二度と一緒に電車なんか乗らないから。=If you do something like that, I'll never get on a train with you again.
+電車で無理やりなんて……何考えてるのよ。=What were you thinking, forcing me on the train?
+おかげで……すごく恥ずかしかったんだから。=It made me... Very embarrassed.
+電車内であんな事するなんて、考えられないわ。=I can't imagine doing something like that on a train.
+今度あんな事したら、本気で怒るわよ。=If you ever do anything like that again, I'll get really angry.

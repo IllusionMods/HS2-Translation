@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+はひ、ひ……わたし、わたひぃ……♪=Hahi, hi... Me, watashii ♪
+あは、せっくす……たのしぃ……あはは……♪=Haha, smooch... Fun... Haha ♪
+あひ……えっち、すきぃ……もっと、もっとぉ……♪=Ahi... Love it... More, more ♪

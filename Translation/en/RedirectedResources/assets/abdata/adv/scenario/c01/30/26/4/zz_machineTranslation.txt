@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+苦しいとか、痛いとかが、少しだけ感じるようになってきたわ。=I'm starting to feel a little less painful, a little more sore.
+痛みでも、身体が熱くなるのね。=Even the pain makes you feel hot.
+好意{0}=Favors {0}
+あなたに痛くされても、だんだん気持ち良くなってきたわ。=It's getting better and better, even though you're making me hurt.
+あなたがしたいことなら、痛いことでもちょっとは耐えられるわ。=I can endure a little pain if that's what you want to do.
+享楽{0}=Enjoyment {0}
+また私を痛めつけたいの？　……わかったわ。=You want to hurt me again? Okay, okay.
+痛いことに慣れるなんて、想像してなかったわ。=I never imagined I'd get used to the pain.
+嫌悪{0}=Disgust {0}
+苦痛にも慣れてきたわね、あんまり慣れたくなかったんだけど……=I'm getting used to the pain. I didn't want to get too used to it, but...
+どうせまた痛め付けるんでしょ……=You're going to hurt him again anyway...
+隷属{0}=Slavery {0}
+あなたのお望みのまま、無茶苦茶にしていいのよ。もう、慣れちゃったから、うふふ。=You can go as crazy as you want, you know. I'm used to it now, ugh.
+どんなに激しい要求にも応えて見せるわ、ウフフ……=I'll meet your every demand, no matter how intense.

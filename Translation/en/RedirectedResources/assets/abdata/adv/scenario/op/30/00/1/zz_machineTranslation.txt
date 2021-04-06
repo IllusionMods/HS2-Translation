@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こちらがお客様の御部屋になります。=This is your room.
+行動を起こす際の事前の準備や確認等をして頂く際にご利用下さいませ。=Please use it to prepare and confirm your actions before you take them.
+また、私のお力が必要な際はいつでもお申し付けください。=Please let me know if you need my help again at any time.
+それでは早速ですが、パートナーとお会いする為の準備をしていきましょう。=So let's get started and prepare to meet your partner.

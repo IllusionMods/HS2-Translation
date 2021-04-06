@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Disgust {0}
+……この電車は、一体どちらに向かっているのですか？=... Where the hell is this train going?
+この施設でたくさん人が乗っている状況……正直に申して怪しさが満載です。=The situation with so many people in this facility... Honestly, it's full of suspiciousness.
+っ……ここで、致すおつもりなのですか……貴方は本当に卑怯物です。=You're really a coward, you know that?
+先ほどから貴方のものが当たっていて、非常に不愉快なのですが……何とかして頂けないでしょうか？=I've been hit by yours for a while now and I'm very uncomfortable... Can you please do something about it?
+……抜けば収まるなど、冗談は仰らないで下さいね？　これは振りなどではありません。=... Please don't joke that it will go away if you pull it out. This is not a pretense.
+っ……振りではないと申したのに、何を考えているのですかっ……=I said I wasn't pretending, but what are you thinking?
+いかにもお誂え向きなこの状況……貴方の魂胆が見えました。=This situation is just perfect for you... And I can see your intentions.
+どうしてこの様な事を考えつくのですか？　貴方は本当に卑劣で破廉恥です……=How could you think of such a thing? You are truly despicable and disgraceful...
+くっ……ここまで人がいては逃げ場が……いやっ、やめて下さいっ……=There's nowhere to run if there are so many people... No, please don't...

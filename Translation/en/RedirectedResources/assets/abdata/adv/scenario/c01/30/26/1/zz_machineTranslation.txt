@@ -1,0 +1,42 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+いいわよ、一緒にエッチ楽しみましょう。=Okay, let's enjoy sex together.
+やっぱりエッチの前は、まだ少し緊張するわね。=I'm still a little nervous before sex, after all.
+好意より20～49{0}=20-49{0} from favor
+さぁ、一緒に気持ちいいことしましょう。=Come on, let's do something pleasant together.
+あなたと一緒なら、きっと楽しくなれるわ。さあ、始めましょう。=It's going to be fun with you. Let's get started.
+好意より50～79{0}=50-79{0} from favor.
+あなたのためだったら、なんでもしてあげるわ。して欲しいことがあったら言ってね。=I'll do anything for you. If there's anything you want me to do, just let me know.
+あなたとのエッチ、すごく楽しみだわ。さぁ、気持ちよくなりましょう。=I'm really looking forward to having sex with you. Come on, let's make you feel good.
+好意より80～100{0}=80-100{0} over favoritism
+あなたとなら、もっと気持ちのいい経験ができそうね。楽しみだわ。=I'm sure I'll have a much more pleasant experience with you. I'm looking forward to it.
+さぁ、始めましょ。あなたと私の最高の時間よ。=Come on, let's get started. This is the best time for you and me.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+少し恥ずかしいけど、気持ちいいのは嫌いじゃないわ。=It's a little embarrassing, but I don't mind feeling good.
+あなたともっと気持ちよくなりたいから、私、頑張るわ。=I want to feel better with you, so I'll do my best.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+気持ちいいことがしたいの。あなたにも感じてもらいわいのよ。=I want to do something that feels good. I want you to feel it, too.
+あなたに喜んでもらえるように頑張ってエッチするわね。=I'll try my best to have sex with you to please you.
+享楽より80～100{0}=80-100{0}
+あなたとどんなエッチをするのか、想像しただけで感じてきちゃうわ。=I'm starting to feel it just imagining what kind of sex I'm going to have with you.
+最近、あなたとのエッチが楽しみすぎて夢にまで出てきちゃうのよ。=Lately, I've been enjoying sex with you so much that I've been dreaming about it.
+嫌悪より20～49{0}=From disgust 20-49{0}
+そんなにあなたとエッチしたくないんだけど……まぁ、いいわ。=I don't really want to have sex with you that badly, but... Well, okay.
+本当はあんまり気が乗らないけど、別にいいわよ。=I'm really not too keen on it, but I don't mind.
+嫌悪より50～79{0}=50-79 from disgust {0}
+あんまりやる気がないんだけど……仕方がないわね。=I don't really feel like doing much... But I don't have a choice.
+そうね、今だったら特別にしてあげてもいいわ。=Well, I can make it special for you now.
+嫌悪より80～100{0}=80-100{0} than disgust.
+あんまり慣れてないし、そんなに乗り気でもないんだけど。=I'm not really used to it, and I'm not that into it.
+慣れてないんだから、無理やり始めたりしないでね。=You're not used to this, so don't force me to start.
+隷属より20～49{0}=From slavery 20-49{0}
+エッチな事、なんでもしてあげたい気分だわ。=I'm in the mood to do all kinds of naughty things to you.
+あなたの望み、叶えてあげたくなっちゃう。=It makes me want to give you what you want.
+隷属より50～79{0}=50-79{0} from servitude.
+好きなことをしていいのよ。なんにでも応えてあげるわ。=You can do whatever you want. I'll answer to anything you want.
+あなたの希望だったら、どんなエッチでもＯＫよ。=You can have any kind of sex you want, if that's what you want.
+隷属より80～100{0}=80-100{0} from servitude.
+いいわよ、あなたを気持ち良くするためなら、なんでもしてあげる。=Okay, I'll do anything to make you feel better.

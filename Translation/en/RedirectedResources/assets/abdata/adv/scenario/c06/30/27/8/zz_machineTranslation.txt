@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あら……体調が優れないのですか？=Oh... You're not feeling well, are you?
+他にご用事を思い出されまして？=Can I remind you of something else?
+好意{0}=Favors {0}
+愛して頂けないのは名残惜しいですが……あなたが決めたことなら従いますわ。=I'm sorry that you don't love me anymore, but I'll follow your decision.
+あなたからお声がかかる時を心待ちにしておりますわ。=I'm looking forward to hearing from you.
+享楽{0}=Enjoyment {0}
+私は急いでおりませんので、またお呼びくださいまし……♪=I'm in no hurry, so please call me again ♪
+あら、了解いたしました、またお時間のあるときに誘って頂けますか……？=Oh, I understand, can you invite me again when you have time?
+嫌悪{0}=Disgust {0}
+では、これで失礼させて頂きます……=Now, if you'll excuse me...
+それでは、ご機嫌よう。=Have a good day.
+隷属{0}=Slavery {0}
+わかりました、それでは私は下がらせて頂きます。=Okay, I'll leave you to it.
+もし私に出来ることがありましたら何なりとお申しつけくださいまし。=If there is anything I can do for you, please let me know.
+依存{0}=Depends{0}
+あらあら……いつでもお待ちしておりますわぁ……=Oh my... You're always welcome here...
+私への門はいつでも開かれておりますわ、ご安心くださいましねぇ……=The door to me is always open, don't worry...

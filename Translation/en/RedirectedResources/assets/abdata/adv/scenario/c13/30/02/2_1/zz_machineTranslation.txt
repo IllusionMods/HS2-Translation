@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなたはどう思いますか……？=What do you think?
+あなたの考えも聞いていいですか……？=Can I ask you what you think, too?
+私たちのお話にどんな感想を持ちましたか……？=What did you think of our story?
+気に触っちゃいましたか……？=Did I touch your fancy?
+ガールズトークとしてはちょっと過激ですけど、大丈夫ですか……？=It's a bit extreme for girl talk, but is that okay?

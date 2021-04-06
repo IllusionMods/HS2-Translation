@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+返答肯定1普通{0}=Reply affirmative 1 normal {0}
+あなたにそう言って頂けて、安心いたしましたわ。=I am relieved to hear you say so.
+やはりそうなのですね、私もそう思いますわ。=I knew you were right. I agree with you.
+返答肯定1好意{0}=Reply Affirmative 1 Favor {0}
+あら……わかってくださって、嬉しいですわ。=Oh... I'm glad you understand.
+やはり、私たちは感性まで似ておりますわね。=After all, we have similar sensibilities, don't we?
+返答肯定1享楽{0}=Reply Affirmation 1 Enjoyment {0}
+うふふ、それでは今度、そのとおりにいたしますわ……♪=Ugh, I'll do that next time... Ugh
+まあ、それはよいことを聞いてしまいましたわ……♪=Well, I've heard good things about that ♪
+返答肯定1嫌悪{0}=Reply Affirmative 1 Disgust {0}
+それが常識的な答えですわね……=That's the common sense answer...
+そうですか……=Okay, well...
+返答肯定1隷属{0}=Reply Affirmation 1 Slavery {0}
+ほっ、否定的な言葉でなくて安心いたしましたわ。=I'm so relieved that you didn't say anything negative about it.
+わかっていましたが、そう答えて頂けて嬉しいですわ……=I knew it, but I'm glad you answered that way...
+返答否定1普通{0}=Reply negation 1 normal {0}
+あら、少し意外ですわ。=Oh, that's a little surprising.
+まあ、予想していない答えだったので、少し驚いてしまいましたわ。=Well, I wasn't expecting that answer, so I was a little surprised.
+返答否定1好意{0}=Reply Negative 1 Favor {0}
+ええ、あなたならそうお答えになりますわよね。=Yes, I'm sure that's what you would say.
+うふふ、あなたらしい答えですわね。=Ummm, that's a very you answer.
+返答否定1享楽{0}=Reply negation 1 enjoyment {0}
+あら、そうですか？　てっきり、同意して頂けると思ったのですけれど……♪=Oh, really? I thought you would agree with me ♪
+ま、意地悪な方……♪=Well, you're a nasty one ♪
+返答否定1嫌悪{0}=Reply Deny 1 Dislike {0}
+私とは違う意見なのですね。=So you have a different opinion than I do.
+あら、そうですか……=Oh, I see...
+返答否定1隷属{0}=Reply negation 1 slavery {0}
+意見は人それぞれですものね。=Everyone has their own opinion.
+あなたの回答、じっくりと考えさせて頂きますわ。=I'll take the time to think about your answer.

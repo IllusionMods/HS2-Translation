@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+女に囲まれて射精した気分はどうだ？　最高だったろ。=How does it feel to ejaculate around a woman? It was great.
+気持ち良く、射精したみたいだな。こっちは二人がかりなんだから、当たり前だよな。=It feels good, like you've ejaculated. It took two of us to do it, so it's no wonder.
+好意{0}=Favors {0}
+なぁ……ちなみにどっちでイったんだ？　だから、俺の方が気持ち良かったとか……どうだった？=Hey... Which one made you come, by the way? So, did I feel better or... Did you?
+女をはべらせて、幸せな奴だな……なんか、ちょっとモヤモヤするけど。=He's a happy man with a woman around him... Though it's a little bewildering.
+享楽{0}=Enjoyment {0}
+どうだった、女二人がかりは？　なかなか興奮しただろ？=How'd it go with the two girls? It was pretty exciting, huh?
+なんだか、俺たちがお前を襲ってるみたいですっげぇ興奮したよ。=It was like we were attacking you, it was so exciting.
+嫌悪{0}=Disgust {0}
+女、本当に二人も必要だったのか？=Woman, did you really need two of them?
+お前じゃ、複数の女を相手にするなんて、無理だったな。=You couldn't take on more than one woman, could you?
+隷属{0}=Slavery {0}
+色々気持ち良すぎたみたいだな？　さすがのお前も持たなかったか……=You've been feeling too good about a lot of things, haven't you? I guess you couldn't take it anymore...
+精液、出しすぎたんじゃないのか？　俺たち、少しやりすぎだったかな。=I think you've been producing too much semen. I think we went a little overboard.
+依存{0}=Depends{0}
+俺一人の力でいかせたかったけど、お前が満足してくれたならそれでいいや。=I wanted to let you go on my own, but if you're satisfied, that's fine.
+俺たちの身体で、楽しんんでもらえたようだな？　まだ興奮してるなら、続きは俺一人でも大丈夫だぞ。=It looks like you enjoyed our bodies, didn't you? If you're still excited, I can continue on my own.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+H事後B普通{0}=H posterior B normal {0}
+これでお開きだな。それじゃあ、またな。=I guess we're done here. I'll see you later.
+それじゃ、また三人でするのも、悪くないかもな。=Then again, it might not be a bad idea for the three of us to do it again.
+H事後B好意{0}=H posterior B favor {0}
+それじゃあ、俺はもう帰るから。次も声かけてくれよな。=Well, I'm leaving now. Call me next time, will you?
+三人も悪くなかったけど……やっぱり、お前と二人が……いや、なんでもない、んじゃ、またな。=The three of us weren't bad, but I still think that you and I... No, it's nothing, I'll see you later.
+H事後B享楽{0}=H Post B Enjoyment {0}
+盛り上がったなぁ！　次も待ってるぜ。=That was a lot of fun! I'll be waiting for the next one.
+勿体ないけど、とりあえずこの辺で終わりだな。=It's a waste of time, but I think we're done here for now.
+H事後B嫌悪{0}=H posterior B aversion {0}
+……じゃあな、お疲れさん。=... So long, guys.
+……んじゃ、さよなら。=Well, goodbye.
+H事後B隷属{0}=H Post B Subjugation {0}
+いい感じだったな。また、この続きをやろうぜ。=That was nice. Let's do this again.
+こういう遊びなら、いつでも誘ってくれ。それじゃあ、またな。=You can always invite me over for this kind of fun. I'll see you later.

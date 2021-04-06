@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ところで、アンタはどーなん？　何か思うところある？=By the way, what about you? What do you think?
+アンタの意見はどう？　なんかある？=What's your opinion? What do you think?
+んじゃ、アンタの考えも聞かせてもらおっかな？=Well, I'd like to hear what you think, too, wouldn't you?
+聞くだけ無駄だと思うけど、アンタはどう思うの？=I don't think it's worth asking, but what do you think?
+とりま、アンタの意見も聞きたいかな？=Anyway, I'd like to hear your opinion, too?

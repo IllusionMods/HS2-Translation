@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+……女性の方とは、思いもよりませんでした。ですが問題ございません。共に快楽を求めることに変わりはありませんから。=... I had no idea it was a woman. But that's no problem. We are both seeking pleasure.
+乙女の柔肌を重ね合う……既に淫靡な雰囲気が漂っている気がします。=The soft skin of a maiden laying on top of each other... I feel like I'm already in a lewd atmosphere.
+好意{0}=Favors {0}
+同性の方と致すから……いえ、あなただから？　いつもより気持ちが昂っております。その理由をこれから確かめさせてください。=Because I'm with someone of the same sex... Or is it because it's you? I'm feeling more excited than usual. Please let me find out why.
+同性同士の経験が豊富とは言えませんが……きっと満足させてみせます。二人で素敵な思い出を作りましょう。=I can't say I have a lot of experience with homosexuals... But I will satisfy you. Let's make some great memories together.
+享楽{0}=Enjoyment {0}
+これから、女同士の肢体が交わる……それも、初対面の女同士の。なんだか、興奮しませんか？=From now on, the bodies of two women will be intertwined... And they've never met before. Isn't it kind of exciting?
+同性で致すという背徳的な行為……既に気持ちが最高潮へ達してしまいそうです。あなたはどうですか？=The immoral act of having sex with someone of the same sex is already making me feel like I'm on top of the world. How about you?
+嫌悪{0}=Disgust {0}
+男性ではなく、私をお望みなのですか？　同性が良いなんて、変わった方ですね。=Do you want me instead of a man? You are an unusual person, preferring the same sex.
+女性同士で、ですか……あまり快感を味わえるとは思えませんね。=Woman to woman, huh... I don't think that would be very pleasurable.
+隷属{0}=Slavery {0}
+同性なのですから、恥ずかしがらずに全てを……そう、全てを、さらけ出し合いましょう？=Since we are of the same sex, let's not be shy about revealing everything to each other... Well, everything, shall we?
+同性と言えど羞恥心がお有りでしょうか？　……ご安心ください、私がこの身体を持って、あなたを乱れさせてみせますから……=Do you feel shame even though you are the same sex? Don't worry, I'll take this body and make it wild for you...
+壊れ{0}=Broken {0}
+………………=...
+はぁ……強くぅ……私のこと、求めてください……んっ、はぁ……お願い、れすからぁ……=Huh... So strong... Please seek me out... Hmmm... Please... Please...
+依存{0}=Depends{0}
+あなたの様な女性と過ごせるなんて光栄です。　さぁ、私の元に……=It's an honor to spend time with a woman like you. Now, come with me...
+女同士でしか体感できない悦び……あなたの身体に染み込ませて差し上げますね。=The pleasure that can only be experienced between women... I will let it soak into your body.

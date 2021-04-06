@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+こんなおしゃれな場所で、何するんだ？=What are you doing in this fancy place?
+まぁ、お前のことだから、ある程度分かるけどな。=Well, it's you, so I can understand some of it.
+俺は、お前がしたいなら、いくらでも付き合うぜ。=I'll go out with you as much as you want.
+こんないい場所に連れてきてくれるなんて、お前ってすげぇな。=You're amazing for bringing me to such a nice place.
+ちょっとだけだけど、気分が盛り上がってきてるぜ。=I'm starting to feel a little better, man.
+今なら……何されても許しちまうかもな。=Now... Maybe I'll forgive you no matter what you do.
+こういう雰囲気の場所だと、お前がいつもよりかっこよく見えるな。=In a place with this kind of atmosphere, you look even cooler than usual.
+別に、いつもだってかっこよくないわけじゃないんだぜ？=It's not that I'm not always cool, you know?
+とにかく、ここでなら……かっこいいお前に、口説かれてやってもいいんだぜ……=Anyway, you know, I'd be happy to let you... You're so cool... Hit on me here...

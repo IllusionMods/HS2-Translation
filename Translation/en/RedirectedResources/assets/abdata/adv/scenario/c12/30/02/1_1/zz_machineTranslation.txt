@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelude B normal {0}
+どうしたんだ？　誰か探してんのか？=What's going on? Are you looking for someone?
+俺たちに何か用でもあるのか？=What do you want from us?
+前フリB好意{0}=Prelude B Favor {0}
+よぉ、良かったら、お前も話していかないか？=Hey, if you want, you can talk to me, too.
+どうかしたのか？　俺で良かったら話ぐらい聞くけど……ま、もう一人いるけどな。=What's wrong with you? If it's okay with you, I'll at least listen to you... But there's another guy.
+前フリB享楽{0}=Prelude B. Kyouraku {0}
+俺たちになんか用か？　まぁ、何となく察しはつくけどな。=What do you want from us? Well, I think I know what you mean.
+俺たち相手に、何かするつもりか？　楽しみにしていいんだろうな。=What are you gonna do against us? I guess we can look forward to that.
+前フリB嫌悪{0}=Pretense B Disgust {0}
+お前が来たなら、もう終りにしようかな。=If you're here, I think I'll end it.
+特に用がないなら、もう行っていいぞ。=If you don't have anything special to do, you can go now.
+前フリB隷属{0}=Prelude B Slave {0}
+俺たちに遊んでもらいたいんだな？　俺は問題ないぜ。=You want us to play with you? I got no problem with that.
+お前が望むんだったら、仲間に入れてやるぞ？=I'll join you if you want, okay?

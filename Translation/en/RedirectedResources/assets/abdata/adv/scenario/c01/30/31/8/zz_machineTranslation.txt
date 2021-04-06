@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+待って、今は、無理だから……=Wait, now, I can't...
+だめよ、今は、ちょっと用事があるんだから。=No, I've got some business to attend to right now.
+困ったわね……どこに連れて行くつもりなの？=You're in trouble... Where are you taking me?
+待って、今は、忙しいから……無理なの。=Wait, I'm kind of busy right now, so I... Can't.
+あぁん、い、いいわよ……あなたが行きたい所に、ついて行ってあげる。=I'll follow you wherever you want to go.

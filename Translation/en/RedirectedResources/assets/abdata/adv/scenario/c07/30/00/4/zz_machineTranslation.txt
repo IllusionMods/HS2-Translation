@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+そうか、オレには縁の薄い話だな。=Well, that's not really my thing, is it?
+まぁ、分からなくもねぇが……=Well, I don't know, but...
+好意{0}=Favors {0}
+そんなもんだろ？　深く考える程のことでもねぇよ。=That's how it is, right? It's not something to think about too much.
+まー、人それぞれだな。オレにはよく分からん。=Well, I guess it depends on the person. I'm not sure.
+享楽{0}=Enjoyment {0}
+なぁ……この話、楽しいか？=Hey... Are you enjoying this story?
+……そういうこともある。いちいち気にしてたらキリがねぇ。=... There are times like that. There's no end to it if you pay attention to every little thing.
+嫌悪{0}=Disgust {0}
+ったく、オマエには一番似合わねぇ話だな。=Well, that's the worst kind of story for you.
+……オマエの話はしつこいんだよ。もっと要領よく話せ。=... You're talking too much. Speak more to the point.
+隷属{0}=Slavery {0}
+……で？　この話はいつまで続くんだ？=... So? How long is this story going to last?
+理屈じゃねぇことを考えても、埒が明かねぇだろ。=Thinking about things that aren't logical won't get us anywhere.

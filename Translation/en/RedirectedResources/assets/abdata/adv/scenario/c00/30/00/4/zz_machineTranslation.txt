@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+……そうですね。余程憎い相手でもない限り、人から寄せられる好意は嬉しいものだと思います。=... That's right. I think it's nice to receive favors from people unless you hate them very much.
+――私も昔は生娘でしたから、恋に苦い経験はございます。今では笑って話せる良い思い出ではありますが。=I used to be a raw girl, so I have had some bitter experiences in love. It's a good memory that I can laugh about now, though.
+好意{0}=Favors {0}
+……お恥ずかしい話ですが、当時好きだったドラマの告白シーンが印象的だったせいか、少し恋に夢見がちになってしまいました。=... I'm embarrassed to say that I've become a bit dreamy about love, probably because of the impressive confession scene in a drama I liked at the time.
+――ロマンティックなシチュエーションに憧れがあります。ですが、無理に背伸びをしてほしくはありませんね。=--I have a longing for a romantic situation. But I don't want you to be overly tall.
+享楽{0}=Enjoyment {0}
+一夜限りの関係を持つ女性は意外と多と聞いたことがあります。真偽の程は不明ですが……=I've heard that there are a surprisingly large number of women who have one-night stands. I'm not sure if it's true or not, but...
+……結婚している自分の姿は、あまり想像がつきませんね。良い妻になれる自信もありません。=... I can't really picture myself as a married man. I'm not even sure I'd be a good wife.
+嫌悪{0}=Disgust {0}
+――参考になるかは分かりませんが、プレゼントは消え物が無難かと思います。=--I don't know if this will be helpful, but I think it's safe to say that the gifts are disappearing.
+……あなたも誰かを好きになったりするのですね、正直意外です。=... You can fall in love with someone too, which is honestly surprising.
+隷属{0}=Slavery {0}
+……何が切っ掛けで恋に落ちるかは分かりませんから、その様なこともあるのでしょうね。=... You never know what will lead you to fall in love, so I guess it happens.
+……なるほど。相手に尽くすのは良いことですが、盲目的にならないように注意しなければいけませんね。=... I see. It's good to be devoted to your partner, but you have to be careful not to be blind.

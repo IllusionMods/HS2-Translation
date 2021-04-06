@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversation {0}
+うーん、そういうのは前戯の最中とかでよくない？　とりま、ヤリたいんですけど～。=Hmm, shouldn't that kind of thing be done during foreplay or something? Anyway, I want to get laid~.
+いーよ、エッチしながらだけどね。ただ話してるだけとか、アンタも退屈でしょ？=Yes, while we're having sex. I'm sure you'd be bored if we just talked.

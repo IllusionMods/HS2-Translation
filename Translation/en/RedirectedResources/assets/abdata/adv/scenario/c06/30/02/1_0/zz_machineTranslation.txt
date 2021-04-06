@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelude A Normal {0}
+ええ、わかりますわ……あら、ご機嫌よう。=Yeah, I can see that... Oh, good day to you.
+とても興味深いお話ですわね……まあ、こんにちは。=That's a very interesting story... Well, hello.
+前フリA好意{0}=Pretense A Favor {0}
+そう言われてみますと、納得ですわね……あら、お散歩ですか？=Now that you mention it, it makes sense... Oh, are you going for a walk?
+私とは違う考えをなさっているのですね……まあ、ご機嫌いかが？=You think differently than I do... Well, how are you?
+前フリA享楽{0}=Prelude A: Kyouraku {0}
+その遊び、とても面白そうですわね……♪　あら、あなたもいらしていたのですね……♪=That game sounds very interesting ♪ Oh, you're here too ♪
+私最近、目覚めてしまいましたの……♪　まあ、いつからお聞きになっていたのですか……？=I've just recently woken up... Well, how long have you been listening to me?
+前フリA嫌悪{0}=Pretense A Disgust {0}
+もう、ご冗談はおやめになって、うふふ……あら……=Please don't joke about it anymore.
+こんなに会話が弾んだのは久しぶりですわ……まあ……=I haven't had a conversation like this in a long time... Well...
+前フリA隷属{0}=Prelude A Slavery {0}
+それは参考になりますわ……あら、お疲れ様でございます。=That's helpful... Oh, thank you for your help.
+今度、試してみようかと思います……まあ、私をお探しですか……？=I think I'll try it next time... Well, are you looking for me?

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=An unremarkable response B. Normal {0}
+せ、せめてゆっくりお話出来れば良かったんですが……=It would have been nice if we could have at least talked.
+ではまた、時間のある時にでも……=I'll see you later, when I have more time...
+なんでもない返答B好意{0}=An unremarkable response B Favor {0}
+つ、次はゆっくりお話出来ると嬉しいです……=I hope we can have a nice talk next time...
+た、単なる挨拶でしたか……=Oh, it was just a greeting...
+なんでもない返答B享楽{0}=Nothing Reply B Kyouraku {0}
+こ、今度また……皆さんでお話しましょうね。=I'm sure we'll talk about it again.
+次はゆっくり出来そう時に……また声を掛けてもらえると嬉しいです。=The next time you can relax... I hope you'll call on me again.
+なんでもない返答B嫌悪{0}=Nothing Reply B Disgust {0}
+で、では……また……そのうちに……=So... We'll... We'll... We'll see.
+きょ、今日のところは……何事もなく終われそう……はふ……=Today... Will be uneventful... Haha...
+なんでもない返答B隷属{0}=Nothing Reply B Slavery {0}
+あぁ……せっかく会えたのに……少し寂しいです……=I'm a little sad that I got to meet you...
+あなたとも……色々お話したかったんですが……=I've been meaning to talk to you about some things, but...

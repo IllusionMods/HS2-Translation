@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+この電車、どこにつながってるんだ？=Where does this train lead?
+こんな所に電車が走ってたんだな……知らなかったぜ。=I didn't know there were trains running in this place... I didn't know that.
+電車なんかに乗って、どこに行くつもりだ？=Where do you think you're going with that train?
+電車なんか乗って……一体、どうするつもりなんだよ？=What the hell are you doing on a train?
+こんな電車の中で、何するつもりなんだ？=What are you going to do on a train like this?

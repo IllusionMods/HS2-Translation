@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+H{0}=H{0}
+仰っていることが分かりかねます。そんなことより、セックスです。=I don't understand what you're talking about. It's not about that, it's about sex.
+元に……？　よく意味は分かりませんが、きっとセックスをすれば丸く収まるのではないでしょうか？=Ex? I don't really know what that means, but I'm sure it will come full circle if we have sex, won't it?
+Home{0}=Home{0}
+……すみません、興奮のあまり気が急いていた様です。=... I'm sorry, I must have been in a hurry with all the excitement.
+……我を忘れていました、すみません。=... I forgot myself, sorry.

@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Bath normal {0}
+貴方もお風呂ですか？　清潔感は大事ですからね。常に気を付けたいものです。=Are you taking a bath too? Cleanliness is important, isn't it? I always want to be careful.
+お散歩するのもいいですが、理由もなくここにいると……ふふ、覗きを疑われてしまいますよ？=You can go for a walk, but if you're here for no reason... Hmm, they'll suspect you of peeping, won't they?
+風呂普通用件{0}=Bath normal matters {0}
+私に何か御用ですか？　私にできることなら、なるべく協力させて頂きますよ。=What can I do for you? If there's anything I can do, I'll do my best to help.
+えぇと、どうしましょうか？　私は、このままお話しているだけでも大丈夫ですが……=Well, what do you want me to do? I'm fine if we just keep talking, but...
+風呂好意{0}=Bath Favors {0}
+私、いつも身体は綺麗にするようにしているのです。ぁ……き、聞いてないですよね。すみません。=I always try to keep my body clean. Oh... You're not listening, are you? I'm sorry.
+貴方となら、一緒にお風呂に入ってもいいのですが……ぁ、いえ、すみません……少しはしたな過ぎましたね。=I'd be happy to take a bath with you, but... Oh, no, I'm sorry... That was a little too much.
+風呂好意用件{0}=Bath favors {0}
+私に声をかけたということは、何か用事があるのですよね？　何なりと、お申しつけください。=If you've approached me, you must have some business to attend to, right? I'm at your service.
+貴方とお話できるだけでも嬉しいですが……何か、他に御用があれば言ってください。=I'm happy to talk to you, but if there's anything else you need, just let me know.
+風呂享楽{0}=Bath Enjoyment {0}
+顔が赤いですよ？　ふふ、お風呂に入る前から、のぼせないようにしてくださいね？=Your face is red, you know? Hmm, please try not to get all worked up before you take a bath, okay?
+お風呂、一緒に入りますか？　なんて、冗談ですよ♪　ふふ、本気にしてしまいましたか？=Do you want to take a bath with me? What a joke!
+風呂享楽用件{0}=Enjoying the Bath {0}
+聞くだけ野暮かもですが、今日は何をしにここに来たのですか？=It may be uncalled for to ask, but what are you doing here today?
+さて、私とお話をしているだけでいいのですか？　何か他にやることがあるのでは？=Now, are you sure you want to just talk to me? Don't you have something else to do?
+風呂嫌悪{0}=Bath Aversion {0}
+どこにいても、貴方は怪しいですね。お風呂なら尚更です。私、見ていますからね？=Wherever you are, you are suspicious. Even more so in the bathroom. I'm watching you, aren't I?
+ん……何をしに来たのですか？　ここはお風呂です。私の近くに来る必要は無いと思いますが……=Hmm... What are you doing here? This is a bath. I don't think you need to come anywhere near me...
+風呂嫌悪用件{0}=Bath Abomination {0}
+あの……特に用が無いなら、もう私は失礼したいのですけど……=Well, if you don't have anything in particular for me, I'd rather be going...
+用事があるなら、早く言ってください。時間は有限ですので。=If you have something to do, please say so quickly. Your time is limited.
+風呂隷属{0}=Bath Slavery {0}
+私、身体はいつも綺麗にしていますよ。本当です……もし汚い方がお好みなら、考え直しますが……=I always keep my body clean. I swear... If you prefer dirty, I'll reconsider...
+もしかして……覗きですか？　誰かに言ったりはしませんが、あまりハメを外し過ぎないようにお願いします。=Are you... Are you a peeping tom? I won't tell anyone, but please don't set yourself up too much.
+風呂隷属用件{0}=Bath Slavery {0}
+えっと、何かお話しますか？　それとも他のことが、いいでしょうか……=Well, do you want to talk about something? Or would you like to talk about something else...
+ふ、二人とも黙っていても話が始まりませんね？　その……私に何か？=Huh, you two can't start a conversation without talking, can you? Well... What is it with you and me?

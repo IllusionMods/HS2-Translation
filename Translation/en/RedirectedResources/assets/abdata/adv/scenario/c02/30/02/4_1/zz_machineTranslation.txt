@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+会話事後B普通{0}=Conversation Post B Normal {0}
+あなたの意見が聞けてよかったです、ありがとうございました。=I'm glad to hear your opinion, thank you.
+お答えいただき、ありがとうございました。=Thank you for your answer.
+会話事後B好意{0}=Conversation Post B Favor {0}
+また今度、あなたの意見を聞かせてくださいね？=I'll let you know what you think next time, okay?
+どんな内容であれ、あなたの話が聞けたのはよかったです。=Whatever the content, it was good to hear your story.
+会話事後B享楽{0}=Conversation Post B Enjoyment {0}
+それがあなたの主張だということ、しっかり覚えておきますから。=I'll make sure to remember that that's your point.
+あなたの意見、参考にさせて頂きますね。=I'll take your opinion into consideration.
+会話事後B嫌悪{0}=Post-conversation B disgust {0}
+あの、そろそろ用事があるので……=Um, I've got some business to take care of, so...
+話、もう終わりでいいですよね？=Can we just finish our conversation, please?
+会話事後B隷属{0}=Conversation Post B Subjugation {0}
+あなたの答え、しかと受け止めますね。=I'll take your answer very seriously.
+やはりいろいろな意見が聞けるのはいいですね。=After all, it's good to hear different opinions.

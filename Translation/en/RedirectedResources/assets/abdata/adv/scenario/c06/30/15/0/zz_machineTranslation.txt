@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+もし、いらっしゃいますか……？=If you're here?
+……お留守のようですわね……残念ですわ……=I'm sorry you're not here...

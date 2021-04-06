@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+依存{0}=Depends{0}
+子供は何人欲しいですか？　あなたが望むだけ、子作りに励みましょう……♪=How many children would you like to have? Let's procreate as much as you want ♪
+それとも子供はまだ作らずに、二人きりの時間を過ごしますか……？　うふふ、私はどちらでも大丈夫ですよ……♪=Or do you want to spend some time alone together without having children yet? Ummm, I'm fine with either ♪
+男の子でも、女の子でもあなたの子供なら絶対に可愛いです……♪=Whether it's a boy or a girl, your child will be absolutely adorable ♪
+子供を愛することを目に入れても痛くないって言いますけど、比喩じゃなく本当に入れたとしても痛くないと思います……♪=They say that loving a child doesn't hurt if you put it in your eye, but I don't think it would hurt if you really put it in there, not metaphorically ♪
+どうしてセックスをするだけじゃ生きていけないんでしょうか……残念で仕方ありません……♪=Why can't we just have sex and live... It's a shame ♪
+セックスだけで生きることが出来たら、ずっとあなたと繋がってたいです……♪=If I could live on sex alone, I'd stay connected to you forever ♪

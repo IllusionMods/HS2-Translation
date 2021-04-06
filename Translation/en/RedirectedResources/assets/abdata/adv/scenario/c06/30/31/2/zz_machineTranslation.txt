@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お待たせいたしました……どちらに参りましょう……？=Thank you for waiting... Which way shall we go?
+お待たせして申し訳ございません……少々、時間がかかってしまいましたわ……=I'm sorry to keep you waiting... It's just taken me a while...
+うふふ、もしかして、覗いていらっしゃいました？　やっぱり……あなたの熱い視線を感じましたわ……♪=Did you happen to be peeking at me? I knew it... I felt your hot gaze ♪
+遅くなりました……=I'm sorry I'm late...
+デートの途中で大変失礼いたしました……=I'm very sorry to interrupt your date...

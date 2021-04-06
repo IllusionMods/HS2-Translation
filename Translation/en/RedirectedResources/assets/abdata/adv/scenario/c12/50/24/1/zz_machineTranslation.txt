@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+女が相手だなんて思わなかったぜ……ちょっとドキドキするけど、結構楽しみだな。=I never thought I'd be dealing with a woman... I'm a little nervous, but I'm pretty excited.
+女だったとは思わなかった。でも別にいいぜ、楽しめるならなんでもな。=I didn't think it was a woman. But I don't care. Anything to have fun.
+好意{0}=Favors {0}
+女同士って……ちょっとびっくりするけど、お前が相手なら別にいいかな……=Woman to woman... That's a little surprising, but I guess it's okay if it's you...
+お前、女だよな？　相手、俺でいいんだ？　いや、俺の方は別に問題ないけどさ。=You're a woman, right? Are you sure you want to do this with me? No, I don't have a problem with it, but...
+享楽{0}=Enjoyment {0}
+女同士ってさ、すっげぇ気持ちいいんだろ？　なんだか興奮してきたぜ！=You know how good it feels to be with a woman, right? I'm starting to get excited!
+女同士でするなんて、ドキドキしてきたぜ……よぉし、俺が思いっきり気持ち良くしてやるからな。=I'm getting nervous about women doing this together... Okay, I'm going to make you feel really good.
+嫌悪{0}=Disgust {0}
+俺、一応女だけどいいのか？　ふぅん、変わってんだな。=I'm a woman. Is that okay? Hmm, you're strange.
+女同士ねぇ……あんまり気が進まないけど、しょうがないか……=Women together... I don't really like the idea of it, but I guess it can't be helped...
+隷属{0}=Slavery {0}
+初めましてだよね……なるほど、女同士っていうのも悪くなさそうだな。=It's nice to meet you... Well, I guess it's not so bad to be a girl.
+せっかく女同士なんだから、女にしかできないような事、してみないか？=Since we're both women, why don't we do something that only women can do?
+壊れ{0}=Broken {0}
+………………=...
+はぁ……すごいよぉ……俺ぇ、もうなんらか……んっ、はぁ……わかんなく、なっへるからぁ……=Ha... I'm sorry... I'm sorry, I'm already... Hmmm... I'm not sure, I'm going to get it...
+依存{0}=Depends{0}
+お前みたいな女とできるなんて、最高だな。さぁ、始めようぜ……=It's so great to be able to do that with a girl like you. Come on, let's get started...
+女同士でしか味わえない快感……思いっきり感じ合おうぜ。=Let's feel the pleasure that can only be experienced between women.

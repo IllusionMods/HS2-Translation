@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+返答肯定1普通{0}=Reply affirmative 1 normal {0}
+分かる。分かりみ。=I understand. I understand.
+それな、ほんとそれな。=That's it, that's really it.
+返答肯定1好意{0}=Reply Affirmative 1 Favor {0}
+でしょ？　もうそれしかないって。=Isn't that right? It's the only way.
+ウェーイ♪　やっぱそうだよね。=Wow... I knew it ♪
+返答肯定1享楽{0}=Reply Affirmation 1 Enjoyment {0}
+そうそれ。マジわかりみが深いわぁ……=That's it. It's really deep...
+うん、イエスだね。めっちゃイエス。=Yes, yes. Very yes.
+返答肯定1嫌悪{0}=Reply Affirmative 1 Disgust {0}
+まー、そうしかなくない？=Well, isn't that the only way?
+うん、そこは否定しない。=Yeah, there's no denying that.
+返答肯定1隷属{0}=Reply Affirmation 1 Slavery {0}
+それ、マジそれ。分かるわ～。=That's it, for real. I know what you mean.
+あー分かる。それな感パない。=I know what you mean. I can't avoid but feel that way.
+返答否定1普通{0}=Reply negation 1 normal {0}
+いや、違くない？=No, it's not, is it?
+えー、それはありえんてぃーでしょ？=Eh, that's not possible, is it?
+返答否定1好意{0}=Reply Negative 1 Favor {0}
+どっちかって言うと……ナシよりのナシっしょ。=If anything, it's more pear than pear.
+うーん、流石にそれは頷けないかな～。=Hmmm... I guess I'll have to nod at that!
+返答否定1享楽{0}=Reply negation 1 enjoyment {0}
+いやナイナイ。全然ナイ。意味不明。=No, no, no. Not at all. I don't get it.
+それはどうなん？　微妙だと思うよ～。=What about it? I think it's subtle!
+返答否定1嫌悪{0}=Reply Deny 1 Dislike {0}
+え……無いっしょ？　常識的に考えて……=No, I don't think so. It's common sense...
+うわ……無いわー、マジ無いわー。=Ugh... No... No... No, seriously.
+返答否定1隷属{0}=Reply negation 1 slavery {0}
+いやー、うーん……やっぱ無いわ。=Well, um... No, I don't.
+いやいやいや、アタシには分からないわ。=No, no, no. I don't understand.

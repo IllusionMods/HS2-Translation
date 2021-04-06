@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+今日も私を痛めつけるのでしょうか？　いえ、ただの確認で深い意味はありません。=Are you going to hurt me again today? No, just a confirmation, no deeper meaning.
+幸か不幸か……振るわれる暴力に慣れてしまいました。=Fortunately or unfortunately... We have become accustomed to the violence that is wielded.
+好意{0}=Favors {0}
+あなたのご要望には可能な限りお応えします。たとえそれが、痛みを伴うことでも……=Your request will be met to the best of our ability. Even if it means taking a painful...
+私を痛めつけることで、あなたが満たされるのであれば……私は耐えてみせます。=If hurting me will fulfill you I will endure.
+享楽{0}=Enjoyment {0}
+痛めつけられて悦ぶ趣味はないのですが……あなたが好きだというのであれば、致し方ありません。=I don't have a taste for being hurt... But if you like it, I can't avoid it.
+あなたがお望みになるのであれば、多少は乱暴しても問題ありませんよ？=I don't have a problem with a little roughhousing if that's what you want, okay?
+嫌悪{0}=Disgust {0}
+痛みに慣れてしまったことを、喜ぶべきなのか、悲しむべきなのか……私には分かりません。=I don't know if I should be happy or sad that I've gotten used to the pain... I don't know.
+いくら暴力を振るおうが、私の心は折れません。その証拠に苦痛にすら慣れてきましたから。=No matter how violent they are, my heart will not be broken. The proof is that I've even gotten used to the pain.
+隷属{0}=Slavery {0}
+今日も私を調教してくださいますか？　あなたに乱暴にされるのを心待ちにしていたんです。=Will you train me again today? I've been looking forward to being violated by you.
+以前、あなたに痛めつけられた箇所が疼いてしょうがないんです。どうしてでしょう？　また乱暴にされたら分かるのでしょうか？=I can't avoid but feel a twinge in the spot where you hurt me before. Why is that? Will I know if you are rough with me again?

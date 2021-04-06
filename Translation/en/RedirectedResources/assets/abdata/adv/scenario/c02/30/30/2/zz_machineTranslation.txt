@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+すみません、お待たせしました。=I'm sorry, sorry to keep you waiting.
+ごめんなさい、もう大丈夫です。=I'm sorry. It's okay now.
+何やら視線を感じた気がしますが……気の所為ですかね？=I think I felt something looking at me... Or is it just my imagination?
+別に待ってなくてもよかったんですが……=I didn't have to wait for you, but...
+もう大丈夫です、いつでもOKです。=It's okay now, it's always okay.

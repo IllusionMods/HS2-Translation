@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Disgust {0}
+まったく、最悪だったんだけど。=I mean, it totally sucked.
+お前のせいで……とんでもない目に合っちゃった。=You... Got me into a hell of a mess.
+こんな所で、よく無理やりやろうとしたよな……=I don't know how you could try to force yourself to do that in a place like this...
+私には……まったく理解できないんだけど。=I just... Don't understand it at all.
+電車内なんかで、無理やりしないで欲しいんだけど！=I don't want you to force me to do anything on the train!
+次やったら、許さないから。=If you do it again, I won't forgive you.

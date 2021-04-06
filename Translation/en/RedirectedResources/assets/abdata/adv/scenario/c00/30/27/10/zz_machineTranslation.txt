@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ふぅ、マーキングにしては少々出しすぎのような気もしますが……=Hmm, seems a bit excessive for markings, but...
+このまま放っておいたら、精液の匂いが染みついてしまいそうですね。=If I leave it like this, the smell of semen will seep in.
+好意{0}=Favors {0}
+私で興奮してくださった証だと思うと、とても誇らしいですね。=I'm very proud to think that it's a sign that you were excited by me.
+こんなにも出して頂けるとは……女冥利につきますね。=It's a woman's dream to be served so much.
+享楽{0}=Enjoyment {0}
+精液でヌルヌルになった私の肢体……いかがですか？=Would you like to see my body slippery with semen?
+ぴゅっぴゅぴゅっぴゅとあなたが射精するたび、嗜虐心がそそられて……とても愉しかったです。=Every time you ejaculated with a puff and a puff and a puff, my taste buds were aroused... It was so much fun.
+嫌悪{0}=Disgust {0}
+すぐにシャワーを浴びたいので、これで失礼します。=I need to take a shower soon, so if you'll excuse me.
+好ましくない相手が絶倫なほど厄介なものはありませんね。=There's nothing more annoying than an undesirable partner who is immensely wealthy.
+隷属{0}=Slavery {0}
+もしこれだけの量が子宮へと注がれたのならば……着床必須ですね。=If this much has been poured into the uterus... Implantation is a must.
+早く身体を流さなければ……染み付いた匂いで、常に発情してしまいそうです。=If I don't flush my body soon... The smell that seeps in will always make me feel like I'm in heat.
+依存{0}=Depends{0}
+あなたが放った子種です。　私が受け止めるのは当然の義務です。=This is the seed you released. It is my natural duty to accept it.
+折角あなたに出していただいた精液です、暫くこのままにしておくのもよさそうですね。=It's a good thing that you gave me this semen, I think it's best to leave it like this for a while.

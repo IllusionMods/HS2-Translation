@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あらら、そーでしたかー？=Oh, no, is that so?
+えー、そーなんですか？　ちょっと残念ですー。=Oh, is that so? I'm a little disappointed.
+好意{0}=Favors {0}
+ふぉぉ、これはガッカリですよー！=Whoa, this is disappointing!
+たまたま声を掛けただけでしたか！　はぁぁ、残念……=Did you just happen to call out to him! Huh, too bad...
+享楽{0}=Enjoyment {0}
+なんか思うところがあって会えたのかと思ったんですがー……ふむ、わたしの勘違いでしたか！=I thought you were meeting me because you had something on your mind, but... Hmm, I must have been mistaken!
+了解です！　ではリアルに偶然だったということで！　また何かあったらお声掛けくださいー！=Yes, sir! Then it was a real coincidence! If you need anything else, please let me know!
+嫌悪{0}=Disgust {0}
+あ、そーなんですか？　あなたさんにしては空気を読んでくれましたねー。=Oh, is that so? You read the air for you, didn't you?
+なんかわざわざ呼び止められただけでも疲れるんですけど……まー、何もないならいーです、それじゃ。=I'm tired of being called all the way out here... Well, if it's nothing, fine, then.
+隷属{0}=Slavery {0}
+はぅっ……まさかなんでもないオチだったとは……でもまー、次はお時間のある時にー！=I didn't think it was anything but a punchline... But well, next time when you have time!
+あぁぁ……てっきり用事でもあるのかとー！　では今日はこれで！　またいつでも話しかけてくださいませー！=I thought you had some business to attend to! That's it for today! Please feel free to talk to me again anytime!

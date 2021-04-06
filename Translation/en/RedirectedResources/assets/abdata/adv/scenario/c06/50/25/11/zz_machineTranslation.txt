@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+とても変わったものがそろっている部屋ですね。=It's a room with very unusual things in it.
+なるほど、そういう趣味の部屋ですのね？=I see. So that's what this room is for, huh?
+こんな部屋に連れて来るなんて、いやらしい方ですわね。=You're a nasty person to bring me into a room like this.
+なんでしょうか、この部屋は……あまりいい趣味ではありませんね。=What is it about this room... It's not in very good taste.
+なるほど、なかなかいい部屋ですわね……あなたと一緒なら、一層楽しめそうですわ。=I see, it's quite a nice room... I'm sure I'll enjoy it even more with you.

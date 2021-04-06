@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+それは……ロマンチックですね。とても素敵だと思います。=That's... That's romantic. I think it's very nice.
+ふふ、貴方は……思いやりのある人なのですね。=Hmm, you are a... You are a caring person.
+好意{0}=Favors {0}
+その、凄く参考になります。メモを取りたいくらいです。=Its, it's so helpful. I want to take notes on it.
+ふふ、貴方が楽しそうに話していると、私まで嬉しくなります。=It makes me happy to hear you talking so happily.
+享楽{0}=Enjoyment {0}
+私は、自分に素直になるのが一番だと思いますよ。=I think it's best to be honest with myself.
+そこまで難しく考える話でも無いと思いますよ。行動あるのみです。=I don't think it's that difficult to think about. You just have to take action.
+嫌悪{0}=Disgust {0}
+貴方がそう思うのなら、そうなのではありませんか。=If that's what you think, then that's what it is, isn't it?
+つまらない話ですね。まぁ、そうそう面白い話ばかりでは無いのでしょうが……=It's a boring story. Well, I guess not all stories are that interesting...
+隷属{0}=Slavery {0}
+そうですねぇ……お気持ち、よく分かります。=Yes, I know exactly how you feel.
+こういう話は、聞いていると幸せな気分になりますね。=These stories make me feel happy when I hear them.

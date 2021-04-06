@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+つまりそれは……凄いことですね！=I mean, that's... That's great!
+そこまでは……私にはできそうにありません。=That much... I don't think I can do.
+好意{0}=Favors {0}
+それは刹那的というか……別に否定はしませんが……=I don't mean to deny that it's momentary, but...
+あ、改めて……貴方の凄さを実感しました。=Oh, once again... I realized how amazing you are.
+享楽{0}=Enjoyment {0}
+そうですね。結局は楽しんだもの勝ちですから。=That's right. In the end, having fun is what wins.
+私、そういうお話は大好きです。ふふ♪=I love those stories. Hmm ♪
+嫌悪{0}=Disgust {0}
+その、全然楽しくありませんが……どこが面白いのです？=I mean, it's not fun at all, but... Where's the fun in that?
+悪趣味ですね……自慢気に語るようなことでは無いと思います。=It's in bad taste... Not something to brag about, I think.
+隷属{0}=Slavery {0}
+えぇと、私には真似できそうにありませんね……=Well, I don't think I'll be able to do that...
+やはり貴方は、私には無いものを持っているようです。=After all, you seem to have something that I don't.

@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+た、たくさん出して頂けのは嬉しいのですが……私、ベトベトにされてしまいましたね。ぁはは……嫌ではありませんが、凄いなぁと……=I'm glad that you're giving me so much, but... I'm covered in goo, aren't I? It's not that I don't like it, but it's amazing...
+これは、その……喜ぶべきですよね……これだけ出して頂けたということは、私が上手く出来た証拠ですから……=I mean, I should be happy about this... The fact that you've given me this much is proof that I've done well...
+好意{0}=Favors {0}
+しばらくは匂いが残りそうです。ふふ、私……マーキングされてしまいましたね。=The smell is going to linger for a while. Hmm, I... I've been marked, haven't I?
+あぁ、たっぷり匂いを付けられてしまいました……こんなにたくさん、ありがとうございます……=Oh, I got a lot of scent on me... So much, thank you...
+享楽{0}=Enjoyment {0}
+はぁ……エッチな匂いでむせかえりそうです……ここで終わってしまうのが勿体ないですね。またすぐ、この濃厚な匂いを嗅がせてください。=Huh... The naughty smell is making me swell up... It would be a shame to end it here. Please let me smell this rich smell again soon.
+もっともっとかけて良かったのですよ。なんて、流石に無茶を言い過ぎですね♪　水分をたくさん取って、ゆっくり休んでください。=You could have spent much more. What a reckless thing to say. ♪ Take lots of water and get some rest ♪
+嫌悪{0}=Disgust {0}
+こんなにかける必要が……ありましたか？　本当に自分勝手ですね。きっと他人の迷惑など考えた事もないのでしょう。=Was it really necessary to spend so much money? You are really selfish. I'm sure they never think about the inconvenience of others.
+うぅ、ひどい匂いです……こびり付く前に何とかしないと……お風呂だけでは……少々心もとないですね。=Ugh, it smells awful... I need to do something before it sticks... The bath alone is... A little unreliable.
+隷属{0}=Slavery {0}
+ふふ、大分気持ちよくなって頂けたようですね。私の自己満足にならなくて、良かったです。=I'm glad that I didn't become complacent. I'm glad that I didn't become complacent.
+これくらいめちゃくちゃにされた方が嬉しいです。また、たくさんかけてくださいね。=I'm happy to be this messed up. Please spend a lot of time with me again.
+依存{0}=Depends{0}
+とてもたくさん出せましたね。これだけ私で感じてくださって……ふふ、幸せです♪=You were able to get so much out of me. I'm so happy that you feel this much for me ♪
+私に汁をたっぷりかけて、支配欲が満たされましたか？　いいですよ。そうしてどんどん私に依存してください。=Have you satisfied your need for dominance by spilling your juices all over me? That's good. Then you can depend on me more and more.

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなたさんはどー思いますか？=What do you think?
+ここは一つ、あなたさんのお言葉も頂けるとー！=Now, if I could just get a word in from you, too!
+今後の参考にするためにも、あなたさんの考えを聞かせてもらえるとうれしーですよ。=I would be happy to hear your thoughts on this for future reference.
+はぁぁ……なんか意見があるのなら聞きますけどー？=If you have any opinions, I'm all ears...
+わたしたちだけで話すよりも……やっぱりあなたさんの意見が気になります……そっちの方が話も広がりますしー。=Rather than just talking about it with us, I'm interested in your opinion... I'd rather talk about it with you.

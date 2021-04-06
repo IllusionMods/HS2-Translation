@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+なぁ、良かったら、このまましちゃわねぇか？=Hey, why don't we just do this, if you don't mind?
+なんか、妙にやりたくなってきたんだけど……お前、どう？=I've got a strange urge to do something... You, what do you think?
+好意{0}=Favors {0}
+あのさ、よかったら、俺、まだ時間あるんだけど、この後、どうだ？=Hey, if you don't mind, I still have some time left, how about after this?
+えぇっと、あの……おしゃべりのあとは身体で語り合うってのはどうだ？　なんてな……=Well, um... How about we have a physical conversation after our chat? How about...
+享楽{0}=Enjoyment {0}
+なぁ、そろそろセックスしようぜ。=Hey, I think it's time we had sex.
+よし、話しも盛り上がってきたとこだし、次はセックスだな。=Okay, now that we're talking, let's get to the sex.
+嫌悪{0}=Disgust {0}
+で、話しが目的なのかよ？　どうせやるんなら早く済ませようぜ。=So, what's the point of talking? If we're going to do this anyway, let's do it quickly.
+お前の話聞いてるぐらいなら、やってた方がマシかもな。=I'd probably rather be doing that than listening to you.
+隷属{0}=Slavery {0}
+で、セックスするのかしないのか？　するでいいんだよな？=So, are we going to have sex or not? You're okay with that, right?
+話しはもういいから、そろそろ本題に入ろうぜ、な？=Enough talking, let's get down to business, shall we?

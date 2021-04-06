@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+これはなんなのでしょう？！　何か動いていますが……=What is this thing? There's something moving...
+うねうねと蠢いているものがいますが……それは触手なのですか？=There's something wriggling around... Is it a tentacle?
+すごいですわね……それは本物の触手なのかしら……？=That's amazing... Is that a real tentacle?
+それはなんなのですの？　気味が悪いですわ……=What's that? It's creepy...
+まさか、触手までお持ちなんて……あなたって本当にすごい方なのですね。=I didn't think you even had tentacles... You really are an amazing person, aren't you?

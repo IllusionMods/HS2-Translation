@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+汎用普通{0}=General-purpose normal {0}
+お、奇遇じゃん。アンタもいたんだ。=Oh, what a coincidence. You were there, too.
+おっすー。元気してた？=Hey, man. How have you been?
+あは、アンタ毎日ここいない？=Haha, aren't you here every day?
+汎用普通用件{0}=General-purpose normal case {0}
+それでー、アタシに何か用？=So, what do you want from me?
+ご指名はアタシですかー？　なんて♪=Is it me you want? Ahhh ♪
+汎用好意{0}=Generic favor {0}
+お、ラッキー♪　アンタに会えた～♪=Oh, lucky me. I got to meet you ♪
+もしかして、アタシを探してたん？=Were you looking for me, by any chance?
+んふ～、ただニヤけてるだけだから、気にしないで。=Hmmm... I'm just smiling, don't worry about it.
+汎用好意用件{0}=General Favor {0}
+何か用事？　アタシで良ければ話聞くよ～。=What do you want? If it's okay with you, I'll listen to you~.
+とりま、どっかでダベる？=Anyway, do you want to hang out somewhere?
+汎用享楽{0}=General Enjoyment {0}
+やっほ♪　元気に発情してるー？=Hey! Are you in heat?
+お、アンタの匂いがするともったら、やっぱいた♪=Oh, I thought I smelled you, but there you are ♪
+どーもー、即ヤリＯＫだよー？　あはっ、なーんて♪=Hello, I'm ready to fuck you right away. Hahaha ♪
+汎用享楽用件{0}=General Enjoyment Case {0}
+まーアタシのとこに来たってことは……そういうこと？=Well, if you came to me, does that mean?
+で、ご用件は？　顔だけ見に来たってわけじゃないっしょ？=So, what can I do for you? You didn't just come here to see me, did you?
+汎用嫌悪{0}=General aversion {0}
+うわ、厄介なのと目が合っちゃった……=Ugh, I just made eye contact with a nasty one...
+なに？　呼んでませんけど？　シッシッ。=What? I didn't call for you. Shoo, shoo.
+あっちいって。アンタと話すこととかないから。=Get away from me. I don't have anything to say to you.
+汎用嫌悪用件{0}=General dislike {0}
+アタシに何か用なの？　何もないならさっさと消えて。=What do you want from me? If you don't have anything for me, get the hell out of here.
+ボーっと突っ立ってないで、何か用事があるならさっさと言って。=Don't just stand there in a daze, if you have something to do, just say it.
+汎用隷属{0}=General Purpose Slavery {0}
+お、会いにきてくれたん？　嬉しみ～♪=Oh, you've come to see me? I'm so happy ♪
+いたいた。アンタがいるって言うから、探してたんだ～♪=Ouch. You said you were here, so I was looking for you ♪
+おー会えた～♪　マジ、この出会いに感謝♪=Seriously, thank you for this meeting ♪
+汎用隷属用件{0}=General Slavery Conditions {0}
+これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=Is this a trend that I should expect to see a lot of? Or is this just a normal errand?
+んで、アタシに何かして欲しい系？=So, you want me to do something for you?

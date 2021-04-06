@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ご挨拶をしに来てくださったのですね、それではまたお会いいたしましょう。=I see that you have come to say hello to me, so I will see you again.
+え……少しびっくりしましたけれど、あなたがそう仰るなら……ご機嫌よう。=I'm a little surprised, but if you say so... Have a nice day.
+好意{0}=Favors {0}
+名残惜しいですけれど、お急ぎなら仕方ありませんわね、さようなら。=I'm sorry to leave you, but if you're in a hurry, there's nothing I can do, so goodbye.
+そうですか……次はきっと、楽しくお喋りいたしましょうね……=Well, I'm sure we'll have a nice chat next time...
+享楽{0}=Enjoyment {0}
+またいつでもいらしてくださいまし……うふふ……♪=Please come back anytime... Ugh... Ugh... Ugh
+では、なんでもなくなくなったときは私のもとへ帰ってきてくださいましね……♪=Then, please come back to me when everything is gone ♪
+嫌悪{0}=Disgust {0}
+そうですか、それでは失礼いたします……=I see. Now, if you'll excuse me...
+はい、それでは……=Yes, so...
+隷属{0}=Slavery {0}
+かしこまりました、またお時間のあるときにお越しください。=Thank you very much. Please come back when you have time.
+はい、ご機嫌麗しゅう……=Yes, good day to you...

@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+隷属{0}=Slavery {0}
+なんだか、とても元気に蠢いているようですわね。=You seem to be stirring very energetically.
+ちょっとだけ不安ですが、期待もしていますわ。=I'm a little nervous, but I'm also hopeful.
+早速……試してみましょう。=Let's... Let's try it out.
+素晴らしい触手ですわね……こんな大きなもの、どこにいたのかしら？=That's a great tentacle... Where have you been with something this big?
+あなたが飼っているのですか？　大変ですね。=You're keeping them? It's tough.
+私も……この子の飼育に一役買わせていただきますね。=I'll... I'll play a part in raising her.
+この触手……かなり本格的な物なんですのね……=These tentacles... They're pretty serious...
+私の穴という穴をねらっているのかしら？=Do you think he's trying to get a hole in me?
+なんだか、とても楽しみですわ。=I'm really looking forward to it.

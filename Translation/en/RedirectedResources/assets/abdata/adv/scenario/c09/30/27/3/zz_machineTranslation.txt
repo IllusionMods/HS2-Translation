@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+うぅ……今みたいなエッチってどーなんですかね……わたし、わりと辛かったんですがー……=Ummm... What about sex like now... It was rather painful for me, but...
+あなたさんって、こーいうエッチが好みなんですか……うーん、でしたらわたしも慣れなきゃいけないのかなぁ……=Do you like this kind of sex? Hmmm... Then I guess I need to get used to it...
+好意{0}=Favors {0}
+本当のことを言うと……今のエッチ、ちょっと辛かったですよ。でもあなたさんがしたいのなら……うーん……=To tell you the truth... That sex was a little hard for me just now. But if that's what you want to do... Well...
+今みたいなエッチ……あなたさんが相手じゃなきゃ絶対きついですよ……あ、でもっ……別に嫌ってわけじゃないですからね。=But it's not that I don't want to have sex with you, you know.
+享楽{0}=Enjoyment {0}
+あんなエッチで興奮しちゃうなんて……あなたさん、もしかしてドＳな人ですかー？=I can't believe I'm getting excited by that kind of sex... Are you a douchebag?
+もぉ、こんなきついエッチさせてー……途中から本当に鬼畜だなーって思いましたよー。=I thought, "He's really a devil!
+嫌悪{0}=Disgust {0}
+もぉぉ！　今みたいなきついエッチ、ダメ、絶対！　本当に辛かったんですからね！=Oh, no! No, no, no, no! It was really hard!
+なんでこんな疲れるエッチするんですかもー！　バカー！=I don't know why I'm having such exhausting sex! Baka!
+隷属{0}=Slavery {0}
+ちょっと辛かったですけど、あなたさんが悦んでくれるなら……って思うと我慢出来ました、えへへ。=It was a little painful, but I was able to endure it because I knew that if I could make you happy... Hehehe.
+どんな性癖でも、相手があなたさんなら受け入れちゃいます。だから……えっと……安心してくださいね、えへへ。=No matter what kind of sexuality you have, if it's you, I'll accept it. So... Um... Please don't worry, ehehe.
+依存{0}=Depends{0}
+愛し合う二人なら、苦痛も快感に変わるということがよく分かりますね。こういう気持ちを教えてくれてありがとうございます。=I can see how two people who love each other can turn pain into pleasure. Thank you for sharing these feelings with us.
+あなたさんが与えてくれる苦しさ、辛さなら……全部喜んで受け入れますよ。だって、それが愛した者の役目ですもん。えへへ。=I'm willing to accept all the pain and suffering you can give me. Because that is the role of those who love you. Ehehe.

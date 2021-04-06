@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+好意{0}=Favors {0}
+とても素晴らしい時間でした……あなたがいてくれたおかげですわね。=It was a wonderful time... Thanks to you.
+また、誘っていただきたいですわ。=I hope you will invite me again.
+あなたといただくお酒に、酔ってしまったみたいです……=I think I'm drunk from drinking with you...
+こんなに楽しいお酒なら、いくらでも酔いたい気分ですわ。=I feel like getting as drunk as I can with such a fun drink.
+素敵な時間を過ごさせていただき、ありがとうございました。=Thank you for the wonderful time I had.
+また、連れてきてくださいましね。=Please bring me back.

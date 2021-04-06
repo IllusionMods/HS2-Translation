@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+んふ、んふふ……楽ひく、なってきましたれ……んふふふ……=Mmmm, mmmm... It's getting easier... Mmmm...
+もおあなた以外、なんりも……んふふ、いらないんです……んふ、んふ……=I don't want anything but you... Mmmm... Mmmm... Mmmm...

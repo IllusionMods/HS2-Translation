@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+うーん、まだちょっと緊張しちゃってますけど、精一杯頑張りたいと思いますので、よろしくお願いしますなのですよー。=Hmm, I'm still a little nervous, but I'll do my best, so please give me your support.
+エッチってどーやったら慣れるんでしょー？　全然嫌ではないんですけど、そのー、やっぱり照れちゃいますね、えへへ。=How do I get used to having sex? It's not that I don't like it at all, but it's still a bit embarrassing.
+好意より20～49{0}=20-49{0} from favor
+既に経験済みなわたしとしては、もー何でも出来る気でいるんですがー。如何せん、経験不足は否めないというか……とにかくよろしくお願いします！=I'm already experienced, so I feel like I can do anything. But I can't deny my lack of experience... Anyway, I look forward to working with you!
+エッチ……どーやったら上手になるんですかねー？　やっぱり経験しかないのかな？　だったら、いっぱい経験させて欲しいですよー、えへへ。=How can I get better at sex? Is experience the only way? If that's the case, I want you to let me have lots of experience.
+好意より50～79{0}=50-79{0} from favor.
+まだまだ緊張しちゃって、思うようなエッチは出来ませんけど……でも、あなたさんが相手だとやっぱり嬉しいですよー！=I'm still a little nervous and can't have sex as much as I'd like, but I'm still happy to have you as my partner!
+正直なところ、エッチに関してはまだまだ未熟者ですので……あなたさんがリードしてくれると心強いなー、なんて！=To be honest, I'm still inexperienced when it comes to sex... So it would be reassuring if you could take the lead!
+好意より80～100{0}=80-100{0} over favoritism
+エッチって恥ずかしいことも多いですけど……それ以上に嬉しいことも多いんですよねー。あなたさんが相手だから気付けたんですよ♪=There are many embarrassing things about sex... But there are also many more pleasurable things! I was able to realize this because I was with you ♪
+まだまだ不慣れなわたしですけど、あなたさんとだったらどんなことでも出来ちゃう気がするんです。色々教えてくださいね、先生♪　なんちゃって。=I'm still new to this, but I feel like I can do anything with you. Please teach me many things, Sensei ♪
+享楽より20～49{0}=20-49 from Kyouraku{0}
+なんかわたし……最近、エッチなことに興味津々なお年頃っていうかー、そんな感じになっちゃってー……あはは、恥ずかしー！=I feel like I'm at an age where I'm really interested in sex, or something like that.
+ちょっと慣れてきたおかげか、エッチなこと、色々知りたいんですよねー。あなたさんだったら、教えてくれますよね？=Maybe it's because I'm getting a little used to it, but I want to know a lot about sex, don't you? You're the one who's going to tell me, aren't you?
+享楽より50～79{0}=50-79 from Kyouraku {0}
+ふふっ、今までは耳年増な部分もありましたけど、経験済みとなった今ではもー完璧。わたしのエッチでメロメロにしちゃいますよー。=I used to have a bit of an ear for it, but now that I've experienced it, it's perfect. I'm going to make you melt with my sex.
+どーやったらあなたさんに悦んでもらえるか、拙いなりに、いーっぱい研究してきましたからね。期待しちゃってください！=I've been doing a lot of research on how to please you, in my own way. You can count on me!
+享楽より80～100{0}=80-100{0}
+慣れていないとはいえ、エッチに手抜きは禁物！　わたしもたっぷり勉強してきましたから、今日も一発頑張っちゃいましょー！=Even if you're not used to it, you can't cut corners when it comes to sex! I've learned a lot, so let's give it another shot today!
+エッチの愉しさを知っちゃうと、わたし、もう次から次に知識欲が湧いてきちゃって！　今日も色んなこと試しちゃいますから、覚悟してくださいね♪=Once I discovered the joys of sex, my appetite for knowledge just kept on growing! I'm going to try a lot of things today, so please be prepared ♪
+嫌悪より20～49{0}=From disgust 20-49{0}
+あんまり上手に出来る気はしないので……期待しないでくださいね。=I don't think I can do it very well, so... Don't get your hopes up.
+やっぱりエッチって慣れないですねー。うーん、残念ながら、わたし、もしかしたら苦手なタイプの人なのかもしれないですよー。=After all, sex is hard to get used to! Hmm, unfortunately, maybe I'm not the type of person you want to have sex with.
+嫌悪より50～79{0}=50-79 from disgust {0}
+前回のエッチから色々考えたんですけどー、うーん、やっぱりエッチってどーやっても疲れちゃいますよねー。=I've been thinking a lot about it since the last time we had sex, but... Well, sex is always tiring, isn't it?
+疲れずに気持ち良くなれるだけのエッチがあればいーんですけど……そーいうのは難しいんでしょーかね、やっぱり。=I wish there was enough sex to make me feel good without tiring me out, but I guess that's hard to do.
+嫌悪より80～100{0}=80-100{0} than disgust.
+はぁぁ……今から身体動かすと思うだけでなんかぐったりですよー。あ、別にエッチが嫌いなわけじゃないですよ？　まだ慣れていないだけなんでー。=Just the thought of moving my body now makes me feel limp. Oh, it's not that I don't like sex, you know? It's just that I'm not used to it yet.
+なんかー……エッチって気分が大切じゃないですかー？　今日ってー、あんまり乗らないっていうかー……まぁ、別にいーんですけどね。=I don't know... Isn't it important to be in the right mood when having sex? Today, I'm not really in the mood... Well, that's okay.
+隷属より20～49{0}=From slavery 20-49{0}
+まだ少し照れますけど……あなたさんのしたいエッチをあなたさんがしたいようにしてくれたら嬉しいなって思いますよー。=I'm still a little shy... But I'd be happy to have the sex you want, the way you want it!
+緊張はしますけど、嫌ってことはないんで……あなたさんから色々要望を出してもらえると助かりますー、えへへ。=I'm nervous, but it's not that I don't like it... I'd appreciate it if you could give me some requests, hehe.
+隷属より50～79{0}=50-79{0} from servitude.
+最近、エッチの時にあなたさんがどんなことを求めてくれるのか、そんなことばかり考えちゃってるんですよ。わたし、やらしい娘なんでしょーか？=Lately, I've been thinking a lot about what you want me to do when we have sex. Am I a naughty girl?
+まだまだエッチ初心者なわたしですので、そのー……あなたさんがしたいことを教えてくれると助かりますー！=I'm still a beginner at sex, so I'd appreciate it if you could tell me what you'd like to do!
+隷属より80～100{0}=80-100{0} from servitude.
+わたし、まだエッチには不慣れですけど……あなたさんが……えーっと……調教？　そーいうのしてくれると、いーんじゃないかなーって思います！=I'm still new to sex, but I think it would be nice if you could... Uh... Train me? I think it would be great if you could do something like that for me!
+あなたさんが求めてくれれば求めてくれるほど、わたしもエッチが上手になると思うので！　今日もいっぱい、好きにしてくれていーですよー！=The more you ask for it, the better I'll get at having sex with you. You can do whatever you want to me today, too!

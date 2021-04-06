@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+え？　終わりですか？　いえ、無理してする事でもないのですが……何かその、私がいけない事をしてしまったのかなと。=What? Are you finished? No, it's not something I should force myself to do, but... Well, I guess I did something I shouldn't have.
+まぁ……こういう日もありますよね。気が乗らなかったり、体調が優れなかったり。ふふ、私は気にしていませんから。=Well... There are days like this, aren't there? You may not feel like it, or you may not feel well. Hmm, I don't mind.
+好意{0}=Favors {0}
+私では……貴方の相手は務まりませんか？　何かして、それでダメなら諦められるのですが……何もしないというのは少し……悲しいです。=Am I not good enough to be your partner? If I do something and it doesn't work, I can give up, but if I don't do anything, it's a little... Sad.
+今日はその、お顔を見れただけでも嬉しかったです。でもその……これっきりなんてこと……ありませんよね？=I was happy just to see your face today. But... This is not the last time... Is it?
+享楽{0}=Enjoyment {0}
+あの……いくらなんでも、これは無責任では？　私の気持ちも少しは考えてください。この火照った身体を、どうすればいいのですか……=Um... No matter how much you want to, isn't this irresponsible? Please think about my feelings a little bit, too. What am I supposed to do with this burning body...
+えぇと、恥ずかしくなってしまったのですか？　ここでそういう事をするのは、普通なので……あまり、深く考え過ぎない方がいいですよ。=Well, are you embarrassed? It's normal to do that kind of thing here, so... You shouldn't think too much about it.
+嫌悪{0}=Disgust {0}
+こう言ってはなんですが……貴方は本当につまらない人ですね。そういうのが楽しいと思っているのですか？=Let me put it this way... You are a really boring person. Do you think that kind of thing is fun?
+はぁ……では、私は失礼させて頂きます。こんな子供じみた悪戯、もうしないでくださいね。=Huh... Now if you'll excuse me, I have to go. Please don't play any more of these childish pranks on me.
+隷属{0}=Slavery {0}
+流石にこれは……焦らし過ぎだと思います。少しでも何かしてからならまだ分かりますが……何もされないのは……予想外過ぎます。=I think this is too much of a rush. I can understand if they did something after, but if they didn't do anything... It was too unexpected.
+ほ、放置プレイと言うにも……限度がありませんか？　私が気に入らないと言うなら……はっきりそう言われた方が、まだ良かったです。=If you don't like me, you should have said so clearly. If you don't like me, it would have been better if you had said so clearly.
+依存{0}=Depends{0}
+待ってください。私のどこがいけなかったのですか？ 　貴方のためなら、何でもしてあげましたよ？　 本当にもう……わけがわかりません。=Wait a minute. What was wrong with me? I would have done anything for you, you know? I really don't understand anymore.
+もう……困った人ですね。この埋め合わせは、また次回して頂きますから。こういうのは今回だけにしてください。約束ですよ。=I'm in trouble, aren't I? You'll have to make it up to me next time. Please don't do this again. That's a promise.

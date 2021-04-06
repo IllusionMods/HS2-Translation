@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+貴方のお陰で、破廉恥な技術に一段と磨きがかかりました。これからも宜しくお願い致しますね。=Thanks to you, my shameless skills have been further refined. I look forward to working with you again in the future.
+本日は普段より貴方と深く繋がれた気が致します。……慣れてきたのでしょうか？=I feel like I was able to connect with you more deeply than usual today... Have you gotten used to it?
+好意{0}=Favors {0}
+漸く気持ちに技術が追いついた様です。これまで以上に尽くすことが出来ると思うと……うふふ、嬉しさが込み上げてきます。=It seems that my skills have finally caught up with my feelings. When I think that I will be able to serve you better than ever before... I am filled with joy.
+その、これまでより感度が増していたのですが……破廉恥な女はお嫌いではございませんよね？=I mean, it was more sensitive than ever, but... You don't mind a woman in disgrace, do you?
+享楽{0}=Enjoyment {0}
+貴方と肌を重ねてきた成果を漸くお見せすることが出来そうです。次回はご期待くださいね？=I think I will finally be able to show you the results of my skin-to-skin experience with you. Please look forward to the next time, okay?
+貴方と肌を重ね続けた甲斐あって、要領を掴んだが気が致します。うふふ、これからの情事が楽しみです。=I feel like I've gotten the hang of it, thanks to all the time I've spent laying on your skin. I'm looking forward to our love affair in the future.
+嫌悪{0}=Disgust {0}
+これから先も、貴方と肌を重ねなければならないのですね……=From now on, I'll have to share my skin with you...
+貴方を拒絶しているはずなのに、私の身体は何故……？=I know I'm rejecting you, but why is my body?
+隷属{0}=Slavery {0}
+これからも貴方に尽くして参りますので、宜しくお願い申し上げます。=I will continue to do my best for you and I look forward to working with you.
+大変喜ばしいことに、貴方好みの破廉恥な女になることが出来ました。=To my great pleasure, I was able to become the kind of shameless woman you like.

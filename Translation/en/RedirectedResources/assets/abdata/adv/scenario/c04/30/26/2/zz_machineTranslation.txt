@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+うっわ、もうおっきくしてんの？　流石にちょっとサカリ過ぎじゃない？　つっても、アタシも人のこと言えないけどねっ♪=Ahhh, you're already a big girl? Isn't that a bit much? But I can't speak for anyone else, either ♪
+うーん、またアンタかぁ……なんか面白みがないんですけど～。=Hmm, it's you again... You're not very interesting~.
+好意より20～49{0}=20-49{0} from favor
+おー来た来た！　今日もサカってる？　こっちはいつでもオッケーだから、秒で始めちゃってもいーよ♪=Oh, here it comes! Are you skipping school today? I'm always up for a good time, so you can start in a second ♪
+ちょりーっす！　ん？　なんか元気なくない？　なに？　緊張してんの？　アハッ、マジウケるんですけどっ♪　そーいうのいーからさ、早く始めよ？=Hey! Hmm? Are you feeling a little down? What? Are you nervous? Don't worry about that, let's get started ♪
+好意より50～79{0}=50-79{0} from favor.
+へぇ、なんかアンタ、イケてきたじゃん。アタシの好みに、どストライクって感じ……えへっ、ちょーっとサービスしちゃおっかなー♪=Oh, you're getting hot, aren't you? You're right in my wheelhouse... I'm going to give you a little service ♪
+よし……決めた！　今日はアンタと、とことんヤリまくる！　ほら、どうせもう発情してんしょ？=Okay, I've decided. I'm going to fuck you so hard today! See, you're already in heat, aren't you?
+好意より80～100{0}=80-100{0} over favoritism
+アンタ、見る目あるじゃん。またこのアタシを選ぶなんて。たっぷり愛してあげるから、可愛い声いっぱい聞かせなさいよ？=You're a good judge of character, aren't you? I can't believe you chose me again. I'm going to make love to you, so let's hear your pretty voice.
+おっと……なに？　アンタもアタシを気に入っちゃった系？　こーいうの、そーしそーあいって言うんだっけ？　いーよ、らぶらぶエッチで、骨抜きにしたげる♪=Oh... What? You like me too? I'm sure you're not the only one. It's okay, I'll bone you with my lovey-dovey sex ♪
+享楽より20～49{0}=20-49 from Kyouraku{0}
+アンタってさ、どれくらいヤレれるの？　今日は限界、見せてもらっちゃうから♪　アタシを満足させられなかったら、マジでチェンジだかんね？=How much can you fuck? I'm going to show you my limits today... If you can't satisfy me, I'm going to change you for real, okay?
+あーやば、身体火照って仕方ないんだけど……アハッ♪　見ての通り、アタシはつじょーしてるから。アンタ、運が悪かったね。ごしゅーしょーさまっ♪=I can't avoid it, I'm burning up... You're out of luck, aren't you? Goshu-sama ♪
+享楽より50～79{0}=50-79 from Kyouraku {0}
+挨拶とかメンドイからパスね。アンタも早くヤりたいっしょ？　いーよ、話が早いのはアタシも助かるし。お互いハッピーになろ♪=I don't want to say hello or anything. You want to get laid as soon as possible, don't you? I don't mind, it helps me to talk fast. Let's make each other happy ♪
+とりまヤらない？　話とかヤった後にいくらでもしてあげるからさ。前戯は大事だけどー、前置きとかいらないっしょ♪=Why don't we just fuck? I'll tell you all about it after we've done it. Foreplay is important, but you don't need foreplay ♪
+享楽より80～100{0}=80-100{0}
+目と目が合ったら、挨拶の前にセックス！　これ、ジョーシキだから♪　てか、挨拶がセックスみたいな？=If we see eye to eye, lets have sex before greeting! Because this is joshiki ♪ I mean, is it like sex to say hello? ♪
+来た来た……よし！　即パコろっ！　アタシ、アゲマンだって評判だから。アンタのことハッピーにしたげる。感謝しなさいよっ♪=Here it comes... Let's fuck right away! I have a reputation for being an ace. I'll make you happy. You should be grateful ♪
+嫌悪より20～49{0}=From disgust 20-49{0}
+うーわ、キモ……またこんなのとヤれっての？　マジありえないから……=Ugh, gross... You want me to fuck this guy again? Because that's really not possible.
+アンタ、陰キャっしょ？　こんなのに選ばれるとか正直迷惑なんですけど……はー、マジテンサゲ……絶対濡れないわコレ……=You're shady, aren't you? To be honest, it's annoying to be chosen by this kind of thing, but... Haha, I'm really tired... I'm never going to get wet...
+嫌悪より50～79{0}=50-79 from disgust {0}
+え、マジ？　またこんなキモイ奴の相手しろとか、コレ絶対悪夢ってパティーンだよね……？=Oh, really? I'm going to have to deal with this creepy guy again, this is definitely a nightmare pattern, isn't it?
+かまちょのキモキャラとか最低かよ……前世からやり直してどうぞ。=It's not like you're a freaky character or anything... You should start over from your previous life.
+嫌悪より80～100{0}=80-100{0} than disgust.
+……は？　ないないない！　アンタ、自分の顔見たことある？　一生モテませんって書いてあるから。諦めてさっさと一回死んだ方がいいよ？=What about? No, no, no! Have you ever looked at your own face? It says that you'll never be popular. You might as well give up and die once and for all.
+いやー、流石のアタシも、ブタと何回もヤる趣味はナシよりのナシだから……アタシのこと、オカズにしていーからさ。早く帰ってオナニーしなよ。=No, I'm not the kind of guy who likes to fuck pigs over and over again... So you can use me as a jerk. Go home and masturbate as soon as possible.
+隷属より20～49{0}=From slavery 20-49{0}
+なんだ、またアンタがアタシの相手してくれんの？　とりま、エモくしてくれれば何でもいいから。アンタの好きにしちゃって♪=What, you're going to play with me again? Anyway, I don't care what you do as long as you make me feel emo. You can do whatever you want ♪
+あーヤバ。なんか勝手に濡れてくるんですけど……これはもー、アンタに責任とってもらわないとね。=Oh, no. I feel like I'm getting wet all by myself... You're going to have to take responsibility for this, aren't you?
+隷属より50～79{0}=50-79{0} from servitude.
+ねぇ～、子宮疼いてつらたんなんですけど～。早くイカせて楽にしろし～。どうせそっちも、ヤリたくて仕方ないんしょ～？=Hey~, my womb is aching and I'm having a hard time~. Hurry up and make me cum so I'll feel better. You want to fuck me, too, don't you?
+アタシ、こー見えて受けだから。そういうギャップっての？　燃えるっしょ？　ガバっと襲って、アタシをアヘらせてみなって♪=I look like this, but I'm on the receiving end. Isn't that kind of a gap? Isn't it exciting? You should attack me and make me cum ♪
+隷属より80～100{0}=80-100{0} from servitude.
+もうさ、挨拶とかどーでもいいから、早くシて？　アタシ……痴女っていうか、誘い受けな女だから。アハッ、今ならヤリ放題だし……サイコーっしょ？=I don't care if you say hi or not, just hurry up and do it. I'm not a lascivious woman, I'm an inviting woman. You can fuck me all you want right now, isn't that great?
+ねぇ知ってる？　アンタとアタシって、身体の相性マジバッチシだから。んふっ、アンタにならアタシのこと好きにさしたげる。=Hey, you know what? You and I have really good physical chemistry. I'll let you like me if you like me.

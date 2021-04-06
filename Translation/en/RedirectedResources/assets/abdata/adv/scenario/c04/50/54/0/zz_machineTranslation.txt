@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Broken {0}
+あらしさ……なんかちょっろかぁらほてっれれさ……=I'm not sure what's going on here...
+これ、あんらのせいれもあるんらからね？　そこんろこわかっれる？=This is your fault, too, right? Do you understand that?
+しゃんぽろか……あらしはあんらのペットじゃないんらかんね？=I don't know if you're a pet or not.
+ろうせ、エッチなことすぅ気なんれしょ？　マジやりしゅぎはかんべんらかね？=You're not going to have sex with me, are you? Don't get too serious, okay?
+あんらみたいに、まんれんはつじょーきの相手すぅろは大変らは……=It's hard for me to be like you, dealing with a bunch of people who have a lot of problems...
+そりゃあらしらってこわぇるよれ……けっきょくれんぶあんらのせいりゃん……=I don't know what to say, but I'm afraid it's all your fault.

@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+早くしましょう？　早く……早く、あなたと繋がりたいんです……っ=Shall we hurry? Quickly... Quickly, I want to connect with you...
+あなたが滅茶苦茶にしたいなら、私、いくらでも乱れますから……=If you want to make a mess, I'll make a mess...
+私とセックスしてくれるんですね……あぁ、よかった……♪=You're going to have sex with me... Oh, thank God ♪

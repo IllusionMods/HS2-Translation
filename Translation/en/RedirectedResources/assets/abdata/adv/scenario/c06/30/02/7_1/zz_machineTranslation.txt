@@ -1,0 +1,18 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=An unremarkable response B. Normal {0}
+それでは、また今度お話いたしましょう。=I'll talk to you later.
+また性のお勉強を致しましょうね、さようなら。=Let's study sex again, goodbye.
+なんでもない返答B好意{0}=An unremarkable response B Favor {0}
+今度は３人でお話いたしましょうね、失礼いたします。=Let's talk together next time, if you'll excuse me.
+また愛を語らいましょうね、ご機嫌麗しゅう。=Let's talk about love again. Good day to you.
+なんでもない返答B享楽{0}=Nothing Reply B Kyouraku {0}
+では、また後程……うふふ……♪=Well, I'll see you later... Ugh ♪
+うふふ、早めに帰ってきてくださいましね……♪=Ummm, please come back early ♪
+なんでもない返答B嫌悪{0}=Nothing Reply B Disgust {0}
+困った人ですわ……=He's in trouble...
+なんでもない返答B隷属{0}=Nothing Reply B Slavery {0}
+それでは失礼いたします。=Now if you'll excuse me.
+どうかお元気で。=Please take care of yourself.

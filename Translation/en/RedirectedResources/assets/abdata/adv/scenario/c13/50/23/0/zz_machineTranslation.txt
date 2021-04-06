@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+今日も絶対に誘っていただけるって信じていました……今日もふたりの愛の重さを比べ合って、愛の深さに溺れ合いましょうね……♪=I believed that you would definitely ask me out again today... Let's compare the weight of our love today and drown in the depth of our love ♪
+ふふふ、私はあなたを管理したいわけでも束縛したいわけでもありません……肉体的にも精神的にもひとつになりたいんです……♪=Hmmm, I don't want to control you or constrain you... I want to be one with you physically and mentally ♪
+くすくす……もう逃がしませんよ……♪=Giggle I won't let you get away with this ♪

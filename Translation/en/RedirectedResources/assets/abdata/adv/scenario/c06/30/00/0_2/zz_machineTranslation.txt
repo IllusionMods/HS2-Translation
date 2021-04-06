@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Bath normal {0}
+きゃっ……あなたもいらしてたのですね、そ、その……こんにちは……=You're here too, I mean... Hello...
+まあ……そ、そんなに見ないでくださいまし……=Well, please don't look so hard...
+風呂普通用件{0}=Bath normal matters {0}
+もしかして、私をお探しでしたの……？=Were you looking for me, by any chance?
+それで……何かご用ですか？=So... What can I do for you?
+風呂好意{0}=Bath Favors {0}
+お部屋まで誘いに行ったのですが、あなたもお風呂にいらしたのですね……=I went to invite you to your room, but you were in the bath too...
+まあ……もう、エッチな視線で挨拶するのはやめてくださいまし……=Well... Please don't greet me with a naughty look anymore...
+風呂好意用件{0}=Bath favors {0}
+わざわざ私を探しに来てくださったのですか？　嬉しいですわ……=Did you come all this way to find me? I'm glad you did...
+今日はあなたに会える気がしていましたの、お話いたしませんか……？=I had a feeling I'd see you today, so why don't we talk?
+風呂享楽{0}=Bath Enjoyment {0}
+ご機嫌よう……お互いの身体を知っているせいかお風呂で会うと不思議な気持ちになりますわ……♪=Good day... It's strange to see each other in the bath because we know each other's body ♪
+まさかお風呂にいらっしゃったなんて……♪　もちろん偶然ですわよ……？=I didn't expect to see you in the bath... Of course it's just a coincidence?
+風呂享楽用件{0}=Enjoying the Bath {0}
+少しお話いたしませんか？　もちろん……うふふ、お話以外のことでも、大歓迎ですけれど……♪=Would you like to have a little chat? Of course... Ugh... You're more than welcome to talk about anything else ♪
+性のお勉強をしにいらっしゃったのですか……？=Are you here to learn about sex?
+風呂嫌悪{0}=Bath Aversion {0}
+きゃっ……=Oh, my...
+きゃあっ……あ、あなた……=Oh, you... You...
+風呂嫌悪用件{0}=Bath Abomination {0}
+何か……ご用ですか……？=What... Can I do for you?
+なんですの……？=What are you?
+風呂隷属{0}=Bath Slavery {0}
+こんなところでお会いするなんて……ご一緒しても宜しいですか……？=I can't believe I'm meeting you here... Can I join you?
+まあ……宜しければ、お背中をお流しいたしますわ。=Well... If you'd like, I can give you a back scrub.
+風呂隷属用件{0}=Bath Slavery {0}
+私に何かご用ですか……？=What can I do for you, sir?
+それでは、何なりとお申しつけくださいまし。=So, please feel free to ask anything.

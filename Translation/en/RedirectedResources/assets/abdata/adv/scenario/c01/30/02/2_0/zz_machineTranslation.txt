@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なにしてたのA普通{0}=What were you doing?
+この間見たドラマの話をしてたんだけど……=We were talking about a drama we saw the other day...
+最近、何にはまってるかお話してたのよ。=I was telling her what I've been into lately.
+なにしてたのA好意{0}=What were you doing?
+恋人にするなら、どんな人がいいか話してたの。=I was talking about what kind of person I would want for a girlfriend.
+好きな人がいるかどうか話してたのよ。=We were talking about whether or not you like someone.
+なにしてたのA享楽{0}=What were you doing there, Kyouraku?
+最近一番気持ち良かったことが何か話してたの。=We were talking about what was the most pleasant thing you've done lately.
+好きな事についておしゃべりしてたのよ。=We chatted about what we liked.
+なにしてたのA嫌悪{0}=What were you doing?
+今日のお天気について考えてただけよ。=I was just thinking about the weather today.
+特に何か話題があったわけじゃないのよね。=It's not like there was anything special to talk about.
+なにしてたのA隷属{0}=What did you do, A slave?
+誰と一緒にいるのが落ち着くか話してのよ。=Talk about who you feel more comfortable with.
+お願いされたら断れないみたいな話をしてたの。=We talked about how we couldn't say no if someone asked us to do something.

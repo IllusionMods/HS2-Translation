@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+普通{0}=Normal {0}
+……へぇ、精力剤ってそんなに効くのか？　まぁ、こっちは飲んでもあんまり意味ないけどな。=... Wow, do energy pills really work that well? Well, there's not much point in taking them here.
+……エログッズとか結構持ってるのか？　俺は、まぁちょこっと持ってるけどな。=... Do you have a lot of erotic goods? I have, well, a little bit of everything.
+好意{0}=Favors {0}
+……オナニーの話なんて、そんな大ぴらにするもんじゃねぇと思うけどな……=... I don't think it's such a big deal to talk about masturbation...
+……お前って結構、セックスのための努力とかしてるんだな。全然知らなかったぜ。=... You're pretty good at trying to get laid, aren't you? I didn't know that at all.
+享楽{0}=Enjoyment {0}
+痛いのが気持ち良くなるってよくあることだよな？　まぁ別に俺が痛いのが好きって話じゃねぇけどな……=How often does pain make you feel good? Well, it's not that I like pain, but...
+人間てさ、大体何時間連続でセックスできるんだろうな？　今度気合入れて記録作ってみるか？=I wonder how many hours in a row a human being can have sex? Do you want to make a record next time?
+嫌悪{0}=Disgust {0}
+……この話、面白いか？=... Is this story interesting?
+……あぁ、なんかよくわかんねぇけど、そうなんじゃねぇの？=... Oh, I don't know what it is, but I think it is...
+隷属{0}=Slavery {0}
+話しだけでセックスのことがわかるなら苦労ないけどな。やっぱ実践だろ……=If I could understand sex just by talking about it, I'd have no trouble. It's all about practice...
+……お前ってＳなの、Ｍなの、どっちだと思う？　俺はそれに関しては両方対応可能だぜ。=... Do you think you're a S or a M? I can handle both in that regard.

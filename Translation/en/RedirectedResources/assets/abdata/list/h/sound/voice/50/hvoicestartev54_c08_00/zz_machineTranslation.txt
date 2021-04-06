@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ちゅぢゅけちゃっへ…いいっふよぉ（続けちゃって、いいっすよぉ）=(You can go on)
+まらまら…いっひょにあほぶっふよぉ（まだまだ、一緒に遊ぶっすよぉ）=(I'll still play with you)

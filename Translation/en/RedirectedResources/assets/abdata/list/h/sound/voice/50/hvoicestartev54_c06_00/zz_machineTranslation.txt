@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+いいですよぉ…ちゅぢゅけへくらはいぃ（いいですよ、続けて下さい）=(Okay, please continue)
+まらまら…ちゅぢゅけていいれふよぉ（まだまだ、続けていいですよ）=(You can go on and on)

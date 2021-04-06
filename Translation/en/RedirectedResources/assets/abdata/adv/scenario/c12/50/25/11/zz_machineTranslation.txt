@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんか、色々あって面白そうな部屋だな。=It's kind of an interesting room with a lot going on.
+ここは……何する部屋って……見たら何となくわかるぜ。=You know what this room is for... When you see it.
+ここでお前と遊べるのか？　だったら大歓迎だぜ。=Can I play with you here? You're welcome to it.
+何のための部屋なんだ？　用がないなら、もう戻るぞ。=What's the room for? If you don't need me, I'm going back.
+この部屋、なかなか悪くないな……お前と一緒なら楽しめそうだぜ。=This room is not so bad... I think I can have fun with you.

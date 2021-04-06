@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+HしようA普通{0}=Let's do H. A. Normal {0}
+おっ、３Ｐっすね～？　私はいいすけどーどうっすかー？　大丈夫すかー？=Oh, it's a threesome, isn't it? I'm fine, but how about it? Are you okay?
+もちろん喜んでっす～！　あ……いいっすかねー？　３人でやることになっちゃうっすけどー。=Of course I'd be happy to! Ah... Is it okay? It's going to be the three of us, though.
+HしようA好意{0}=I'll do you a favor.
+あなたがしたいってんならーする以外の選択肢ないじゃないすかー。=If you want to do it, you have no choice but to do it.
+むふふーだからあなたのこと好きなんすよー。私はバッチコイすけどーどうっすかー？=That's why I like you so much. I'm perfect, but what do you think?
+HしようA享楽{0}=Let's have some fun.
+もしかしてー２人にご奉仕させる魂胆っすかー？　だとしたら超ノリノリでやりたいっすー。=Are you trying to make me serve you both? If that's the case, I want to do it with great enthusiasm.
+２人をはべらせて王様プレイっすかー？　私はめっちゃやりたいっすけどー？=Do you want to play king with two people? I want to do it so badly.
+HしようA嫌悪{0}=Let's H. A. Hate {0}
+あー、３Ｐいいっすねー。まー私の一存じゃ決められないんすけどー？=Ah, a threesome sounds good. Well, I can't decide on my own, can I?
+３人でっすかー？　いいんじゃないすかねー。あ、どうするっすかー？=Just the three of us? I think that's good. Oh, what should we do?
+HしようA隷属{0}=Let's H A slave {0}
+あなたってやっぱりスケベさんすねー。私はオールOKすけどー、どうすかー？=You're a dirty guy, aren't you? I'm all right with it, but how about you?
+もちろんいいっすよー。２人ともイカせまくっちゃってほしいっすー。=Of course it's okay, I want you both to make me cum.

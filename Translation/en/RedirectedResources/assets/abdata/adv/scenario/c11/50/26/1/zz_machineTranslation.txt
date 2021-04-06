@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+うふふ、本日も宜しくお願い致しますね。=Ummm... I look forward to working with you again today.
+まだまだ不慣れな身ではありますが、精一杯努めさせて頂きます。=I am still new to this, but I will do my best.
+好意より20～49{0}=20-49{0} from favor
+貴方と肌を重ねることが出来ると思うと、胸の内側が熱くなるのです……=The thought of being able to lay skin to skin with you makes my heart burn inside...
+お顔を合わせる度に、貴方への好意が大きくなっていくのを感じます。=Every time we see each other, I can feel my fondness for you growing.
+好意より50～79{0}=50-79{0} from favor.
+こそばゆさはまだありますが、それ以上に貴方と身体を重ねることに喜びを感じます。=I still feel a twinge of embarrassment, but more than that, I feel the joy of sharing my body with you.
+未熟な技術は貴方への愛情で補いますので、どうかご安心ください。=What I lack in skill I make up for in love for you, so please don't worry.
+好意より80～100{0}=80-100{0} over favoritism
+うふふ、貴方のお相手が出来るなんて、私は幸せ者です。=I'm so lucky to have you as my partner.
+本日はどのような行為を致しましょう？　まだ気持ちに技術が追い付ていませんが、貴方の為に精一杯頑張ります。=What shall we do today? My skills have not yet caught up with my feelings, but I will do my best for you.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+うふふ、本日も楽しく致しましょうね。=Let's have fun today, shall we?
+私に破廉恥なことをするおつもりですね？　うふふ、心の準備は出来ております。=You're going to do something shameful to me, aren't you? I'm ready for it.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+お恥ずかしい限りですが、既に興奮しておりまして……早速致しませんか？=I'm embarrassed to say that I'm already excited... So why don't we get started?
+心も体も準備は出来ております。本日は何から致しましょうか？=My mind and body are ready. Where shall we start today?
+享楽より80～100{0}=80-100{0}
+はしたないことに気持ちの昂りを抑えることが出来ません。鎮めて下さいますか？=I can't control my excitement over the trifling matter. Would you please calm them down?
+本日も、貴方と深く繋がれることを期待しております。宜しくお願い致しますね？=I look forward to connecting with you deeply today. I look forward to working with you, okay?
+嫌悪より20～49{0}=From disgust 20-49{0}
+どうしてか、貴方とお会いする日は体調が優れないのです……大変申し訳ございませんが、手短めに済ませて頂けると助かります。=For some reason, I don't feel well on the days I meet you... I'm very sorry, but I would appreciate it if you could make this short.
+私は、貴方のお眼鏡に適うような女ではないとおもうのですが……=I don't think I'm the kind of woman you'd like...
+嫌悪より50～79{0}=50-79 from disgust {0}
+はっきりとお伝え致しますと、私は貴方に好感を持つことが出来ません。ですので、これで最後にして頂けませんか？=I want to make it very clear that I don't have a good feeling about you. So, can we please finish this once and for all?
+また貴方と致さなければいけないのですね……憂鬱です。=I'll have to meet you again... I'm depressed.
+嫌悪より80～100{0}=80-100{0} than disgust.
+気づかれていないようなので、はっきりと申し上げますね。私は貴方が嫌いです。=Since you don't seem to have noticed, I'll make it clear. I don't like you.
+まさか、私の態度を"嫌よ嫌よも好きのうち"と、解釈されているのですか？　信じられないほど能天気な方ですね……=Are you interpreting my attitude as "I don't like it, but I like you"? You are incredibly optimistic...
+隷属より20～49{0}=From slavery 20-49{0}
+お誘い頂けて大変嬉しいです。貴方のご期待に添えらえれるように頑張ります。=I am very happy to be invited. I will do my best to meet your expectations.
+貴方にお声がけ頂けて光栄です。精一杯、尽くさせて頂きますね。=I am honored to be asked by you. I'll do my best to help you.
+隷属より50～79{0}=50-79{0} from servitude.
+不束者ではございますが、貴方にご満足して頂く為でしたら何でも致します。=I may not be the best, but I'll do anything to satisfy you.
+私は貴方の事をもっと理解したいと考えております。ですので、ご遠慮なさらずに貴方の欲望をぶつけて頂けませんか……？=I would like to understand you better. So, please don't hesitate to share your desires with me...
+隷属より80～100{0}=80-100{0} from servitude.
+まだまだ貴方の破廉恥さに追いつけず、申し訳ございません……本日もご指導の程、宜しくお願い申し上げます。=I am sorry that I have not yet been able to catch up with your shamelessness... I hope that you will continue to guide me today.
+貴方の前で乱れ過ぎないように、一人で慰めていたのですが……全くの逆効果でした。=I tried to comfort myself so that I wouldn't get too wild in front of you, but it had the exact opposite effect.

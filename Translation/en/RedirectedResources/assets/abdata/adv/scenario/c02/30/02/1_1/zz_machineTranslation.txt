@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelude B normal {0}
+私達に何か？=Anything for us?
+それで、何か用ですか？=So, what can I do for you?
+前フリB好意{0}=Prelude B Favor {0}
+何か私達に聞きたい事でも？=Is there something you want to ask us?
+別に、あなたの話なんてしてませんよ……？=I'm not talking about you?
+前フリB享楽{0}=Prelude B. Kyouraku {0}
+噂をすればなんとやら、ですかね？=What's the use of talking about it?
+で、私達に何か？=So, what do you want from us?
+前フリB嫌悪{0}=Pretense B Disgust {0}
+もしかしなくても、邪魔しに来たんですか？=Did you come to disturb me, by any chance?
+無視しないだけありがたいと思ってください。=Be thankful that they don't ignore you.
+前フリB隷属{0}=Prelude B Slave {0}
+ふふっ、両手に花、ですかね？=Phew, a flower in each hand, isn't it?
+今なら私達相手に……なんて。=Now you're dealing with us... Oh my.

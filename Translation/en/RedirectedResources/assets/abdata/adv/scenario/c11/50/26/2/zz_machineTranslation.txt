@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+本日も、破廉恥なことに勤しみましょうか。=Today, let's work on our shamelessness, shall we?
+貴方にご満足いただけるよう、磨いた技でお相手致します。=I will use my refined skills to satisfy you.
+好意より20～49{0}=20-49{0} from favor
+貴方への努力は惜しむつもりはございませんので、ご不満がありましたら直ぐにお申しつけ下さい。=If you are dissatisfied, please let us know immediately and we will do our best to help you.
+お声がけ頂けたのは嬉しいのですが……その、私ばかりをお選びになっていますと、本気になってしまいます……=I'm glad you asked me, but... Well, if you're only choosing me, I'm serious...
+好意より50～79{0}=50-79{0} from favor.
+その、身体が貴方の温もりを求めていまして……不躾なお願いですが、たくさん愛を注いで頂けないでしょうか？=I'm sorry to be so rude, but I'm wondering if you could give me lots of love.
+何度も貴方と肌を重ねて来ましたが、これを当たり前と思ってはいけませんね。幸せを噛み締めながら、本日もお相手させて頂きます。=I've had the pleasure of laying my skin on yours many times, but I don't want to take this for granted. I will be with you again today, chewing on the happiness.
+好意より80～100{0}=80-100{0} over favoritism
+貴方が好きです。……うふふ、貴方のお顔を見ていたら、自然と好意がこぼれてしまいました。=I like you... When I looked at your face, my affection for you naturally spilled over.
+……私は欲深い女です。こうして選んで頂けるだけで幸せなのに、それ以上を求めてしまっています。……貴方の特別になりたいと。=... I am a greedy woman. I am happy just to be chosen like this, but I want more than that. I want to be special to you.
+享楽より20～49{0}=20-49 from Kyouraku{0}
+漸く技術も身に付いてきましたので、本日は今まで以上にご満足いただけるかと思います。……多分ではございますが。=I'm sure you'll be more than satisfied today as I'm finally learning the technique... I think so.
+うふふ、貴方にお声がけ頂いて心が躍っております。本日も宜しくお願い致しますね。=I'm very excited to hear from you. I look forward to working with you again today.
+享楽より50～79{0}=50-79 from Kyouraku {0}
+本日も快楽に身を委ねて楽しみましょうね。=Let's surrender ourselves to pleasure and have fun today.
+もう興奮されているのですか？　破廉恥なお方ですね。うふふ……なんて、興奮しているのは私も同じです。=Are you already excited? You are a shameless person, aren't you? I'm just as excited as you are.
+享楽より80～100{0}=80-100{0}
+乱れ過ぎないように注意を払ってお相手を……もしかして、注意などせずに全てを曝け出す方が貴方の好みでしょうか？=Do you prefer to expose your partner to the world without caution?
+女性らしからぬ下品な声が漏れてしまうかもしれませんが、予めご了承くださいね？=Please be forewarned that some vulgar voices may leak out that are not feminine.
+嫌悪より20～49{0}=From disgust 20-49{0}
+……申し訳ございません。体調不良で万全とは言い難い状態ですので、貴方にご満足頂けないかとおもいます。=... I'm sorry. I'm not in the best of health, so I'm afraid I won't be able to satisfy you.
+ふぅ……選んで頂けたからには、頑張ります。=Hmm... Now that you've chosen me, I'll do my best.
+嫌悪より50～79{0}=50-79 from disgust {0}
+嫌いな方に尽くさなければならない屈辱が、貴方に分かりますか？=Do you know the humiliation of having to serve someone you don't like?
+自分の心を殺すのは、これで最後にしたいものです……=I hope this is the last time I kill my own heart...
+嫌悪より80～100{0}=80-100{0} than disgust.
+好きになる努力はしてみましたが、気持ちを偽ることは出来ませんでした。やはり私は貴方が嫌いです。=I tried to like you, but I could not disguise my feelings. I still hate you.
+自分を嫌っている女を抱くことが、それほどまでに楽しいのですか？=Is it so much fun to hold a woman who hates you?
+隷属より20～49{0}=From slavery 20-49{0}
+貴方にお誘い頂けただけで、身体の準備が整ってしまいました……いやらしい女だと思われますか？=Just the fact that you asked me is enough to get my body ready... Do you think I'm a dirty girl?
+申し訳ございません、少々身体が疼いておりまして……本日は焦らさずにして頂けないでしょうか……？=I'm sorry, I'm a little tingly... Can you please not rush me today?
+隷属より50～79{0}=50-79{0} from servitude.
+貴方の望みが私の望みでもあるのです。本日も、貴方のやりたいことをやっていきましょう。=What you want is what I want, too. Today, let's do what you want to do.
+本日も私を躾けて下さるのですね？　大変嬉しいです。=You will discipline me again today, won't you? I am very happy.
+隷属より80～100{0}=80-100{0} from servitude.
+痛いことも苦しいことも、貴方にされると嬉しい気持ちしか湧いてこないのです。……私はまぞひすとなのでしょうか？=When you do something that hurts or is painful, I only feel happy when you do it... Am I a Mazohist?
+貴方が満たされるまで、私はお付き合い致します。=I will be with you until you are satisfied.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+さてさて、どーいったお話をしましょー？=Now, what shall we talk about?
+なにを話してくれるんでしょーか？=What are you going to tell me?
+好意{0}=Favors {0}
+あなたさんとだったらどんなお話でも楽しいですけど……なに話しましょー？=I'm happy to talk about anything with you, but what should we talk about?
+えへへ、どんな内容のお話でもいーですよー！=Ehehe, I'm open to any kind of story!
+享楽{0}=Enjoyment {0}
+ふふっ、なにを聞かれちゃうか、どーしても期待しちゃいますねー！=I can't avoid but wonder what they're going to ask me!
+どんなにエッチな内容でも引いたりしないから、ばんばん言ってくれちゃっていーですよー！=No matter how sexually explicit the content is, I won't back down, so you can say whatever you want.
+嫌悪{0}=Disgust {0}
+はぁ……で、なんの話がしたいんですか？=Huh... So what do you want to talk about?
+一応聞きますけどー……どんな内容の話です？=Let me ask you something... What are you talking about?
+隷属{0}=Slavery {0}
+こーしてるだけでも嬉しいって思ってますから、どんなお話でもいーですよ♪=I'm happy just to be here, so I'm happy to talk about anything ♪
+なんか私のこととか聞いちゃったりしますかー？=Do I ask you something about me?

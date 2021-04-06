@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATTENTION: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+うふふ、いい汗を掛けましたね。私もさっぱり致しました。=You worked up a good sweat, didn't you? I also felt refreshed.
+貴方も私が入っている所へ襲いに来て下さいね。=You should come and attack me where I am.
+汗を流すつもりが、汁を流してしまいましたね。=You were going to sweat it out, but you ended up pouring out the juice.
+有難うございます。貴方のお陰てすっきり致しました。=Thank you very much. Thanks to you, I feel much better.
