@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+遅くなりました、すいません。=Sorry, I'm late.
+待っててくれて、ありがとうございます……=Thank you for waiting for me...
+お待たせしました、それで、今日は何をしましょうか？=Sorry to keep you waiting, so what can I do for you today?
+はぁ、こういう時だけ律儀に守らないでくださいよ……=Huh, please don't be so disciplined only at times like this...
+すみません、お待たせした分、好きなようにしてもらって構いませんから……=I'm sorry to keep you waiting, but you're welcome to do as you please...

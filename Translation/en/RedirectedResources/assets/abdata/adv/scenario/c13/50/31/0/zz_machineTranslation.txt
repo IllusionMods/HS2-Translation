@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あの、ちょっとだけ席を外してもいいですか……？=Um, can I leave the room for a moment?
+……！　あの、ほんの少しだけ待っててもらってもいいですか……？=! Um, can you wait just a moment?
+うふふ、さっきお水を飲んだので……行ってきますね……=Ummm... I just drank some water... So I'm going to go...
+あの……ちょっと待っててください……大丈夫です、逃げませんから……=Um... Wait a minute... Don't worry, I won't run away...
+ごめんなさい、お手洗いに行ってきます……鍵は開けておきますね……=I'm sorry, I have to go to the bathroom... And I'll leave the door unlocked...

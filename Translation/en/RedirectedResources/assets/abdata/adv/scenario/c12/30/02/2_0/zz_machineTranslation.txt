@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+食べ物の好みについてだ。甘いの辛いの酸っぱいの……色々あるからな。=It's about food preferences. Sweet, spicy, sour, you name it.
+昨日のスポーツの結果についてだな。=It's about yesterday's sports results.
+何って、ちょっと……恋バナ、的な感じ？=What, like a little... Love story?
+まぁ……恋人ができたらどうするぅ……的な話だよ、うん。=Well, I'm talking about what to do when you get a girlfriend, yeah.
+好きな体位とかあるのかぁ、みたいな話だよ。=It's like, "Do you have a favorite position?
+性感帯の話だよ……やっぱ、人によって違ってるんだな。=I'm talking about your sex drive... I knew it was different for everyone.
+別に……ちょっと話してただけだけど。=Nothing... We were just talking.
+……話してただけだよ……お前の事は話題になってないから。=... We were just talking... Because you're not the topic of conversation.
+お前の話だよ。気になるか？=I'm talking about you. Do you care?
+実はお前のことを話してたんだよ……中々盛り上がったぜ。=Actually, we were just talking about you... It was pretty exciting.

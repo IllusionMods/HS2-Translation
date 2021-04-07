@@ -1,0 +1,15 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+木馬の遊具=Rocking horse playground equipment
+砂場=Sandbox
+防災倉庫=Disaster prevention warehouse
+水飲み場=Drinking fountains
+パーゴラ=Pergola
+公園の電灯=Park lamp
+公園の電柱=Utility poles in the park
+カーブミラー=Curve-mirror
+注意看板=Attention sign
+自動販売機=Vending machine
+簡易プール=Simple pool

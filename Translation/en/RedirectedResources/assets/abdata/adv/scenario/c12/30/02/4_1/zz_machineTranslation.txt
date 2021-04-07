@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ありがとな、答えてくれて。=Thanks, for answering.
+お前に話してみて良かったぜ。=I'm glad I talked to you, man.
+お前の意見が聞けて、嬉しかったぜ。=It was nice to hear your opinion, man.
+なんか、少しだけお前のことが分かったみたいで、嬉しいぜ。=I'm glad I know you a little bit better than I did.
+お前と話してみるのも、たまには悪くないな。=It's not a bad idea to talk to you once in a while.
+いいね、色んな考え方があって、楽しくなってくるぜ。=Great, so many different ways to think about this, it's going to be fun.
+……もう話す事ないだろ？=... There's nothing more to say, is there?
+話、終わってもいいよな？=Can we just finish our conversation, please?
+お前の意見、中々参考になったぜ。=You've been very helpful, my friend.
+お前の考え方、何となく俺が思ってた通りだな。=Your way of thinking, it's kind of what I was thinking.

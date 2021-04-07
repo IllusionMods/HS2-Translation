@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お前……こんな所で何するつもりなんだよ。=What are you... What are you doing here?
+分かってるだろうな？　変なまね、するんじゃねぇぞ。=You know what I'm talking about. Don't do anything funny.
+おかしなことしたら、許さねぇからな。=If you do anything crazy, I won't forgive you.
+何考えてんだよ、お前……ここ、電車だぞ？=What the hell were you thinking, man... We're on a train?
+分かってんのか？　大人しくしてろよ？=Do you understand me? Why don't you just shut the fuck up?
+バカ……大人しくしてろって、いってるだろ。=I told you to keep quiet, you idiot.
+今は、電車の中だって、わかってるんだよな。=You know you're on a train now, right?
+だったら、大人しくしてろよ、いいな？=Then you're gonna have to be quiet, all right?
+そんな変な動きしたら、目立っちまうだろ。=If you move that strangely, you'll stand out.

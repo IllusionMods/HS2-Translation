@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あしょびは……これへ、おわりなんれすか……？=Is this the end of the Ashobi?
+じゃぁ……まは、わぁしろあしょんへ……くらはいね……=Well, I'm off to the White House... To see you.
+もっろ……あなはときぉひおく……なりはいれすぅ……=I'll be back...
+もっろ……もっろ……どぉしれ……かえっひゃうんれすか……？=What do you think?
+あぁ……なんらか……ひかいが、ぼぁけてまふ……=Something's wrong with my vision, it's blurry.
+わぁしぉ……ろこにも……おいへ、いかないれ……くらはい……=I... Will... Not... Go... To... My... Home.

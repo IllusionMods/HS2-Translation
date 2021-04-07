@@ -1,0 +1,22 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+教室のロッカー=Classroom locker
+掃除用具入れ=Cleaning tool case
+木製の棚1=Wooden shelf 1
+木製の棚2=Wooden shelves 2
+オフィスの棚1=Office shelves 1
+オフィスの棚2=Office shelves 2
+アンティークな棚=Antique shelves
+合わせ木の小棚=Small shelves of laminated wood
+合わせ木の台=Laminated wooden stand
+ショーケース=Showcase
+ショーケース(台)=Showcase (Stand)
+給湯室の台1=Hot water supply room stand 1
+給湯室の台2=Hot water supply room stand 2
+大きなテレビ台=Big TV stand
+中華の棚=Chinese shelves
+西部のバーカウンター1=Western bar counter 1
+西部のバーカウンター2=Western bar counter 2
+西部のバーカウンター3=Western bar counter 3

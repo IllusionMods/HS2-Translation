@@ -1,0 +1,30 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ジャンプ1=Jump 1
+ジャンプ2=Jump 2
+ポーズ1in=Pose 1 in
+ポーズ1loop=Pose 1 loop
+ポーズ1out=Pose 1 out
+ポーズ2in=Pose 2 in
+ポーズ2loop=Pose 2 loop
+ポーズ2out=Pose 2 out
+ポーズ3in=Pose 3 in
+ポーズ3loop=Pose 3 loop
+ポーズ3out=Pose 3 out
+ポーズ4in=Pose 4 in
+ポーズ4loop=Pose 4 loop
+ポーズ4out=Pose 4 out
+ポーズ5in=Pose 5 in
+ポーズ5loop=Pose 5 loop
+ポーズ5out=Pose 5 out
+ポーズ6in=Pose 6 in
+ポーズ6loop=Pose 6 loop
+ポーズ6out=Pose 6 out
+ポーズ7in=Pose 7 in
+ポーズ7loop=Pose 7 loop
+ポーズ7out=Pose 7 out
+ポーズ8in=Pose 8 in
+ポーズ8loop=Pose 8 loop
+ポーズ8out=Pose 8 out

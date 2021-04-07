@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+わぁ、びっくりするだろ？！　なんだよ、手伝ってくれるのか？=Wow, you'd be surprised! What, are you going to help me?
+な、何だよお前？！　えっと、まぁ……そういう事だよ、何か文句あるか？=What the hell, man? Well... That's what I'm talking about.
+おぉっ！？　ちょうどいいところに来たじゃねか。もちろん、手伝ってくれるんだよな。=Oh, wow! You've come to the right place, haven't you? Of course, you're going to help me, right?
+な、何だよ？！　出てけよ、バカ！　こんな時に入ってくんじゃねぇよ。=What the fuck? Get out of here, you idiot! Don't come in here at a time like this.
+おっ！　どうやら、もう一人でする必要はないみたいだな……助かるぜ。=Whoa! Looks like I don't have to do this alone anymore... Thanks for the help.

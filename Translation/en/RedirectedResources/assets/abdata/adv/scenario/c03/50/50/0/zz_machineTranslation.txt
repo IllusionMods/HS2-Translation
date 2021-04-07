@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お前が、こんなおしゃれな場所に連れてきてくれるなんてな。=I can't believe you're the one who brought me to this fancy place.
+ちょっとだけ、見直したかな……まぁちょっとだけ。=I guess I've been rethinking things a little bit... Well, just a little bit.
+で、ここで何するわけ？　なんでも付き合ったげるよ♪=So, what are we doing here? I'll do anything you want ♪
+こんないい場所知ってるなんて、流石じゃん。=It's so cool that you know such a great place.
+なんか、セレブって感じがする……=I feel like a celebrity...
+ここだったら……何されてもいいかなぁ。=If it's here... I don't care what they do to me.
+ナイトプールなんて、洒落たところに連れてきたね。=You brought me to a fancy place, a night pool.
+悪くないよ、ここ……どっちかって言うと好きかも。=It's not bad, here... If anything, I like it.
+うんいいね……ここでなら素敵な時間が過ごせそうじゃん。=I'm sure we'll have a great time here.

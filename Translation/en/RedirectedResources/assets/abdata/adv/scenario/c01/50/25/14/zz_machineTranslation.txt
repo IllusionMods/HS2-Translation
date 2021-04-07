@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+落ち着いていて素敵な公園ね。=It's a nice, calm park.
+夜の公園てなんだか……静かでロマンチックね。=The park at night is so quiet and romantic.
+夜の公園でどうするつもり？　うふふ。=What are you going to do in the park at night? Mmm-hmm.
+こんな夜に公園に来て、何があるのかしら？=What could be so special about coming to the park at this time of night?
+こんな静かな夜の公園で……気持ちのいいことでもするつもりかしら？=Are you going to do something pleasant in the park on this quiet night?

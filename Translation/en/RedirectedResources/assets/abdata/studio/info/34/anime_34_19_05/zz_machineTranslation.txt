@@ -1,0 +1,7 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ドアを開ける1=Open the door 1
+ドアを開ける2=Open the door 2
+ドアを開ける3=Open the door 3

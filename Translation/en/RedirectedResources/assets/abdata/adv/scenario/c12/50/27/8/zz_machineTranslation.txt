@@ -1,0 +1,16 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ん？　なんだよ、何にもしないのか？=Hmm? What, you're not going to do anything?
+何だよ……意味がわかんねぇ。=What the hell... I don't get it.
+もしかして、体調悪いのか？　大丈夫なのかよ。=You're not feeling well, by any chance? Are you okay?
+どうした？　なんか別の用事でもあったのか？=What's up? Did you have something else in mind?
+ちょっと待て？！　なんでなんにもしねぇんだよ、おい！=Wait a minute! Why aren't you doing anything? Hey!
+ここまで来といて、何にもしないなんて、意味分かんねぇだろ。=You don't know what it's like to come this far and then do nothing.
+何にもしないんだな？　じゃあ、俺帰るわ。=You're not going to do anything, are you? Well, I'm going home.
+何なんだよ、一体？　用がないなら帰るからな。=What the hell? What the hell? If you don't need me, I'm leaving.
+もう終わりなのか……もしかして、疲れでも溜まってるのか？=Is it the end of the day... Or maybe you're just tired?
+おいおい、焦らすつもりなら、次はもっとうまくやってくれよ？=Oh, come on, if you're going to rush me, you're going to have to do better next time, okay?
+いいぜ、たまにはこういう焦らしもわるくない。=It's okay to be impatient like this once in a while.
+まぁ、したくないならしょうがない……=Well, if you don't want to, I don't care...

@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お答え頂き、感謝致します。=Thank you for your answer.
+貴方に伺って、良かったです=I'm glad I asked you.
+ご意見をお聞かせ下さり、誠に有難うございます。=Thank you very much for sharing your opinion with us.
+色々な方にお話を伺うのは、大切なことですね。=It's important to talk to a variety of people.
+貴方のお話を伺うことが出来て、良かったです。=I'm glad to hear your story.
+貴方の考えを、少し理解できた気が致します。=I think I understand your thoughts a little better now.
+答えて頂いたことには、感謝申し上げます。=I would like to thank you for your answer.
+貴方の考えも、一応留意しておきます。=I'll keep your thoughts in mind, too.
+意見の交換が大切だということを再認出来ました。=I was able to reaffirm the importance of exchanging opinions.

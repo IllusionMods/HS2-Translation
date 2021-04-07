@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+以上の内容でご提供致しますがよろしいでしょうか？=Is it okay to provide the above contents?

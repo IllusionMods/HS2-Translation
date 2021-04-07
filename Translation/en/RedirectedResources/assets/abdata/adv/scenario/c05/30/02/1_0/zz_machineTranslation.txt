@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あ……こ、こんにちは。=Oh... Hello there.
+あ、ちょうどいいところに……=Oh, just in time...
+ふふっ、こんにちは。=Phew, hello.
+こんなところであなたに会えるなんて。=I never thought I'd see you here.
+今、ちょうど盛り上がっていたところですよ。=I was just getting excited about it.
+誰か探していましたか？=Were you looking for someone?
+あ……あなた……ですか……=You... Are you?
+い、今……ちょっとお話してたんです……=I was just... Just talking to you...
+ふふっ、会えて嬉しいです。=Phew, it's nice to see you.
+偶然通りがかったんですか？=Did you just happen to be passing by?

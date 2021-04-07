@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+まは……あしょねるんれすれ……(また、遊べるんですね)=(You can play again, can't you?)
+たくはん……あひょびまようぉ……(たくさん遊びましょう)=(Let's play a lot)

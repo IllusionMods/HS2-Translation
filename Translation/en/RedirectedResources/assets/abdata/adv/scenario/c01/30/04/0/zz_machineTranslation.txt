@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+入浴中のようだ・・・=Looks like she's taking a bath...

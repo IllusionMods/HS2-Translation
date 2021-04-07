@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+え……？　冗談ですよね……？=Huh? You're kidding... Right?
+まだするんですか？　嘘だと、言ってください……=Do you still do that? Please tell me you're lying...

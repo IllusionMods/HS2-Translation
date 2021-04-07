@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+失礼します。お部屋にいらっしゃいますか？=Excuse me. Are you in your room?
+……ご不在のようですね。日を改めて伺うとしましょう。=... I see you are not at home. I'll visit you another day.

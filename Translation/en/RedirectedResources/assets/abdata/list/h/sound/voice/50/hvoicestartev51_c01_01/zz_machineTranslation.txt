@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ふふ、もっと続けましょう=Hmm, let's keep going.
+空っぽになるまで、やりましょう=Let's do it until it's empty.

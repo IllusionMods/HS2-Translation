@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+メカ屋根1=Mechanical roof 1
+メカ屋根2=Mechanical roof 2
+メカ屋根3=Mechanical roof 3
+メカ屋根4=Mechanical roof 4

@@ -1,0 +1,24 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あぁ、そういうことだ。=Yeah, that's what I'm talking about.
+そうだ、分かってるじゃねぇか。=Yes, you know what I'm talking about.
+あぁ、当たり前だな。=Yeah, that's obvious.
+その通りだ。それ以外は考えられん。=You're right. I can't think of anything else.
+ああ、話が分かるな。=Yeah, you know the story.
+そうだな。そこは否定しない。=That's right. There's no denying that.
+チッ、一応肯定はしてやる。=Tsk, I'll give you the benefit of the doubt.
+オマエと一緒なのが気に食わないが。その通りだ。=I don't like the fact that I'm with you. You're right.
+ハッ、オマエと意見が合うとはな。=Ha, I didn't know you and I agreed on that.
+まぁ、そんなところだ。=Well, that's about it.
+それは無い。=It's not.
+いや、ありえないな。=No, it's not possible.
+そうか？　もう一度よく考えろ。=Really? Think again.
+違うな。オマエは分かってない。=No, you don't. You don't understand.
+いいや、そうじゃないだろ。=No, you don't.
+何故そうなるのか、逆に聞きたいな。=I'd like to ask why that would be, in reverse.
+オマエがそう思うなら、そうなんだろうよ。=If you think so, then you must be right.
+くだらん。話し合うだけ無駄だな。=This is bullshit. There's no point in talking about it.
+そうは思わん。価値観が違うな。=I don't think so. You have different values.
+どうしてそうなる？　意味がわからん。=How can that be? I don't understand.

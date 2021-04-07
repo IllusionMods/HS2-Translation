@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ど、どんなお話をしますか……？=What do you want to talk about?
+わ、私に分かるお話だといいのですが……=I hope that's a story I can understand...
+あ、あなたとお話……どんなことを話しましょう？=Oh, I'll talk to you about... What shall we talk about?
+き、聞きたいこととかあれば、何でもどうぞ。=If you have any questions or concerns, please feel free to ask.
+ふふっ、一体どんなことを聞かれるんでしょう……？=Hmmm, I wonder what kind of questions they'll ask me?
+もしかして……私のことで知りたいこととかありますか？=Is there... Is there anything you want to know about me?
+い、一体何の話をするつもり……ですか……？=What the hell are you going to talk about?
+あ、あなたとお話なんて……ど、どんなことを話すんだろう……？=Oh, I can't believe I'm talking to you... What do you think we'll talk about?
+ふふっ、何を話ましょう？　あなたとのお話……それだけで嬉しいです。=Hmm, what can I tell you? A story with you... That's all I'm happy to say.
+ど、どんな話題が好き……でしょうか……？=What kind of topics do you like to talk about?

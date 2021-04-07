@@ -1,0 +1,24 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+やっぱり、そう思いますよね？=You still think so, don't you?
+ふむ、同じ意見ですね。=Hmm, I agree with you.
+あなたと同じ意見でよかったです。=I'm glad I agree with you.
+そうですか、私と同じ考えなんですね……=Okay, so you think like I do...
+へぇ、あなたもですか。=Oh, you too?
+ふふっ、私の意見に合わせてくれたんですか？=Hmmm... You've adjusted to my opinion?
+あなたと一緒の考えだなんて……=I can't believe I'm thinking like you.
+……今からでも意見変えられませんか？=... Can't you change your opinion now?
+あなたも同じ気持ちですか。=Do you feel the same way?
+そうですか、あなたも同じ感性をお持ちなんですね。=Well, I see you have the same sensibility.
+あら、意見の相違ですかね？=Oh, is that a difference of opinion?
+私とはちょっと違う考えみたいですね。=You seem to think a little differently than I do.
+あ……そ、そうですか……=Oh... Well, I see...
+あなたはそう思ってるんですね……=So you think that...
+あら、食い違いましたね。=Oh, we had a discrepancy.
+ふぅん……あなたはそう思うんですか。=Hmmm... You think so?
+そうですか、同じ考えじゃなくてよかったです。=Well, I'm glad we don't think alike.
+よかった、同類とは思われたくないので。=Good, because I don't want to be thought of as one of them.
+そうですか、同じ気持ちだったらよかったんですけどね。=Well, I wish I felt the same way.
+私の考えはあまり一般的ではないって事ですかね？=Does that mean my idea isn't very common?

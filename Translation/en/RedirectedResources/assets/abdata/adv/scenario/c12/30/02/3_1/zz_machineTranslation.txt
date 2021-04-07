@@ -1,0 +1,24 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+やっぱそうだよな、俺も同じだよ。=I knew it. I'm the same way.
+俺も同じ意見だ。=I'm of the same opinion.
+お前もそう思のか？　考え方が俺と似てるのかもな。=You think so, too? Maybe you and I think alike.
+お、俺も一緒だぜ。何だか同じだと嬉しいな。=Oh, I'm with you. I'm glad we're the same.
+そうだよな、普通それ以外考えられないぜ。=I know, I can't think of anything else to do.
+やっぱりな、俺と似たような意見だな。=I knew it. You have a similar opinion to mine.
+まぁ、普通そうだろ。=Well, that's normal.
+大体、そんなもんなんじゃないのか。=Isn't that generally how it works?
+なるほどね　俺も同じことを考えてたぜ。=I see. I was thinking the same thing.
+やっぱりお前もそうか？　俺と同じ意見だな。=I knew it. You do, too? You agree with me.
+なんか、俺とは考え方が違うな。=I don't know, you're thinking differently than I am.
+ふぅ～ん、そういう考え方もあるんだな。=Hmm, that's one way of thinking about it.
+俺とは違うけど、悪くない考え方だな。=It's not like me, but it's not a bad idea.
+成程……その考えも一理あるな。=I see... You have a point.
+へぇ、俺とは違うな……お前の方が頭いいかもな。=Heh, you're not like me... Maybe you're smarter than me.
+あ、俺の意見とは違うな……なんか、お前の方が合ってそう。=Oh, that's not what I think... Something you'd be better suited to.
+お前はそれでいいんじゃないの？=You're okay with that, aren't you?
+ふぅん……まぁ、どっちでもいいけどな。=Hmmm... Well, I don't really care either way.
+俺の意見とは違うけど……まぁ、勉強にはなるかもな。=It's not my opinion, but... Well, maybe I'll learn something.
+へぇ、そういう考え方もあるんだな。面白いじゃねぇか。=Oh, so that's one way of thinking about it. That's interesting.

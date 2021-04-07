@@ -1,0 +1,7 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ふすま=Bran
+小さな灯篭=Small lantern
+石の皿=Stone plate

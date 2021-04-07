@@ -1,0 +1,18 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+女王の椅子=Queen's chair
+回転ベッド=Swivel bed
+唇ソファ=Lip sofa
+紫スタンドライト=Purple stand light
+紫照明=Purple lighting
+ハートネオン=Heart neon
+檻の箱=Cage box
+鉄格子1=Grill 1
+鉄格子2=Grill 2
+鉄格子3=Grill 3
+鉄格子4=Grill 4
+鉄格子の扉=Barred door
+赤い壁=Red wall
+白黒タイル床=Black and white tile floor

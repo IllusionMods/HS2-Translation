@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+いいじゃん……こんな場所あったんだな。=That's nice... I didn't know this place existed.
+へぇ……お前、こんな所知ってたなんて、すげぇな。=Wow... You're amazing, you know all these places.
+ふぅん、なかなかおしゃれな所じゃん……悪くねぇな。=Hmmm, this place is pretty cool... Not bad.
+ここが、どうかしたのか？　別に何とも思わねぇけどな。=What's wrong with this place? I don't think there's anything wrong with it.
+さすがだな、こんな場所まで抑えてるなんて。=That's great, you've got this place under control.

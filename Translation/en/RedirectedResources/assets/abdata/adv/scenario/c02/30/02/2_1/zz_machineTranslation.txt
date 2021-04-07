@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなたはどう思いますか？=What do you think?
+あなたの意見、聞かせてください。=Let me know what you think.
+そうですね……あなただったら、どう思いますか？=Well... If it were you, what would you think?
+……一応、あなたの意見も聞いておきますか。=... Just in case, I'd like to hear your opinion as well.
+あなたの考えも聞いてみたいですね。=I'd like to hear your thoughts as well.

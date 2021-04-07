@@ -1,0 +1,24 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あ……あなたもお風呂ですか？=Oh... Are you taking a bath too?
+こ、こんなところで……たまたま通りがかっただけですか？=Did you just happen to be passing by?
+もしかして私に何か用ですか？=You wanted to see me, by any chance?
+えっと……どうしましたか？=Um... What can I do for you?
+も、もしかして……わ、私を探してくれていたり……なんて、あるわけないですよね……えへへ。=There's no way that he's looking for me... Is there?
+まさかお風呂であなたに会うなんて……=I never thought I'd see you in the bathtub.
+なにかご用でしょうか？=What can I do for you, sir?
+もしかして私になにか用事……だったりしますか？=Is there something you want from me?
+え、えっと……念のためですけど……女の子のお風呂を覗く趣味がある……なんてことはないですよね？=Well, let's see... Just to be sure... You don't have a hobby of peeping into girls' baths... Do you?
+ま、まさか……わ、私がお風呂に入るタイミングを待っててくれたんですか？=Didn't you... Wait for me to take a bath?
+ん……もしかして……何か私にお話でもありますか？=Is there something you want to tell me?
+私になにか聞きたいことでもありますか？=Do you have any questions for me?
+うそ……ど、どうしてここにあなたが……=Ahhh, why are you here?
+ま、まさか邪な気持ちで来たわけじゃ……ないですよね？=You didn't come here with evil intentions... Did you?
+よ、用事があるなら……言ってください……=Well, if you need me... Just tell me...
+は、話なら聞きますから……あまり……怖い顔はしないでください……=I'll listen to you if you want to talk, so please don't look so scared...
+お、お風呂であなたに会うなんて……な、なんだか色々想像……しちゃいます……=I can't stop thinking about meeting you in the bath...
+こ、こんな場所で会えると……少しドキッとしちゃいますよ……=I'm a little nervous about meeting you in a place like this...
+あ、あなたからのご用件なら、なんでも伺いますよ。=Oh, I'll listen to anything you have to say.
+なにか用事があったから声をかけてくれたんですよね？　なんでしょうか？=You approached me because you had something to do, didn't you? What is it?

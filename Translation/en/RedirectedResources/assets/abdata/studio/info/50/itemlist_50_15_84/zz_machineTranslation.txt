@@ -1,0 +1,38 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+待遇室のカウンター1=Counter in the waiting room 1
+待遇室のカウンター2=Counter in the waiting room 2
+待遇室のシャンデリア=Chandelier in the waiting room
+待遇室のライト=waiting room lights
+待遇室の椅子=Chair in the waiting room
+待遇室のソファ1=Sofa in the waiting room 1
+待遇室のソファ2=Sofa in the waiting room 2
+待遇室のテーブル1=Table 1 in the waiting room
+待遇室のテーブル2=Table 2 in the waiting room
+光る焚火台=Shining bonfire
+光るコーナーカウンター=Shining corner counter
+光るテーブル=Glowing table
+光る椅子=Glowing chair
+独創的なライト=Ingenious light
+フロートマット=Float mat
+プールサイドベッド1=Poolside bed 1
+プールサイドベッド2=Poolside bed 2
+プールサイドチェア=Poolside chair
+バーカウンターチェア=Bar counter chair
+バーネオン1=Bar neon 1
+バーネオン2=Bar neon 2
+スポットライト1=Spotlight 1
+レーザー照射器=Laser irradiator
+サディスティックベッド=Sadistic bed
+サディスティックソファ=Sadistic sofa
+サディスティックチェア=Sadistic chair
+サディスティックテーブル=Sadistic table
+祭壇1=Altar 1
+祭壇2=Altar 2
+教会の長椅子=Church couch
+教会の蝋燭1=Church candles 1
+教会の蝋燭2=Church candles 2
+教会の蝋燭3=Church candles 3
+教会のシャンデリア=Church chandelier

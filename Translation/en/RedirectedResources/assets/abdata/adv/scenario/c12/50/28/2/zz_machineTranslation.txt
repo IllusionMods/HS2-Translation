@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あれ、お前も風呂なのか？　ちょうど空いたところだぜ。=Hey, are you taking a bath, too? I just got free.
+なんだよ、もうちょっとズレてれば、一緒に入れたのにな……残念だぜ。=What a shame, if you'd been a little more off, we could've gotten in there with you... Too bad.
+お、もしかして覗いてたのか？　俺は気が付かなかったけど、覗いてたんだよな？=Oh, you were peeking at me, weren't you? I didn't notice, but you were peeking, weren't you?
+なんだよ、風呂上りに見る顔じゃないな……=What the hell, that's not a face you want to see after a bath...
+覗いてたのか？　だったら、いっそのこと入ってくれば良かったのに。=Were you peeking? If that's the case, why didn't you just come in?

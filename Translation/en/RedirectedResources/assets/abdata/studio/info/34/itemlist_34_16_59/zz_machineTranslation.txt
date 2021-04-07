@@ -1,0 +1,43 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+電話=Phone
+電卓=Calculator
+チェス盤=Chess board
+ポーン=Pawn
+小物入れ=Accessory case
+カード1=Card 1
+カード2=Card 2
+カード3=Card 3
+砂時計=Hourglass
+封筒=Envelope
+羊皮紙=Parchment
+用紙=Paper
+筆箱=Pencil case
+ノート開き=Note opening
+ノート閉じ=Note closing
+ペンスタンド=Pen stand
+メニュー1=Menu 1
+メニュー2=Menu 2
+ティッシュペーパー=Tissue paper
+卓上カレンダー=Desktop calendar
+金の花瓶=Gold vase
+ケトル=Kettle
+コーヒーカップ=Coffee cup
+ティーセット1=Tea set 1
+ティーセット2=Tea set 2
+ティーセット3=Tea set 3
+ティーセット4=Tea set 4
+シャンプー入れ=Shampoo holder
+石鹸=Soap bar
+バスケットボール=Basketball
+小さな植木鉢=Small flowerpot
+中華のお皿=Chinese plate
+ハードダーツ=Hard darts
+ダーツボード=Darts board
+フィアスコボトル=Fiasco bottle
+ボトル=Bottle
+缶=Can
+グラス=Glass
+シャワーヘッド=Shower head

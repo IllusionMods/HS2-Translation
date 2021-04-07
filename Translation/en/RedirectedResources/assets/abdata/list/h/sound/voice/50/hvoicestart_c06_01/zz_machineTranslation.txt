@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんな生物、どこから持ちこんだのですか？=Where did you bring this creature from?
+こんな所に触手なんて…良くご用意されましたね=How could you prepare a tentacle in such a place?
+なんだか、激しく動いていて…元気そうですわ=He's moving really fast... And he's looking good.
+こんなものまで持ち込むなんて、すごい所ですわね=It's amazing that they even brought this stuff in.
+なんですの、これは…少し気味が悪いですわ=I don't know, this is... A little creepy.
+こんな不気味な生物…どこから持ち込んだんですの？！=These creepy creatures... Where did you bring them from?

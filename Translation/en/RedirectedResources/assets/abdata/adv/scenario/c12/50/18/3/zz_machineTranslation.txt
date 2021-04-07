@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お、おい……？！　このまましちゃうのかよ？　お前何考えてんだよ。=Hey, hey? Are you going to do this? What are you thinking?
+やっぱりそう来るか……まぁ、こういうのもたまには面白いかもなぁ！=I knew you'd come to that... Well, this kind of thing can be fun sometimes!
+お前に何か期待した俺が、馬鹿だったぜ……=I was a fool to expect anything from you...
+やっぱり襲うんだな……うんうん、お前はそうでなくっちゃな。=I knew you were going to attack me... Yeah, yeah, you have to be.

@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+とても、おどろおどろしいお部屋ですね……本当にこちらで致すのですか？=This is a very frightening room... Are you sure you want to do this here?
+まるで、このお部屋自体が生きているのではないかと、錯覚してしまいそうです。……私の、錯覚ですよね？=It's almost as if this room itself is alive... It's my illusion, right?
+何と申せば良いのか……正直、驚く事しか出来ませんね……ですが、貴方と交われるのでしたら、場所は問いません。=I don't know what to say... I can only say that I am surprised... But if I am to be with you, it doesn't matter where.
+こ、ここは一体何なのですか……？　とても嫌な予感が致します……=What the hell is this place? I have a very bad feeling about this...
+何やら不思議な気配を感じるのですが……やはり、気のせいでは無い様ですね。=I have a strange feeling that I'm not imagining things.

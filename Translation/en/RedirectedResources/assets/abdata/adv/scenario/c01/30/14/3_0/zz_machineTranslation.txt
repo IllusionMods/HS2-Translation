@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+やっぱり、朝はスッキリ目覚めたいわよね。=After all, you want to wake up feeling refreshed in the morning, don't you?

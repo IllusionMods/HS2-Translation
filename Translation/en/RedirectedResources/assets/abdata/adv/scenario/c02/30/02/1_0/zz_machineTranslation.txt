@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+どうも、あなたもいらしたんですね。=Hi, I see you're here too.
+あら、更に増えましたね。=Oh, there's even more.
+あ……こんにちは。=Oh... Hello.
+まさかあなたも来るなんて……=I can't believe you're here.
+あら、あなたもここに？=Oh, you're here too?
+ふふっ、あなたも私に会いに来たんですか？=Hmm, you came to see me too?
+……はぁ、折角楽しく話してたのに……=... Huh, we were just having a nice conversation...
+……何ですか？　今取り込み中なんですが。=... What is it? I'm taking it in now.
+ようこそ、花園へ。=Welcome to the flower garden.
+あら、丁度あなたの噂をしていたところです。=Oh, I was just gossiping about you.

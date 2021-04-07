@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+オマエの意見も参考にはなった。あくまで参考程度だがな。=Your opinion was also helpful. It's only for reference, though.
+まぁ結局は、人それぞれってやつだな。=Well, in the end, each to his own, I guess.
+悪くない話だった。無駄な時間にならなくて良かったな。=It wasn't a bad story. I'm glad it wasn't a waste of time.
+話すのはそこまで得意じゃないが、それなりに楽しめたな。=I'm not that good at talking, but I've had some fun with it.
+退屈はしなかった。それだけで十分だろ。=I wasn't bored. That's all you need to know.
+よし、話は終わりでいいな？　長引かせてもダレるだけだ。=All right, let's get this over with, shall we? I'm not going to drag this out.
+ようやく終わったか。オマエ、話が長すぎるぞ。=Finally, it's over. You've been talking too long.
+安心しろ。オマエの話は、ほとんど聞いてなかった。=Don't worry. I didn't hear most of what you had to say.
+まあ、こうやって話すのも、たまには悪くない。=Well, it's not so bad to talk like this once in a while.
+よし、あとの話はまた今度だ。そう簡単にまとまるもんでもないだろ。=All right, we'll talk about it later. It's not going to be that easy.

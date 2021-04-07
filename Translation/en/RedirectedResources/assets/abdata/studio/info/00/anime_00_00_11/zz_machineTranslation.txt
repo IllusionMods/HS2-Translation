@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+起きるin=Get up in
+起きるloop=Wake up loop
+飛び起きるin=Wake up in
+飛び起きるloop=Wake up loop
+椅子で寝るin=Sleep in a chair in
+椅子で寝るloop=Sleeping in a chair loop
+椅子で寝るout=Sleep in a chair out
+机椅子寝in=Desk chair sleeping in
+机椅子寝loop=Desk chair sleeping loop
+机椅子寝out=Desk chair sleeping out

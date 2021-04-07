@@ -1,0 +1,23 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+眩しい=Dazzling
+ガッカリ=Disappointed
+怒るin=Angry in
+怒るloop=Angry loop
+怒るout=Angry out
+立ち怖がる=Scared to stand
+びっくりする1=Surprised 1
+びっくりする2=Surprised 2
+立ちお腹減ったー=I'm hungry
+さむがる=Squeeze
+不快両手を見る=Uncomfortable looking at both hands
+いてっ！=Come on!
+もじもじ=Hesitantly
+クスクス=Couscous
+拍手=Applause
+話しを聞く1=Listen to the story 1
+話しを聞く2=Listen to the story 2
+話しを聞く3=Listen to the story 3
+話しを聞く4=Listen to the story 4

@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+悪いわね、ちょっとだけ待っててもらえるかしら。=I'm sorry, but I'm going to need a moment of your time.
+ごめんなさい、少し時間をもらっていいかしら？=I'm sorry, can I have a moment of your time?
+ごめんなさい、ちょっと用事を済ませてくるわ。=I'm sorry, I have to run an errand.
+悪いんだけど、少し用があるから……=I'm sorry, but I need to take care of a few things, so...
+ごめんなさい、少しだけ待ってもらいたいんだけど。=I'm sorry, but I'm going to need a few minutes of your time.

@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+たくはん……ひまひょぉ……(たくさんしましょう)=(Let's do this a lot)
+まんじょくすぅまれ……あしょびまひょぉ……(満足するまで、遊びましょう)=(Let's play until we are satisfied)

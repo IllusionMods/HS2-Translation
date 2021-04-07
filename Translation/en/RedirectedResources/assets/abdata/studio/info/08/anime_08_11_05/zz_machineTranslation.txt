@@ -1,0 +1,29 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+モンキーダンス=Monkey dance
+駄々っ子=Spoiled child
+壁押し=Wall push
+ジタバタ=Jitabata
+もつ=Offal
+応援=Cheering
+荒ぶる鷹のポーズ=Raging eagle pose
+why=Why
+イエッサ=Yessa
+やすめ=Rest
+エッヘン=ahem
+お尻ぺんぺん=Butt pen pen
+ゾンビ=Zombie
+ゾンビ攻撃=Zombie attack
+ゾンビ這いつくばり=Zombie crawling
+奥義=Mystery
+決めポーズ右=Decisive pose right
+決めポーズ左=Decisive pose left
+なるほど=I see
+パニック=Panic
+謝罪=Apology
+腹パン=Belly bread
+腹減った=Hungry
+壁チラ右=Wall chiller right
+壁チラ左=Wall chiller left

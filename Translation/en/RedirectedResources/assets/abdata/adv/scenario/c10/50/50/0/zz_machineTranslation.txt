@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+美味しいお酒と、ムードの良いプールと、本当に至れり尽くせりですね。=With delicious drinks and a moody pool, it's really a perfect place to be.
+貴方はお酒とプール……どちらを楽しみにして来たのですか？=Which did you come to enjoy more, the drink or the pool?
+それとも、私と同じで……もっと気持ちいいことを期待していましたか？=Or were you like me... Expecting something more pleasant?
+妖艶な綺麗さと言えば良いのでしょうか……ここはそんな場所ですね。=I guess you could say it's bewitchingly beautiful... This place is like that.
+身体が火照ってしまっても、すぐにプールで冷やすことができますし……=If your body gets overheated, you can quickly cool off in the pool and...
+どうですか？　少し私と……熱くなるようなことをしてみませんか？=What do you think? Would you like to do something a little... Hotter with me?
+お酒にしますか？　プールにしますか？　それとも……私ですか？=Would you like a drink? Would you like a pool? Or... Me?
+なんて……ここはムードが良すぎて、少し変な気分になっているようです。=How... The mood is too good here, and it seems a little strange.
+ふふ、でも今の質問は……どう答えて頂いてもよろしいのですよ？=But you can answer that question any way you like, right?

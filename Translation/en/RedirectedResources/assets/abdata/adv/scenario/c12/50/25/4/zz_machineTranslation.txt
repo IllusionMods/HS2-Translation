@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+見たまんまの部屋だな……あんまり無茶苦茶するなよな。=The room looks exactly as you see it... Don't be too reckless.
+お前ってこういう感じのが好きなのか……まぁ、お前が喜ぶなら、付き合ってやってもいいけどな。=You like this kind of thing... Well, if it makes you happy, I'll go out with you.
+うおぉ、すごいなこの部屋？！　完全に目的決まってるじゃん、お手柔らかに頼むぜ！=Ahhh, what is this room? I know exactly what I'm doing here, so please be gentle!
+なんだよ、この部屋……分かりやすすぎて嫌なんだけど……お前ひとりで遊べよ。=What's with this room... It's too obvious and I don't like it... You should play by yourself.
+ここでするのか？　ちょっと不安だけど、まぁ頑張って付き合ってやるよ。=You're doing this here? I'm a little nervous, but well, I'll do my best to keep you company.

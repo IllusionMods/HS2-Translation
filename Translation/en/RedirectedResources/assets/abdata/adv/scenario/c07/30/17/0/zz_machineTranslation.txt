@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+???=????
+おい、誰かいないのか……！=Hey, is anyone out there?
+チッ、クソ……誰でもいい、とにかく来やがれ……！=Damn it, damn it... Whoever you are, just come here!
+どこからか声が聞こえる・・・=I can hear voices coming from somewhere...

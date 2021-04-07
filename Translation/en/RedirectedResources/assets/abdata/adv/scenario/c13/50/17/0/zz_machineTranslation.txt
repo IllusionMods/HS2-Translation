@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+???=????
+あの人が助けに来てくれたら……運命、なんて……=If only he'd come to my rescue... Fate...
+その、だれかいませんか……？=I mean, is there anyone?
+どこからか声が聞こえる・・・=I can hear voices coming from somewhere...

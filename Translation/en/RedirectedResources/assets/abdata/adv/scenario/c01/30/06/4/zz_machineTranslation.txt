@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ちょ、ちょっと……こんな時に入ってくるなんて。=Hey, hey, hey... You can't just walk in at a time like this.
+待って？！　こんな事してる時に来るなんて。=Wait, wait, wait! I can't believe you're here when I'm doing this.
+やだ、見てたのね……興奮してきちゃうかも。=Oh no, you've been watching me... I think I might be getting excited.
+こ、こんな所見られるなんて、うぅ……=I can't believe I'm being watched like this.
+どうしたの？　私のしてる所見たかったのかしら？=What's the matter with you? Did you want to see me do it?
+あら、こんな所見られちゃうなんて……あなたが手伝ってくれるのかしら？=Oh, I can't believe I'm being watched like this... Are you going to help me?

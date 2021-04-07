@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+表示名=Display name
+アクション1=Action 1
+アクション2=Action 2
+アクション3=Action 3
+アクション4=Action 4
+アクション5=Action 5
+アクション6=Action 6
+アクション7=Action 7
+アクション8=Action 8
+アクション9=Action 9

@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ふたりでお話をしておりましたの、あなたもいかがですか？=We were just talking, would you like to join us?
+この方とおしゃべりをすると止まらなくて……まるで井戸端会議ですわね。=I can't stop talking to her... It's like a well-to-do meeting.
+もしお時間があれば、３人でお話いたしませんか……？=If you have time, would the three of you like to talk?
+私、３人でおしゃべりしたいですわ、もちろん、みなさんが宜しければですけれど……=I'd like to have a chat with the three of you, if that's all right with you, of course...
+是非３人でお話いたしましょう、きっと話が弾みますわ……♪=I'm sure the three of us will have a lot to talk about ♪
+ちょうどいいですわ、あなたの意見も聞かせてくださらない……？=Just the thing, why don't you give us your opinion as well?
+申し訳ございません、今ふたりでお話をしているのですが……=I'm sorry, sir, but we're talking to each other right now...
+奇遇ですこと……=What a coincidence...
+まあ、気付くのが遅くなってしまって……お疲れ様でございます。=Well, it took me a while to realize that... Thanks for your help.
+こちらにいらしていたのですね、何かご用でしょうか？=I see you're here. What can I do for you?

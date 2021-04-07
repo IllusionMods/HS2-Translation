@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんな物、良く見つけてきたっすね？=How did you find all this stuff?
+こんな所に触手があるなんて、ちょっと驚きっすね=I'm a little surprised to find tentacles in this place.
+うにょうにょ動いてて、かなり面白そうっすね=It looks very interesting.
+触手まで持ち出すなんて、相変わらずすごいっすね=It's amazing as always that you even brought up tentacles!
+なんなんすか、これ…気持ち悪いっすよ！=What's with this... It's disgusting!
+こんな変生き物持ち出すなんて、何考えてるんすか？=What were you thinking, bringing up such a strange creature?

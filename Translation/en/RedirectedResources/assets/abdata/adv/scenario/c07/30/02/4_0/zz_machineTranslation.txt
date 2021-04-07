@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+それじゃ、解散でいいな？　オレはもう行くぞ？=Okay, we're breaking up, right? I'm going to go now, okay?
+よし、こんなところだろ。ずっと話してても、飽きるだけだしな。=Okay, that's about it. If we keep talking, we'll get bored.
+話は終わりだ。ほら、解散するぞ。=End of story. Come on, let's break it up.
+さて、一度終わりにするか。また話したくなったら、集まればいい。=Well, let's end this once and for all. If we want to talk again, we can get together.
+それじゃあ、終わりでいいな？　これ以上は、眠くなってきそうだ。=Well, I guess we're done then, right? Any more of this and I'll start to feel sleepy.
+まぁまぁ楽しめた。終わるなら、今が丁度いいだろうな。=I enjoyed it okay. If it's going to end, now would be as good a time as any.
+もう解散でいいな？　オマエと同じ空気を吸うのが、嫌になってきた。=Can we just break up now? I'm getting sick and tired of breathing the same air as you.
+さぁ、解散だ。これ以上は本気で無駄な時間になるからな。=Now, break it up. Any more of this will be a serious waste of time.
+さて、解散するか。ダラダラ話してても、仕方ねぇしな。=Well, let's break up. It's no use talking about it.
+さぁ、終わりだ終わり。一度区切らねぇと、いつまでも話が続きそうだからな。=Now, the end, the end. If we don't end it once, we'll be talking about it forever.

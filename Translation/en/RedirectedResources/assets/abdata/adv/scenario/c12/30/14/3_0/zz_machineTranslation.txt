@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+どうだ？　完全に目が覚めただろ？=How's that? You're completely awake, aren't you?

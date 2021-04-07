@@ -1,0 +1,15 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+まぁ、言いたいことは分からなくもない……=Well, I don't know what you mean...
+おい、こんなところで話す内容か？=Hey, is this really the place to talk about this?
+つまりどういうことだ？　もう少し分かりやすく話せ。=What's that supposed to mean? Speak more clearly.
+あぁ、言いたいことはだいたい分かった。=Yeah, I think I understand what you're saying.
+ったく、くだらねぇ話だな。=Oh, man, this is bullshit.
+それで？　この話はどこに着地するんだ？=So? Where is this story going to land?
+そういう話しかできないのか？　この変態め。=Is that all you can talk about? You pervert.
+あー、そうだなー、すごいなー。=Oh, yeah, that's great.
+ったく、イキイキした顔で話しやがって。=Ahhh, you're talking with such a lively face.
+ハッ、こういう話の時は、やけに饒舌だな。=Hah, you're awfully talkative when you talk like this.

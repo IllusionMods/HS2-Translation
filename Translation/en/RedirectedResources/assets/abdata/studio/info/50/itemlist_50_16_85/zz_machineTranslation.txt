@@ -1,0 +1,38 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+教会の花瓶1=Church vase 1
+教会の花瓶2=Church vase 2
+黒いゴミ袋=Black trash bag
+網目のゴミ箱=Mesh trash can
+バーのグラス1=Bar glass 1
+バーのグラス2=Bar glass 2
+バーのグラス3=Bar glass 3
+バーのグラス4=Bar glass 4
+小さいバケツ=Small bucket
+カットオレンジ=Cut orange
+レモン=Lemon
+カットレモン=Cut lemon
+バーのボトル1=Bar bottle 1
+バーのボトル2=Bar bottle 2
+バーのボトル3=Bar bottle 3
+バーのボトル4=Bar bottle 4
+ビールサーバー1=Beer server 1
+ビールサーバー2=Beer server 2
+ボトルスタンド=Bottle stand
+ミキサー=Mixer
+フルーツ皿=Fruit plate
+ビーチボール=Beach ball
+犬の首輪=Dog collar
+犬の皿=Dog dish
+サディスティックウォールシェルフ=Sadistic wall shelf
+磔台=Crucifixion
+風景画=Landscape painting
+卵型の花瓶=Egg-shaped vase
+受付モニター=Reception monitor
+キーボード=Keyboard
+長いプランター=Long planter
+壁テーブル=Wall table
+つり革1=Strap 1
+つり革2=Strap 2

@@ -1,0 +1,20 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+電気ストーブ=Electric stove
+クリスマスツリー1=Christmas tree 1
+クリスマスツリー2=Christmas tree 2
+ツリーの植木鉢=Tree flowerpot
+オーナメント1=Ornament 1
+オーナメント2=Ornament 2
+オーナメント3=Ornament 3
+オーナメント4=Ornament 4
+オーナメント5=Ornament 5
+オーナメント6=Ornament 6
+雪床=Snow floor
+雪だるま1=Snowman 1
+雪だるま2=Snowman 2
+雪の結晶1=Snowflake 1
+雪の結晶2=Snowflake 2
+雪の結晶ステッキ2=Snowflake walking stick 2

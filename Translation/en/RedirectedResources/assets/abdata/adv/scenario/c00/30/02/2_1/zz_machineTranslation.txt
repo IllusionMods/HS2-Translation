@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなたはどう思われますか？=What do you think?
+あなたのご意見をお伺いしてもよろしいでしょうか？=May I ask for your opinion?
+もしかして、違う意見もあるのでしょうか？　是非、お聞かせください。=Maybe you have a different opinion? I would love to hear from you.
+あまり興味はありませんが、あなたはどう思われますか？=I'm not really interested, what do you think?
+あなたは他の考えをお持ちなのでしょうか？=Do you have any other ideas?

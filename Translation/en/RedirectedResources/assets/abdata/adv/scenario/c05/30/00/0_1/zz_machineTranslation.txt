@@ -1,0 +1,29 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あ……こ、こんにちは……=Oh... Hello there...
+あ……あなた……ですか……=You... Are you?
+こ、こんなところで……奇遇ですね。=It's a strange coincidence that I'm here.
+もしかして私に何か用ですか？=You wanted to see me, by any chance?
+えっと……どうしましたか？=Um... What can I do for you?
+あ、あなたもここにいたんですね。=Oh, you're here too, aren't you?
+ま、まさかあなたに会えるなんて思いませんでした。=Well, I never thought I'd see you again.
+あ、あなたも来てるなんて……ちょっと驚きです。=Oh, I'm a little surprised you're here too.
+なにかご用でしょうか？=What can I do for you, sir?
+もしかして私になにか用事……だったりしますか？=Is there something you want from me?
+ふふっ、偶然とはいえ、会えると嬉しいです。=Phew, I'm glad to see you, even if it's by chance.
+実は……あなたに会いたいなと思ってました……えへへ。=Actually... I was hoping to meet you... Ehehe.
+こ、こんにちは……同じ場所に来るなんて……心が通じ合ってるみたいです……なんて……=Hello... To come to the same place... It's like we're in the same mind... What a...
+ん……もしかして……何か私にお話でもありますか？=Is there something you want to tell me?
+私になにか聞きたいことでもありますか？=Do you have any questions for me?
+あ、あなたも来てたんですか……=Oh, you're here too...
+も、もしかして……私を叱るために来たんじゃない……ですよね……？=You didn't come here to scold me, did you?
+や……こ、こんなところでまであなたに会うなんて……うぅぅ……=I can't believe I'm meeting you here...
+よ、用事があるなら……言ってください……=Well, if you need me... Just tell me...
+は、話なら聞きますから……あまり……怖い顔はしないでください……=I'll listen to you if you want to talk, so please don't look so scared...
+あなたに会えた日は……ちょっと幸せなんです……えへへ。=The day I see you... I'm a little happy... Ehehe.
+こんなところで会えるなんて……テンション上がっちゃいます……=I can't believe I'm meeting you here... I'm so excited...
+あ……ふふっ、知り合いの方に会えるだけでも嬉しいのに……それがあなただなんて……=Oh... Hmmm... I'm just happy to see someone I know... And it's you...
+あ、あなたからのご用件なら、なんでも伺いますよ。=Oh, I'll listen to anything you have to say.
+なにか用事があったから声をかけてくれたんですよね？　なんでしょうか？=You approached me because you had something to do, didn't you? What is it?

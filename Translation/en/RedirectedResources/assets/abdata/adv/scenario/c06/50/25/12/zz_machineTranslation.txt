@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんな所にまで電車が通っているなんて、すごいですわ。=It's amazing that the train goes to such a place.
+この電車、どこから来ているのかしら？=Where do you think this train is coming from?
+電車に乗るなんて、なんだか楽しいですわね。=It's kind of fun to ride the train.
+電車ですか……特に興味はありませんけど……=Trains... Not that I'm particularly interested...
+電車の中で、変な気を起こさないで下さいね。=Please don't get weirded out by the train.

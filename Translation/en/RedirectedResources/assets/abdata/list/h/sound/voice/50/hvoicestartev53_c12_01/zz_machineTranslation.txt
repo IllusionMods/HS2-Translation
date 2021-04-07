@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+どうやら、触手に終わる気はないらしいな=Apparently, you're not going to end up a tentacle.

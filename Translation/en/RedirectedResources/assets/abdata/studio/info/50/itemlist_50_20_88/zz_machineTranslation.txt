@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+短い触手1=Short tentacles 1
+短い触手2=Short tentacles 2
+短い触手3=Short tentacles 3
+触手壺=Tentacle bottle

@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ご挨拶に来てくださったのですね、ありがとうございます。=Thank you for coming to say hello.
+はい、またお会い致しましょう。=Yes, we will meet again.
+お急ぎの用があるのですね、その方によろしくお伝えくださいませ。=I see that you are in a hurry, please give my regards to that person.
+お話できたらと思いましたけど、またの機会に致しましょう。=I wish I could talk to you, but we'll have to do it another time.
+あら、それは残念ですわ……♪=Oh, I'm sorry to hear that ♪
+まあ、意地悪ですのね……♪=Well, that's just mean ♪
+はい、それでは……=Yes, so...
+何も用事がないのに話しかけてくださったの？=You spoke to me even though I had nothing to do with you?
+そうですか、いつでも誘ってくださいまし。=Oh, well, you can always invite me.
+お声をかけて頂けただけでも嬉しいですわ。=I'm glad you asked me.

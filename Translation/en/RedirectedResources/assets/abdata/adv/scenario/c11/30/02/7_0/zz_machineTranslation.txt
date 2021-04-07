@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+本当に、宜しいのですか？=Are you sure you want to do this?
+わざわざ、お声がけ下さったのですか？=Did you go to the trouble of asking me for help?
+えっと……ご遠慮されているのでしょうか？=Um... Are you refraining from doing that?
+お話出来る機会だと思っていたのですが……残念です。=I thought it would be an opportunity to talk to you, but... I'm sorry.
+他のご用向きの途中なのですか？=Are you in the middle of another errand?
+特にご用はなかったのですか？=Didn't you have something in particular you wanted to see me about?
+ご用がないのでしたら、声をかけないで下さい。=If you don't want to talk to me, please don't talk to me.
+では、早急に立ち去って下さい。=Then please leave as soon as possible.
+貴方がそう仰るのでしたら……了解致しました。=If that's what you want, then I understand.
+そうなのですか……少々残念です。=I see... I'm a little disappointed.

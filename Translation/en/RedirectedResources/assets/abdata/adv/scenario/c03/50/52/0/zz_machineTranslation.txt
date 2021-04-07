@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+電車とか……こんな所で何するつもり？=Trains and... What are you doing here?
+言っておくけど……変なまね、しないでよね=Just so you know... Don't do anything crazy.
+ちょっと、言った傍から何してんのっ……=What are you doing right after I said that?
+ちょっと待って、お前……ここ、電車の中だって……=Wait a minute, you... You said we're on a train...
+分かってんの？　変なことしちゃダメなの……=Do you understand? You can't do anything weird...
+バカ……なんで大人しくできないわけ……=Idiot... Why can't you be quiet?
+電車の中では、変なことしたらダメなんだよ。=You're not supposed to do anything weird on the train.
+ダメだって言ってるだろ、このバカっ。=I said no, you idiot.
+いい加減にしろって、人に見られちゃうだろっ。=Come on, people will see you.

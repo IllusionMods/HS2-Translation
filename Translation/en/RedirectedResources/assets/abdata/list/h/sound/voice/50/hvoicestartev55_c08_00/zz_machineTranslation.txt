@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなたとなら、何度でも大丈夫です=With you, I'll be fine again and again.
+二人で、もっと続けましょう=Let's both keep going for more.

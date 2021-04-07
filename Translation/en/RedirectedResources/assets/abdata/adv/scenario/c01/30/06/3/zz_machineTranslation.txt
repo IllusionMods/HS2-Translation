@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんな所に入ってくるなんて？！　何考えてるの。=I can't believe you just walked in here! What were you thinking?
+ど、どうしたの？！　こんな所に入ってくるなんて、恥ずかしいわ。=What's wrong with you? I'm so embarrassed to come in here like this.
+ちょっと、いくら何でもいきなりこんな所に入ってくるなんて。=Hey, I can't believe you just walked in here like that.
+何考えてるのよ？！　こんな所にまで入り込もうだなんて……=What the hell were you thinking? You can't just walk in here and...
+どうしたの？　私がトイレしてる所見たいのかしら？=What's the matter? Do you want to see me go to the bathroom?
+あら、一緒にトイレに入りたいの？　私がトイレしてる所見たいのかしら？=Oh, you want to go to the bathroom with me? Do you want to watch me use the bathroom?

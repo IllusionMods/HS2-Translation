@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+はい、何度でも致しましょう=Yes, I'll do it again and again.
+続けて頂けるなんて、嬉しく存じます……=I'm glad you're continuing...

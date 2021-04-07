@@ -1,0 +1,16 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+風呂の照明1=Bath lighting 1
+風呂の照明2=Bath lighting 2
+教室の照明=Classroom lighting
+ロビーの照明=Lobby lighting
+卓上ライト=Desktop light
+ステンドグラスライト=Stained glass light
+花の照明=Flower lighting
+シンプルシャンデリア=Simple chandelier
+スタンドライト=Stand light
+蝋燭の照明1=Candle lighting 1
+蝋燭の照明2=Candle lighting 2
+あんどん=Andon

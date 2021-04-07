@@ -1,0 +1,37 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+しゃがみin=Crouching in
+しゃがみloop=Crouching loop
+しゃがみout=Crouching out
+傘持ちしゃがみin=Crouching with an umbrella in
+傘持ちしゃがみloop=Umbrella holding crouching loop
+傘持ちしゃがみout=Umbrella crouching out
+体育座りin=Gymnastics sitting in
+体育座りloop=Gymnastics sitting loop
+体育座りout=Gymnastics sitting out
+砂の城を立てる=Build a sand castle
+TVゲームしてる=I'm playing a video game
+しゃがみ怖がる=Crouching scared
+和式トイレin=Japanese style toilet in
+和式トイレloop=Japanese style toilet loop
+和式トイレout=Japanese style toilet out
+和式トイレバレin=Japanese style toilet barre in
+和式トイレバレloop=Japanese style toilet ballet loop
+足パタパタ=Foot patter
+足パタパタ2=Foot patter 2
+クッションでゲーム=Game with cushion
+クッションで脱力=Weakness with cushion
+ぬいぐるみを抱く=Embrace the stuffed animal
+風呂 待機=Bath waiting
+風呂バレin=Bath barre in
+風呂バレloop=Bath barre loop
+五右衛門風呂=Goemon bath
+五右衛門風呂バレin=Goemon bath barre in
+五右衛門風呂バレloop=Goemon bath barre loop
+地面いじりin=Ground messing around in
+地面いじりloop=Ground messing around loop
+地面いじりout=Ground messing out out
+治療=Treatment
+暖まる=Warm up

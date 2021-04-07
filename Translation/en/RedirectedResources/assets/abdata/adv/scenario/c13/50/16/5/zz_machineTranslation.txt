@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+もう許してください……これ以上、私につきまとうのはやめてください……=Please forgive me... And don't follow me around any more...
+帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.

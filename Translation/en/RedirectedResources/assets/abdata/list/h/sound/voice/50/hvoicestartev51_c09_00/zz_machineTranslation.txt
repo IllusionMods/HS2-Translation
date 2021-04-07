@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+また、わたしがしてあげますね=I'll do it again for you.
+わたしとあなたさんが満足するまで、続けましょう=Let's continue until you and I are satisfied.

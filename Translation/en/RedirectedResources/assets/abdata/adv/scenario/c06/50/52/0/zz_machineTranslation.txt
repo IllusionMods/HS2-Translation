@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんな所で……何をするおつもりなんですか？=What do you think you're doing here?
+いたずらはお控えくださいね。=Please refrain from playing tricks on me.
+変なことをしたら、許しませんから。=If you do anything strange, I won't forgive you.
+お待ちください……ここは、電車の車内なんですよ？=Please wait... We're in a train car, remember?
+変なことを……しないで下さいませ……=Please don't... Do anything weird...
+あまり度が過ぎると、怒りますからね。=If you go too far, he'll get angry.
+電車内なんだから、大人しくしてくださいませ。=We're on a train, so please be quiet.
+いたずらしては、いけませんよ。=Don't mess with it.
+ダメですから……おやめくださいませ。=You can't... Please don't do that.

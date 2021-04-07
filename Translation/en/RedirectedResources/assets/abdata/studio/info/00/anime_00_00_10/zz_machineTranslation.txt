@@ -1,0 +1,20 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+立って食べるin=Stand up and eat in
+立って食べるloop=Stand up and eat loop
+立って食べるout=Stand up and eat out
+スプーンで料理を食べるin=Eat with a spoon in
+スプーンで料理を食べるloop=Eat with a spoon loop
+スプーンで料理を食べるout=Eat with a spoon out
+盗み食い=Sneaking eating
+盗み食いバレin=Sneaking eating caught in
+盗み食いバレloop=Sneaking eating caught loop
+椅子、机で食べるin=Eat on a chair or desk in
+椅子、机で食べるloop=Eat on a chair or desk loop
+椅子、机で食べるout=Eat on a chair or desk out
+椅子で食べるout=Eat on a chair or desk out
+立って飲む=Drink standing
+椅子で飲む=Drink in a chair
+座って飲む=Drink sit down

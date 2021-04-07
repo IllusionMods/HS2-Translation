@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+よし、今日はとことんやるぞ=Okay, we're going to go all out today.
+まだまだ、終わらないからな=I'm not done with you yet.

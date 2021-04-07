@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+私です、あなたに会いたくて来ちゃいました……=It's me. I've come to see you...
+……うふふ、わかりました、また今度にしますね……=... Ugh, okay, I'll do it another time...

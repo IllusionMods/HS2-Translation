@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+本を読む=Reading a book
+ページをめくる=Turn the page
+机に料理を置く=Put the food on the desk
+掃除ふく=Cleaning wipe
+高い机に手をついてる=I'm holding my hand on a high desk
+柵に寄りかかっている=Leaning on the fence

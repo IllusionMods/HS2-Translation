@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+もうやめて…続けたくないわ=I don't... Want to keep going.
+こんな事…もう終りにして=This... Has got to stop.

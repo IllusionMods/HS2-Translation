@@ -1,0 +1,15 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+・・・・・=・・・・・
+へぇ……ちょっと興味あるかも。=Hmm... I might be interested in that.
+なんか……危ない話してる？=Are we talking about something... Dangerous?
+それはそれで、凄いと思うけど……=That would be awesome, but...
+私はそこまで……出来るかなぁ……？=I don't know if I can... Do that much?
+なにそれ、流石にやり過ぎじゃない？=What is that? Isn't that a bit much?
+おー、なんか……凄いね……=Ooh, that's kind of... Awesome...
+うわ……どん引き……それ本気？=Wow... That's a bit of a stretch... Are you serious?
+いやー……冗談でもそれはないわー。=Oh no... I'm kidding, but that's not going to happen.
+そういうね。うんうん、分かる分かる。=That's right. Yeah, yeah, I know.
+そうそうそうそう、いいねいいね！=Yeah, yeah, yeah, yeah, yeah. Good, good, good!

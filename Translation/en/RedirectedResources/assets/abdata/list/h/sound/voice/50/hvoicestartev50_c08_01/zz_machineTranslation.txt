@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+続けるんすか？　大丈夫っすよ=Are you going to continue? I'll be fine.
+いいっすよ、私も続けたかったっすから=That's fine. I wanted to keep going.

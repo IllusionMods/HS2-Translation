@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+え、ちょ、どこへ連れてく気ですか……っ！？=What? Where are you taking me?
+え、あの、話聞いてましたか……？　ちょっと……っ=Um, did you hear what I said? Wait...
+あら、こんな状態の私を連れ回す気ですか……？=Oh, you're taking me around in this state?
+きゃっ、ちょ、ちょっと、引っ張らないでください……っ！=Oh, no! Hey! Don't pull me!
+えっと、まさかこのまま……？=Well, you don't think it's going to?

@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+よし、いたな。なんだか無性にオマエに会いたくなってな。悪い気はしないだろう？=Okay, there you are. I just wanted to see you for some reason. You don't feel bad, do you?
+よう、また来てやったぞ。嬉しいだろ？=Hey, I'm here again. Aren't you happy?
+邪魔するぞ。オマエの部屋は居心地がいいんだ。少しゆっくりさせろ。=You're in my way. I'm comfortable in your room. Let me relax a bit.
+さて、オレはオマエの部屋に来た。あとはオマエがどうするかだ。まさか、お茶を出して終わりってことはないよな？=Now, I've come to your room. Now it's time to see what you're going to do. You're not just going to serve me tea, are you?
+・・・・・=・・・・・
+オレとオマエのやりたいことは同じだと思ってたんだがな。まぁ、話してるだけでも、それなりに楽しかったが。=I thought that you and I wanted to do the same thing. Well, it was fun just talking to you.
+部屋にまで押しかけられて、一晩中話して終わりとはな……意気地なしだと言われても文句は言えねぇぞ？=You can't just barge into my room and end up talking to me all night... I can't complain if you say I'm a wimp.
+一晩中オマエと話すってのも楽しかったが。やっぱ少し物足りねぇな。=It was fun to talk with you all night. I'm still a little short of something.
+喜べ、会いにきてやったぞ。何か面白い話でもしろ。できないなら……そうだな、違うことでオレを楽しませろ。=Rejoice, I've come to see you. Give me something interesting to talk about. If you can't... Well, entertain me with something else.

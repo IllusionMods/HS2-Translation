@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お待たせして、申し訳ございません。=I apologize for keeping you waiting.
+申し訳ございません、次からはこの様なことが無いように注意致します。=We apologize for the inconvenience, and we will take care not to let this happen again.
+お待たせ致しました。……貴方の視線を感じた気がしたのですが、気のせいでしょうか？=Thank you for waiting... I thought I felt your eyes on me, or was it my imagination?
+……まさかとは思いますが、覗いてはいませんよね？=... I don't think so, but you're not peeking, are you?
+すみません、お待たせ致しました。……もしかして、ずっとこちらに？　覗きに来られても良かったのですが……=I'm sorry to keep you waiting. Are you here all the time? You could have come to take a peek, but...

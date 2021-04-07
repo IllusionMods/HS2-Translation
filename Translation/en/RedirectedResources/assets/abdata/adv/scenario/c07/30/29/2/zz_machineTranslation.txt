@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ん？　こんなところで何をしてるんだ？　まさか、覗いてたんじゃないだろうな？=Hmm? What are you doing out here? You weren't peeping at me, were you?
+おっと、オマエも汗を流しに来てたのか？　もう少し早く会ってればな、二人で入ってもよかったんだが……=Oh, you're here to work up a sweat, too? If only we'd met a little earlier, we could've gone in together.
+ふぅ……オマエもタイミングが悪いな。丁度汗を流したところだ。今からってのは、流石のオレでも微妙だな。=Hmmm... You have bad timing too. I've just been working up a sweat. I'm not sure I'm ready for this right now.
+おい、そこで何してた？　余計な疑いかけられたくなかったら、こんな所うろついてんじゃねぇぞ。=Hey, what were you doing there? If you don't want to be questioned, don't hang around here.
+こういう所にオマエがいると、覗きしかイメージできないが。まぁ、バレなきゃ犯罪じゃねぇってやつか。=When I see you in a place like this, all I can imagine is peeping. Well, I guess it's not a crime if you don't get caught.

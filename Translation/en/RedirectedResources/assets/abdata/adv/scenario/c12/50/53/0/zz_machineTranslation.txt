@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+このにょろにょろ動いてるやつ、一体何なんだよ？=What the hell is this wispy thing doing?
+一応、害はないんだよな？=In case you were wondering, it's harmless, right?
+だったら、遊んでみるのも面白いのかもな。=Then maybe it would be interesting to play with it.
+こんな、変な生き物までいるのかよ、ここ……=I can't believe there are even these weird creatures here...
+生き物でいいんだよな？=You're sure it's a living thing?
+とにかく、コイツと……遊ばせてもらうぜ。=Anyway, I'm gonna play with this guy.
+コイツ……無茶苦茶動きまくるぞ？=This thing... It moves around like crazy, you know?
+触手なんだよな？　なんでこんな所から生えてるんだ？=They're tentacles, aren't they? Why are they growing out of this place?
+まぁ、面白ければ、なんでもいいんだけどさ。=Well, I don't care what it is, as long as it's fun.

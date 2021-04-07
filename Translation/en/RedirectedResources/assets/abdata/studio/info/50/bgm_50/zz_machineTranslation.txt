@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+朝霧=Morning mist
+夕涼み=Evening cool
+探索好き=I like exploration
+見られてる？=Are you watching?
+勝負！！=Game! !!
+リビドーDX=Libido DX

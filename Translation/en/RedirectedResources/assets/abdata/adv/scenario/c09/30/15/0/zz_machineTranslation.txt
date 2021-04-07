@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+もしもーし！　あなたさーん！　わたしが来ましたよー！　お部屋にいらっしゃいますかー！？=Hello! Hey, you! I'm here! Are you in your room?
+ふおお！　まさかのお留守でしたかっ！　なんと間の悪いわたし！　次こそはタイミング掴んで来ますからねー！=Whoa! I didn't expect you to be home! What a bad time for me! I'll get the timing right next time, I promise!

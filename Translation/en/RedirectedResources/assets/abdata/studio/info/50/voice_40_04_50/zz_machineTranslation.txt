@@ -1,0 +1,28 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+表示名=Display name
+「んん…りゅ…んっ…ぇろ…ろ…んむ、ぅ…ん…はぅ…ん…」="Hmm... Ryu... Hmm... Ero... Ro... Hmm, U... Hmm... Hmm... Hmm..."
+「んぅ、んん…はぁ、ん…ん…りゅ…んりゅ…ぅ…れろ…んむ…」="Hmm... Hmm... Hmm... Ryu... Nryu... U... Rero... Hmm..."
+「んん……んぁ……りゅ……ぇろ……んっ……んぉ……んはぁ……」="Hmm... Hmm... Ryu... Ero... Hmm... Hmm... Hmm..."
+「んぅ、んぁ……んりゅ……ぁぁ……んれぉ……んあっ……んむ……んあぁ……」="Hmm... Mmmm... Mmmm... Mmmm... Mmmm... Mmmm..."
+「んじゅぅ…んはっぁ…ちゅじゅ…ちゅ…えろ…ん…にゅちゅ…にちゅ…じゅる」="Nju... Nhaa... Chuju... Chu... Ero... N... Nyuchu... Nichu... Juru"
+「すじゅ…んっちゅ…ん…ちゅっ…しゅる…んん…ちゅ…ちゅ……にゅる…ちぅ…」="Suju... Nchu... N... Chu... Shuru... N... Chu... Chu... Nyuru... Chu..."
+「れろ……んじゅ、じゅる……んあっ……んちゅ……んぅ……れろぉ」="Rero... Nju, Juru... Nah... Nchu... Nuu... Rero"
+「じゅぶ……んんっ……んれぇん……じゅぶぶ……んあっ……れろ」="Jubu... Nmm... Nren... Jububu... Nah... Rero"
+「んむ…う…ぉむ…づ…ん…おぶ…むづ…んっ…んむぅ…ん…」="Mmm... U... Mmm... Zu... Mm... Obu... Muzu... Mmm... Mmm... Mmm..."
+「んっ…む…ぇむ…ちゅ…づむ…ん…ん…ぉぶ…づ…むぬ…」="Hmm... Mu... Em... Chu... Zum... Hmm... Hmm... Zu... Mun..."
+「んむ…う…んぁ…づ…ん…んぉぉ……んっ…んむぅ…んぁぁ…」="Hmm... U... Hmm... Zu... Hmm... Hmm... Hmm... Hmm... Hmm..."
+「んっ…んあっ…ぇむ…ちゅ…んあぁ……ぉぶ…づ…んぅぅ…」="Hmm... Mmm... Chu... Mmmm... Mmmm... Mmmm... Mmmm..."
+「ぐっぽん…はぽ…んぼ…んっぉ…じゅぽ…じゅぽ…はぷ…ぐゅっぽ…もむぅ…」="Guppon... Happo... Nbo... Nh... Jupo... Jupo... Hap... Guppo... Momu..."
+「ふぶ…ん…ぷじゅ…はぽ…んっ…ぉ…かぽ…じゅぽ…ん…ん…はもぉ…」="Fubu... No, no, no, no, Puju... 2010... Well... Oh... Kampo... Jupo... No, no, no, no, No, no, no, no, Oh, my God..."
+「にゅぷっ……んあ……じゅちゅる……あんっ……ちゅちゅ……じるぢる……んっ」="Nyupu... Nah... Juchuru... Anh... Chuchu... Jirujiru... N"
+「んん……ぱも……あんっ……んあっ……んぼ……んじゅっ……んぉ……」="Hmm... Pamo... Ah... Hmm... Hmm... Nju... Hmm..."
+「んぶっ……んぐっ……んぉ……んむむ……」="Hmm... Mmmm... Mmmm..."
+「にゅぷっ……じゅちゅる……ちゅちゅ……じるぢる……」="Nyupu... Juchu... Chuchu... Jirujiru..."
+「んぅっ……ん……うぇ……ぐっ……んんっ……」="Hmm... Hmm... Wow... Gut... Hmm..."
+「んぅっ……んじゅ……うぇ……ぐっ……んぐちゅ……」="Nuu... Nju... Uh... Gut... Nguchu..."
+「んっ……んっ……ふっ、んんっ、んっ、ぁふっ」="Hmm... Hmm... Hmm, Hmm, Hmm, Ahh"
+「んふっ……んっ……ふふっ、んんっ、んっ、ぁはっ」="Hmm... Hmm... Hmm... Hmm... Hmm..."
+「んぁぁ……ぁ……んっ、ぁぁ、んぁ、ぉぉ」="Well... Well... Well, oh, my God."

@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなたの意見が聞けてよかったです、ありがとうございました。=I'm glad to hear your opinion, thank you.
+お答えいただき、ありがとうございました。=Thank you for your answer.
+また今度、あなたの意見を聞かせてくださいね？=I'll let you know what you think next time, okay?
+どんな内容であれ、あなたの話が聞けたのはよかったです。=Whatever the content, it was good to hear your story.
+それがあなたの主張だということ、しっかり覚えておきますから。=I'll make sure to remember that that's your point.
+あなたの意見、参考にさせて頂きますね。=I'll take your opinion into consideration.
+あの、そろそろ用事があるので……=Um, I've got some business to take care of, so...
+話、もう終わりでいいですよね？=Can we just finish our conversation, please?
+あなたの答え、しかと受け止めますね。=I'll take your answer very seriously.
+やはりいろいろな意見が聞けるのはいいですね。=After all, it's good to hear different opinions.

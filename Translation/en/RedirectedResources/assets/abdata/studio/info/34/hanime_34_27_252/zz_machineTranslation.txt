@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+弱前待機=Wait before weak
+弱アクション=Weak action
+強前待機=Strong front waiting
+強アクション=Strong action
+脱力アクション=Weakness action

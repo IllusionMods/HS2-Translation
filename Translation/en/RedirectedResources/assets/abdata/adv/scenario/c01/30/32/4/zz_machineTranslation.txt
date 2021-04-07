@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+な、何？！　これってどういうことなの？=What the hell? What is the meaning of this?
+もしかして、夜這いに来てくれたの？=Could it be that you've come to crawl in the night?
+起こしてくれたら、私が気持ちよくしてあげたのに。=If you had woken me up, I would have made you feel better.
+寝込みを襲うなんて！　何考えてるのよ。=You attacked me in my sleep! What were you thinking?

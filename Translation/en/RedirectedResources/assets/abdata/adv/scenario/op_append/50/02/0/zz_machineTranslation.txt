@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+おかえりなさいませ、如何でしたでしょうか？=Welcome back, how was it?
+デラックスプランで訪れた場所は、今後お客様がパートナーとの待ち合わせの際にご自由に使うことができます。=The places visited in the Deluxe Services can be freely used by customers to meet up with their partners in the future.
+まだお試しになられていないプランがございましたら、パートナーとの関係性を考慮された上、改めてお越しください。=If there is a service that you have not tried yet, please come back again after considering the relationship with your partner.
+それでは、またのご利用をお待ちしております。=We look forward to seeing you again soon.

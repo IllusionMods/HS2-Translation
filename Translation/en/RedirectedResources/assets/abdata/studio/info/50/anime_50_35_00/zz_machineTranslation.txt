@@ -1,0 +1,53 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+表示名=Display name
+几帳面：待機=Careful: Wait
+几帳面：肯定=Careful: Affirmation
+几帳面：否定=Careful: Negation
+几帳面：放置=Careful: Leave
+几帳面：考える=Careful: Think
+几帳面：驚く00=Careful: Surprised 00
+几帳面：驚く01=Careful: Surprised 01
+几帳面：バイバイ=Careful: Bye bye
+几帳面：無反応=Careful: No reaction
+几帳面：恥ずかしい=Careful: Embarrassing
+几帳面：登場=Careful: Appearance
+几帳面：起こす=Careful: Wake up
+大和撫子：待機=Ideal Japanese: Wait
+大和撫子：肯定=Ideal Japanese: Affirmative
+大和撫子：否定=Ideal Japanese: Negation
+大和撫子：放置=Ideal Japanese: Left alone
+大和撫子：考える=Ideal Japanese: Think
+大和撫子：驚く00=Ideal Japanese: Surprised 00
+大和撫子：驚く01=Ideal Japanese: Surprised 01
+大和撫子：バイバイ=Ideal Japanese: Bye bye
+大和撫子：無反応=Ideal Japanese: No reaction
+大和撫子：恥ずかしい=Ideal Japanese: Embarrassing
+大和撫子：登場=Ideal Japanese: Appearance
+大和撫子：起こす=Ideal Japanese: Wake up
+ボーイッシュ：待機=Tomboy: Wait
+ボーイッシュ：肯定=Tomboy: Affirmative
+ボーイッシュ：否定=Tomboy: Negation
+ボーイッシュ：放置=Tomboy: neglected
+ボーイッシュ：考える=Tomboy: Think
+ボーイッシュ：驚く00=Tomboy: Surprised 00
+ボーイッシュ：驚く01=Tomboy: Surprised 01
+ボーイッシュ：バイバイ=Tomboy: Bye bye
+ボーイッシュ：無反応=Tomboy: No reaction
+ボーイッシュ：恥ずかしい=Tomboy: embarrassing
+ボーイッシュ：登場=Tomboy: Appearance
+ボーイッシュ：起こす=Tomboy: Wake up
+ヤンデレ：待機=Obsessed: Wait
+ヤンデレ：肯定=Obsessed: Affirmation
+ヤンデレ：否定=Obsessed: Negation
+ヤンデレ：放置=Obsessed: Left alone
+ヤンデレ：考える=Obsessed: Think
+ヤンデレ：驚く00=Obsessed: Surprised 00
+ヤンデレ：驚く01=Obsessed: Surprised 01
+ヤンデレ：バイバイ=Obsessed: Bye bye
+ヤンデレ：無反応=Obsessed: No reaction
+ヤンデレ：恥ずかしい=Obsessed: Embarrassing
+ヤンデレ：登場=Obsessed: Appearance
+ヤンデレ：起こす=Obsessed: Wake up

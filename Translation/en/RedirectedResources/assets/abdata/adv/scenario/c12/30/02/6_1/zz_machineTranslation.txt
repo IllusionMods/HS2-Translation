@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+これでお開きだな。それじゃあ、またな。=I guess we're done here. I'll see you later.
+それじゃ、また三人でするのも、悪くないかもな。=Then again, it might not be a bad idea for the three of us to do it again.
+それじゃあ、俺はもう帰るから。次も声かけてくれよな。=Well, I'm leaving now. Call me next time, will you?
+三人も悪くなかったけど……やっぱり、お前と二人が……いや、なんでもない、んじゃ、またな。=The three of us weren't bad, but I still think that you and I... No, it's nothing, I'll see you later.
+盛り上がったなぁ！　次も待ってるぜ。=That was a lot of fun! I'll be waiting for the next one.
+勿体ないけど、とりあえずこの辺で終わりだな。=It's a waste of time, but I think we're done here for now.
+……じゃあな、お疲れさん。=... So long, guys.
+……んじゃ、さよなら。=Well, goodbye.
+いい感じだったな。また、この続きをやろうぜ。=That was nice. Let's do this again.
+こういう遊びなら、いつでも誘ってくれ。それじゃあ、またな。=You can always invite me over for this kind of fun. I'll see you later.

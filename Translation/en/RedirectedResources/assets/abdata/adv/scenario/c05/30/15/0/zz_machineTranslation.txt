@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+すみません……今、お部屋にいますか……？=Excuse me... Are you in your room right now?
+あれ、お留守なのかな……ではまた出直します……=Well, I guess you're not home... So I'll be back...

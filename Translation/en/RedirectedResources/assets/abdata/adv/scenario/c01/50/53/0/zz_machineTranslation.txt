@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+なんだか、かなり動き回ってるけど、大丈夫なの？=You're kind of moving around a lot, are you okay?
+一応安全なのよね？　ならいいけど。=It's safe, right? I hope so.
+いいわよ……試しに遊んでみるから。=Okay... I'll give it a try and play with it.
+すごい触手よね……どこから連れてきたのかしら？=Those tentacles are amazing... Where did they come from?
+生きてるのよね、これ？　機械じゃないんでしょ？=It's alive, isn't it? It's not a machine, is it?
+とにかく、この子で……楽しませてもらうから。=Anyway, I'm going to have... Fun with this girl.
+この触手……かなり暴れてるんだけど……=These tentacles... They're pretty out of control...
+肉食だったりしないわよね？=You're not a carnivore, are you?
+私は、楽しめればそれでいいんだけど。=I'm fine with that, as long as I can enjoy it.

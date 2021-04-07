@@ -1,0 +1,12 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+机の上=On the desk
+壺=Vase
+虫網を振る=Shake the bug net
+地面in=Ground in
+地面loop=Ground loop
+地面out=Ground out
+井戸ポンプ=Well pump
+釡を混ぜる=Mix up the ingredients

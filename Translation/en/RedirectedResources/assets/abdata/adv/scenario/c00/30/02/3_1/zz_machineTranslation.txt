@@ -1,0 +1,24 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+やはりそうですよね、同じ意見で嬉しいです。=I knew you were right. I'm glad we agree.
+私も同意見です。=I agree with you.
+あなたもそう思われますか？　私とあなたは感性が似ているのかもしれませんね。=Do you think so too? Maybe you and I have similar sensibilities.
+私も同じ見解です。一致すると何だか嬉しいですね。=I have the same view. I'm kind of happy when they match.
+そうですか、私たち気が合いますね。=Well, we're kindred spirits, aren't we?
+成程、私と近しい意見ですね。=I see, you have a similar opinion to mine.
+あなたと意見が一致するとは思ってもみませんでした。=I never thought I'd agree with you.
+私と近しい考え方ですね。=That's a similar idea to mine.
+本当ですか？　私も同じことを思っていました=Are you sure? I was wondering the same thing.
+あなたもですか？　同じ意見とは嬉しいです。=You too? I'm glad we share the same opinion.
+貴重なご意見をありがとうございます。=Thank you for your valuable feedback.
+そういった考え方もあるのですね。=So that's one way of thinking about it.
+私とは違いますが、素晴らしい考え方だと思います。=It's not like me, but I think it's a great idea.
+成程……それも一理ありますね。=I see... You have a point.
+違う視点でのご意見、大変参考になりました。=Your opinion from a different perspective was very helpful.
+それは面白いですね、私にはない考え方でした。=That's interesting, I hadn't thought of that before.
+見解の不一致ですね。=It's a disagreement of opinion.
+個人的には賛同できませんね。=Personally, I don't agree with it.
+確かに……私が浅慮だったかもしれません。=You're right... Maybe I was being shallow.
+面白いですね、とても参考になりました。=That's interesting, and very informative.

@@ -1,0 +1,21 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+落ち込むin=Depressed in
+落ち込むloop=Depressed loop
+落ち込むout=Depressed out
+座り咳=Sitting cough
+バーの椅子=Bar chair
+ぬいぐるみを抱く=Embrace the stuffed animal
+会話 右=Conversation right
+会話 左=Conversation left
+ベンチ座り 男女=Bench sitting men and women
+ベンチ膝枕 男女=Bench knee pillow men and women
+本を読む=Reading a book
+ページをめくる=Turn the page
+洋式トイレin=Western style toilet in
+洋式トイレloop=Western style toilet loop
+洋式トイレout=Western style toilet out
+洋式トイレバレ=Western style toilet barre
+洋式トイレバレ待機=Western-style toilet barre waiting

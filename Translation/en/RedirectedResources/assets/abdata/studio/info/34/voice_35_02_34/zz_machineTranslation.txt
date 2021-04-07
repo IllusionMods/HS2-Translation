@@ -1,0 +1,17 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+「ぁぁ…んぅ…ぁぁ…んぅ…」="Ah... Nuu... Aa... Nuu..."
+「ふぁ、んぅ、ふぁ、んぅ」="Fah, huh, huh, huh"
+「ちゅる、んっ、ちゅむる」="Chur, N, Chumuru"
+「ふぁっ、んんぅ」="Fa, nun"
+「ふぁっ、んんぅ、ふぁっ、んんぅ」="Fa, nuu, fah, nnu"
+「れろっ、んれちゅ、ちゅるぅ」="Rero, Nrechu, Churu"
+「あぁっ、んんっ、あぁっ、んんっ」="Ah, um, um, um"
+「うぐ、ん、っくぅ」="Ugu, n, kuku"
+「んあっ、ふぁ、んぅ」="Hmm, hey, hmmm"
+「んんっ、ちゅ、んぅ」="Hmm, chu, nuu"
+「う゛っ……あぐ……」="Uh... Agu..."
+「あひっ、はぇっ、へひっ」="Ahi, hey, hehi"
+「ちゅ、んっ、ぁぁ」="Chu, hmm, ah"

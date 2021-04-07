@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんにちは。私たちに何かご用でしょうか？=Hello. What can we do for you?
+どなたかお探しなのでしょうか？=Are you looking for someone?
+もしお時間が宜しければ、お話にお付き合い頂けませんか？=If you have a moment, would you be willing to join me for a chat?
+彼女と話に花を咲かせておりました。良かったら、貴方もいかかがですか？=I was talking to her. Would you like to join us?
+うふふ、何か破廉恥な事を考えていませんか？=Ummm, are you thinking of something shameful?
+貴方から淫靡な気配を感じるのですが……気のせいでしょうか？=I sense a hint of lewdness coming from you... Or is it just my imagination?
+はぁ……ご用件をどうぞ。=Huh... May I help you?
+女性がいれば、直ぐに寄ってくるのですね。=If there is a woman, you come right up to her.
+彼女か私にご用向きでしょうか？=Would you like to see her or me?
+彼女にご用でしたら、私は席を外しますが……？=If you need her, I'll be out of your hair?

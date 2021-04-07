@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなたさんもちょっとお話ししていきませんかー？=Why don't you come and talk to us?
+お時間ありましたら、お話しましょー！=If you have time, let's talk!
+今、色んなお話してたんですよー。あなたさんも一緒にどーですか？=We were just talking about a lot of things. Would you like to join us?
+せっかくだから、ちょっとお時間いいですか？=Since you're here, can I have a moment of your time?
+えーっと、今、忙しいですか？　少しくらいならお話出来ますよね？=Um, are you busy right now? I can talk to you for a bit, can't I?
+ふっふっふ、出会ってしまった以上、ただで返すわけにはいきませんね！　お話していきましょー！=Hmmm... Now that we've met, I can't just give it back! Let's talk about it!
+ここで会ったのも何かの縁と認めて……せっかくだからお話でもしていきますか？=I'll admit that it's a good thing that we met here... And since we're here, why don't we talk?
+はぁぁ……あなたさんも話したいなら、会話に加わってくれてもいーですよ。=If you want to talk about it, you can join the conversation.
+ちょっとあなたさんのお話も聞きたいなー。なんて。いーですよね？=I'd like to hear your story, too. What a surprise. It's okay, isn't it?
+ここは一つ、あなたさんにも会話に加わってもらって！　色んなことお話したいですー！=I'm going to ask you to join the conversation! I want to talk about all kinds of things!

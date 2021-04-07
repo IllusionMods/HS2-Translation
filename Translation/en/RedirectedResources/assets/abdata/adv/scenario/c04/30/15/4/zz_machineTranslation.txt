@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あんさ～、本当に帰っちゃっていいの？　引き止めるなら今のうちだよ？　わりとアタシ、今からでもオッケーだと思ってるよ？=Are you sure you want to leave? If you want to stop me, now is the time. I think it's okay for me to leave now.

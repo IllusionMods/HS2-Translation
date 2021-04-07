@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+素敵なひと時でしたね。お客様……ご満足、いただけましたか？=It was a wonderful time, wasn't it? Customer... Were you satisfied?
+気持ち良くなっていただけましたか？　それなら私も満足です。=Did it make you feel good? If so, I'm satisfied.

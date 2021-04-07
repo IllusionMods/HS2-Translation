@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+次に、お選び頂いたプランに該当される方が選出されますので、当プランを一緒に過ごしたいパートナーをお選びください。=Next, you will be asked to select a partner with whom you would like to share this service.

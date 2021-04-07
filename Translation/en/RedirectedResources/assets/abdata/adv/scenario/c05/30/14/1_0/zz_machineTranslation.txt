@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+はむっ、んふぅ……ふぁ……おへはへへふは……？=Hmph... Hmph... Oheh heh heh heh?

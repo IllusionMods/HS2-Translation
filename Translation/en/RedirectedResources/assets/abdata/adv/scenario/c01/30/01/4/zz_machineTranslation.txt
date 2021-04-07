@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+元々、あなたと繋がりたいと思っていたのよ？=Originally, I wanted to connect with you, you know?
+いいわよ、一緒にもとに戻りましょ？　本能の赴くままにね……うふふ。=Okay, why don't we go back together? Just follow your instincts... Ugh.
+ちょっと暴走気味だったかしら……気を付けないと。=I think I went a little out of control... I have to be careful.
+あなたに会って気が急いちゃったみたい……うふふ。=I think I got carried away when I met you... Ugh.

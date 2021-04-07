@@ -1,0 +1,7 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+パートナーと出会う為には、お好みのパートナーカードをグループへと登録して頂く必要がございます。=In order to meet a partner, you need to register your preferred partner card to the group.
+尚、１つのグループに対して登録できる人数は決まっておりますのでご注意ください。=Please note that there is a limit to the number of people who can register for one group.
+グループへの登録が完了致しましたら、パートナーと出会う準備は完了となります。=Once you have registered with the group, you are ready to meet your partner.

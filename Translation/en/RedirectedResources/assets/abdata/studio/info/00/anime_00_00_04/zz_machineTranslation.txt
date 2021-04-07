@@ -1,0 +1,17 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+手で水バシャ=Splashing water with hand
+足で水バシャ=Splashing water with feet
+くるくる回る=Spin around
+枝振り回す=Swing the branches
+泳ぐ待機=Waiting to swim
+泳ぐ=Swim
+ブランコ 立ち=Swing standing
+ブランコ 座り=Swing sitting
+飛び込む=Jump in
+石を拾って投げる=Pick up a stone and throw it
+猫と遊ぶ1=Play with cats 1
+猫と遊ぶ2=Play with cats 2
+猫と遊ぶ3=Play with cats 3

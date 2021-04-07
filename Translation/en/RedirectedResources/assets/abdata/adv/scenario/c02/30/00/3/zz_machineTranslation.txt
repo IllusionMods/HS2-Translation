@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+はぁ、そうですか。=Huh, I see.
+わかりました、それではまた。=Okay, I'll see you then.
+……そうですか、では。=... I see, then.
+用がなくても私に会いに来てくれた、という事にしておきますね。=I'll just say that you came to see me even if you didn't need me.
+私の顔を見に来ただけって事ですね、わかりました。=So you're just here to see my face, I get it.
+あら、何もしないんですね、わかりました。=Oh, you're not going to do anything, I get it.
+なら声をかけないでください。=Then don't call out to them.
+そうですか、なら私に用はないですよね、さようなら。=I see, then you have no use for me, goodbye.
+そうですか、残念です……=Well, I'm sorry to hear that...
+また何かありましたら、いつでも声をかけてください。=If there is anything else I can do for you, please feel free to contact me anytime.

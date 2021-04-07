@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+良かったわ、それじゃあ、また。=Great, I'll see you then.
+いい時間だったわ、ありがとう。=It was a good time, thank you.
+また、あなたと一緒に過ごしたいわ。=I'd love to spend time with you again.
+一緒に過ごせて楽しかったわ、ありがとう。=It's been fun spending time with you, thank you.
+気持ちのいい時間だったわ、それじゃあ、またね。=It was a pleasant time. I'll see you then.
+最高にいい時間だったわ、ありがとうね。=It was a great time, thank you.
+それじゃあ、これで。=Well, here we go then.
+終わったなら、もう行くから。=If you're done, I'm leaving.
+あなたと素敵な時間が過ごせて、良かったわ。=I'm glad I had such a wonderful time with you.
+あなたが望んでくれるなら、いつだってお相手するわ。=I'm always here for you, if that's what you want.

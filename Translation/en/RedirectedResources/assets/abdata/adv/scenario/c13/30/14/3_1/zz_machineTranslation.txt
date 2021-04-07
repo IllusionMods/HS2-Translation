@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+くすっ、私の方が気持ちよかったですよね……？=Damn, I felt better than that, didn't I?

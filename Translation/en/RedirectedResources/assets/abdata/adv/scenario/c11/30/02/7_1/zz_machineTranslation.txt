@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ご用の際は、いつでもお声がけ下さい。=If you need anything, please feel free to contact us at any time.
+お手すきの際は、気軽にお声がけ頂けますと幸いです。=If you have any questions, please feel free to contact us.
+何かございましたら、ご遠慮なくお声がけ下さいね。=If you need anything else, please don't hesitate to contact me.
+その……お顔を拝見出来ただけでも、嬉しく存じます。=I'm glad to see your face.
+あら……私の思い違いだったのですね。=Oh my... I must have been mistaken.
+てっきり三人で致すのかと……勘違いをしておりました。=I thought it was going to be the three of us, but I was mistaken.
+ただただ迷惑です。=It's just annoying.
+何故、まだここにいるのですか？=Why are you still here?
+また、いつでもお声がけ下さい。=Please feel free to contact us again anytime.
+貴方のご用を優先致しますので、何かございましたらお申しつけ下さい。=We will give priority to your needs, so please let us know if there is anything we can do for you.

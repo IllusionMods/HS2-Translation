@@ -1,0 +1,16 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+パンジー1=Pansy 1
+パンジー2=Pansy 2
+パンジー3=Pansy 3
+黄色い花=Yellow flower
+空色の花=Sky blue flowers
+蔦の葉1=Ivy leaves 1
+蔦の葉2=Ivy leaves 2
+蔦の葉3=Ivy leaves 3
+蔦の葉4=Ivy leaves 4
+蔦の葉5=Ivy leaves 5
+庭の大木=Large tree in the garden
+松の木=Pine tree

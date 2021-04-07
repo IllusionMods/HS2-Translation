@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+まだ、続けるなんて正気ですか……？=Are you insane?
+この様なことを続けるけるのは、間違っています……=It's wrong to keep doing things like this...

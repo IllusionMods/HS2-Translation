@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+表示名=Display name
+「すぅ……はぁ……」="Suu... Ha..."
+「んぅ……はぁ……」="Hmm... Hah..."
+「はぁ…はぁ…はぁ…はぁ…」="Hah... Ha... Ha... Ha... Ha..."
+「すぅ…はぁ…はぁ…んぅ…」="Suu... Ha... Ha... Nuu..."
+「はひ、ぁひっ、ひっ、んぐっ…はひ…」="Hahi, ahi, hi, ngu... Hahi..."

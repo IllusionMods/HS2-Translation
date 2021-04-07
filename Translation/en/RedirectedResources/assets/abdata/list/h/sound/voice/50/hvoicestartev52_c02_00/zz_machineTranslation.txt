@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+どうして……？　止めて下さいっ……=Why are you? Please stop...
+したいと思ってるは、あなただけですよっ……=You're the only one who wants to...

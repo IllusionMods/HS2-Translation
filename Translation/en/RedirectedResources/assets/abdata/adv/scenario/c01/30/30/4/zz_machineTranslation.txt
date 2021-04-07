@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お待たせ。ん？　別になんでもないわ。=Here you go. Hmm? It's nothing.
+ちょっと待たせすぎちゃったかしら？　特に用事はなかったんだけどね。=I hope I didn't keep you waiting too long. I didn't have anything in particular to do.

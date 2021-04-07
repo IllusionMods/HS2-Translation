@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+素直に答えて頂き、誠にありがとうございました。=Thank you very much for your honest answer.
+あなたの意見が聞けたのは僥倖でしたわ……=It was fortuitous that I got to hear your opinion...
+とても参考になりましたわ、いつもありがとうございます。=This was very helpful, thank you for all your help.
+あなたのことを一層理解できた気がいたしますわ。=I feel like I understand you even more now.
+確認を取るようなことになってしまいましたけれど、あなたの意見が聞けてよかったですわ……♪=I'm glad to hear your opinion, even if it did mean asking for confirmation ♪
+とっても参考になりましたわ、実際にするのが楽しみです……♪=It was very helpful, and I'm looking forward to actually doing it ♪
+ご意見、ありがとうございます……=Thank you for your input...
+意見を交わすこと自体に罪はございませんわね。=There's no harm in exchanging opinions, is there?
+あなたのことを知らなければ尽くすことも難しいのでとても参考になりました、ありがとうございます。=It's hard to serve without knowing you, so thank you very much for your help.
+この機会に聞けてよかったですわ。=I'm glad I had this opportunity to ask.

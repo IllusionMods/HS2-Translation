@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あなただったらどうなの？=What if it were you?
+あなたならどう思うの？=What would you think?
+あなたの考えも気になるわ。=I'm curious what you think, too.
+あなたはどう？=What about you?
+あなたならどう考えるの？=What would you think?

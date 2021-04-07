@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+それじゃ、私たちはこれで。=Well, we'll leave you to it.
+じゃあ、また会いましょう。=Well, I'll see you around.
+今度また、ゆっくり話しましょう。=Let's talk again soon.
+それじゃあ、またお話しましょう。=Well, I'll talk to you later.
+それじゃ、またおしゃべりを楽しみましょう。=Well then, let's enjoy chatting again.
+この次も、また盛り上がりましょうね。=Let's get excited again next time.
+楽しかったわ、それじゃあ、また。=That was fun. I'll see you then.
+私たちは、これで……また会いましょう。=We will now... Meet again.
+あなたとお話しできて嬉しかったわ。=It's been a pleasure talking to you.
+あなたとのおしゃべり、素敵な時間だったわ。=I had a wonderful time chatting with you.

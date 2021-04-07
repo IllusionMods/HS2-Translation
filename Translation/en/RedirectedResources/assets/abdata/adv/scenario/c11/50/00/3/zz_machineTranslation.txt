@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+そうでしたか、早とちりをしてすみません。=Oh, I see. I'm sorry I spoke too soon.
+早合点でしたか……失礼致しました。=I'm sorry if I misunderstood.
+お声がけ頂いたので舞い上がっていたのですが……お恥ずかしい限りです。=I was so excited to hear from you... I'm so embarrassed.
+そう、ですか……いえ、お声がけ頂けただけで、嬉しく存じます。=Well, no, I'm happy to hear from you.
+心も身体も準備は出来ていたのですが、残念です。=My mind and body were ready for it, but I was disappointed.
+失礼、勘違いでしたか。ナニかございましたら、直ぐにお声がけ頂けますと幸いです。=I'm sorry, I must have misunderstood. If you have any questions, please do not hesitate to contact me.
+ほっ、何もないとのことで安心致しました。=I was relieved to hear that there was nothing wrong.
+では、今すぐここから立ち去って下さい。=Now, please leave this place right now.
+ご遠慮されているわけでは……ない様ですね。畏まりました、また何時でもお声がけ下さい。=You're not shy... Are you? Thank you very much for your time.
+……私ではお力になれないことだったのでしょうか。=... Was it something I couldn't help you with?

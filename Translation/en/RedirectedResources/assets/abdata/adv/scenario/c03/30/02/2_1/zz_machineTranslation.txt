@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ねぇ、お前の意見も聞かせてよ。=Hey, I want to hear your opinion, too.
+お前はどう思う？　正直に言ってくれていいよ？=What do you think? You can be honest with me, okay?
+お前の意見も聞きたいなぁ♪=I'd like to hear your opinion too ♪
+で？　お前はどう思うのー？=So? What do you think?
+うーん、お前の意見も聞いてみたいかな～。=Hmmm... I guess I'd like to hear your opinion too!

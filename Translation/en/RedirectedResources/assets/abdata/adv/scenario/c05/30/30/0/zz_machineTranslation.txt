@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あ、あのっ……すみません……ちょっとだけお待ち頂けますか？=Uh, excuse me... Can you wait a moment?
+あっ、えっと……その……お、お手洗いへ……行きたいんですけど……=I'd like to use the restroom, but...
+ん……す、すみません、急にお手洗いへ行きたくなってしまって……少しだけお待ちください。=I'm sorry, I suddenly had to go to the bathroom... Please wait a moment.
+す、すみません、少し、ここで待っていて頂けますか？　ほんの少しだけ……ですので……=I'm sorry, can you wait here for a moment? It's just for a little while, so...
+は……ぅ……ちょっと恥ずかしいんですけど……お、お手洗いへ……行かせてください……=I'm a little embarrassed, but please let me go to the bathroom...

@@ -1,0 +1,25 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+「んっ、んっ、ふっ、んんっ、りゅにゅっ、にちっ、にちゅっ、んんっ、んぅっ」="Hmm, hmm, huh, hmm, ryunyu, nichi, nichu, nnn, nuu"
+「んっふ、くちっ、ちゅっ、んんっ、ふっ、んぅっ、うっ、んりゅっ、んちゅっ」="Nfu, Kuchi, Chu, Nun, Fu, Nuu, Uh, Nryu, Nchu"
+「んん、んぁ、りゅ、ぇろ、んっ、んぉ、ぉぉ、んれ、んぁ、りれ、あぁ」="Well, well, ryu, uh, no, oh, oh, no
+「すじゅっ、ちゅっ、んんっ、はふっ、にゅるっ、ちゅっ、ちゅくっ、ちゅくっ」="Suju, Chu, Nn, Hafu, Nyuru, Chu, Chuku, Chuku"
+「はじゅっ、じゅるるっ、ふっ、ちゅくっ、んっ、すじゅっ、んっ、にちっ」="Haju, Jururu, Fu, Chuku, N, Suju, N, Nichi"
+「れろ、んじゅ、じゅる、んあ、んちゅ、すちゅ、んぇっ、れぉろ、んはぁ」="Rero, Nju, Juru, Nah, Nchu, Schu, Nee, Rero, Nhaa"
+「んっ、んんっ、んっ、むぅっ、んっ、んっ、ぉむっ、んっ、ぅむっ、んっ、むぅっ」="Hmm, hmm, hmm, muu, hmm, hmm, um, hmm, hmm, hmm, muu"
+「ぉむっ、んづっ、むっ、ちゅっ、んっ、んっ、んっ、ぇむっ、んっ、ぶっ、んむっ」="Omu, nzu, mu, chu, n, n, n, emu, n, bu, nmu"
+「んっ、んんっ、んあっ、んっ、んっ、ぉむっ、んあっ、んぅぅ、んっ、むぅっ」="Hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm"
+「かぽっ、かぽっ、はもっ、んっ、ちゅぶっ、んんっ、んぼっ、あもっ、あもっ」="Kapo, Kapo, Hamo, N, Chubu, Nn, Nbo, Amo, Amo"
+「ふぶっ、んっ、ぬぼっ、ぼちゅっ、ぼちゅっ、ぽちゅっ、ぶっ、んんっ、ぉぼっ」="Fubu, N, Nubo, Bochu, Bochu, Pochu, Bu, Nn, Obo"
+「ふぶっ、んっ、んぅっ、ぼちゅっ、ぼちゅっ、ぽちゅっ、んぅ、んんぁ、ぉぼっ」="Fubu, n, nuu, bochu, bochu, pochu, nuu, naaa, obo"
+「おぼっ、ぽっ、ぶもっ、んごっ、おぶっ、ぶぶっ、、んぶっ、おっ、おぼっ」="Obo, Po, Bumo, Ngo, Obu, Bubu, Nbu, Oops, Obo"
+「ぬぼっ、おぼっ、んっ、ふっ、ふぶっ、んごぉっ、ぉぼっ、ばもっ、ぶむっ」="Nubo, Obo, N, Fu, Fubu, Ngoo, Obo, Bamo, Bumu"
+「ぶぼっ、ぢゅぼっ、おっごっ、ぶぉっ、んづるるるるっ、ぶっ、んぶるっ」="Bubo, Jyubo, Ogo, Boo, Nzuru Ruru, Buu, Nburu"
+「おぶちゅっ、んぼっ、、ぢゅぶっ、おっごっ、ぶっ、ずろろっ、ぢゅぶりゅっ」="Obuchu, Nbo, Jyubu, Ogogo, Buu, Zuroro, Jyuburyu"
+「ふぐっ、んっ、えぅっ、んえっ、あぁ、んが、んぉ」="Fugu, n, uh, eh, ah, nga, n"
+「んっ、んぅっ、ぼちゅっ、ぼちゅっ、んぁぁ、んぅ、んんぁ」="Hmm, hmm, bochu, bochu, hmm, hmm, hmm"
+「んっ、んっ、んっ、ふっ、んんっ、んっ、ぁふっ」="Hmm, hmm, hmm, hmm, hmm, hmm, hmm"
+「んふっ、んっ、んっ、ふふっ、んんっ、んっ、ぁはっ」="Hmm, hmm, hmm, huh, hmm, hmm, huh"
+「んぁぁ、ぁ、んっ、ぁぁ、んぁ、ぉぉ」="Well, no

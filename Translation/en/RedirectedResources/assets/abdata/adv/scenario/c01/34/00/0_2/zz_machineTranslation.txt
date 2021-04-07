@@ -1,0 +1,24 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あら、あなたもお風呂なの？=Oh, you're taking a bath too?
+お風呂で会うなんて偶然ね。=What a coincidence that we met in the bathtub.
+で、何か用なの？=So, what can I do for you?
+何、どうかしたの？=What, what's wrong?
+まさかお風呂で会えるなんてね。=I never thought I'd see you in the bathtub.
+お風呂に来たら、あなたに出会えたわ。=I came to the bath and found you.
+もしかして、私に何か用？=What do you want from me, by any chance?
+何か用があるのかしら？=What can I do for you?
+お風呂で会えるなんて、すごく嬉しいわ。=It's so nice to see you in the bath.
+こんな場所で会えるなんて、ドキドキするわ。=I'm so thrilled to see you in a place like this.
+ひょっとして、私に何か用があるの？=What do you want from me, by any chance?
+何か私に用事があるんじゃないの？=Isn't there something you wanted to see me about?
+どうしてあなたがここに？=Why are you here?
+こんな所であなたと会うなんて……=I can't believe I'm meeting you here.
+何か用事があるのかしら？=Is there something I can do for you?
+私に何か用なの？=What do you want from me?
+お風呂で出会うなんて、なんだか色々想像しちゃうわ。=I can't imagine what it's like to meet someone in the bathtub.
+こんな楽しそうな場所で出会えるなんて、嬉しいわ。=It's nice to see you in such a fun place.
+あなたからの用事なら何でも聞くわよ。=I'll listen to whatever you need from me.
+大丈夫、あなたの用事なら全部聞いてあげるわ。=Don't worry, I'll take care of all your needs.

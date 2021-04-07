@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+はぁ……って、あ、あの、いつからここに……？=Huh... And, uh, how long have you been here?
+あら、ここで何を？　……ふーん……？=Oh, what are you doing here? Hmm?

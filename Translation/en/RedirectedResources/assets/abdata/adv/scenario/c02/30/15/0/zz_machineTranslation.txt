@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+えっと、いらっしゃいますか……？=Well, are you here?
+……いないようですね、出直してきますか。=... I don't think he's here. I'll have to come back.

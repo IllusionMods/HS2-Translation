@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+???=????
+ちょっとー、誰かいなーい？=Hey, is anyone there?
+おーい、誰かー、ちょっと来て～……=Hey, someone, come here for a second...
+どこからか声が聞こえる・・・=I can hear voices coming from somewhere...

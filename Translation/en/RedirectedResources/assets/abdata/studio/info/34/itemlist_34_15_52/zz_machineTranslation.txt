@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+収納型ベッド=Storable bed
+ホテルのベッド=Hotel bed
+病院のベッド=Hospital bed
+拷問台=Rack

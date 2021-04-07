@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+はぁ、そうですか。=Huh, I see.
+あら、顔を出しに来ただけですか？=Oh, you just came to show your face?
+まぁ、声をかけてくれただけでも良しとします。=Well, it's a good thing that you called out to me.
+……別に気を使わなくてもいいんですよ？=... You don't have to worry about it, okay?
+そうですか、わかりました。=Okay, I see what you mean.
+あら、折角美女が二人も揃っているのに……=Oh, two beautiful women in one place...
+何でもないなら割り込んで来ないでください。=If it's nothing, don't barge in.
+……わざわざ邪魔しに来ただけって事ですか？=... You mean you just came all the way here to interrupt me?
+……本当に何でもなかったんですか？=... Was it really nothing?
+別に、この場で私達を押し倒してしまってもよかったんですよ？=You could have just pushed us over the edge right here, you know?

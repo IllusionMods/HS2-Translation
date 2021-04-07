@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+良かったわ、ねぇ、少しお話でもしない？=Great, hey, do you want to have a little chat?
+あなたと少しでも話したくて、来ちゃったのよ。=I came here to talk to you, if only for a moment.
+もしよかったら、ちょっとお話しない？=If you don't mind, I'd like to have a word with you.
+会いたくて来ちゃったわ。=I've come to see you.
+・・・・・=・・・・・
+付き合ってくれてありがとう。=Thanks for hanging out with me.
+とっても楽しかったわ。=It was a lot of fun.
+ありがとう。また会いに来てもいいかしら？=Thank you. Do you mind if I come and see you again?
+良かったわ、居てくれて……ねぇ、少しだけ話せないかしら？=Thank God you're here... Hey, can I talk to you for a second?

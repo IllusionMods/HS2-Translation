@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お前がしたいなら、もっと続けてもいいから=I can go on and on if you want.
+いいよ…もっと続けちゃおうか=Okay... Let's keep going.

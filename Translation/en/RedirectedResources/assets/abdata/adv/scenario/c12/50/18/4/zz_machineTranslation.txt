@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+行っちまうのかよ？！　なんだよ、助けてくれないんだな。=You're just gonna go? ! What the hell? You're not helping.
+あれ、何にもしないのか？　じゃあせめて誰か呼んできてくれよ。=Oh, you're not going to do anything about that? Then at least go get someone to do it for you.
+お前、マジでなんにもしないで行くつもりか？　いいよ、勝手にしろ。=Are you seriously going to do nothing? Fine, suit yourself.
+まさか放置プレイのつもりかよ……上級者過ぎて思いもつかなかったぜ。=Don't tell me you're planning to leave me alone... I'm too advanced for that to have occurred to me.

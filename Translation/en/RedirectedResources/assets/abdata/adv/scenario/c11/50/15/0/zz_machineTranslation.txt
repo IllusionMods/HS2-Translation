@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+すみません、お部屋にいらっしゃいますか？=Excuse me, sir, are you in your room?
+……お留守なのでしょうか。残念です。=... Are you not home? It's a pity.

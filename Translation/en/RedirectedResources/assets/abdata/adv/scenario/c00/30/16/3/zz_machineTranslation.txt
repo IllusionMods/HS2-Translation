@@ -1,0 +1,7 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+………………=...
+……=...
+逃げることは叶いませんでしたか。それで、どの様な罰を与えるおつもりですか？=You were not able to escape. And what punishment do you intend to inflict?

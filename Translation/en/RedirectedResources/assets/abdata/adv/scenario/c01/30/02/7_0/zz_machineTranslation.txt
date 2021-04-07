@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+あら、そうなの。=Oh, I see.
+そう、何か用があったんじゃないのね。=Yeah, you didn't want anything to do with it.
+そう、残念ね。=Yeah, I'm sorry.
+そうなの、なんでもなかったのね。=Oh, yeah, it was nothing, wasn't it?
+あら、なんでもないなんて寂しいわね。=Oh, it's so sad that it's nothing.
+本当に何でもないの？=Are you sure it's nothing?
+なんでもないなら、別にいいわ。=If it's nothing, I don't care.
+そうなの、だったら気にしないわね。=Oh, well, I won't mind if you do.
+特に用事はないって事かしら？=You mean you don't have anything special to do?
+なんでもないなら、私も何も聞かないわ。=If it's nothing, I won't ask any questions either.

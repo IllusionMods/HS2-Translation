@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+サーフボード=Surfboard
+かき氷機=Shaved ice machine
+かき氷=Shaved ice
+スプーンストロー=Spoon straw
+提灯=Lantern
+すのこ=Duckboard

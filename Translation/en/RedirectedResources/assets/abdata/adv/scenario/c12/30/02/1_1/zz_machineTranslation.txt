@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+どうしたんだ？　誰か探してんのか？=What's going on? Are you looking for someone?
+俺たちに何か用でもあるのか？=What do you want from us?
+よぉ、良かったら、お前も話していかないか？=Hey, if you want, you can talk to me, too.
+どうかしたのか？　俺で良かったら話ぐらい聞くけど……ま、もう一人いるけどな。=What's wrong with you? If it's okay with you, I'll at least listen to you... But there's another guy.
+俺たちになんか用か？　まぁ、何となく察しはつくけどな。=What do you want from us? Well, I think I know what you mean.
+俺たち相手に、何かするつもりか？　楽しみにしていいんだろうな。=What are you gonna do against us? I guess we can look forward to that.
+お前が来たなら、もう終りにしようかな。=If you're here, I think I'll end it.
+特に用がないなら、もう行っていいぞ。=If you don't have anything special to do, you can go now.
+俺たちに遊んでもらいたいんだな？　俺は問題ないぜ。=You want us to play with you? I got no problem with that.
+お前が望むんだったら、仲間に入れてやるぞ？=I'll join you if you want, okay?

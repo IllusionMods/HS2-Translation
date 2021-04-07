@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+???=????
+これは……参ったな。=This is... This is a disaster.
+俺としたことが……こんな事で。=I'm sorry... For what I did.
+どこからか声が聞こえる・・・=I can hear voices coming from somewhere...

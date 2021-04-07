@@ -1,0 +1,23 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ロビーの椅子=Lobby chair
+ロビーの丸椅子=Round chair in the lobby
+ロビーのソファ=Sofa in the lobby
+バスチェア1=Bath chair 1
+バスチェア2=Bath chair 2
+庭園の椅子=Garden chair
+庭園のベンチ=Garden bench
+庭園の木製ベンチ=Wooden bench in the garden
+焼杉の椅子=Burnt cedar chair
+焼杉のベンチ=Burnt cedar bench
+アンティークチェア=Antique chair
+アンティークソファ=Antique sofa
+四角スツール=Square stool
+オフィスチェア=Office chair
+待合室のソファ=Sofa in the waiting room
+教室の椅子=Classroom chair
+中華の椅子=Chinese chair
+西部のハイチェア=Western high chair
+西部の椅子=Western chair

@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+触手は……まだまだ私を、放してくれない様です……=The tentacles... They still won't let me go...

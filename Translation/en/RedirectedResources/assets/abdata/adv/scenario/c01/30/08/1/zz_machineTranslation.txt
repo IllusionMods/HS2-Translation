@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ねぇ、私も一緒に入っていいかしら？=Hey, can I come in with you?
+いいでしょ？　一緒に温まりましょう。=Isn't it nice? Let's warm up together.
+私も一緒に入って、身体をきれいにしてあげるわ。=I'll come in with you and clean myself up.
+お風呂、私も一緒に入るわね、うふふ。=Bath, I'm going to join you, ugh.

@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+お話出来て良かったですー！　お勉強になりました！=It was nice talking to you! I learned a lot!
+やっぱり人の意見を聞くのって大切ですね！=I think it's important to listen to other people's opinions!
+お話してくれてありがとうございます！　あなたさんの考えが聞けて嬉しかったですよー！=Thank you for talking to me! It was great to hear your thoughts!
+これからもちょくちょく、あなたさんの意見を聞かせてくださいね！=I'd love to hear your thoughts on this from you, every now and then!
+こーやって、少しずつでもお互いのことを知っていけるのって……なんか幸せじゃないですか、えへへ。=It makes me happy to know that we can get to know each other little by little, doesn't it?
+あなたさんが望むこと、ちょっと分かった気がします。これからのわたしに、乞うご期待ですよ！=I think I understand a little more about what you want. I'm looking forward to seeing what the future holds for me!
+あなたさんの考え方……一応、頭には入れておきます。すぐに忘れちゃいそーですけど。=Your way of thinking... I'll keep it in mind. I'm sure I'll forget it soon.
+参考になったかどーかと言えば、まぁ、多少は参考になりましたし……一応、お礼はいいますね。ありがとうございますー。=If you're wondering if it was helpful or not, well, it was somewhat helpful... And I'd like to thank you for that. Thank you very much.
+ふふっ、これからはあなたさんの意見をもとに……もっと好きになってもらえるよう頑張りますね。=Phew, from now on, based on your opinion... I'll try my best to make you like me more.
+今日はとっても為になるお話をありがとうございますー！　わたし、また一つあなたさんに近づけましたっ！=Thank you very much for your very informative talk today! I'm one step closer to you!

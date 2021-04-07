@@ -1,0 +1,9 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+何なのこれ？！　何か動いてるわよ。=What the hell is that? Something's moving.
+そのうねうねしてる物って、一体なんなの？=What the hell is that wiggly thing?
+なんだか、すごいものがいるんだけど……それって本物なの？=There's something amazing out there... Is it real?
+ちょっと、何なのよそれ……気持ち悪いんだけど……=Hey, what's that... That's weird...
+何それ？　触手？　本当に動いてるのね。=What is that? Tentacles? It's really moving.

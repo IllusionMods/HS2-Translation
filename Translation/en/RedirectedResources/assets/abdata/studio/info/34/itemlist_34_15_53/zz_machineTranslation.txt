@@ -1,0 +1,24 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+教室の机=Classroom desk
+庭園のテーブル=Garden table
+可動式の机=Movable desk
+丸机=Round desk
+サイドテーブル1=Side table 1
+サイドテーブル2=Side table 2
+曲板の机=Curved board desk
+低いテーブル1=Low table 1
+低いテーブル2=Low table 2
+オフィステーブル=Office table
+大きなオフィステーブル=Large office table
+焼杉のテーブル=Burnt cedar table
+焼杉のサイドテーブル=Burnt cedar side table
+アンティークテーブル=Antique table
+何かの作業台=Something workbench
+中華の机=Chinese desk
+中華の丸机1=Chinese round desk 1
+中華の丸机2=Chinese round desk 2
+西部の丸机=Western round desk
+ポーカーテーブル=Poker table

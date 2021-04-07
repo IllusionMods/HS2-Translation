@@ -1,0 +1,28 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+こんにちは。=Hello.
+あら、どうしましたか？=Ahhh, what's wrong?
+それで、何か？=So, what is it?
+私に何か用ですか？=What do you want from me?
+あら……奇遇ですね。=Oh... That's odd.
+まさかあなたに出会うとは……=I never thought I'd see you...
+っと、急にあなたの顔を見ると……=Suddenly, I see your face...
+そ、それで、私に何か？=Okay, so, what do you want from me?
+私に声をかけてまで……どうしましたか？=You even approached me... What can I do for you?
+あら、私を探していたんですか？=Oh, you've been looking for me?
+ふふっ、奇遇ですね。=Phew, that's odd.
+あら、丁度私もあなたに会いに行こうと思ってた所です。=Oh, I was just about to come and see you too.
+それで、何でしょうか？=So, what is it?
+さぁ、要件をどうぞ。=Now, please state your requirements.
+……どうも。=... Thanks.
+あなた、ですか……=You, sir...
+どうしてあなたが……=Why are you...
+……それで？=... So?
+要件があるなら早くしてください。=If you have a requirement, do it quickly.
+あなたにお会い出来るなんて……=I can't believe I'm meeting you.
+あら、偶然ですね。=Oh, that's a coincidence.
+こ、こんにちは……=Hello...
+どうぞ、何でも言ってください。=Go ahead, say whatever you want.
+私に出来る事なら何でも。=Anything I can do to help.

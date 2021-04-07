@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+俺たちに用があったら、また声をかけてくれよな。=If you need us, give us a shout again, okay?
+んじゃ、また時間があったら遊ぼうぜ。=Well, let's play again when you have time.
+本当に良いのか？　用があったらいつでも言ってくれよ。=Are you sure about this? If you need me, you can always let me know.
+分かった、それじゃまた今度よろしくな。=All right, well, I'll see you next time.
+そうか、ならしょうがねぇな……また今度気持ちいい事しようぜ。=Well then, I guess we'll just have to do something nice another time.
+何でもないのか？　それじゃまた、なんかあるときに一緒に楽しもうぜ。=What's the matter? Well then, let's have some fun together when we have something to do.
+俺の方も用はないから……さよなら。=I'm not here for you either, so... Goodbye.
+だったら用はないだろ……それじゃあな。=Then you have no use for me... So long.
+もう少し一緒にいたかったんだけど、忙しいならしょうがないか。=I wanted to spend a little more time with her, but I guess I'm busy.
+分かったよ……次は、まとめて相手してくれよな。=All right, well... Next time, you'll have to deal with them all together.

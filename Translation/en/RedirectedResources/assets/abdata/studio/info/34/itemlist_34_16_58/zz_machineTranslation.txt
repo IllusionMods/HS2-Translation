@@ -1,0 +1,37 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+庭園のパラソル=Umbrellas in the garden
+パーテーションポール1=Partition pole 1
+パーテーションポール2=Partition pole 2
+大型プリンター=Large printer
+メモ付き冷蔵庫=Refrigerator with notes
+巨大な柱=Huge pillar
+柱風の台=Pillar wind stand
+観葉植物=Foliage plant
+花瓶と花=Vase and flowers
+大きな鳥かご=Big birdcage
+中華の仕切り=Chinese partition
+中華のラック=Chinese rack
+中華の壺=Chinese jar
+中華の壁飾り1=Chinese wall decoration 1
+中華の壁飾り2=Chinese wall decoration 2
+西部のピアノ=Western piano
+ウォールシェルフ=Wall shelf
+壁掛けフック=Wall hook
+油絵=Oil
+横長の絵=Horizontal painting
+三角コーン=Triangular cone
+バット入れ=Bat case
+病室備品=Hospital room equipment
+黒い箱=Black box
+酒場の木箱=Wooden box in a bar
+酒場の樽=Bar barrel
+ノートパソコン=Laptop
+和風の棚1=Japanese style shelf 1
+和風の棚2=Japanese style shelf 2
+小さな和風棚=Small Japanese style shelf
+鏡台=Mirror stand
+掛け軸=Hanging scroll
+着物かけ=Kimono

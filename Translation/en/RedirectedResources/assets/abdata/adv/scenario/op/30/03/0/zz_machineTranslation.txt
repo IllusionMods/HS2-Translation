@@ -1,0 +1,6 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+ロビーでは、現在設定されておりますグループ内のパートナーを呼び出し、お好きな場所へ赴き、行為へと及ぶ事が出来ます。=In the lobby, you can call your partners of the current group and go to the location of your choice to engage in the act.
+場所についてこちらも本サポート中に限り、予めご用意した場所を使用して頂きます。=About the location, you can use the location prepared in advance only during this support.

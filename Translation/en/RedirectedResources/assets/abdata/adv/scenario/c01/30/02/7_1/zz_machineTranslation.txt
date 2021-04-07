@@ -1,0 +1,14 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+
+次はゆっくりお話ししましょう。=Let's talk slowly next time.
+何かあったらいつでも声をかけてね。=If you need anything, you can always call on me.
+あなたとお話したかったけど、仕方がないわね。=I wanted to talk to you, but I had no choice.
+何かあるのかと、期待しちゃったわ。=I was so excited to see what you had in store for me.
+私はお話したかったけど、残念だわ。=I wanted to talk to you, but I'm sorry.
+なんでもないなら、それでいいけど、なんだか寂しいわね。=If it's nothing, that's fine, but it's kind of sad.
+それで良ければ、私からは特にないわ。=If that's all right with you, there's nothing special from me.
+それなら別に問題ないわ。=Then I don't have a problem with it.
+あなたが望むなら、それで問題ないわ。=If that's what you want, no problem.
+あなたが望むなら、また今度お話がしたいわ。=I'd like to talk to you sometime, if you'd like.
