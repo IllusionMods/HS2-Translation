@@ -85,7 +85,7 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 | 14    | Character Search      |
 | 15    | Vip Lobby             |
 
-##  Resource Translation
+##  Resource Translations
 
 The folder `RedirectedResources` is the main translation directory for the game, so it gets special treatment.
 
