@@ -60,6 +60,7 @@ To use scope levels, use the following structure:
 ```
 #set level xxx
 text=translation
+text2=translation2
 #unset level xxx
 ```
 Where "xxx" represents the number of the desired scope level. Below is a table containing the known scope levels and their locations:
