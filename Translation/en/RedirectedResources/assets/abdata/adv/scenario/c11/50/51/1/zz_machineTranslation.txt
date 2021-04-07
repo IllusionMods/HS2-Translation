@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 はぁ……心行くまで、楽しむことが出来ました。=I was able to enjoy it to my heart's content.
 ぁ……申し訳ございません、つい夢中になっておりました……貴方にも、ご満足頂けたでしょうか？=I'm sorry, I got carried away... I hope you were satisfied as well.
 やはり人を責めるのは楽しいものですね。心なしか肌の艶が増した様な気が致します。=After all, it is fun to punish others, isn't it? I feel that my skin has become more shiny.

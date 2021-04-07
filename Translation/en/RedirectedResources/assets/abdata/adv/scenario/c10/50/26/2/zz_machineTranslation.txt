@@ -2,42 +2,29 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 さて、今日はどういたしましょうか。もちろんエッチなことをするわけですが……まずは貴方のお好みで、して頂いて構いませんよ。=So, what shall we do today? Of course we're going to do something naughty, but you can do whatever you like first.
 ふふ、期待されているのですか？　心なしか顔が赤いような気がしますよ？私は逃げたりしませんから、ゆっくり楽しみましょう。=Hmm, are you expecting me? I think your face is a little red, don't you? I'm not going to run away, so take your time and enjoy yourself.
-好意より20～49{0}=20-49{0} from favor
 こういう事に慣れている女性は、お嫌いですか？　相手が誰でもいいというわけではありませんから。そこだけは、信じて頂けると嬉しいです。=Do you dislike women who are used to this kind of thing? It's not that I don't care who they are. I hope you can trust me on that.
 私とジッと見て、どうしたのです？　何かして欲しいことがあれば、言ってください。趣味は人それぞれですから。引いたりしません。=What's wrong with you? If there's something you want me to do, just let me know. Everyone has their own interests. I won't pull you down.
-好意より50～79{0}=50-79{0} from favor.
 私は幸せものですね。貴方のような方に選んで頂けて、本当に、感謝しかありません。=I am a lucky man. I am so grateful to have been chosen by someone like you.
 慣れたと思った時が一番危ないのですよね。初心に帰って、気を引き締めてお相手させて頂きます！=Just when you think you've gotten used to it, that's when it gets the most dangerous. I'll go back to the drawing board, and brace myself to deal with you!
-好意より80～100{0}=80-100{0} over favoritism
 うぅ、すみません。私、今とても緊張しています。せっかく貴方に選んで頂けたのですから、しっかりしなければと思う程に、ドキドキしてしまって。=Ugh, I'm sorry. I'm very nervous right now. I'm so nervous that I feel like I have to be strong since you've chosen me.
 良かった。私を選んで頂けたのが、貴方で……正直、もう貴方以外とはシたくないんです。なんて……ちょっと私、重いですね。ごめんなさい。=I'm glad. I'm glad that you chose me and I honestly don't want to have sex with anyone but you. I'm a little heavy, aren't I? I'm sorry.
-享楽より20～49{0}=20-49 from Kyouraku{0}
 それでは早速、始めましょうか？　お話は、シた後でもできますし……焦り過ぎかもしれませんが、時間は有限ですので。=So let's get started, shall we? We can talk about it after we're done... I know I'm being too hasty, but time is limited.
 どうも。本日も貴方とたくさん楽しみたいです。……私、少しがっつき過ぎですか？　ふふ♪=Thank you. I want to have a lot of fun with you today. Am I being too picky? Hmm ♪
-享楽より50～79{0}=50-79 from Kyouraku {0}
 これは、私からのお願いなのですが……お互い、遠慮は無しでシましょうね？　でないと、ちゃんと気持ちよくなれませんから。=This is a request from me, but... Let's have sex with each other without reservation, okay? If you don't, you won't be able to feel good properly.
 私の方は準備万端なのですが……最初から激しく求めたりしたら、引かれますか？　そろそろ……我慢も限界でして……=I'm ready to go, but if I ask too hard from the start, will you back off? I'm almost at the end of my patience, so...
-享楽より80～100{0}=80-100{0}
 ……よろしくお願いします。一度始めたら、お互い止まらなくなりそうなので……挨拶だけでも、きちんとしておこうと思いまして。=... I look forward to working with you. It seems that once we start, we won't be able to stop each other, so I thought I'd at least greet you properly.
 きっと、貴方より私の方が興奮しています。お恥ずかしい話ですが、もう待ち切れないのです。早く……しましょう？　私が襲ってしまう前に……=I'm sure I'm more excited than you are. I'm embarrassed to say this, but I can't wait any longer. Hurry... Shall we? Before I attack you...
-嫌悪より20～49{0}=From disgust 20-49{0}
 貴方は……空気を読むのは得意ですか？　いえ、こういう事は相手があってのものなので……少し気になりまして。=Are you... Good at reading the atmosphere? No, I'm just a little curious, because you have to be with the right person.
 私、少々気難しいところがあるので……面倒だと思ったら、次回からは他の方とする事をオススメします。=I can be a little difficult to get along with... So if you find it troublesome, I suggest you do it with someone else next time.
-嫌悪より50～79{0}=50-79 from disgust {0}
 うぅ、どうしても私でなければいけませんか？　お気持ちだけ受け取る……というわけには……いきませんよね……はぁ……=Ugh, does it have to be me? I can't just accept your feelings... Can I?
 あの……勝手で申し訳ありませんが……この後、少々用事があるので……なるべく早く終わりにさせてもらえると助かります。=I'm sorry to be so selfish, but I have some business to attend to later, so if you could let me finish as soon as possible, that would be great.
-嫌悪より80～100{0}=80-100{0} than disgust.
 貴方は、気持ちよくなれればいいタイプですよね？　でしたら、相手が私である必要はないかと……今回はいいですが……次回は遠慮してください。=You're the type of person who just needs to feel good, right? If that's the case, you don't need me to be your partner... It's okay this time... But next time, please refrain.
 はぁ……気分が乗らない日ってありますよね。どうしてでしょう。貴方と会う日はよくそうなります。=Huh... There are days when you just don't feel like it. I wonder why. It often happens when I meet you.
-隷属より20～49{0}=From slavery 20-49{0}
 ふふ、貴方に誘って頂けるのを待っていました。さぁ……まずは何をしてもらえるのですか？=I've been waiting for you to ask me out. Now... What will you do for me first?
 私、その……受け身なところがありまして。少々迷惑をかけてしまうかもしれませんが……許して頂けると幸いです。=I'm... Well, I'm kind of passive. I may cause you some trouble, but I hope you'll forgive me.
-隷属より50～79{0}=50-79{0} from servitude.
 まぁ、本日のお相手は貴方なのですね。なんて……知っていましたけど嬉しいです。私をたくさん可愛がってくださいね……ふふ♪=Well, I see that you are my partner today. How... I knew it, but I'm glad. Please take care of me a lot... Phew ♪
 もう、エッチな気分になっていますか？　私は……貴方を見ただけで、身体が疼き出しています……=Are you in the mood for sex yet? My body is tingling just looking at you...
-隷属より80～100{0}=80-100{0} from servitude.
 私、まだ何もされていないのに少し濡れています。実は放置プレイも、好きなのです……色々と妄想を膨らませるだけで、イキそうに……=I'm a little wet, even though nothing has been done to me yet. In fact, I like to be left alone... Just imagining all the things I could do to myself makes me cum...
 すみません……へ、変なことを言いますね？　私を……苛めて頂けますか？　その……そういう感じのプレイが……好きなので。=I'm sorry, that's... That's a weird thing to say, isn't it? Can you... Torment me? I mean, I like that kind of... Play.

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Conversation Post A Normal {0}
 それでは私たちはこれで。=We'll leave you to it.
 で、では……また。=And so... See you.
-会話事後A好意{0}=A favor after the conversation {0}
 こ、今度また……ゆっくりお話ししましょう。=I'll talk to you later.
 ま、またお話できる機会があれば……いつでも声をかけてくださいね。=Well, if you have a chance to talk to me again... Please give me a call anytime.
-会話事後A享楽{0}=Conversation After A Enjoyment {0}
 今度話す時には、もっともっと……あなたのこと、教えてくださいね。=Next time we talk, please tell me more... About you.
 次はその……ふ、二人きりで……もっと……性的なお話でも……えへへ……=Next time, let's talk more sexually, just the two of us... Hehehe...
-会話事後A嫌悪{0}=Conversation Post Aversion {0}
 ほっ……そ、それではさよなら……=Well, goodbye then...
 そ、それでは……失礼します……=Now, if you'll excuse me...
-会話事後A隷属{0}=Conversation Post A Subjugation {0}
 少しでもお話できて嬉しかったです……ではまた。=It was a pleasure to talk to you, even if only for a moment...
 こ、今度は逆に……あなたが聞きたいことも……質問してくださいね。=This time, on the other hand... You can ask the questions you want to ask... Too.

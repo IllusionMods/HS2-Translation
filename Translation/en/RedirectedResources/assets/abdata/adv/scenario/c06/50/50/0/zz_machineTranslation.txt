@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 素敵な場所ですわね……落ち着きますわ。=It's a beautiful place... I feel at home.
 あなたは、大人の魅力もお持ちですのね……=You also have a very mature charm...
 それでは一緒に、大人の時間を楽しみましょう。=So let's enjoy some adult time together.

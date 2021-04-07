@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 そのう、あなたがあまりにも痛くするものですからそのような愉しみにも目覚めてしまいましたわ。=Well, you make it so painful that I've learned to enjoy it.
 一応ご報告いたしますけれど、痛みや苦しみが少しずつ平気になってきてしまいましたの……=Just to let you know, the pain and suffering is slowly becoming less and less...
-好意{0}=Favors {0}
 もう、あなたが私に好き勝手するものですから痛くして頂くのを待つ女になってしまいましたわ。=I've become a woman who waits for you to hurt her because you do whatever you want to me.
 苦楽と共にするのが夫婦、とは申しますけれど苦痛に関しては共にしたくありませんでしたわ。=They say that a husband and wife are supposed to share their pain and suffering, but I didn't want to share my pain.
-享楽{0}=Enjoyment {0}
 私としては大変不本意なのですけれど、痛みや苦しみに耐性がついてしまいましたわ。=I am very unhappy about this, but I have developed a tolerance for pain and suffering.
 最近、あなたからの責め苦に耐えられるようになって参りましたわ、次はあなたの番でしょうか？=I have been able to endure a lot of punish from you lately, will you be next?
-嫌悪{0}=Disgust {0}
 もうあなたに傷つけられることに慣れてしまいましたわ……=I'm already used to you hurting me...
 これ以上深く傷つくことはございません、過ぎたるは及ばざるが如し、ですわね……=There's no need to hurt yourself any more deeply than you already have.
-隷属{0}=Slavery {0}
 あなたが調教してくださったお陰で痛みや苦しみで快感を得られるようになりましたわ。=Thanks to your training, I can now get pleasure from pain and suffering.
 あなたと致す前に報告させて頂きます、あなたの調教で、苦痛が苦痛ではなくなりましたのよ。=I'm happy to report, before we meet, that your training has made pain less painful.

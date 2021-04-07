@@ -2,27 +2,21 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 ふぅ……まぁ、イけてよかったんじゃないですか？=Hmm... Well, aren't you glad you came?
 とりあえず、お疲れさまでした。=At any rate, thank you for your help.
 まぁ、何も出来ないよりはマシ、ですかね？=Well, it's better than nothing, isn't it?
-好意{0}=Favors {0}
 あなたがイってくれたなら、別にいいですよ。=I don't care if you came.
 まぁ、あなたをイかせるのが、その…………の務め、ですから……っ=Well, it's my duty to make you come, so...
 あなたはイって気持ちよかった。　それでいいじゃないですか？=You came and it felt good. Isn't that enough?
-享楽{0}=Enjoyment {0}
 終わり、ですか……ふーん……？=The end?
 まぁ、あなたのイき顔が見れたんでよしとしますね。=Well, I'm glad I got to see you come.
 あなたをイかせるのは、何かこう……ゾクゾクっとしますね。=There's something about making you come that's just so... Tantalizing.
-嫌悪{0}=Disgust {0}
 出すもの出せたんですから、それは満足でしょうね？=I'm sure you're happy with what you got out of it, aren't you?
 はぁ、自分だけ……=Huh, it's just me...
 ほんっと、身勝手な人ですよね……=He's really a selfish person...
-隷属{0}=Slavery {0}
 その、イき足りなかったら、また声をかけても構いませんからね……？=Well, you know, if you don't get enough, you can call on me again?
 え、もう終わりなんですか？　まだ残ってるんじゃないですか？=Oh, is it over already? Isn't there more left?
 私もイきたかったですけど、まぁあなたのイく姿が見れましたし……？=I wanted to come too, but then I saw you come, so?
-依存{0}=Depends{0}
 あなたが私を感じてくれたからこそ、イってくれたんですよね？　そうですよね？？=You came because you felt me, didn't you? Isn't that right?
 はぁ、あなたのイってる顔を見ただけで私、おかしくなりそうでした……♪=Huh, just seeing your face as you came made me feel like I was going crazy ♪
 またいつでも私を使ってください。　この身体も心も、あなたの為に存在してるんですから……=You can always use me again. This body, this mind, it exists for you...

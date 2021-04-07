@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 火照った身体がすぐ冷える感じは悪くねぇな……=It's not bad to feel your body cool down after a long day...
 冷えすぎたらまたヤればいいだけだしな。わりと使える場所なんじゃねぇか？=If it gets too cold, we can just fuck it again. It's a rather useful place, isn't it?
 プールの中でするってのは、不思議な感覚だな。=It's a strange feeling to do that in a pool.

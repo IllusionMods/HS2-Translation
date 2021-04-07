@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 話しだけってのも、まぁまぁ楽しめたな。=I enjoyed the idea of just talking about it, I guess.
 退屈はしなかったな。また話してやってもいい。=I wasn't bored, was I? We can talk again.
-好意{0}=Favors {0}
 もうこんな時間か。つい話し込んじまったな。=Is it that time already? I must have gotten carried away.
 よし、そろそろ切り上げるか。話の続きはまた今度だ。=Okay, I'd better get going. I'll tell you the rest of the story another time.
-享楽{0}=Enjoyment {0}
 話してるだけでも、結構時間が経つもんだな。それなりに楽しかったぞ。=We spent a lot of time just talking, didn't we? It was fun in its own way.
 オレと話せて嬉しかったろ？　興奮したか？=You were happy to talk to me, weren't you? Are you excited?
-嫌悪{0}=Disgust {0}
 やっと終わったか。無駄に長いだけで、どうでもいい話だったな。=It's finally over. It was just a long, useless, and unimportant story.
 あぁ、時間を無駄にした。くだらねぇ話ばっかしやがって。=Oh, I've wasted my time. All we did was talk about stupid shit.
-隷属{0}=Slavery {0}
 さて、この辺で終わりにしとかねぇとな。ずっと話し込んじまいそうだ。=Well, I'd better get this over with. I feel like I'm going to be talking forever.
 オマエと話すのも悪くないな。次もオレを退屈させるなよ？=It's not bad to talk to you. Next time, don't bore me, okay?

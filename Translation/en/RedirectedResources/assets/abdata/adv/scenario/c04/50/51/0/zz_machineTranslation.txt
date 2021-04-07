@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 うーわ、なにこの部屋。ちょっとマニアック過ぎない？=Wow, what is this room? Isn't it a little too maniacal?
 え、なに？　まさかアタシ……チョーキョーされちゃう？　そういうパティーン？=What? What? Don't tell me I'm going to be chokyo? Something like that?
 それとも～、アタシにチョーキョーして欲しいの？　そっちなら全然アリよりのアリなんだけど♪=Or do you want me to chokyo you? If that's the case, I'm more than okay with it ♪

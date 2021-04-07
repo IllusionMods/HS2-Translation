@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 ふぅん、なに？　アタシと永遠の愛とか誓い合っちゃいたい系？=Hmmm, what? Do you want to make a pact with me for eternal love or something?
 お嫁さんてさ、やっぱ少なからず全女子の憧れなわけ……分かる？=A wife is the dream of every girl, no matter how small... You know?
 アタシも例外じゃないから、今ケッコーその気になっちゃってるよ♪　ふふ♪=I'm not an exception, so I'm really into it right now ♪

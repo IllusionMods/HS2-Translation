@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 あらしさ……なんかちょっろかぁらほてっれれさ……=I'm not sure what's going on here...
 これ、あんらのせいれもあるんらからね？　そこんろこわかっれる？=This is your fault, too, right? Do you understand that?
 しゃんぽろか……あらしはあんらのペットじゃないんらかんね？=I don't know if you're a pet or not.

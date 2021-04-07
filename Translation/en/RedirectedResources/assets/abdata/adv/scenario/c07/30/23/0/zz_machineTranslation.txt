@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 よう。まさか他の女の匂いなんてさせてねぇよな？　オレはそういうのには敏感だぞ？=Hey. You're not smelling another woman's scent, are you? I'm sensitive to that kind of thing, okay?
 よし、始めるぞ。オレとおしゃべりがしたいなら、全部終わってからだ。=All right, let's get started. If you want to have a chat with me, you can do so after we're done.
 よく来た。まぁ当然だが……オレから逃げなかったことは、褒めてやる。=You're here. Well, I'll give you credit for not running away from me.

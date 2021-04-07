@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 ぷかぷかと浮かんでいたので、普段よりお疲れではありませんか？=You were floating in the water, so you must be more tired than usual.
 時間が許す限り、ここでゆっくり致しましょう……=We'll stay here as long as time permits...
 火照った身体……冷えたところで、もう一度飲み直しませんか？=Your body is on fire... Why don't you take another drink when you've cooled down?

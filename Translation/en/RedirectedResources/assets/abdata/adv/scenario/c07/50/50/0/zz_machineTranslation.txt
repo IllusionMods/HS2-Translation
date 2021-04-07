@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 ふーん、オマエはこういうチャラい場所が好きなのか？=Hmmm... You like this kind of flirtatious place?
 らしいっちゃらしいけど……なんか落ち着かねーなぁ……=I guess that's the way it's supposed to be, but I'm feeling restless...
 おい、どうせヤるんだろ？　だったらさっさと始めろよ。=Hey, you're gonna fuck me anyway, right? Then get on with it.

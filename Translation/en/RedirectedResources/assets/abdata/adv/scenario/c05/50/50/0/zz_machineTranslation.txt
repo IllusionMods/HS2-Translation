@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 え、えっと……本当に、誘う相手は私で良かったんですか？　すごく、場違いな気がします……=Are you sure it's okay for me to ask you out? I feel so out of place...
 あなたの気持ちは、嬉しいんですけど……緊張しすぎて、お酒の味、よく分からなかったです……=I'm glad you feel that way, but... I was so nervous, I couldn't really taste the alcohol...
 あ……プールで身体を動かせば、少しマシになるかも……え？　あなたも来るんですか？　それは……エッチな運動が目的……ですか？=Ah... Maybe I'll feel a little better if I move my body in the pool... Eh? You're coming too? Is that... The purpose of sex exercise?

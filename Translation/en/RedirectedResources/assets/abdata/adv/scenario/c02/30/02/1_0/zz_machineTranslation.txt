@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-前フリA普通{0}=Prelude A Normal {0}
 どうも、あなたもいらしたんですね。=Hi, I see you're here too.
 あら、更に増えましたね。=Oh, there's even more.
-前フリA好意{0}=Pretense A Favor {0}
 あ……こんにちは。=Oh... Hello.
 まさかあなたも来るなんて……=I can't believe you're here.
-前フリA享楽{0}=Prelude A: Kyouraku {0}
 あら、あなたもここに？=Oh, you're here too?
 ふふっ、あなたも私に会いに来たんですか？=Hmm, you came to see me too?
-前フリA嫌悪{0}=Pretense A Disgust {0}
 ……はぁ、折角楽しく話してたのに……=... Huh, we were just having a nice conversation...
 ……何ですか？　今取り込み中なんですが。=... What is it? I'm taking it in now.
-前フリA隷属{0}=Prelude A Slavery {0}
 ようこそ、花園へ。=Welcome to the flower garden.
 あら、丁度あなたの噂をしていたところです。=Oh, I was just gossiping about you.

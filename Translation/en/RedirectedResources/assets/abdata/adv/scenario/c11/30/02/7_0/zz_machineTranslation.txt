@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=An unremarkable response A. Normal {0}
 本当に、宜しいのですか？=Are you sure you want to do this?
 わざわざ、お声がけ下さったのですか？=Did you go to the trouble of asking me for help?
-なんでもない返答A好意{0}=An unremarkable response A favor {0}
 えっと……ご遠慮されているのでしょうか？=Um... Are you refraining from doing that?
 お話出来る機会だと思っていたのですが……残念です。=I thought it would be an opportunity to talk to you, but... I'm sorry.
-なんでもない返答A享楽{0}=Nothing Reply A Kyouraku {0}
 他のご用向きの途中なのですか？=Are you in the middle of another errand?
 特にご用はなかったのですか？=Didn't you have something in particular you wanted to see me about?
-なんでもない返答A嫌悪{0}=Nothing Reply A Disgust {0}
 ご用がないのでしたら、声をかけないで下さい。=If you don't want to talk to me, please don't talk to me.
 では、早急に立ち去って下さい。=Then please leave as soon as possible.
-なんでもない返答A隷属{0}=Nothing Reply A Slavery {0}
 貴方がそう仰るのでしたら……了解致しました。=If that's what you want, then I understand.
 そうなのですか……少々残念です。=I see... I'm a little disappointed.

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 動けないんすか？　大丈夫っすか？=You can't move? Are you okay?
 結構がっちり固定されちゃってるっすねー……=It's fixed pretty tightly...
 分かってると思うんすけど……楽しませてもらうっすねー♪=I'm sure you know that, but I'm going to enjoy this ♪

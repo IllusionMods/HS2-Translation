@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 クソが……周りに人がいたらオレが抵抗しないとか思ってんだろ？=You think I won't resist if there's someone around?
 まぁ実際、他のヤツらに迷惑はかけたくないからな……少しの間はじっとしててやる。=Well, actually, I don't want to bother the other guys... So I'll just sit tight for a little while.
 でも覚えてろよ？　電車出た時が楽しみだなぁ、おい。=But remember, okay? I'm looking forward to when the train leaves, dude.

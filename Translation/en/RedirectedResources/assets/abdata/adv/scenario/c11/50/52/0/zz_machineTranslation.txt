@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 ……この電車は、一体どちらに向かっているのですか？=... Where the hell is this train going?
 この施設でたくさん人が乗っている状況……正直に申して怪しさが満載です。=The situation with so many people in this facility... Honestly, it's full of suspiciousness.
 っ……ここで、致すおつもりなのですか……貴方は本当に卑怯物です。=You're really a coward, you know that?

@@ -2,9 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H{0}=H{0}
 うふふ、もう遅いですよ……♪=Ummm, it's too late ♪
 これが私の本性なんです……♪　あなたのスケベな本性も、暴いてあげますね、うふふふ……♪=This is my true nature ♪ I'll expose your dirty nature too, ugh ♪
-Home{0}=Home{0}
 そう、ですか……あなたが否定するなら、言われた通りにします……=Well... If you deny it, I'll do as you say...
 ……ごめんなさい……私のこと、嫌いにならないでください、お願いします……=... I'm sorry... Please don't hate me, please don't hate me...

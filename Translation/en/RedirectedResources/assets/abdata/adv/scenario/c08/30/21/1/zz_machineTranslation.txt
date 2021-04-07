@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 いいんですか？　私から誘うとスケベ丸出しで印象悪いかなと思ったんですけど、お、お願いします！=Are you sure? I thought it might give the wrong impression if I asked you out, but oh, please!
 嬉しいです……あなたが私以外の子とセックスしているのを見ると、どうにかなってしまいそうで。=I'm so glad... I can't handle seeing you having sex with anyone but me.

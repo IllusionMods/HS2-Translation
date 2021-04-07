@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 ぁー、なんらぁ……けしきぁ……きぁきぁしれるりゅぉ……=Ah, what a... Keshiki... Kikishiryuu...
 んー……きもひぃー……かぁらがぁ……きもひぃー……=Mmm... Gross... My... Face... Is... Gross...

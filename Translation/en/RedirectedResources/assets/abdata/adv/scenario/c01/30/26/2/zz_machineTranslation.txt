@@ -2,42 +2,29 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 エッチにも慣れてきたし、もっと気持ちよくなれそうだわ。=I'm getting used to sex, and it's going to feel so much better.
 エッチにこんなになれちゃうなんて、絶対あなたのせいよね。=It's definitely your fault that I get so sexually aroused.
-好意より20～49{0}=20-49{0} from favor
 あなたとのエッチ、最高に気持ちがいいから大分慣れてきたわ。=I'm getting used to it because it feels so good to have sex with you.
 うふふ、あなたといいエッチしてるから、体が慣れてきちゃったみたい。=Ummm... I'm having such good sex with you that my body is getting used to it.
-好意より50～79{0}=50-79{0} from favor.
 気持ちいいエッチ、あなたと思いっきりしたいわ。=I want to have good sex with you, and I want to do it as much as I can.
 あなたとのエッチ、絶対気持ちいいって体でわかってるわ。=I know in my body that sex with you is absolutely wonderful.
-好意より80～100{0}=80-100{0} over favoritism
 私とあなたって、体の相性最高よねばっちり慣れてきてるわよ。=You and I have great chemistry, and I'm getting used to it.
 あなたとエッチできると思うと、体が高ぶってきちゃうわ。=The thought of having sex with you makes my body soar.
-享楽より20～49{0}=20-49 from Kyouraku{0}
 結構慣れてきたみたいだし、あなたの好きにしていいわよ。=It looks like you're getting pretty used to it, so you can do whatever you want.
 体も慣れてきたみたいだし、いっぱい気持ち良くしてあげるわ。=Now that your body is getting used to it, I'm going to make you feel so good.
-享楽より50～79{0}=50-79 from Kyouraku {0}
 私も大分慣れてきてるし、思いっきりエッチしましょ。=I'm getting used to it, so let's have sex as much as we can.
 体も大分慣れてきたみたいだし、あなたを喜ばせるのが楽しみだわ。=My body seems to be getting used to it, and I'm looking forward to pleasing you.
-享楽より80～100{0}=80-100{0}
 いいわよ……私もエッチが気に入ってるし、あなたにも気持ち良くなって欲しいから。=Okay... I like sex too and I want you to feel good about it too.
 こんなに快感に慣れちゃうなんて、あなたとエッチしているおかげだわ。=I can't believe I'm so used to pleasure, thanks to having sex with you.
-嫌悪より20～49{0}=From disgust 20-49{0}
 慣れてきたけど、あんまり乗り気じゃないのよね。=I'm getting used to it, but I'm not really into it.
 何度かしてるけど、またするんでしょ？=I've done it a few times. You'll do it again, right?
-嫌悪より50～79{0}=50-79 from disgust {0}
 正直疲れてるんだけど、付き合えばいいんでしょ？=Honestly, I'm tired, but we should just go out, right?
 わかってるわよ、私としたいんでしょ？　はぁ……=I know. You want to do it with me, don't you? Huh...
-嫌悪より80～100{0}=80-100{0} than disgust.
 困ったわね……私は乗り気じゃないんだけど。=You're in trouble... And I'm not on board.
 参ったわね……そんなに私としたいの？　呆れちゃうわ。=You're killing me... You want to fuck me that badly? It's disgusting.
-隷属より20～49{0}=From slavery 20-49{0}
 エッチにも慣れてきたし、あなたの望む事、なんでもしてあげるわよ。=I'm getting used to sex, and I'll do anything you want.
 気持ちいい事いっぱいしてあげるわ。楽しみにしててね。=I'm going to do a lot of things that will make you feel good. Please look forward to it.
-隷属より50～79{0}=50-79{0} from servitude.
 あなたの言う事、なんでも聞いてあげるわ好きにしていいのよ。=I'll do whatever you say, and you can do whatever you want.
 さぁ、好きにしていいのよ。あなたの思い通りにしてあげる。=Now, you can do whatever you want. I'll do whatever you want.
-隷属より80～100{0}=80-100{0} from servitude.
 好きに抱いていいのよ。あなたのしたい事、なんでも聞いてあげる。=You can hold me however you want. I'll listen to whatever you want to do.
 エッチ、始めましょう。何を求められても、全部応えてあげるわ。=Let's start having sex. Whatever you want, I'll give you everything you need.

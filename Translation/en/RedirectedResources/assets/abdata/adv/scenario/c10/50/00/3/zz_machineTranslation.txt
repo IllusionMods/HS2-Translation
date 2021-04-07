@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 あら……そうですか？　また、何かありましたら、お気軽に声をかけてくださいね。=Oh my... Is that so? If you need anything else, please feel free to contact me.
 ふふ、おかしな人ですね。私、からかわれてしまいましたか？　なんて……怒っているわけではありませんので、安心してください。=Hmm, you're a funny guy. Am I being made fun of? Ahhh... Don't worry, I'm not mad at you.
-好意{0}=Favors {0}
 私の考え過ぎかもしれませんが……何か私に出来ることがあれば、また話しかけてください。=Maybe I'm overthinking this, but... If there is anything I can do to help, please talk to me again.
 そうですか……お話だけでもと思ったのですが……いえ、なんでもありません。=Well... I thought we could just talk... No, it's nothing.
-享楽{0}=Enjoyment {0}
 あら、フラれてしまいましたか。いいお相手が見つからなかったら……私はいつでも待っていますよ。=Oh, so you've been rejected. If you can't find a good match I'm always waiting for you.
 なんでもないは……寂しいですね。いえ、私が勝手に期待していただけなので……気にしないでください。=Nothing is... Lonely, isn't it? No, it's just that I was expecting it on my own, so... Don't worry about it.
-嫌悪{0}=Disgust {0}
 はぁ……冷やかしはお断りです。本当に貴方という人は……不愉快です。=I don't want to get cold feet. I really find you... Unpleasant.
 私をおちょくって楽しいですか？　随分素敵な趣味をお持ちのようで……理解は一切できませんが。=Do you enjoy poking fun at me? You seem to have a very nice hobby... Which I don't understand at all.
-隷属{0}=Slavery {0}
 えっと、本当に何も用は無い……ということでいいのですよね？　ふ、フリなどは……正直よく分からないので……=Well, I don't really have anything to do with you, do I? To be honest, I don't know much about pretending, so...
 う……私は用無しですか？　冷たく扱われるのには慣れているつもりでしたが……少し、切ないですね。=Umm... Am I no use to you? I thought I was used to being treated coldly, but... It's a little sad, isn't it?

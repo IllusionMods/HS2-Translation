@@ -2,38 +2,28 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-汎用普通{0}=General-purpose normal {0}
 あら……こんにちは。=Oh... Hello.
 あ……あなたなのね。=Oh... It's you.
 こんな所でなんて……奇遇ね。=What a coincidence to find you here.
-汎用普通用件{0}=General-purpose normal case {0}
 で、何か用なの？=So, what can I do for you?
 何、どうかしたの？=What, what's wrong?
-汎用好意{0}=Generic favor {0}
 あなたもここにいたのね。=You were here, too.
 あなたに会えるなんて嬉しいわ。=I'm so happy to see you.
 あなたもいたなんて、嬉しい偶然だわ。=It's a happy coincidence that you were there, too.
-汎用好意用件{0}=General Favor {0}
 もしかして、私に何か用？=What do you want from me, by any chance?
 何か用があるのかしら？=What can I do for you?
-汎用享楽{0}=General Enjoyment {0}
 私、あなたに会いたいと思っていたのよ。=I've been dying to meet you.
 あなたに会えるなんて、最高の気分ね。=It's such a great feeling to see you.
 こんな所で出会えるなんて、嬉しいわ。=I'm so glad to see you here.
-汎用享楽用件{0}=General Enjoyment Case {0}
 ひょっとして、私に何か用があるの？=What do you want from me, by any chance?
 何か私に用事があるんじゃないの？=Isn't there something you wanted to see me about?
-汎用嫌悪{0}=General aversion {0}
 あなたも来てたのね。=You're here too, aren't you?
 こんにちは。=Hello.
 あら、偶然ね。=Oh, what a coincidence.
-汎用嫌悪用件{0}=General dislike {0}
 何か用事があるのかしら？=Is there something I can do for you?
 私に何か用なの？=What do you want from me?
-汎用隷属{0}=General Purpose Slavery {0}
 嬉しいわ、あなたに会えるなんて……=I'm so happy to see you...
 ちょうど、あなたに会いたいと思ってたの。=I was just hoping to see you.
 あなたに会えるなんて、すごく幸せだわ。=I'm so happy to see you.
-汎用隷属用件{0}=General Slavery Conditions {0}
 あなたからの用事なら何でも聞くわよ。=I'll listen to whatever you need from me.
 大丈夫、あなたの用事なら全部聞いてあげるわ。=Don't worry, I'll take care of all your needs.

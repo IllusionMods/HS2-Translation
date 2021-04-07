@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 いいね。大分オレ好みの部屋だ。形から入るのは全然悪くねぇ……=It's nice. This room is much to my liking. It's not bad to start from scratch...
 んで、どうせオマエはオレに苛められたいんだろう？=And you want to be tormented by me anyway, don't you?
 まさかオレを苛めたいなんて生意気なことは……言わねぇよなぁ？=You wouldn't be so cocky as to want to torment me, would you?

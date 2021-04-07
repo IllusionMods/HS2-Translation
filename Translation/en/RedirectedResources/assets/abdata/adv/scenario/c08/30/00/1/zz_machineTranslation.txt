@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 えっとーそれは下の口でって意味じゃなくてー上の口でって事すよねー？=Well, that doesn't mean with the bottom of your mouth, but with the top of your mouth, right?
 会話のレパートリーがスケベな話しかないすけど、それでもよかったら付き合ってやってほしいっすー。=My repertoire of conversation is limited to dirty talk, but if you don't mind, I'd like you to go out with me.
-好意{0}=Favors {0}
 んーAVの話か官能小説の話かーあとはエロ漫画もイケるっすよ～♪=We can talk about porn, sensual novels, or even erotic manga ♪
 お～、私もあなたと落ち着いてお話したかったので実はかなり嬉しいっすー。=I'm actually quite happy because I wanted to talk to you in a relaxed atmosphere.
-享楽{0}=Enjoyment {0}
 なんとーあなたにそこまで理性が残っていたとはー、ってディスってるみたいですみませんーOKすよー。=I didn't know you had that much reason left... I'm sorry if I sound like I'm disrespecting you, but it's OK.
 あーピロートークの逆というかー最終的には合体しちゃうタイプの話っすかねー？=Is it the opposite of pillow talk, or is it the type of story where you end up merging?
-嫌悪{0}=Disgust {0}
 まーいいっすけどー話題なんてあるんすかー？=Well, okay, but is there anything to talk about?
 えー、ここってセックスする場所っすよねー？=Well, this is where we have sex, right?
-隷属{0}=Slavery {0}
 おしゃべりー……ハッ、焦らしプレイっすねー？=Talking... Ha, I'm going to play?
 さすがは私と同じスケベの権化～この前戯上手～。=That's what I'm talking about, the same dirty rights as me - this good foreplay!

@@ -2,24 +2,17 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 まあ、女性の方とは……少々戸惑いはありますが、問題ございません。どなたがお相手であろうと精一杯頑張ります。=Well, with women... I'm a little confused, but it's no problem. I'll do my best, no matter who it is.
 成程……女性の方とも致す機会がこの施設ではあるのですね。貴重なことを体験出来て、光栄です。=I see... There are opportunities to meet women in this facility. I'm honored to have experienced something so valuable.
-好意{0}=Favors {0}
 女性の方にお声がけ頂けるとは……見初められたからには、私も誠意を尽くします。=I never thought I'd be approached by a woman... Now that you've seen me, I'll do my best to be sincere.
 その、女性の方がお相手と知って緊張しておりますが、素敵な思い出を作れたらと思っております。=I'm nervous to know that I'm going to be meeting this woman, but I'm hoping to make some wonderful memories.
-享楽{0}=Enjoyment {0}
 女性の方でも、私がお相手を立てることに変わりはありません。……ええ、変わりませんとも。=If you are a woman, I will still be your partner... Yes, it's the same.
 女性同士のまぐわい……うふふ、既に卑猥な空気が漂っている気がしますね。=Women mingling with other women... Ugh, I feel like there's already an obscene air in the air.
-嫌悪{0}=Disgust {0}
 男女で致すのが普通のことではないでしょうか？　……本当に、お相手は私で宜しいのですか？=Isn't it normal for a man and a woman to match? Are you sure I'm the right person for you?
 同性を愛する方がいることは存じておりましたが……実際にそのお相手を務めることになるとは、想像しておりませんでした……=I knew that there were people who loved the same sex, but I never imagined that I would actually have to be that person...
-隷属{0}=Slavery {0}
 女性の方とも致すのですね。恥ずかしながら、こういったことに疎いものでして……宜しければ、未熟者の私を導いて下さいませんか？=I'm ashamed to say that I'm not familiar with this kind of thing. I'm ashamed to admit that I'm not familiar with these things... If you don't mind, please guide me in my inexperience.
 今まで教わった術が女性の方にどこまで通じるか……持てる全ての力でお相手を務めさせて頂きます。=I wonder how much of what I have learned so far can be applied to women... I will use all the power I have to help you.
-壊れ{0}=Broken {0}
 ………………=...
 あはは……あぁたが……気持ひよく、しへく下さるのれすねぇ……=Haha... You... Make me feel so good...
-依存{0}=Depends{0}
 為せば成るという言葉もございますから、きっと女性同士でも子を授かることが出来ると私は信じております。これから共に試していきましょうね。=There is a saying, "If you can do it, you can do it," and I believe that women can have children together. Let's try it together from now on.
 女性同士で致した場合、どちらが身重になるのでしょうか？　私か貴方か、二人仲良く揃ってか……うふふ、妄想が捗ります。=If two women do it together, who will be heavier? Will it be you or me, or will it be both of us together?

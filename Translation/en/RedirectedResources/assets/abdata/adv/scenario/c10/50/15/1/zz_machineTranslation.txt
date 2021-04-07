@@ -3,14 +3,11 @@
 //***********************************************************************
 
 はぁ……良かったです。その、私とお話……しませんか？=Huh... That was good. Would you like to talk with me?
-好意50_汎用{0}=Favors 50_ Generic {0}
 お邪魔します。貴方の部屋……ドキドキするのに落ち着くような、不思議な感覚です。=I'm sorry to bother you. Your room... It's a strange feeling, like I'm nervous, yet calm.
 本当に大丈夫ですか？　いえ、やはり一緒にいたいです。情緒不安定ですみません。=Are you sure you're okay? No, I still want to be with you. I'm sorry for my emotional instability.
 また……来てしまいました♪　お話などさせて頂けると、嬉しいです。=I'm here... Again... And I'd be happy to talk with you ♪
 ・・・・・=・・・・・
-好意50続き{0}=Favors 50 continued {0}
 貴方と一緒の時間は、とても有意義に感じます。しかも、貴方の部屋でなら尚更……その、また来ても……いいですか？=I feel that the time I spend with you is very meaningful. And even more so when it's in your room... Well, can I come back?
 貴方のお部屋での貴重な時間を、私のためだけに使って頂けるなんて……本当に私は、幸せ者ですね。=I'm so lucky that you can spend your precious time in your room just for me.
 楽しい時間はあっという間ですね。お話だけでも、とても楽しく過ごせました♪　貴方は……退屈でしたか？=Fun time flies by, doesn't it? I had a great time just talking with you... Were you... Bored?
 どうも……貴方の顔が、どうしても見たくなってしまって……ご迷惑でしたか？=I just wanted to see your face, if that's all right with you.
-好意80_汎用{0}=Favors 80_ Generic {0}

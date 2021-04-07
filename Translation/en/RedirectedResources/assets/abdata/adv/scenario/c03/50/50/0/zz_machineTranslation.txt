@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 お前が、こんなおしゃれな場所に連れてきてくれるなんてな。=I can't believe you're the one who brought me to this fancy place.
 ちょっとだけ、見直したかな……まぁちょっとだけ。=I guess I've been rethinking things a little bit... Well, just a little bit.
 で、ここで何するわけ？　なんでも付き合ったげるよ♪=So, what are we doing here? I'll do anything you want ♪

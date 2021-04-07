@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 すみません、離れていただきたいのですが。至近距離にあなたがいるのは、不愉快極まりません。=I'm sorry, but I'm going to have to ask you to step away. It's extremely uncomfortable to have you in close proximity.
 ……余計なものまで硬くさせて、この状況に興奮しているのですか？=... Are you getting excited about this situation, even making yourself extra hard?
 っ……なるほど、初めから痴漢が目的だったのですね。=I see... So your goal was to molest me from the beginning.

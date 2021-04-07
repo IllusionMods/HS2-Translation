@@ -2,24 +2,17 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 初めてだったけど、結構楽しかったぜ……お前、なかなかやるじゃん。=It was my first time, but it was pretty fun... You're pretty good.
 うん、初めての割には案外うまくやれたんじゃないのか？　俺たち、ちゃんとできてたよな？　な？=Yeah, we did pretty well for a first time, didn't we? We did okay, didn't we? Right?
-好意{0}=Favors {0}
 うん、なんか……よかったかな……えっと、それじゃ、また誘ってもいいからな、うん、絶対誘えよ。=Yeah, it was kind of... Good... Um, well, you can ask me out again, yeah, definitely ask me out.
 あぁ、うん、それなりに楽しかった……お前が相手なら、次もいけると思うから……ちゃんと誘うんだぞ……いいな。=Yeah, yeah, I had a good time with that... And I think I can do it again with you... So make sure you ask me out... Okay?
-享楽{0}=Enjoyment {0}
 ふぅ！　かなり楽しめたんじゃないか、おい？　これなら次もいけそうだな！　ようし、また誘ってくれよな！=Phew! That was pretty fun, huh? I think we can do this again! All right, invite me again!
 いやぁ～、満足したぜぇ……お前、結構やるじゃん……俺、初めてだったけどすっげー気持ちよかったぜ……！=It was my first time, but it felt really good!
-嫌悪{0}=Disgust {0}
 悪かったな、乗り気じゃなくて……まぁ、お前のせいじゃないから、気にすんなよ。=I'm sorry I wasn't on board... Well, it's not your fault, so don't worry about it.
 ……もう、したくないけど……そんなワケには、いかないんだろうけど……=... I don't want to do it anymore, but I know it's not possible.
-隷属{0}=Slavery {0}
 どうだった？　お前が喜んでくれたなら、俺はそれで嬉しいんだけど……もし、その気があったらまた誘ってくれよ、まってるから。=How did it go? If you're happy with it, I'm happy with it, but if you're so inclined, please invite me again, I'll be waiting.
 どうだった、俺との時間は？　楽しんでもらえたなら良かったんだけど……でも、これに懲りずにまた誘ってくれよな？=How was it? How was your time with me? I hope you enjoyed it... But don't let this stop you from asking me out again, okay?
-壊れ{0}=Broken {0}
 あはぁ……しぇっくすでぇ……おれぇ、こわれひゃったぁ……=I'm broken...
 ふふふ……きもひいの、さいこーらよぉ……=It's so gross, it's so cool...
-依存{0}=Depends{0}
 これで満足したなんて嘘だろ？　俺はまだまだ放さないからな……覚悟しておけよ？=You're not satisfied with this, are you? I'm not letting go of you yet... So be prepared, okay?
 俺がお前に決めちまったからには、お前に選択肢なんかないんだ。わかってるよな……ふふっ。=You don't have a choice, now that I've decided for you. You know that... Hmm.

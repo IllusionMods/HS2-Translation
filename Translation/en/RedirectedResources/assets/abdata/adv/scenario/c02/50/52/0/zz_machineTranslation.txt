@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 はぁ……もう少し離れてもらえませんか？　あなたの息があたって不愉快なんです。=Huh... Could you please move a little further away? I'm uncomfortable with your breath on me.
 っ……今、わざと息を吹きかけましたよね？　性根が腐っていますよ。=You just blew on me on purpose, didn't you? You're a rotten person.
 って、それ以上のことをするつもりですかっ？　あぁ、もう……最悪っ……=You're going to do more than that? Oh, God, that sucks.

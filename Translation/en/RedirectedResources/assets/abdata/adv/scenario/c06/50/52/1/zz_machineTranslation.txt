@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 まったく、あなたという人は……=Ahhh, you're such a...
 怒る事すら、馬鹿馬鹿しく思えてきますわ……=I'm starting to feel ridiculous for even being angry.
 電車で強引にされるなんて……身勝手な方ですのね。=She's so selfish to force herself on the train.

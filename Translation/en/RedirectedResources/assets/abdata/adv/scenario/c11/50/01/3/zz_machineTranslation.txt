@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 ……貴方がその様な事を仰るはずがないので、今のは聞き間違いですね。さぁ、存分に私を抱いて下さい。=... I must have misheard you, because you would never say such a thing. Now, embrace me to your heart's content.
 ……ああ、正直に「したい」と口にするのが、照れくさいのですね。直ぐに察することが出来ず、申し訳ございません。=... Oh, you're embarrassed to honestly say that you want to. I apologize for not being able to guess right away.

@@ -2,43 +2,33 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 どうだった、私とのエッチは？　私はすごく気持ちよかったわ。=How was it, having sex with me? I felt really good.
 すごく感じちゃったわ。とってもいい時間だったわね。=I felt so good. It was a very good time.
 私とのエッチ、満足してもらえたかしら？=I hope you were satisfied with my sex life.
-好意より50～79{0}=50-79{0} from favor.
 今のエッチ、最高に感じちゃったわ。あなたのおかげね、うふふ。=That was the best sex I've ever had. Thanks to you, I guess.
 エッチがこんなに気持ちいいなんて……きっと、あなたが相手だからね。=I never knew sex could feel so good... And I'm sure it's because you're the one.
 こんなに気持ちいいなら、何回でもしたっていいわ。=If it feels this good, I don't care how many times I have to do it.
-好意より80～100{0}=80-100{0} over favoritism
 あなたとのエッチは最高ね。また、お願いしたいわ。=I love having sex with you. I'd like to have you again.
 今回のエッチ、すごく良かったわ。また、あなたと気持ちよくなりたいわね。=This sex was really good. I hope I can feel good with you again.
 すごく気持ち良かったわ。今度も絶対、あなたとしたいわね。=That felt really good. I definitely want to do it again with you.
-享楽より50～79{0}=50-79 from Kyouraku {0}
 私、感じすぎちゃったみたい。あなたも喜んでくれたなら、うれしいけど。=I think I felt too much. I'm glad you enjoyed it, too.
 あなたに喜んでもらうつもりだったけど、私の方が気持ち良くなっちゃったみたい。=I was going to make you happy, but I guess I felt better.
 私、最高に感じちゃったわ。あなたも満足してくれたかしら？　うふふ。=I feel so good. I hope you were satisfied, too. Mm-hmm.
-享楽より80～100{0}=80-100{0}
 すごく気持ちのいいエッチだったわ。私も張り切りすぎちゃったみたい。=It was really good sex. I think I got a little overexcited.
 こんなにエッチが気持ちいいなんて、やっぱりあなたとの相性は最高ね。=I can't believe how good sex feels, I knew you and I would be great together.
 あなたが気持ちよくなってくれたなら、私もうれしいわ、うふふ。=I'm glad you're feeling better, ugh.
-嫌悪より50～79{0}=50-79 from disgust {0}
 これで終わりでしょ？　もう十分楽しんだわよね。=That's it, right? We've had enough fun, haven't we?
 私はこれで十分なんだけど、あなたも満足したんでしょ？=That's good enough for me, but you're satisfied, aren't you?
 まぁ、これでいいんじゃないの？　これ以上はもういいわ。=Well, that's it, isn't it? No more of this.
-嫌悪より80～100{0}=80-100{0} than disgust.
 気持ち良かったんでしょ？　なら、これで終わりにしていいわね。=That felt good, didn't it? Then I guess we can end this now.
 楽しめたのよね？　良かったじゃない……もうこれで十分でしょ。=You enjoyed it, didn't you? That's good... That's enough.
 もうこれで満足したでしょ？　だったら早く終わりましょう。=You've had enough of this, haven't you? Then let's finish quickly.
-隷属より50～79{0}=50-79{0} from servitude.
 どうだった、私の身体は？　あなたが喜んでくれたなら、私もうれしいわ。=How did it go, my body? I'm glad you're happy with it.
 気持ちのいいエッチだったわ。あなたを感じさせたくて頑張ってみたのよ。=It was a nice sex session. I tried so hard to make you feel good.
 あなたを満足させたかったけど、私の方がいっぱい感じちゃったのかしら。=I wanted to satisfy you, but I guess I was too full of myself.
-隷属より80～100{0}=80-100{0} from servitude.
 良かったわ、感じてもらえて……私の身体であなたを気持ちよくさせたかったの。=I'm glad you can feel it... I wanted to make you feel good with my body.
 どうだった、私とのエッチ？　あなたに喜んでもらえることが私の幸せだわ。=How was it, having sex with me? I'm happy to make you happy.
 あなたを喜ばせたくて頑張ってみたんだけど、喜んでもらえたならうれしいわ。=I tried my best to please you, and I'm glad you're happy.
-依存{0}=Depends{0}
 気持ち良かったのね？　私もよ。あなたが相手じゃないともうダメみたい。=That felt good, didn't it? It felt good to me, too. I feel like I can't do it anymore without you.
 一緒に感じ合えたわね……私たち絶対に相性最高だと思うわ。=We could feel each other's presence together... I think we're absolutely perfect for each other.
 あなたと一緒だから最高に気持ちよかったわ。あなたも私と同じ気持ちでしょ？=It felt so good to be with you. You feel the same as I do, don't you?

@@ -2,42 +2,29 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 まぁ、あなたとなら問題はありませんし……始めましょうか。=Well, I don't have a problem with you, so... Let's get started.
 あなたも私もセックスをしに来てるんですから、それ以上も以下もありませんよね？=You and I are both here to have sex, nothing more, nothing less, right?
-好意より20～49{0}=20-49{0} from favor
 わかりました、今日も「ただのセフレ」としてお付き合いしますね。=Okay, I'll keep you company today as "just a friendship".
 私を選んでも、セックスしかできませんよ……？=If you choose me, all you'll get is sex?
-好意より50～79{0}=50-79{0} from favor.
 ……何ですか？　相性の良い人に期待を寄せるくらいいいじゃないですか……=... What is it? Isn't it enough to have high hopes for someone who is compatible...
 ……私を求めてくれたんですか？　……ありがとうございます。=... Did you ask for me? Thank you.
-好意より80～100{0}=80-100{0} over favoritism
 ちゃんと身体だけじゃなく、その……わ、私の心にも、温もりをください……=Please give warmth not only to my body, but also to my heart...
 た、たまにはその、あ、愛のあるセックスとか……どうですか？=How about, uh, loving sex once in a while?
-享楽より20～49{0}=20-49 from Kyouraku{0}
 あなたとならまぁ、楽しむくらいはできそうですね。=I think I can at least have some fun with you.
 で、女を誘ったんですから、それなりの事はしてくれるんですよね？=So, since you invited the girl, you're going to do something about it, right?
-享楽より50～79{0}=50-79 from Kyouraku {0}
 期待通りに動いてくれるかは疑問ですが……まぁ、お願いします。=I doubt that it will work as expected, but... Well, please do.
 締まらない顔をしてますね。　そんなに私としたかったんですか？=You look so uncomfortable. Did you really want to do it with me that badly?
-享楽より80～100{0}=80-100{0}
 どんなプレイでも構いませんが、私が楽しめる前提でお願いしますね？=I don't care how you play it, but please assume I'll enjoy it, okay?
 良いタイミングですね、丁度あなたの喘ぐ顔を見たいと思っていた所です。=Good timing, I was just hoping to see your panting face.
-嫌悪より20～49{0}=From disgust 20-49{0}
 まったく、こんな事、一体いつまで……=God, how long is this going to go on...
 はぁ、私じゃなければいけない理由でもあるんですか……？=Huh, is there a reason why it has to be me?
-嫌悪より50～79{0}=50-79 from disgust {0}
 こんな所に来た事、今では物凄く後悔をしています……=I regret coming to this place so much now...
 嫌がる人間を否応なしに誘い出す……ほんっと、最低です。=Luring out people who don't want to be lured out... It's really disgusting.
-嫌悪より80～100{0}=80-100{0} than disgust.
 はは、こんな思いをしてまで私、何してるんでしょうね……？=Haha, what am I doing, going through all this trouble?
 セックスは好きです。　でもあなたは大嫌いです。　それだけはわかってください。=I like sex. But I hate you. Please understand that.
-隷属より20～49{0}=From slavery 20-49{0}
 私はまぁ、あなたの欲を受け止めるだけですし……=I, well, I'm just taking care of your desires...
 ……何をまじまじと見てるんですか？　早く襲ってくださいよ……=... What are you staring at? Just attack me, please...
-隷属より50～79{0}=50-79{0} from servitude.
 あ……今日も犯してくれるんですか？=Oh... Are you going to fuck me again today?
 私、とっくに準備は出来てますから。　……じっくり楽しんでいってください。=I've been ready for this for a long time... Please take your time and enjoy the show.
-隷属より80～100{0}=80-100{0} from servitude.
 あなたのせいで、身体が犯されたがってるんです……早く責任取ってください……っ=Because of you, my body wants to be fucked... Please take responsibility quickly...
 あぅ……我慢、出来ません……早く、早くセックスしましょう……？　ねぇ……？=I can't hold back... Let's have sex soon, soon? You know?

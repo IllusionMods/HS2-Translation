@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=H posterior A normal {0}
 やはり３人ですると、刺激的ですわね……=It's always more exciting when it's just the three of us...
 いつもとは違うお勉強ができたと思います。=It was a different kind of learning experience.
-H事後A好意{0}=H posterior A favor {0}
 もう、ちょっとだけ妬けてしまいましたわ……=I'm already a little jealous of you...
 うふふ、一夫多妻制になってもあなたなら大丈夫ですわね……=Ummm... I'm sure you'll be fine with polygamy...
-H事後A享楽{0}=H Post A Enjoyment {0}
 ふたりでするときとは違うあなたが見られて幸せでしたわ……♪=I was happy to see you differently than when we were together ♪
 たまにはこのような営みもよいものですわね……♪=It's good to have this kind of activity once in a while ♪
-H事後A嫌悪{0}=H Post A Aversion {0}
 おふたりとも、お疲れ様でした。=Thank you both for your hard work.
 終わりましたのね……=It's over...
-H事後A隷属{0}=H post A subjugation {0}
 変則的なセックスでしたが、しっかりとご奉仕できていたでしょうか……？=It was an irregular sex, but I hope I was able to serve you well?
 おふたりにご満足頂けたなら何よりですわ。=I hope you are both satisfied with your stay.

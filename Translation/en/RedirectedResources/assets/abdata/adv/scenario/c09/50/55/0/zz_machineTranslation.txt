@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 あなたさんと結ばれて、幸せな家庭を築いて、末永く幸せに暮らす……そんな妄想が広がっちゃいます。=I can't avoid but fantasize about being married to you, building a happy family, and living happily ever after.
 妄想じゃなくて現実にしたいですけど……うーん、それはあなたさん次第ですし……=I'd like to make it real, not imaginary, but... Well, that's up to you, and...
 あっ、子供が出来たらまるっと解決ですね。さっそくエッチしましょう。=Oh, it will be completely solved when we have a child. Let's have sex right away.

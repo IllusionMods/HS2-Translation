@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 まったく、最悪だったぜ。=Oh, man, that sucked.
 お前のせいで……恥ずかしい思いしちまったじゃねぇか。=You made me feel... Embarrassed.
 なんで、こんな所で無理やりやろうとするんだよ……=Why are you trying to force me to do this here...

@@ -2,21 +2,15 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 ちょ、かけ過ぎじゃない？　アタシはアンタの所有物じゃないかんね？=Hey, that's a bit much, isn't it? I'm not your property, am I?
 うわ、体中ベトベト……よくこんな出せんね？　後でちゃんと、水分ほきゅーしときなよ？=Wow, you're all sticky... How can you get this out? You'll need to rehydrate later.
-好意{0}=Favors {0}
 アハッ、アタシとスるの、そんなにコーフンしたんだ？　これだけ盛大にぶっかけといて、今更隠したって無駄だかんね？=Ahaha, you were so excited to have sex with me, huh? It's no use hiding it from me now after I've sprayed it all over you, isn't it?
 んぅ……体中アンタの匂い染み付いちゃったかも。アハ、アタシ、マーキングされちゃった？=I think I've got your scent all over me. Aha, am I being marked?
-享楽{0}=Enjoyment {0}
 いーよいーよ、こーいうハジけ方は全然アリ♪　はぁっ……匂いが濃くて……また疼いてきそう……=Finally, it's okay to be a little crazy like this ♪ Huh... The smell is so thick... That it's making me tingle again...
 あーあ、こんなにぶちまけちゃって……そんなに気持ち良かったん？　アタシのカラダ♪=Did it really feel that good to be spewing so much? My body ♪
-嫌悪{0}=Disgust {0}
 マジ最悪……アンタのくっさい匂い、残ったらどーしてくれんの？=Seriously, this is the worst... What will you do if your stinky smell lingers?
 うっわ、体がくっさ……マジ最悪なんですけど……何食ったら、こんな臭いもの出せるわけ？=Ugh, my body stinks... It's really bad... What do I eat that makes me smell like this?
-隷属{0}=Slavery {0}
 んふ、アンタって、もしかして心配性？　コレ、自分の匂いでマーキングして、アタシを誰かに取られないようにしてんの？=Are you a worrier? Are you marking me with your scent so that no one else can get me?
 はぁっ……アンタのエロい匂いで、むせちゃいそ……これだけ汚されると、逆に爽快だよね♪=I can't wait to see what you're going to do with it ♪
-依存{0}=Depends{0}
 アタシを汚した責任は、ちゃんと取ってもらうかんね？　とりま、アタシが呼んだら秒で来ること♪=You'll have to take responsibility for defiling me, right? Anyway, when I call you, you come in a second ♪
 はぁ～、体中からアンタの匂いがするんですけど♪　なに？　コレってアタシのこと独占したい的な？=I can smell your scent all over my body. Is this a sign that you want to monopolize me?

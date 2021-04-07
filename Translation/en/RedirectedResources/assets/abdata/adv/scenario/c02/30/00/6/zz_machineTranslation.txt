@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 ―――確かに、受け入れる事も大事ではありますね……=--- Indeed, it is also important to accept...
 ……そんなモノを平気で受け入れる人もいるんですね、世の中怖いですね……=... There are people who accept such things without a care in the world, it's a scary world...
-好意{0}=Favors {0}
 ……え？　私ですか？　そ、それは勿論、好きな人が求めてるなら……=... What? Is it me? Well, that is, of course, if the person you love is asking for it...
 ……相手次第ですけど、それがもしあなただったら、まぁ……受け止め……る努力くらいはしますよ？=... It depends on the person, but if it's you, well, I'll at least try to accept it.
-享楽{0}=Enjoyment {0}
 相手がＭであるなら、何も容赦する必要なんてないですよね？=If the other person is M, there's no need to condone anything, right?
 受けな相手でも、ただマグロを相手するのはちょっとつまらないんですよね……返り討ちにするのがいいんですよ。=It's a little boring to just deal with tuna, even if it's a receptive partner... It's better to turn them back.
-嫌悪{0}=Disgust {0}
 ……そんな人生の何が楽しいんですかね？=... What's the fun in that kind of life?
 ……それって、ただの奴隷と何が違うんですか？=... How is that different from just being a slave?
-隷属{0}=Slavery {0}
 ―――その気持ち、すごくわかります。私でもそうします。=I know exactly how you feel. I would do the same.
 私はいくらでも待てますね。待つ事には慣れていますから……=I can wait as long as I want. I'm used to waiting...

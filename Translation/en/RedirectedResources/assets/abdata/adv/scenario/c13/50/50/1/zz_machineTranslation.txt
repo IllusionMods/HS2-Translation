@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 あぁ……どうして時を止められないんでしょう……=Oh, why can't I stop time?
 この幸せな感情を頂いたまま、一生過ごしていたいです……=I want to spend the rest of my life with this happy feeling I received...
 水の中でも愛し合えるなんて、素敵ですよね……=It's so nice that we can make love in the water...

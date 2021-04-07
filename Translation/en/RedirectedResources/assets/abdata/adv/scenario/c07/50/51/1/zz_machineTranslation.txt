@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 なかなか楽しめたな。やっぱそれ専用の部屋ってのは使い勝手がいい。=It was quite fun. A room dedicated for that purpose is very useful.
 よし、しっかりヤル時はここだな。文句は言わせねぇぞ？=Okay, here's when we're going to fuck it up. I'm not gonna complain, okay?
 中途半端は嫌いだからな、こういうとこでした方がスッキリする。=I don't like to do things by halves, so it's clearer to do it here.

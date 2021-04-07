@@ -2,43 +2,33 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 えっと……満足頂けましたでしょうか？　イって頂けたのは分かっているのですが……気持ちの方は、どうかなと思いまして……=Well... Are you satisfied? I know you came, but I'm not sure how I feel about it.
 無事、二人ともイけて良かったですね。もし、次の機会がありましたら……その時はまた、よろしくお願いいたします。=I'm glad that we both came safely. If there is a next time... Please come again then.
 ふぅ……あ、すみません。疲れたとかではなくて、なんだか、ホっとしたというか、満たされた感じで。と、とにかくその……ありがとうございました。=Hmm... Oh, sorry. It's not that I'm tired or anything, it's just that I feel so relieved, or filled. Anyway, thank you very much.
-好意より50～79{0}=50-79{0} from favor.
 貴方とシた後は、少しボーっとしてしまいます。きっとこれが、女の幸せというものなんでしょうね。=After having sex with you, I feel a little dazed. I guess this is what women call happiness.
 ふふ……また貴方とシたいです。次もきちんとお互いにイケるように頑張りますから……期待して待っていますね。=I want to have sex with you again. I'll do my best to make us both cum properly next time... I'll be waiting with anticipation.
 まだ、身体が火照ったままです。貴方も同じですか？　同じだと……嬉しいです。=My body is still burning. Is it the same for you? I'm glad you're the same.
-好意より80～100{0}=80-100{0} over favoritism
 ふふふ♪　お互いイけましたね♪　きっと私達、相性がいいのだと思います。この先も末永く、よろしくお願いします。=I'm sure we're a good match. I look forward to working with you for many years to come ♪
 はぁ……満足し過ぎて、溜息が出てしまいます。貴方は私にとって特別なのです。=Sigh... I'm so satisfied, I can't avoid but sigh. You are special to me.
 とても素敵な時間でした。ありがとうございます。ふふ……なんだかニヤけてしまいます。二人ともイけて良かったですね。本当に……=It was a very nice time. Thank you very much. Hmm... I'm kind of smiling. I'm glad we both came. Really...
-享楽より50～79{0}=50-79 from Kyouraku {0}
 あぁ……名残惜しいです。もっともっと、二人でイキたかったのですが……それはまたの機会に、取っておきましょう。=Oh... I'm going to miss it. I wanted to cum more and more with both of you, but... Let's save that for another time.
 結局、どちらの方が多くイキました？　別に勝負をしているわけではありませんが……少々気になってしまいまして。ふふ♪=Which one of you ended up cumming more? I'm not trying to compete with you, but I'm a little curious. Hmm ♪
 はぁっ……もっとシていたかったですが、これ以上は大変なことになりそうなので……この辺りでやめておくのが、お互いのためですね。=Huh... I would have liked to have shagged you more, but I'm afraid I'm going to get into a lot more trouble... So I think it's best for both of us to stop here.
-享楽より80～100{0}=80-100{0}
 実はまだ身体が疼いているのですが……ふふ、後でこの疼きを一人で鎮めるのが、また気持ちよかったりするのですよね……=In fact, my body is still tingling... Hmmm... Later, quenching this tingling by myself will feel good again...
 もっとシたいって思ってるのは私だけですか？　私には分かります。近いうちに貴方は我慢できず……また私とシてしまうんです。=Am I the only one who wants to shag more? I can tell. One of these days you won't be able to resist... And you'll do it again.
 一度イクと、やめ時が分からなくなりませんか？　スイッチが入るって本当にあると思います。私のスイッチは、壊れ気味かもしれませんが……=Once you cum, don't you know when to stop? I think there really is such a thing as being turned on. My switch may be broken, but...
-嫌悪より50～79{0}=50-79 from disgust {0}
 さて……後片付けなどはお任せします。それでは、本日はありがとうございました。=Well... I'll leave the cleanup and such to you. So, thank you very much for your time today.
 良かったですね。二人ともイケて。決して相性がいいわけでは無いと思いますが……まぁ、それなりに楽しめたとは思います。=It was good. We were both hot. I don't think they're compatible by any means, but... Well, I think I enjoyed it for what it was.
 貴方のイク時の声、正直少し引きました。情けないというか……ふっ、これ以上は言わないでおきますね。=To be honest, I was a little taken aback by your voice when you came. I don't want to say anything more about it.
-嫌悪より80～100{0}=80-100{0} than disgust.
 後をついて来ないでくださいね？　もう終わったのですから……私達の関係はここまでです。=Please don't follow me, okay? It's over now... Our relationship ends here.
 ふぅ……色々と大変でした。今はとにかく……ゆっくり休みたい気分です。=Phew... It's been a lot of work. Now I just feel like... Resting.
 まぁ、お互いイケたのですから潮時ですね。貴方も引き時くらいは分かっていたようで……少しだけ安心しました。=Well, we both came, so I guess it was time to go. I'm a little relieved that you knew when to pull out.
-隷属より50～79{0}=50-79{0} from servitude.
 この、イった後の感じ……私好きです……気怠いのに幸せな感じで……もう少しだけこの空気に浸っていたいです。=This feeling after coming... I like it... I feel languid yet happy... I want to soak up this air for a little while longer.
 良かった。私だけではなく、貴方もイケましたね。実は少し心配だったのです。私は何と言うか、受け身な所がありますから……=Good. Not only did I get it, but you did too. I was actually a little worried. I'm kind of a passive guy, so...
 その……次はいつシてもらえますか？　私、放置されてる間は我慢していますから。貴方の都合の良い時に、またシましょうね？=I mean... When will you do it again? I'll put up with it while I'm left alone. Let's do it again when it's convenient for you, okay?
-隷属より80～100{0}=80-100{0} from servitude.
 凄く……気持ちよかったです。やっぱり、こういう事は二人とも満足できてこそ、ですよね♪=It felt so... So good. After all, this kind of thing is only possible when both of us are satisfied ♪
 ふふ、貴方もイケて良かったですね。なんて……少し生意気ですか？　次にまたおしおきしてもらう理由……できましたね。=I'm glad you got off on it, too. Am I being a little cocky? Now you have a reason to be spanked again.
 はぁぁ……もう文句無しに、大満足です！　ふふ、私……少し興奮し過ぎですね。でもそれくらい、本当に気持ちよかったので……=Huh... No more complaints, I'm very satisfied! I'm a little overexcited, aren't I? I'm a little overexcited, but that's because it felt really good...
-依存{0}=Depends{0}
 私達、心も体も繋がれた気がしませんか？　だって、お互いにイケたのですよ？　ふふ、これ以上ないくらいに幸せです。=Don't you feel like we're connected, both physically and mentally? Because we were able to make each other cum, right? I couldn't be happier.
 もし……他の人に浮気なんてしたら……私、どうなるか分かりませんよ。私は本気です……冗談でこんな事は言ったりしませんので。=If I were to cheat on you with someone else I don't know what would happen to me. I'm serious... And I wouldn't say such a thing as a joke.
 素敵です。私達はやはり最高のパートナーですね。誰が何と言おうがそこは変わりません。そもそも、何も言わせる気もありませんが……ふふ。=It's nice. We are still the best partners. No matter what anyone says, that will never change. I don't want to make them say anything in the first place, but... Hmm.

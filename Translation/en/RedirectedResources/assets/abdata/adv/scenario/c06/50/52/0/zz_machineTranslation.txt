@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 こんな所で……何をするおつもりなんですか？=What do you think you're doing here?
 いたずらはお控えくださいね。=Please refrain from playing tricks on me.
 変なことをしたら、許しませんから。=If you do anything strange, I won't forgive you.

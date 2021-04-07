@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 とりあえず話そっか？　なんか面白い話題ある？=Let's just talk about it, okay? Do you have anything interesting to talk about?
 最近いいことあった？　私はぼちぼちかな～=Have you had any good luck lately? I'm not so good.
-好意{0}=Favors {0}
 私、お前と喋りたいこといっぱいあるんだよねぇ、あっでも、何かあるなら先に聞くよ？=I have a lot of things I want to talk to you about, but if there's something you want, I'll ask first.
 じゃー何話そっかぁ。たとえば恋バナ、とか？　な、なーんてね……！=So what should we talk about? Like a love story? I don't know...
-享楽{0}=Enjoyment {0}
 で、何話すの？　お前とならやっぱり下ネタかなぁ？=So, what do we talk about? If it's with you, I guess I'll talk about vulgar things.
 最近、濡れやすくなってさぁ……えっ？　話って、前戯的なアレじゃなくて？=I've been getting wet more easily lately... You mean like foreplay?
-嫌悪{0}=Disgust {0}
 話って何？　どうせつまらない事でしょ？=What's the story? What's so boring about it anyway?
 私も暇じゃないからさ。話があるなら早くして。=I don't have time for this, either. If you want to talk, you'd better hurry up.
-隷属{0}=Slavery {0}
 え……いや、意外だったから。いきなりセックスだと思ってて……でも、いいよ、何話す？=Well... No, it was unexpected. I thought we were just going to have sex, but... But okay, what do you want to talk about?
 うん……お前の話なら、なんでも聞きたいな……もちろん、下ネタもね……♪=Yeah... I'd love to hear anything you have to say... Including your dirty jokes, of course ♪

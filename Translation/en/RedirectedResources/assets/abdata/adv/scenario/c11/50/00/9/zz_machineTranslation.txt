@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 その……お恥ずかしい限りなのですが、貴方のお話で高揚しまして……良かったら、このまま致しませんか？=Well, I'm embarrassed to say this, but your story has lifted my spirits... Would you like to continue?
 せ、折角というのも変な話ですが、宜しければこのまま……いかがでしょうか？=If you don't mind, I'd like to keep it that way... How about it?
-好意{0}=Favors {0}
 あ、貴方のことをより理解するために、今度は身体を重ねたいのですが……いかがでしょうか？=Oh, I would like to get to know you better... How about a physical encounter?
 その……お時間は、まだ大丈夫でしょうか？　もう少し、貴方のお傍に置いて頂きたく存じます……=Well... Is your time still good? I'd like you to stay with me a little longer...
-享楽{0}=Enjoyment {0}
 ……お話だけでは、この熱は引きそうにないので、抱いて頂けませんか？=... I don't think I can get rid of this fever with just a story, so can you hold me?
 お話だけでなく、身体を重ね合いたく存じます。貴方も、そのつもりだったのではないですか？=I would like to have a physical relationship with you, not just a conversation. Isn't that what you've always wanted?
-嫌悪{0}=Disgust {0}
 貴方のお話の所為で、変な気分に……責任を取って頂きます。=Your story has put me in a weird mood, and you are responsible for it.
 うぅ……不本意ですが……これからお付き合いください。貴方の所為なので、拒否権はございません。=Ugh, I'm afraid I'm unwilling... To go along with you from now on. Since it's your fault, you have no right to refuse.
-隷属{0}=Slavery {0}
 ……我儘だとは重々承知しているのですが、どうか私を抱いては下さいませんか……？=... I know it's selfish of me, but will you please hold me?
 貴方のお声を聴いているだけで、身体が疼いてしまいまして……このまま、抱いて頂けないでしょうか？=Just listening to your voice makes my body tingle... Can you hold me like this?

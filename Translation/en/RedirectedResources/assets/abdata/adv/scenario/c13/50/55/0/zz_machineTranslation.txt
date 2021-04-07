@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 ふふ、うふふ……結婚、ですね……♪　何も言わなくて大丈夫です……あなたの意思は全て理解できました……♪=Hmm, hmm... Marriage ♪ You don't have to say anything... I understand everything you want ♪
 指輪も婚姻届も必要ありません……♪　私があなたを愛していて……あなたが私を愛している……それだけで充分です……♪=I don't need a ring or a marriage certificate ♪ I love you... And you love me... And that's enough ♪
 他の誰が何と言おうが私達は正式に結ばれました……♪　さあ、誓いのセックスをしましょう……♪=I don't care what anyone else says, we're officially tied ♪ Come on, let's have sex with our vows ♪

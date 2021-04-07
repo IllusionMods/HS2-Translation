@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 ???=????
 誰かいないっすかー……？=Is anyone out there?
 はー……セックスしてー……=I want to have sex with you...

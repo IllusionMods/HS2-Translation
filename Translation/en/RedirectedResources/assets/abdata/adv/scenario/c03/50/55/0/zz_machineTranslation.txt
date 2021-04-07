@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 私たち、結婚しちゃったし……やることやっといた方がいいと思うんだけど？=Now that we're married, I think we should do what we have to do, don't you?
 だから……初夜的なアレだよ……言わなくたって、わかるだろ？=So... It's a wedding night thing... You don't have to tell me, you know?
 とりあえず、やっちゃお？　私、我慢できないから♪=Let's just do it. I can't resist ♪

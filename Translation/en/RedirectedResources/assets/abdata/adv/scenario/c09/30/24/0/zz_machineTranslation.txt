@@ -2,46 +2,33 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 こんにちはー。はえー、今からここであなたさんとエッチするんですねー。なるほどなるほど……=Hello. Huh, so I'm going to have sex with you here now, huh? I see, I see...
 はじめましてです。わたしー、こういうの初めてなんで、ちょっとどういう感じか分からないですけど、とりあえずやってみましょー！=It's nice to meet you. I'm new to this kind of thing, so I don't know what it's like, but let's give it a try!
 ふふー、誘ってくれてありがとうございますー。こういうの興味あったから嬉しいですよー。=Phew, thank you for inviting me! I'm glad you're interested in this kind of thing!
-好意{0}=Favors {0}
 うーん、エッチってー、普通は好き同士でするものなんですよねー。あはは、だったらわたし、あなたさんのこと、好きにならなきゃですね！=Hmmm... Sex is usually between people who like each other, right? If that's the case, then I have to like you, don't I!
 はじめまして、誘ってもらえて嬉しいですー。いよいよわたしもあなたさんと初エッチができるんですね。ふふふ、感無量ですよ。=It's nice to meet you, and I'm glad you invited me. I'm glad you asked me out. I can finally have sex with you for the first time. I'm so excited.
 ふふっ、この日をどれほど待ち望んだことでしょうか！　あなたさんとの初えっち！　とうとう！　わたしに！　よろしくお願いしますー！=Phew, how I've been waiting for this day! My first sexual encounter with you! At last! For me! I'm looking forward to it!
-享楽より20～49{0}=20-49 from Kyouraku{0}
 さて、いよいよ初エッチの瞬間が近づいたわたし！　果たしてあなたさんに喜んでもらえるようなエッチができるのでしょうか！？=Now, the moment of my first sex is approaching! Will I really be able to have sex that will make you happy?
 初対面だけど、この際はっきり言っちゃいます！　わたし、エッチなことって、めちゃくちゃ興味ありますよー！=I know we've never met before, but I'm going to make this clear! I'm really interested in sex!
-享楽より50～79{0}=50-79 from Kyouraku {0}
 ふふっ、初めてだからと侮るなかれ！　雑誌のエッチ特集はもれなくチェックしてきたわたし！　気分はすでに百戦錬磨です！=Don't underestimate me just because it's my first time! I've been checking out all the sex features in magazines! I already feel like I've been through a hundred battles!
 相手に喜んでもらえてこそのエッチ、そのためにあれやこれやを学んできたつもりですがー……=I think I've learned a lot about sex and how to make it happen, but...
 あああ、どうしよう、頭が真っ白になってるですー！=Ahhh, my mind is going blank!
-享楽より80～100{0}=80-100{0}
 今からいよいよエッチするわけですけど……やって欲しいこととかあったら遠慮なく言ってくださいね。わたし、勉強しますので！=Now we're about to have sex... If there's anything you want me to do, please don't hesitate to tell me. I'll study hard!
 ふふっ、わたしを選んで頂けるとはお目が高い！　こう見えてわたし、究極エッチ女子なんですよ、ふふっ、ふふふふっ、うふふふーっ！=Fufu, I'm looking for me to choose me! I see this, I am the ultimate sex girl, Fufu, Fufufufu, Ufufufu!
-嫌悪より20～49{0}=From disgust 20-49{0}
 はぁぁ、これからしちゃうのかー……=Huh, I'm going to do it now...
 うーん、なんでわたしを選んじゃったんですかねー。=Hmm, I wonder why he chose me.
-嫌悪より50～79{0}=50-79 from disgust {0}
 あなたさんとの初エッチかー……まぁ、別にどーでもいーんですけどね。=The first time I had sex with you... Well, I don't really care.
 何を言ったところでやることはやるんですよね？　だったらほら、さっくり終わらせちゃいましょー。=No matter what you say, you're going to do it, aren't you? So let's just get it over with, shall we?
-嫌悪より80～100{0}=80-100{0} than disgust.
 正直言うと、結構面倒臭いです。あんまり長引かせないでくださいね。=To be honest, it's quite tedious. Please don't prolong it too much.
 こーいうのってー、もっとドキドキ出来るものだと思ってたんですけどー……はぁぁ、想像と違うなぁ。=I thought this kind of thing would be more exciting, but... Huh, it's not what I imagined.
-隷属より20～49{0}=From slavery 20-49{0}
 よろしくお願いしますー！　あなたさんがしたいこと、無条件でなんでも受け入れちゃいますよ！=It's a pleasure to meet you! I'll accept anything you want to do, unconditionally!
 あはは、実を言うと、ほんの少しだけ緊張していて……でも、あなたさんが望むことは出来るだけ叶えてあげたいと思ってますよー！=Haha, to tell you the truth, I'm just a little bit nervous... But I'm willing to do whatever you want as much as I can!
-隷属より50～79{0}=50-79{0} from servitude.
 エッチって、女子は受け身が基本なんですよね？　あれ、違いました？=When it comes to sex, girls are supposed to be passive, right? Wasn't that right?
 まぁでも、初めての今回はぜひ受け身でやらせてくださいー！=But this time, my first time, please let me be passive!
 さぁ、どんなエッチでもどんとこいです！　あなたさんからの攻めはすべて受け止めてみせますよー！=Now, I'm ready for any kind of sex! I'll accept any and all attacks from you!
-隷属より80～100{0}=80-100{0} from servitude.
 初めてということで、至らない部分も多々あると思うんですよ。でも、受け入れたいって気持ちは本物なので……よろしくお願いしますね、えへへ。=As this is my first time, I'm sure there are many things I'm not good at. But I have a genuine desire to be accepted... So please take care of me, ehehe.
 これからあなたさんとエッチかぁ……ふふっ、この気持ちは人生初かもです。試してみたいことがあったら、なんでも言ってくださいね。=I'm about to have sex with you... Hmmm, this might be the first time in my life I've had this feeling. If there's anything you want to try, please let me know.
-壊れ{0}=Broken {0}
 ………………=...
 はぁぁ……お願いしましゅぅ……おバカなわらしにぃ……エッチなおべんきょー……いっぱい教えてくらさぁい……=Please... Please teach me a lot of naughty tricks... To my stupid self...
-依存{0}=Depends{0}
 わたしを選んで頂けたこと、すごく嬉しいです。一緒に……一生の思い出に残るエッチをしましょうね。=I am very happy that you have chosen me. Let's have sex together... A sex that will last a lifetime.
 わたし、あなたさんとでしたら……きっと甘くて蕩けちゃうようなエッチが出来る気がするんです。ふふっ、よろしくお願いしますね。=I have a feeling that I can have a sweet and debaucherous sex with you. Phew, I look forward to working with you.

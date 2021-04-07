@@ -2,13 +2,10 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-汎用{0}=General Purpose {0}
 私を探しにきてくださったのですか？　わざわざありがとうございます。=You came to find me? Thank you for going out of your way.
 ここまでの道すがら、他の方を抱いてはいませんか？=Have you been holding anyone else on the way here?
 会いたいと思った傍から、目の前に来て下さるとは……これは運命でしょうか。=Is it fate that he came right in front of me, right when I wanted to see him?
-風呂{0}=Bath {0}
 こんにちは。わざわざお風呂場まで私を探しにきてくださったのですね。=Hello. You came all the way to the bathroom to find me.
 お会いできて嬉しいです。お風呂に入ろうかと思っていましたが、止めにしますね。=It's nice to see you. I was thinking of taking a bath, but I'll stop now.
-用件{0}=Business {0}
 用件は口にせずとも結構ですよ。私とセックスをするために、ここへ来られたのですよね？=You don't have to tell me what you want. You've come here to have sex with me, haven't you?
 大丈夫です、ご用件は理解していますから。セックスのお誘いですよね？　今日はどの様なプレイをご希望ですか？=It's okay. I understand what you're asking. You're asking me to have sex with you, aren't you? What kind of play would you like to have today?

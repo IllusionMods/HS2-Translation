@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 私達の愛は、今更確かめ合うまでもなかったですね……=Our love for each other didn't need to be confirmed now, did it...
 きっと、ここで本物の誓いを立てる日もそう遠くないかと……ふふ♪=I'm sure it won't be long before we'll be making real vows here ♪
 結婚前にウェディングドレスを着ると婚期を逃すなんて、良く聞きますが……=I've often heard that if you wear a wedding dress before marriage, you'll miss your chance to get married...

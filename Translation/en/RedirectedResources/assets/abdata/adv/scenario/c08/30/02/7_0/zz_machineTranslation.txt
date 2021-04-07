@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=An unremarkable response A. Normal {0}
 えー、本当は３Ｐしたかったんじゃないすかー？=Well, didn't you really want to have a threesome?
 なんか怪しい～。裸の付き合いをするんだから隠し事はなしっす。=I wonder what's going on. We're going to be naked together, so there's nothing to hide.
-なんでもない返答A好意{0}=An unremarkable response A favor {0}
 通りすがりのノットスケベさんだったんすねー。スケベさんになったらまた会いに来てほしいっすー。=You were a not-skeptical person passing by. If you become a skeevy person, I hope you'll come see me again.
 なんでもないなら仕方ないっすねー。=I can't avoid it if it's nothing.
-なんでもない返答A享楽{0}=Nothing Reply A Kyouraku {0}
 ええ～？　エロでスケベで変態でー性欲が服着て歩いているような人がなんでもないんすかー？=What? What's wrong with an erotic, dirty, perverted person whose sexual desire is like walking around in clothes?
 まさかのセックスフェイントっすかー？=Is this a sex feint?
-なんでもない返答A嫌悪{0}=Nothing Reply A Disgust {0}
 あー挨拶だったんすねー。どもっすー。=It was a greeting, wasn't it? Hello.
 え、じゃーなんで話しかけたんすかー？=Well, then why did you talk to her?
-なんでもない返答A隷属{0}=Nothing Reply A Slavery {0}
 またそうやって焦らしプレイするんすからー。=I'm going to play it fast and loose like that again.
 私がヤッてほしげ～な目をしてたからー逆にそっけない態度取るんすね～？=You've been looking at me like you want me to fuck you, so you've been acting like you don't want me to fuck you, haven't you?

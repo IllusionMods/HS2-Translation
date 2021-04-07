@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 美味しいお酒と、ムードの良いプールと、本当に至れり尽くせりですね。=With delicious drinks and a moody pool, it's really a perfect place to be.
 貴方はお酒とプール……どちらを楽しみにして来たのですか？=Which did you come to enjoy more, the drink or the pool?
 それとも、私と同じで……もっと気持ちいいことを期待していましたか？=Or were you like me... Expecting something more pleasant?

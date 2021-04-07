@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 今日はあなたじゃなくて、あの触手が相手なんですね……=So it's not you I'm dealing with today, it's those tentacles...
 触手に犯される私を見て、あなたは興奮する……ゾクゾクしてきます。=Seeing me being fucked by tentacles turns you on... It gives me the creeps.
 早く……始めませんか？　もう待ちきれないんです。=Can we... Can we get started? I can't wait any longer.

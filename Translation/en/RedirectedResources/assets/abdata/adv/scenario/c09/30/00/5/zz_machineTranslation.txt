@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 ふぉぉ、それでそれでっ！？　すごく気になる内容ですーっ！=Oh, so that's it? I'm really curious about this!
 あっ……待ってくださいっ！　ちょっと休憩しないとっ、わたし、ドキドキしてっ……すーはー、すーはー！=Wait, please! I need to take a break, I'm so nervous... Su-ha, su-ha!
-好意{0}=Favors {0}
 ですねですね！　やっぱりみんな気持ちいいことは好きなんですよー！　だって色んなことするじゃないですかー！=That's right! After all, everyone likes things that feel good! Because we do all kinds of things!
 な、なるほど……あなたさんはそーいうのが好きなんですね……ふむ、きちんと覚えておきますよー！=I see... You like that kind of thing... Hmmm, I'll keep that in mind!
-享楽{0}=Enjoyment {0}
 もしかして、そーいうのに興味ありますか？　ふっふっふ、では今度わたしが……直接身体に教えてあげましょう♪=Are you interested in that kind of thing? I'll teach it directly to your body ♪
 いやいや、それが意外とバカにできないんですよ。痛い！　辛い！　キツイ！　って感じが、ぜーんぶ気持ちいぃに変わるんですってばー。=No, no, that's not as silly as it sounds. It hurts! Painful! It's hard! But it all turns into a great feeling!
-嫌悪{0}=Disgust {0}
 いやいや、それ、絶対にナシですよ！　出来るわけないじゃないですか。=No, no, no, that's absolutely not possible! There's no way you can do that.
 あのー……ちょっと何言ってるか分かんないんですけどー？=Um... I don't understand what you're saying.
-隷属{0}=Slavery {0}
 ふむふむ……それ、あなたさんがしてみたいって言うんだったらー…………わたしで試してみてもいーですよ♪=If you want to try it, you can try it on me ♪
 おおお、なんですかそれー、すごく気になりますー！　はいっ、いーですよー、ぜひ試してみましょー！=Oh, what's that? I'm so curious! Yes, it's okay, let's try it!

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 エッチな道具がいっぱいですねー。今日はそういうプレイをしたいんですかー？=You have a lot of naughty tools! Is that what you want to play with today?
 えへへ、それなら任せてください。あなたさんの為にたくさん勉強しましたから、期待していいですよっ。=Well, leave it to me. I've studied a lot for you, so you can count on me.
 まずは、あなたさんを縛っちゃいますね。ぜーんぶ、わたしがしちゃいますっ。=First of all, I'm going to tie you up. I'm going to do everything myself.

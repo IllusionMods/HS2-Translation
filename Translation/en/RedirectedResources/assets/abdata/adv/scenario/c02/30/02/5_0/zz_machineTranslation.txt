@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようA普通{0}=Let's do H. A. Normal {0}
 私達と、ですか？　こちらは構いませんが……=With us, sir? I don't mind, but...
 えっと、二人を相手にって事ですよね？=Well, you mean against two people, right?
-HしようA好意{0}=I'll do you a favor.
 ちょっと、私だけじゃないんですよ……？=Hey, it's not just me?
 えっ、わ、私は、嫌じゃないですけど……ねぇ？=What? I don't mind, but... Hey?
-HしようA享楽{0}=Let's have some fun.
 やっぱり。　顔、ニヤついてましたからね。=I knew it. You had a big grin on your face.
 あなたならそう言うと思ってましたよ。=I knew you would say that.
-HしようA嫌悪{0}=Let's H. A. Hate {0}
 あの、見境なさすぎじゃないですか？=You know, I think you're being a little dismissive.
 ……えぇ、そんな予感はしていましたよ。=... Yeah, I had a feeling about that.
-HしようA隷属{0}=Let's H A slave {0}
 なるほど、女を侍らせたいって事ですね、構いませんよ。=I see, you want to have a woman as a lady-in-waiting, fine.
 何ですか？　私の痴態を見せつけろって事ですか？=What is it? Are you asking me to show you my lasciviousness?

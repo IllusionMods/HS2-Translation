@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 えへへ、プールなのに、大人なことしちゃいましたねー。=Ehehe, it's a swimming pool, but I did something grown-up, didn't I?
 もうドキドキのワクワクで……楽しい思い出になりましたー！=I'm so excited... It's been a fun memory!
 ぷかぷかして、とっても楽しいエッチでしたねっ。=It was a very fun sex with a lot of puffiness!

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 なかなかいい場所っすね、気に入ったすよー。=It's a nice place, I like it!
 こんな所に連れて来るなんて、なかなかやるじゃないっすか。=It's quite a feat to bring him here.
 それじゃ、あなたと一緒に素敵な夜を楽しむっすよ～。=I'm going to enjoy a nice evening with you then!

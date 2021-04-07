@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 えっとー……あそこでうねうねしてる触手に、されちゃうんですよね？=Um... The tentacles that are wandering around there, they're going to do that to you, right?
 正直、ちょっと怖いですけどー……あなたさんの為なら頑張れますっ！=To be honest, I'm a little scared, but... If it's for you, I can do my best!
 け、決して、気持ちよさそうだなーとか思ったりしてませんから！　本当ですよっ！=I didn't mean to imply that you look good. That's the truth!

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 私達、結婚式を上げたんだから、次のステップに進みましょ。=We've had our wedding, now let's move on.
 分かってるでしょ？　結婚と言えば、初夜よ、初夜！=You know what I'm talking about. Speaking of marriage, it's your wedding night. Your wedding night!
 それじゃ、早速始めましょ！=Well then, let's get started!

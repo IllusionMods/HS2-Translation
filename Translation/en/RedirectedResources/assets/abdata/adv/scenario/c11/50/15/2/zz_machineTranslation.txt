@@ -3,7 +3,6 @@
 //***********************************************************************
 
 今私は……世界で一番幸せです。=I'm the happiest person in the world.
-汎用{0}=General Purpose {0}
 ずっと貴方の腕に抱かれていたいです……=I want to be held in your arms forever...
 貴方のお陰で、とても満たされました。本当に有難うございます。=You have filled me up so much. Thank you very much.
 うふふ、お慕い申しております。=I'm in love with you.

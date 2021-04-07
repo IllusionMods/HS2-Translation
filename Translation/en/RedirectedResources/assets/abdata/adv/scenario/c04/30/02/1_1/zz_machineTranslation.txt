@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelude B normal {0}
 お、アンタいたんだ。どもども～、アタシもいるよ～。=Oh, you're here. Hi, I'm here too!
 どーもー。アタシもいるかんね～。忘れないでね～。=Hello. I'm here too. Don't forget me!
-前フリB好意{0}=Prelude B Favor {0}
 あー、アタシもいまーす。お邪魔してるよー。=Oh, I'm here too. I'm sorry to bother you.
 んふ、今アタシら見比べてたっしょ？　どっちが好み？=We were just looking at each other, weren't we? Which one do you like better?
-前フリB享楽{0}=Prelude B. Kyouraku {0}
 どーも。気持ちいことが大好きなアタシもいますよ～。=Hello. I'm also a person who loves to feel good!
 あは、女子がいっぱいいると寄ってくるとか、アンタって分かりやすっ。=You're so easy to understand, you come to me when there are lots of girls around.
-前フリB嫌悪{0}=Pretense B Disgust {0}
 あーこれ、解散の流れでいい？=Uh, is this a breakup process?
 はぁ……来ちゃったか。めんどくさいやつに限って、自分が人気者と勘違いしてるんだよねぇ。=Well... Here we are. Only the most annoying people think they are popular.
-前フリB隷属{0}=Prelude B Slave {0}
 楽しそうな雰囲気に混ざりたくなったん？　寂しんぼちゃんかよ～。=Did you want to join in the fun? You're such a lonely girl!
 あ、なんか混ざりに来た。気を付けて～、あれはケダモノの目だよ～♪=Oh, something's trying to mix us up. Careful, it's the Beast's eyes ♪

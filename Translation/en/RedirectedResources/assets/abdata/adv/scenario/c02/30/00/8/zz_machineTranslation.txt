@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 それでは、私はこれで……失礼します。=Now, if you'll excuse me...
 すみません、この先予定がありますので……では。=I'm sorry, I have plans for the rest of the day... Bye.
-好意{0}=Favors {0}
 ……それでは、また何かありましたら声をかけてくださいね。=... So, please give me a call if you need anything else.
 あなたとの会話は、その……楽しい、ので……また、お願いします……=I enjoy talking with you, so... Please... Talk to me again.
-享楽{0}=Enjoyment {0}
 それではこれで。また、お話しましょうね？=That's all for now. I'll talk to you later, okay?
 ……っと、いい時間ですね。それではまた。=... Well, it's a good time. See you soon.
-嫌悪{0}=Disgust {0}
 もういいですか？　それでは。=Are we done? All right, then.
 すみません時間がないので。では。=I'm sorry, I don't have much time. I'm sorry.
-隷属{0}=Slavery {0}
 もっとお話したいのですが……すみません、これで失礼します。=I'd like to tell you more, but... Sorry, I'll leave you to it.
 また、あなたのお話聞かせてください。いろいろ参考になりますから……では。=Please let me hear your story again. I'd like to know more about you...

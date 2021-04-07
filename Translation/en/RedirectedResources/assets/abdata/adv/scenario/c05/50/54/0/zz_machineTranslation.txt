@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 ここぉ、おしゃんぽしゅるんれすかぁ……？=Here, are you going to have a penis?
 おしゃんほしぇっくしゅ……じぇっらいきもひいれすぅ……=I want to be your girlfriend... And I want you to be my girlfriend...
 きもひよくなぇぅなら……なんらっへひまふよぉ……=If it's not too unpleasant... Then what's the point?

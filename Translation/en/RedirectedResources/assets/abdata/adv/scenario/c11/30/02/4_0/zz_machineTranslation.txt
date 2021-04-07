@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Conversation Post A Normal {0}
 では、また機会がありましたら、お話致しましょう。=So, let's talk again when we get a chance.
 お陰で有意義な時間を過ごすことが出来ました。それでは、また。=Thanks to you, I had a meaningful time. See you soon.
-会話事後A好意{0}=A favor after the conversation {0}
 もう良い時間になっていたのですね、気づいておりませんでした。=It was already a good time, I hadn't noticed.
 一段落したので、本日はこれで解散に致しましょうか。また、お付き合い頂けますと幸いです。=Now that we're all settled, let's break up for today. I hope you will join me again.
-会話事後A享楽{0}=Conversation After A Enjoyment {0}
 もう少々お話したいのですが、引き留めてはいけませんね。次の機会を楽しみにしております。=I would like to talk to you a little more, but I don't want to keep you. I look forward to the next opportunity.
 次回はお話以外のことも致しませんか？=Would you like to do something other than talking next time?
-会話事後A嫌悪{0}=Conversation Post Aversion {0}
 キリが良いので、私は失礼させて頂きます。=I'll leave you to your work.
 それでは、失礼致します。=Now, if you'll excuse me.
-会話事後A隷属{0}=Conversation Post A Subjugation {0}
 また、三人でお話出来る機会があると、嬉しく存じます。=I would be happy to have another opportunity to talk with the three of you.
 では、私達は失礼させて頂きます。=Now, if you'll excuse us, we have some business to attend to.

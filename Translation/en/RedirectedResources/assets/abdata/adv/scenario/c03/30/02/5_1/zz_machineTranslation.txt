@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Let's H B normal {0}
 まぁ、予想の範囲内かなぁ……お前、ずっと私達のこと見比べてたでしょ？=Well, I guess that's to be expected... You've been comparing us, haven't you?
 ３人かぁ……なんかちょっと、流石に緊張するね。=Three people... I'm a little nervous.
-HしようB好意{0}=Let's H B favor {0}
 うーん、普通はふたりでするものだと思うけど……まぁ、お前がシたいって言うなら……=Well, I think it's usually a two-person thing, but if you want to do it...
 ここで仲間外れは嫌だからね。私もスるよ。エッチ大好きとか、そういうわけじゃないけど……=I don't want to be left out here. I'll be there. It's not like I love sex or anything, but...
-HしようB享楽{0}=Let's have some fun.
 おぉ、乱交ってやつ？　お前も勇気あるねぇ。=Oh, you mean like an orgy? You're very brave.
 まさかの３Ｐのお誘い？　うっそ、ドキドキしてきた！やるやる、もう絶対やるぅ♪=Didn't expect an invitation for a threesome? Ahhh, I'm so excited! I'll do it, I'll do it, I'll do it ♪
-HしようB嫌悪{0}=Let's H. B. Aversion {0}
 あーあ、一番恐れていた事が……=Ah, the thing I feared most...
 なにこれ……同調圧力でなし崩し的な？　もう、仕方ないなぁ……やればいいんでしょ！=What's this... Peer pressure and nothing more? I can't avoid it... Just do it!
-HしようB隷属{0}=Let's H B Slave {0}
 私はもちろん……というか、そもそも断れないもんね……？=I, of course... I mean, how could I say no in the first place... Right?
 えっと、それって私も仲間に入れてくれるんだよね？=Um, that means I'm in, right?

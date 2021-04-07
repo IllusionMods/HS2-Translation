@@ -3,7 +3,6 @@
 //***********************************************************************
 
 ふふ、貴方の部屋に、私の匂いが残ってしまいましたね……なんて、少し調子に乗り過ぎでしょうか。=I guess I'm getting a little carried away with my scent in your room.
-汎用{0}=General Purpose {0}
 貴方は何でもお見通しなのですね。ふふ、私が期待して部屋に来たこと……最初から分かっていたのですよね？=You know everything, don't you? Hmm, you knew from the beginning that I came to your room expecting... Didn't you?
 もういっそ、ここで一緒に暮らしたいくらいです♪　えぇと、貴方さえよければ……私はそれなりに本気で……言っていますよ？=It is about to live together here ♪ Eh, if you're not good... I'm really serious... I say?
 さて、あまり長居してもご迷惑になってしまうので……とても名残惜しいですが、失礼いたします。後は……自分の部屋で、思い出してシます……=Now, if I stay here too long, I'll get in trouble... I'm very sorry to leave, but I must go. I'll just go to my room and reminisce...

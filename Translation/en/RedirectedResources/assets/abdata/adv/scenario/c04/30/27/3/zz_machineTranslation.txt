@@ -2,21 +2,15 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 ねぇ、ちょっと乱暴過ぎじゃなかった？　アンタってあーいうのが好きなん？=Hey, that was a little rough, wasn't it? Do you like that kind of thing?
 いった……まだちょっと痛いんですけど。傷とか残ったら、どーしてくれんの？=I'm still in a bit of pain. What are you going to do if it leaves a scar or something?
-好意{0}=Favors {0}
 アタシをキズモノにした責任、取ってもらうかんね？　マジ逃がさないから。覚悟しなよ～♪=You'll have to take responsibility for turning me into a monster, right? I won't let you go. Prepare yourself!
 あんま痛いのは勘弁かなぁ～。気持ちいい時もあんだけどね～。=I don't want it to hurt too much. There are times when it feels good, though.
-享楽{0}=Enjoyment {0}
 アンタって割と強引なんだね。ま、痛気持ちいいってのも、悪くはないかな～。=You're rather pushy, aren't you? But I guess it's not so bad when it hurts.
 しゅどーけん握りたくて頑張っちゃった感じ？　アンタもきゃわたんなとこあんじゃん♪=I'm sure you've been working hard to get your hands on some of those shoes. You're a bit of a wannabe, aren't you?
-嫌悪{0}=Disgust {0}
 アンタ、マジヘタクソじゃん。アタシは気持ちよくなりにきてんの！　アンタみたいなクソマゾと一緒にしないでもらえる？=You're really bad at this. I'm here to feel good! I'm here to feel good! Can you please not lump me in with a fucking masochist like you?
 あのさー、ヘタクソなら大人しくフツーにしなよ。こっち痛がってるの分かんなかった？　空気読めし……雑魚！=You know, if you're such a bad ass, why don't you just act like one? Can't you see I'm in pain? Read the air... Little fish!
-隷属{0}=Slavery {0}
 ちょっと痛かったけど、悪くなかったかも。アハッ、アタシ変態みたいなこと言ってんね♪=It hurt a little, but it wasn't too bad. Ahaha, I sound like a pervert ♪
 まー、気持ち良ければアタシ的にはオケだから♪　アンタもあんまり気にしなくていーよ。=Well, as long as it feels good, it's okay in my opinion. You don't need to worry too much about it ♪
-依存{0}=Depends{0}
 アタシ、わりかし痛いのイケるタチかも。アハッ、アンタに目覚めさせられちゃった的な？=I think I can handle a lot of pain. Aha, you woke me up, huh?
 うん、痛いのもアリなんじゃない？　なんか、激しく求めらてる感？　悪くないなーって♪=Yeah, it can be painful too, right? It's like you're being intensely desired. It's not bad ♪

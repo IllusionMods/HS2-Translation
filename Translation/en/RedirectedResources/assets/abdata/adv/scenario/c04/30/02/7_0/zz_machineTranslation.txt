@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=An unremarkable response A. Normal {0}
 へ？　アタシら二人とも用無し？　流石にそれは無くない？=Huh? You have no use for either of us? Isn't that a bit of a stretch?
 あーうん。ならまぁいいけど……アンタなんで来たん？=Oh, yeah. Well, that's fine, but... Why are you here?
-なんでもない返答A好意{0}=An unremarkable response A favor {0}
 なに？　こっちが二人だからって、別に気後れする必要ないよ？=What? Just because there's two of us doesn't mean you have to feel self-conscious.
 ほんとになんもないの？　アタシら、仲間外れにしようとかしてないよ？=Are you sure there's nothing going on? We're not trying to get rid of you or anything, okay?
-なんでもない返答A享楽{0}=Nothing Reply A Kyouraku {0}
 そーやってさー。自分から身を引いちゃうから、いつまでもボッチなんだよ？　もっとがっついてきなってー。=That's how it is. That's why you'll always be a loner. I want you to be more pushy.
 ふーん。アンタにはもーちょっと積極性が必要かもね～。=Hmm. Maybe you need to be a little more proactive~.
-なんでもない返答A嫌悪{0}=Nothing Reply A Disgust {0}
 じゃあ最初から入ってくんなし。かまちょかよ。=Then don't come in from the beginning. You're just a clown.
 うっざ……なんなんアンタほんと……=What are you really...
-なんでもない返答A隷属{0}=Nothing Reply A Slavery {0}
 アタシ、もしかしていない方がいい？　だったらアタシだけ消えるとかでもいーけど？=Do you think it would be better if I were not here? If that's the case, I'll just disappear or something.
 え？　アタシ抜きで、二人で何か話したいとか？　はっきり言ってくれていーよ？=What? Do you want to talk about something alone without me? Just tell me what you want, okay?

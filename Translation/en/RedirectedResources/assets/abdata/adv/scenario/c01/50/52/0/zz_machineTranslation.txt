@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 こんな所で……何を考えてるの？=What are you thinking about... Out here?
 言っておくけど、おかしな事、しないでちょうだい。=I'm telling you, don't do anything crazy.
 変なことしたら、許さないから。=If you do anything strange, I won't forgive you.

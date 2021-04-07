@@ -2,33 +2,23 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-返答肯定1普通{0}=Reply affirmative 1 normal {0}
 あぁ、そういうことだ。=Yeah, that's what I'm talking about.
 そうだ、分かってるじゃねぇか。=Yes, you know what I'm talking about.
-返答肯定1好意{0}=Reply Affirmative 1 Favor {0}
 あぁ、当たり前だな。=Yeah, that's obvious.
 その通りだ。それ以外は考えられん。=You're right. I can't think of anything else.
-返答肯定1享楽{0}=Reply Affirmation 1 Enjoyment {0}
 ああ、話が分かるな。=Yeah, you know the story.
 そうだな。そこは否定しない。=That's right. There's no denying that.
-返答肯定1嫌悪{0}=Reply Affirmative 1 Disgust {0}
 チッ、一応肯定はしてやる。=Tsk, I'll give you the benefit of the doubt.
 オマエと一緒なのが気に食わないが。その通りだ。=I don't like the fact that I'm with you. You're right.
-返答肯定1隷属{0}=Reply Affirmation 1 Slavery {0}
 ハッ、オマエと意見が合うとはな。=Ha, I didn't know you and I agreed on that.
 まぁ、そんなところだ。=Well, that's about it.
-返答否定1普通{0}=Reply negation 1 normal {0}
 それは無い。=It's not.
 いや、ありえないな。=No, it's not possible.
-返答否定1好意{0}=Reply Negative 1 Favor {0}
 そうか？　もう一度よく考えろ。=Really? Think again.
 違うな。オマエは分かってない。=No, you don't. You don't understand.
-返答否定1享楽{0}=Reply negation 1 enjoyment {0}
 いいや、そうじゃないだろ。=No, you don't.
 何故そうなるのか、逆に聞きたいな。=I'd like to ask why that would be, in reverse.
-返答否定1嫌悪{0}=Reply Deny 1 Dislike {0}
 オマエがそう思うなら、そうなんだろうよ。=If you think so, then you must be right.
 くだらん。話し合うだけ無駄だな。=This is bullshit. There's no point in talking about it.
-返答否定1隷属{0}=Reply negation 1 slavery {0}
 そうは思わん。価値観が違うな。=I don't think so. You have different values.
 どうしてそうなる？　意味がわからん。=How can that be? I don't understand.

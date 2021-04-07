@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 あー、知ってるこれ……未知とのそーぐーってやつでしょ？=Oh, I know this one... It's called Sogou with the Unknown, right?
 てかこれ本物？　生きてんの？　グロさがエグいんですけど……=I mean, is this real? Is it alive? It's so gross...
 こんなんの相手してたらさぁ……アタシのジョーシキ、全部ぶっ壊されそう……=If I have to deal with this kind of thing... It's going to destroy all my joshiki...

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 ごっこで済まさず、今すぐこの場で永遠の愛をあなたと誓いたいのですが……それはいけませんね。=I'd like to pledge my eternal love to you right here and now, instead of playing games with you... But I shouldn't do that.
 婚姻届の提出、新居への引っ越し、式の日取り、産まれてくる子供の名前……色々と準備が必要ですから。=There are many preparations that need to be made, such as submitting the marriage certificate, moving into the new house, the date of the ceremony, the name of the child to be born, and so on.
 焦らずゆっくりと、私達のペースで進んでいきましょう。=Let's go at our own pace, slowly and without haste.

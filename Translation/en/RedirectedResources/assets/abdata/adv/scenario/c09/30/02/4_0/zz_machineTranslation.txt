@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Conversation Post A Normal {0}
 それじゃまた、次の機会にー！=I'll see you next time!
 またお話してくださいねー！=I hope you'll talk to me again!
-会話事後A好意{0}=A favor after the conversation {0}
 次はもう少し、まったりとお話しましょー！=Next time, let's have a more relaxed conversation!
 わたしだったらいつでも暇ですから、お時間のある時は声を掛けてくださいー！=I'm always free, so if you have time, please give me a call!
-会話事後A享楽{0}=Conversation After A Enjoyment {0}
 次、もしも二人きりで話す機会があれば……わたしのこと、もっと色々教えてあげちゃいますからね♪=Next time, if we have a chance to talk alone, I'll tell you more about myself ♪
 今度お話する時は、もっと突っ込んだ内容のことでもいいですよ。なんだったら、お話せずに突っ込んじゃっても……なんちゃって、えへへー！=The next time I talk to you, we can talk about something more in-depth. If you'd like, I can just go into it without telling you... What the heck!
-会話事後A嫌悪{0}=Conversation Post Aversion {0}
 それじゃ、これで失礼します。=I'll leave you to it then.
 はーい、さよならさよならですー。=Yes, it's goodbye, goodbye, goodbye.
-会話事後A隷属{0}=Conversation Post A Subjugation {0}
 あなたさんのお話が聞けて楽しかったです。それでは、またー！=It was fun to hear your story. See you soon!
 あなたさんのこと、もっともっと知りたいって思ってますから……またいつでも声を掛けてくださいね！=I'm eager to get to know you better... So please give me a call anytime!

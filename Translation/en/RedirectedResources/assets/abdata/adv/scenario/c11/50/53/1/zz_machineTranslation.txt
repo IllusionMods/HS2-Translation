@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 あぁ、身体が変な熱を帯びています……この触手に、何かされてしまった様です……=Oh, my body's burning like crazy... These tentacles are doing something to me...
 もう解放されたはずなのに、絶頂している様な錯覚が……これは、いけません……=I should have been released by now, but I felt like I was climaxing... This is not right...
 今も、触手に絡みつかれている様な気がして……感じてしまいそうです。=Even now, I feel like I'm being entangled in tentacles... And I can feel it.

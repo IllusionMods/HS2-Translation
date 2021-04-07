@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=What were you doing?
 さ、最近、好きになったキャラクターグッズについて……話してたんです……=Well, we were just talking about some character goods that I recently fell in love with...
 せ、先日観たドラマのことを話してたんですけど……=We were just talking about a drama we watched the other day...
-なにしてたのA好意{0}=What were you doing?
 え、えっと……れ……恋愛の話……といいますか……そういった感じのことを……=Well, um... Well... We're talking about love... Or something like that.
 こ、恋人に対して何を求めるか……みたいな内容を話していました……=He was talking about what he wanted from his girlfriend...
-なにしてたのA享楽{0}=What were you doing there, Kyouraku?
 じ、実はその……好きな人に喜んでもらうにはどうすればいいか……ってお話をしてたんです。=Well, actually, we were talking about... How to make the person you love happy.
 お、お化粧のお話を少し……わ、私……そういうのあまり得意じゃなくて……=I'd like to talk a little bit about makeup, but I'm... Not really good at that.
-なにしてたのA嫌悪{0}=What were you doing?
 ど、どうすれば……あ、あまり怒られないかを……聞いてたんです……=I was just asking how I could be less angry.
 ひ、ひどいことする人に出会った時の対処方を……はぅぅ……=I'll tell you what to do when you meet someone who does something terrible... Haha...
-なにしてたのA隷属{0}=What did you do, A slave?
 え、えっとですね……好きな人に見も心も捧げるのが女の子の幸せ……みたいな話をしてたんです……えへへ……=Well, let's see... We were talking about how it's a girl's happiness to give her eyes and heart to the person she loves... Hehehe...
 す、好きな人に求められた時に……どうやったら緊張しないか……なんてことを話し合ってました。=We were discussing how to be less nervous when someone you love asks for you.

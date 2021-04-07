@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 わぅ～、しゅごくきもひよかっられす……あぃがろぉごじゃいます……=Wow, you're really creepy... Thank you...
 えっちなおしゃんぽ……またつぇれきれくらさいね……？=I'd like to know what you think.
 んぅ～、もうおわぃれすかぁ？　もうしゅこしらけ、きもひぃいころしたいれす……=Hmm~, are you finished already? I'd like to kill myself...

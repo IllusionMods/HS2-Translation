@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 ふぅ、触手最高っす……気持ちよかったすよぉ。=Tentacles are the best... They felt so good.
 もう、持って帰りたくなるくらいっすー。=I just want to take it home with me.
 触手って、本当にエロくって最高っすねぇ。=Tentacles are really erotic and awesome.

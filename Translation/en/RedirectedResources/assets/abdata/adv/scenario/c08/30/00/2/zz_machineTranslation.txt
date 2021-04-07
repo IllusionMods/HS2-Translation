@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 もちろんOKっすよー。というかこんな改まって誘うなんてエラいっすねー。=Of course I'm okay with it. It's great of you to ask me out in such a formal manner.
 むふふーなんか言わせちゃったっすかねー？　そんなことないすよねー？=Did I make you say something? No, you didn't, did you?
-好意{0}=Favors {0}
 いやー、わざわざ私の所に来て誘ってくれるなんて女冥利に尽きるってもんすよー。=It's a great honor for a woman to come all the way to my place and ask me out.
 その言葉を待ってたっすー。くたくたになるまでくんずほぐれつするっすよー。=I've been waiting for those words. I'm going to pound and pound until I'm exhausted.
-享楽{0}=Enjoyment {0}
 やっぱそうっすよねー。やーお話もいいすけどー私とあなたっつったらもうスケベっきゃないすよー。=That's right, isn't it? You can talk about it, but if it's just me and you, we have to be dirty.
 私もめっちゃシたかったんでーウィンウィンってかーエロエロっすよねー。よろしくっすー。=I wanted to have sex with you too. It's a win-win. It's very erotic, isn't it? It's nice to meet you.
-嫌悪{0}=Disgust {0}
 はいはいーOKっすよー。=Yes, yes, yes.
 じゃーサクッとヤるっすかー。=So, let's just get it over with, shall we?
-隷属{0}=Slavery {0}
 受け入れ態勢はばっちり整ってるんでーなんでもしていいっすよー、な・ん・で・もー♪=I'm ready for anything, anything at all, anything at all ♪
 OKすよー。やっぱ私とあなたの共通点って言ったらエロかスケベか変態かってもんすからねー。=It's OK. After all, the only thing you and I have in common is that we're either erotic, dirty, or perverted.

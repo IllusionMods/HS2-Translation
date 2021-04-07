@@ -2,21 +2,15 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 んぁ……すっご……ほんろに力が入ららい……♪=I'm really weak ♪
 あー、ごめ……流石にもぉ……無理っほい……♪=Oh, I'm sorry... For being so... Unreasonable ♪
-好意{0}=Favors {0}
 ふぁ……なんか……ふぁふぁしゅゆ……んへへ……幸しぇぇ……♪=Fa... Something... Hmm... Happy ♪
 んぅぅ……気持ひはもっろしたいんらけろぉ……身体が……もうらめらぁ……♪=I want to feel so good, but my body... Is giving me the willies ♪
-享楽{0}=Enjoyment {0}
 んぁー、私は……まらまらできるんらお……？　れもお前が無理そうらから、やめといらげぅぅ……♪=Oh, I can't... Do you think I can? I don't think you can do it, so I'll stop ♪
 はふ……もうらめ……満足し過ゅぎれ……頭……くぁくぁしゅるぅ……♪=Huh... Too much satisfaction... Head... Aching ♪
-嫌悪{0}=Disgust {0}
 んく……終わい終あいぃー……んぅぅ……もうほんろ……お終ぃぃ……♪=... End of the end ♪
 はーい、解しゃーん……んー、もうれ……付き合い切えまひぇーん……♪=Hey, Subscribed... Me ♪
-隷属{0}=Slavery {0}
 あぅー……もう終あい？　んぅ……良かったらぁ……私もう……限界らったかぁぁ……♪=Are you done? Well... If you don't mind... Am I already... At my limit?
 んー、お前の顔あ……二ちゅにみえうぅ……あー、こぇもう……やめろいた方がいいれぇ……♪=Your face... Looks like a double... Ahhh... You'd better stop ♪
-依存{0}=Depends{0}
 んっく……らめ……力入んにゃい……仕方らい……この辺れ、終わっろくかー……♪=I don't want to put too much effort into it... I can't avoid it... I'm done here ♪
 んぁぁ……今しゅっごい……いー気分……んふぅー……満足したかぁ……今日は終わぃー♪=Naa... Now... I feel good... I'm satisfied... Today is over ♪

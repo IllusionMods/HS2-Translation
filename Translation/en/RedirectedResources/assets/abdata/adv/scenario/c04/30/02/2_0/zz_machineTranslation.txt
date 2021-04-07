@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=What were you doing?
 ん？　教えて欲しい？　どーしよっかな～♪=Hmm? You want me to tell you? I don't know what to do ♪
 まー世間話的な？　女子の会話に内容を求めちゃいけないって。=Well, small talk, right? I was told that I shouldn't look for content in a girl's conversation.
-なにしてたのA好意{0}=What were you doing?
 アンタの話してたんだよ。どんくらいイケてるかって診断。=I was talking about you. How hot are you?
 コ・イ・バ・ナ♪　これ以上は守秘義務で話せません♪=♪ I can't tell you any more because of confidentiality ♪
-なにしてたのA享楽{0}=What were you doing there, Kyouraku?
 そりゃもう……女子同士の赤裸々下ネタトーク、聞きたい？=Do you want to listen to girls talking nakedly about the bottom line?
 エロい話してた。よくオカズにするオナネタとか。=They were talking about sex. We talked about the masturbatory things we used to do.
-なにしてたのA嫌悪{0}=What were you doing?
 え？　占いの話とか？　まーそんな感じ？=What? You mean like fortune telling? Something like that?
 アンタをここから追い出す方法を話し合ってた。そんだけ。=We were discussing how to get you out of here. That's all.
-なにしてたのA隷属{0}=What did you do, A slave?
 ちょっとアブノーマルな話。てか、どこまでがノーマルかって話？=A slightly abnormal story. I mean, how far is too far normal?
 んとね、アタシらがサドかマゾかって、お互いに診断してたとこ。=Well, we were just diagnosing each other to see if we were sad or masochistic.

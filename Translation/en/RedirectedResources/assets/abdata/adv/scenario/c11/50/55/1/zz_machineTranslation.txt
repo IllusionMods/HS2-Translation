@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 子供の名前はいつ頃決めましょうか……うふふ、気が早過ぎますかね。=When shall we decide on a name for our child? Ugh, too early to tell.
 ですが、決めておくに越したことはありません。私は既に考えておりますので、貴方も宜しくお願い致しますね？=But it's better to decide. I've already thought about it, and I hope you will, too.
 教会式も魅力的ですが、神前式で白無垢を着ることに憧れがございます。=The church ceremony is attractive, but I am longing to wear a white kimono in the Shinto ceremony.

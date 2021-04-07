@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 こんりゃのつづけらら、あらまがおがひぐなる……=I'll be back in a few days...
 もうしゃんぽは終わりら……じゅうぶんたのしんららろう？=Isn't it time for me to stop playing with my camera?
 うぅ、あらまがまっしおれ……にゃにもかんがぇられにゃい……=Ahhh, I'm so confused... I can't even think...

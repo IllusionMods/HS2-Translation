@@ -2,21 +2,15 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 ふぁ……ちょ待って……はぁ、息苦しっ……あーヤバ……ちょっとタイムね……=Huh... Wait a minute... Oh, I can't breathe... Oh, no... It's time to go...
 んっ……身体に力が入んないんですけどー。む～、アタシが動けるようになるまで、アンタはそこにいること。分かった？=I can't get any strength into my body... M~, you must stay there until I am able to move. Do you understand?
-好意{0}=Favors {0}
 あは……アンタやっぱ凄いわ……はぁっ、マジ気に入った。もー手放したくないかも♪=I really like it. I don't know if I want to give it up ♪
 ふわぁ～……なんかハッピーな感じなんですけど～。疲れても、こーいうのなら全然アリ♪=I feel so happy... Even though I'm tired, this kind of thing is totally possible ♪
-享楽{0}=Enjoyment {0}
 へぇー、アタシをここまでフラフラにさせるなんて……んっ、アンタもなかなかやるじゃん……=You're really good at making me dizzy, aren't you?
 はぁっ……アンタ、なかなかタフじゃん……アタシをこんなにしちゃうなんて……大したもんだよ。=You're pretty tough... You've done a lot for me... That's pretty impressive.
-嫌悪{0}=Disgust {0}
 ちょっとアンタ……ヤリ過ぎだから……はぁ、マジ疲れた……もう付き合ってらんないっつーの。=I'm really tired... I don't want to go out with you anymore.
 キモイくせに、スタミナだけはあんのね……んぅ……唯一の才能ってやつ？=You're creepy, but you've got stamina... Hmm... Is that your only talent?
-隷属{0}=Slavery {0}
 あー、もうダメ……全然動けない……今なら、なんでもヤリほーだいだよ？　なんてね♪=Ahhh, I can't move at all... And now you can fuck anything you want, okay? Ahhh ♪
 これこれ……このヤリ切った感が好きなんだよね～。やっぱさー、ヤルならとことんっしょ♪=This is it... I love the feeling of having been fucked... Don't you? After all, if you're going to fuck, you should do it all the way ♪
-依存{0}=Depends{0}
 あーこれヤバ……絶対癖になるやつ……こーいう限界までヤっちゃう感じ、好きだな～♪=This is a bad idea... It's definitely addictive... I like the feeling of being fucked to the limit like this ♪
 あっは……流石のアタシも限界だわ～……アンタも頑張ったじゃん……少し見直した♪=I can't do it... I'm at my limit... You did a great job... I'm a little more impressed ♪

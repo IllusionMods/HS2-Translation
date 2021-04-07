@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 これは……私があなたを好きにして良いのでしょうか？=Is this... Is it okay for me to like you?
 では、あなたの望みを叶える為に、一肌脱がさせていただきます。=Now, let me take a stab at making your wishes come true.
 とことん責めていきますが、弱音を上げないでくださいね？=I'm going to punish you for everything, but please don't be weak, okay?

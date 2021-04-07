@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 やっぱり、新婚初夜は燃えるよなぁ……=After all, the first night of a honeymoon is a fiery one...
 結婚して……お前のモノになったって感覚が強いからかな。=I guess it's because I have a strong feeling that I'm married... And that I belong to you.
 これで、俺は完全にお前のものになったんだな。=Now I'm completely yours, aren't I?

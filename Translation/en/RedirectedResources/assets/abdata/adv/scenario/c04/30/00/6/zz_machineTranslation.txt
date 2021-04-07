@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 それはアリ……なのかなぁ？=I wonder if that's possible?
 また微妙なラインだね……判定がムズイわ。=It's another fine line... The judgment is moot.
-好意{0}=Favors {0}
 ……嫌じゃないけど、そこまではちょっとかなぁ。=... I don't mind, but I'm not sure I want to go that far.
 ……まー、アンタが好きならいいんじゃん？=... Well, if you like it, why not?
-享楽{0}=Enjoyment {0}
 んー、ちょっと違う気もするけど……アリっちゃアリ。=Well, it's not quite the same, but... It's possible.
 ……それどうなん？　楽しいの？=... What about it? Is it fun?
-嫌悪{0}=Disgust {0}
 いや、普通にキモい……もうちょっと考えて喋って。=No, it's just plain creepy... Think and speak a little more.
 ……てかさ、それアタシに聞いてどうする気？=... I mean, what are you doing asking me that?
-隷属{0}=Slavery {0}
 分かりみー、マジ分かりみ深すぎてヤバイわ。=I know, I know, I know. It's too deep.
 おぉ……アタシもそこまでは……=Oh, I'm not that good...

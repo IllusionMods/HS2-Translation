@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 新婚初夜って、やっぱりロマンチックね……=Your wedding night is so romantic...
 これで私、身も心も、完全にあなたのものだわ。=Now I'm completely yours, body and soul.
 素敵な初夜だったわ……=It was a beautiful wedding night...

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=An unremarkable response B. Normal {0}
 私たちに何かありましたら、またお声がけください。=If there is anything we can do for you, please contact us again.
 では、お暇なときはお話でもしましょう。=So let's talk when you are free.
-なんでもない返答B好意{0}=An unremarkable response B Favor {0}
 本当に良いのですか？　ご用の際は遠慮なく仰ってくださいね。=Are you sure you want to do this? If you need anything, please don't hesitate to ask.
 またいつでもお声がけください。=Please feel free to contact me again anytime.
-なんでもない返答B享楽{0}=Nothing Reply B Kyouraku {0}
 お話も3Pも喜んでお付き合い致しますので、お暇な時にお誘いください。=I will be happy to talk and have threesomes with you, so please invite me when you are free.
 何でもない？　……ああ、本調子じゃなかったのですね。失礼いたしました。=Nothing? Oh, you weren't in top form. My apologies.
-なんでもない返答B嫌悪{0}=Nothing Reply B Disgust {0}
 ただ邪魔しに来ただけなのですね。=You just came to interrupt me, didn't you?
 嫌がらせのために話しかけられたのですね。=You were spoken to in order to harass me.
-なんでもない返答B隷属{0}=Nothing Reply B Slavery {0}
 もう少々ご一緒したかったのですが、お忙しいなら致し方ありません。=I would have liked to join you for a little while longer, but if you're busy, there's nothing I can do.
 次は是非、3Pをしましょう。=Next time, let's have a threesome.

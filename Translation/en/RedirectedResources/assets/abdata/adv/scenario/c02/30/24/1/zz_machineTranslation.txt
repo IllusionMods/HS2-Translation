@@ -2,24 +2,17 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 女性、ですか……まぁ、何とかなるんじゃないですか？=Women, well... Well, you can manage that, can't you?
 はぁ、そういうプレイも経験しろって事ですか、まったく……=Huh, so you want me to experience that kind of play, too?
-好意{0}=Favors {0}
 まぁ、私は相手が女性でも、別に構いませんから。=Well, I don't mind if my partner is a woman.
 男の人、じゃないんですね……まぁ、これはこれで望み通りではあるんですけど。=A man, not a man... Well, this is what I wanted.
-享楽{0}=Enjoyment {0}
 ふぅん……まぁ、女の子同士、とりあえず楽しみましょう？=Hmm... Well, girls, let's just have fun, shall we?
 私、例え相手が女性でも容赦はしませんから。=I won't show any mercy, even if it's a woman.
-嫌悪{0}=Disgust {0}
 はぁ、わざわざ同性とするなんて……=Huh, going out of your way to do it with the same sex...
 男だろうと女だろうと、嫌なものは嫌なんですけど……しなきゃ駄目ですか？=Male or female, I don't like what I don't like... But do I have to?
-隷属{0}=Slavery {0}
 なるほど、女性同士ならお互いの弱点がわかりやすいって事ですか……=I see, so it's easier for women to understand each other's weaknesses...
 別に女性でも構いませんよ……私を気持ちよくしてくれるのなら。=I don't really care if it's a woman... As long as she makes me feel good.
-壊れ{0}=Broken {0}
 ………………=...
 はぃ……ぇっち、するんですね……=You're going to do that, aren't you?
-依存{0}=Depends{0}
 あなたが女性だろうと、互いに愛し合う事に変わりはありませんから……=I don't care if you're a woman, we still love each other, so...
 女性同士でも繋がりあえる事……私が証明してみせますので。=I'll prove to you that women can connect with each other.

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 いやぁ、良かったすねぇ……かなり興奮したっすよー。=Well, it was good... I was pretty excited.
 あなたも楽しかったなら、言う事なしっすね～。=If you had a good time too, then there's nothing to say!
 ついつい、白熱しちゃったっすね～。=It got really heated!

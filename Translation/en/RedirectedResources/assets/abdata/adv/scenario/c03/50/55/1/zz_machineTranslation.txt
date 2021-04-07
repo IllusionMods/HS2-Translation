@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 やっぱり、新婚初夜はいいもんだよね……=After all, it's a good first night as a newlywed...
 結婚して……身体も心も一つになったって感じだよね♪=It's like we're married... Body and soul as one. ♪
 いっぱい気持ち良くしてくれて、ありがと♪=Thank you for making me feel so good ♪

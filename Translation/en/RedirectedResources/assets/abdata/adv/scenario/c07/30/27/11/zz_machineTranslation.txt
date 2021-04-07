@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 大分、こういうことにも慣れてきたな。おい、次からはもっと色々試していくぞ？　お互い遠慮はなしだ。=I'm getting used to this kind of thing a lot. Hey, we'll try more things next time, okay? Let's not hold back on each other.
 よし、流石に初心者は卒業ってところか？　オマエには、それなりに感謝してるよ。=Okay, I guess I'm done being a beginner, huh? I'm grateful to you for that.
-好意{0}=Favors {0}
 オマエとさんざんヤったせいか。流石に慣れてきたな。次からはオマエのリクエストにも、なるべく応えてやるよ。=Maybe it's because I've been fucking you so much. I'm getting used to it. Next time, I'll try to respond to your requests as much as possible.
 マンネリってのとはちょっと違うが、慣れてはきたな。そろそろ次のステップってやつに進んでもいいかもしれねぇ。=It's not exactly a rut, but I'm getting used to it. Maybe it's time to move on to the next step.
-享楽{0}=Enjoyment {0}
 気持ちいいのに慣れちまうってのは、ちょっと良くねぇな。おい、次からはもっと刺激的なことをしていくぞ？　分かったな？=It's not good to get used to something that feels good. Hey, next time we're going to do something a little more exciting, okay? Do you understand?
 あぁ、少し慣れてきちまった。ダメだな……もっと貪欲に刺激を求めていかねぇと。=Yeah, I'm getting a little used to it. It's no good... I need to be more greedy for stimulation.
-嫌悪{0}=Disgust {0}
 オマエとするのは、もう退屈だ。オレが言いいたいこと分かるか？　同じこと繰り返してるだけじゃ、飽きるんだよ。=I'm bored with you. You know what I'm saying? I'm bored of doing the same thing over and over again.
 よくもまぁ、飽きもせずに同じことを続けてられるな。オレはとっくに飽きてるぞ。マンネリってやつだ。=I don't know how you can keep doing the same thing without getting bored. I'm already tired of it. It's called a rut.
-隷属{0}=Slavery {0}
 前より疲れなくなってきたな。これが慣れか……ハッ、ならもっと疲れ切るくらい、してかねぇとな。=I'm not as tired as I used to be. This is what I'm used to... Ha, then I should be more exhausted.
 正直、かなり慣れてきたな。もっと刺激的なことをしてかねぇと、マンネリになるかもしれねぇ。=To be honest, I'm getting pretty used to it. If I don't do something more exciting, I might get stuck in a rut.

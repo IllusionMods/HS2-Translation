@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 新婚初夜って、やはり素晴らしいものでしたね……=The first night of their honeymoon was still a wonderful thing...
 これで私は身も心も、完全にあなたのものになりましたわ。=Now I'm completely yours, body and soul.
 新婚初夜……素敵なひと時でした。=Our first night as newlyweds... It was a wonderful time.

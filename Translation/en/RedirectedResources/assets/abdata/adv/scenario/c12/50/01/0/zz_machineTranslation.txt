@@ -2,13 +2,10 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-汎用{0}=General Purpose {0}
 俺を探しにきてたのか？　わざわざありがとな。=You've come looking for me? Thanks for coming all this way.
 やっぱり、俺たちってお互いに求め合ってるんだろうな。=After all, we want each other, don't we?
 会いたいと思ったら、お前に会えるなんて……これってやっぱり運命だよな。=When I want to see you, I can see you... This is fate after all.
-風呂{0}=Bath {0}
 よぉ……！　わざわざ風呂まで俺を探しにきてくれたんだな。嬉しいぜ。=Yo! You came all the way to the bath to find me. I'm glad.
 風呂で出会えるなんて、一緒に入るのが決まりみたいだな。=I can't believe we met in the bath. It's like we're supposed to go in together.
-用件{0}=Business {0}
 用件はわかってるよ。俺とセックスをするためなんだよな？=I know what you want. It's to have sex with me, isn't it?
 一応聞いておくけど、俺とのセックス以外に何か用があるのか？=Just out of curiosity, what else do you want besides sex with me?

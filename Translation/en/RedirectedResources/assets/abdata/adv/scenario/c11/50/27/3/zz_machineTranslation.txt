@@ -2,21 +2,15 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 ただただ、痛いだけです……=It just hurts so much...
 その……苦痛を伴う行為は、此れっきりに致しませんか？=Wouldn't you like to end this... Painful act once and for all?
-好意{0}=Favors {0}
 この痛みも、貴方からの愛だと思えば、私は……=If I think that this pain is love from you, I...
 痛いですが……それが貴方の喜びに繋がるのでしたら、問題ございません。=It hurts... But if it brings you joy, no problem.
-享楽{0}=Enjoyment {0}
 女を痛めつけて喜ぶとは、随分破廉恥な趣味をお持ちですね。=You have a very shameful hobby, taking pleasure in torturing women.
 もう少々、手加減して頂く存じます。私が壊れてしまっては元も子もありませんよ？=I know you'll take it a little easier on me. If I break down, there's nothing you can do.
-嫌悪{0}=Disgust {0}
 何故、貴方に折檻されなければならないのですか？=Why should I be chastised by you?
 嫌いという言葉では足りない程、貴方が心底憎たらしいです。=The word "hate" doesn't even begin to cover how much I hate you.
-隷属{0}=Slavery {0}
 痛めつけて頂いた箇所が熱く……貴方の愛を感じます。=I can feel your love for me as I feel the heat of your torment.
 次回はさらに強く躾けて下さいますか？　いっそ壊れてしまう程に……=Will you discipline me harder next time? I mean, to the point of breaking...
-依存{0}=Depends{0}
 暴力的な貴方も素敵です……=I love it when you're violent...
 うふふ、もし痣になってしまったら……いつでも貴方の愛を確認出来ますね。=Ummm... If I get bruised... I can always check on your love.

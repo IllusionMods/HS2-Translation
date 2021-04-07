@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 これって何？！　すっごい動いてんだけど……=What the hell is that? It's moving so fast...
 ちゃんとした生き物なんだよね？=You're a proper creature, aren't you?
 だったら、遊んでみちゃおっかなぁ……♪=Then I guess I'll just play with you ♪

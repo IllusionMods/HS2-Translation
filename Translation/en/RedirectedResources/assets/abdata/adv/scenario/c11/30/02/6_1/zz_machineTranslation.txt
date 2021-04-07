@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後B普通{0}=H posterior B normal {0}
 お、お二人さえ宜しければ、また私も交えて頂けますと……嬉しく存じます。=I would be very happy if you two could join me again, if that is all right with you.
 私も、貴方のお役に立つことが出来ていたでしょうか？=I hope I was able to be of some help to you.
-H事後B好意{0}=H posterior B favor {0}
 ……ご満足されたのなら、私は本望です。それでは、失礼致します。=... If you are satisfied, I will be happy. Now, if you'll excuse me.
 次は、私ではなく他の方をお誘い頂けると……申し訳ございません。=Next time, if you could invite someone else instead of me... I apologize.
-H事後B享楽{0}=H Post B Enjoyment {0}
 全員の興奮が伝染していましたね。また、致すのが楽しみです。=Everyone's excitement was contagious, wasn't it? I'm looking forward to matching them again.
 私、乱れ過ぎていましたね。次回はもっと気を引き締めて臨みます。=I was too disorganized, wasn't I? I'll try to be more careful next time.
-H事後B嫌悪{0}=H posterior B aversion {0}
 終わりということなら、これで失礼致します。=If that's the end of it, then I'll leave you to it.
 三人で致した所為か、普段より疲れました……=Perhaps it was because the three of us did it together that we were more tired than usual...
-H事後B隷属{0}=H Post B Subjugation {0}
 本当に楽しい時間程、あっという間に過ぎてしまいますね……=The more fun you have, the faster it goes by...
 お疲れ様です。二人同時の行為でしたが、お身体の方は大丈夫でしょうか？=Thank you for your time. It was an act of two people at the same time, but is your body okay?

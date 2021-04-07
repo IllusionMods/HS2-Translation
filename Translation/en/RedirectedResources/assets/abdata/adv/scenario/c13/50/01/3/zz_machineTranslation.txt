@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 ……え……？　なんでもなくないですよ、セックスの時間なんです……♪=... Huh? It's not nothing, it's time to have sex ♪
 逃がさないですよ……♪=I won't let you get away ♪

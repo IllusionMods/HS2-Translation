@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 子供は何人欲しいですか？　あなたが望むだけ、子作りに励みましょう……♪=How many children would you like to have? Let's procreate as much as you want ♪
 それとも子供はまだ作らずに、二人きりの時間を過ごしますか……？　うふふ、私はどちらでも大丈夫ですよ……♪=Or do you want to spend some time alone together without having children yet? Ummm, I'm fine with either ♪
 男の子でも、女の子でもあなたの子供なら絶対に可愛いです……♪=Whether it's a boy or a girl, your child will be absolutely adorable ♪

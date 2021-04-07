@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 色々お話できて楽しかったです。貴方のことが、少し分かった気がします。=I enjoyed talking with you. I feel like I understand you a little better now.
 会話だけでも、大分時間を使ってしまいましたね。ご迷惑ではなかったですか？=We spent a lot of time just talking to each other, didn't we? I hope I didn't bother you.
-好意{0}=Favors {0}
 お話、すごく面白かったです。色々と参考になることもありましたし、とても有意義な時間でした。=I really enjoyed your talk. It was a very meaningful time, and I learned a lot of useful things.
 時間が経つのも忘れるとは、こういう事を言うのですね。できればずっと貴方と、お話していたかったです。=This is what it means to lose track of time. I wish I could have talked with you forever.
-享楽{0}=Enjoyment {0}
 お話だけで終わってしまうのは、少し勿体ないですね。やっと身体が、温まってきたところだったのですが……=It would be a bit of a shame to just talk about it. My body was finally starting to warm up, but...
 貴方のお話は、なかなか興味深いものが多かったです。もっと色々、貴方を知りたくなりました。=I found many of your stories quite interesting. I would like to know more about you.
-嫌悪{0}=Disgust {0}
 ふぅ……少し肩が凝りました。やはりジっとお話しているだけでは、身体にも良くないようですね。=Hmm... My shoulders got a little stiff. It seems that just sitting around talking is not good for the body.
 言いたいことは全部言い切れましたか？　あまり何度もお話したくはないので、未練がましい真似はやめてくださいね。=Have I said everything I wanted to say? I don't want to talk about it too many times, so please don't try to be unreasonable.
-隷属{0}=Slavery {0}
 あ……もうお話は終わりですか？　少し、残念ですね……まだまだ色々、お話したいと思っていたので……=Are we done talking? I'm a little disappointed... Because I was hoping we could talk about many more things...
 私とお話をして頂いて、ありがとうございました。もし、退屈にさせてしまっていたら……申し訳ございません。=Thank you for taking the time to talk with me. If I have bored you... I am sorry.

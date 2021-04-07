@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 いいぜ……やっぱり俺とお前のセックスが、世界で一番だってこと証明しようぜ。=Come on... Let's prove that sex between you and me is the best in the world.
 俺とのセックスだけがお前の本当の快感だって事、教えてやるよ。=I'll show you that sex with me is the only real pleasure you'll ever get.

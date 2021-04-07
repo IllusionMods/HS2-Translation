@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 少しの間……アタシに近付かないで。マジ大声出すかんね……？=Just... Stay away from me for a minute. Are you sure you don't want to scream?
 はーホントやだ……電車に変なトラウマ植え付けられたぁ……=I really don't like this... The train has given me a weird trauma...
 ねぇ、アンタさ……めちゃくちゃヤバいやつが知り合いにいたりすんの？=Hey, do you... Do you know anyone who's really dangerous?

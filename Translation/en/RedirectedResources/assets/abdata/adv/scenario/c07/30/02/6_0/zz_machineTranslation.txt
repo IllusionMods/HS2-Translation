@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=H posterior A normal {0}
 ふぅ、一人増えるだけで、大分違ってくるな。なかなか新鮮な気分だ。=Hmm, just one more person makes a big difference. It's quite a new feeling.
 三人ってのも悪くねぇんじゃねぇか？　二人でしなきゃいけないってルールはねぇしな。=The three of us is not so bad, right? There's no rule that says it has to be two people.
-H事後A好意{0}=H posterior A favor {0}
 まぁ、こういうのもアリか。やれることも増えるしな。=Well, I guess this is a good thing. There are more things I can do.
 オマエの欲張りに付き合うのも、たまには悪くねぇかもな。=It might not be a bad idea to go along with your greed once in a while.
-H事後A享楽{0}=H Post A Enjoyment {0}
 ハッ、この調子だと、どんどん人数が増えてきそうだな。=Ha, at this rate, we're going to be getting more and more people.
 おい、だらしねぇ顔してんじゃねぇぞ？　オレらを誘ったのはオマエなんだからな。=Hey, don't look so sloppy. You're the one who invited us here, you know.
-H事後A嫌悪{0}=H Post A Aversion {0}
 なかなか悪くねえが、やっぱりオマエが邪魔だな。=It's not so bad, but you're still in the way.
 一度オマエ抜きで、オレらだけでしてみてぇな。=I'd like to do this once, just us, without you.
-H事後A隷属{0}=H post A subjugation {0}
 もうめちゃくちゃだな。まぁ、こういうのも嫌いじゃねぇが。=I'm so fucked up. Well, I don't mind this kind of thing.
 コレにハマっちまったら、一人でなんて絶対満足できなくなりそうだ。=If I get hooked on this, I'll never be satisfied by myself.

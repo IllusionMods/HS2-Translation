@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 こんな近くにいてごめんなさい……車内が空いたらすぐにどきます……=I'm sorry to be so close to you, but I'll move out of the way as soon as the car is empty...
 え……？　ど、どうして触ってくるんですか？　ここでするんですか……？=What? What? Why are you touching me? Are you going to do it here?
 他の人に見つかってしまいそうですが、本当に……？=I'm sure the others will find us, but are you sure?

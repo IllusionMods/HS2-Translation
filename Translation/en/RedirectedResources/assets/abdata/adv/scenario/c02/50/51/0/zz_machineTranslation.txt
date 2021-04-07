@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 ふーん……ここへ連れてきた理由が分かりましたよ。私に苛めて欲しいんですね？=Hmm... Now I know why you brought me here. You want me to torment you, don't you?
 ま、あなたがそう望むなら私も吝かじゃありません。いいですよ、とことん苛めてあげます。=Well, if that's what you want, I'm willing to do it. Fine, I'll torment you to no end.
 遠慮するつもりはないので、覚悟を決めてくださいね？=I'm not going to hold back, so please be prepared, okay?

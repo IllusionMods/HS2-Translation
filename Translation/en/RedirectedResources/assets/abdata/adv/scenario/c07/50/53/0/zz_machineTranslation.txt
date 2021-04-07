@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 おいおい、こんな気持ち悪いやつとヤれって言うのか？=Oh come on, you want me to fuck this creepy guy?
 流石にオレでも引くレベルだぞ……普通の女なら悲鳴あげてるだろうな。=I'm not sure I'd be comfortable with that... A normal woman would be screaming.
 ま、ヤってりゃ慣れるとこもあるだろうし。ウダウダ言うのはこの辺でやめとくか……=Well, I guess you get used to it after a while. I'm not going to dwell on it...

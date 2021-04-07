@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 動けないのね？　かわいそうに……どうして欲しいのかしら？=You can't move, can you? You poor thing... What do you want me to do?
 あら？　ひょっとしてあなた、その状態で興奮してるのかしら？=What? Are you, by any chance, excited about that situation?
 イケない子ね……それじゃ私が、お仕置きしてあげるわ。=You're a naughty girl... And I'm going to punish you for it.

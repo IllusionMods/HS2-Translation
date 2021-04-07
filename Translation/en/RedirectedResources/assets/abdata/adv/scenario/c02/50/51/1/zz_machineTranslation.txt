@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 感じているあなたの顔、とても滑稽でしたよ。=Your face was so funny, the way you were feeling.
 写真に撮って、施設の方々に見せてあげたい程でした。=I wanted to take a picture of it and show it to the people at the facility.
 あなたって、苛め甲斐がありますよね。つい本気を出しちゃいました。=You're worth tormenting, aren't you? I just had to get serious.

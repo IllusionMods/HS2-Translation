@@ -2,43 +2,33 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 あ、当たり前だけど……やっぱりこっ恥ずかしいね……あ、あはは……=Oh, of course... But it's still embarrassing... Hahaha...
 ほら、終わったら帰る！　エッチの基本……かどうか知らないけど、め、目見れないから……！=Come on, I'll be back when you're done. I don't know if this is a basic sex thing, but I can't look you in the eye.
 えっと……ありがとう？　ううっ、なんか変、早くいつものお前と私に戻りたいよーっ……！=Thank you? Ugh, this is so weird, I can't wait to get back to the normal you and me!
-好意より50～79{0}=50-79{0} from favor.
 はぁ……なんだろ、この満足感……女の幸せってやつ？=Huh... What's this feeling of satisfaction... A woman's happiness?
 うん、この辺でやめて正解……恥ずかしい私が出ちゃって嫌われたくないし……ね。=Yeah, it's a good thing I stopped here... I don't want you to hate me for being embarrassed... You know.
 一緒にイけるヤツがいるのって幸せだね……ハイ！　こっからは真面目モード一切なし！　エッチ終わり！=I'm so happy to have someone I can come with... From now on, no more serious mode! Sex is over!
-好意より80～100{0}=80-100{0} over favoritism
 ねぇ、もっと一緒にいたい……疲れてるなら、エッチなこと、しなくてもいいから……=Hey, I want to spend more time with you... If you're tired, you don't have to do anything sexually...
 えへへ、これで少しの間は、会わなくても我慢できそう……なんて……嘘だけど……ね……=Ehehe, I think I can put up with not seeing you for a little while now... What a... Lie... You know...
 やっぱり、こういうことは二人一緒がいいよね……そっちの方が……ら、ラブラブ、だから……♪=After all, it's better to do this kind of thing together... Because it's more... Lovey-dovey ♪
-享楽より50～79{0}=50-79 from Kyouraku {0}
 あー、まだ身体が火照ってる♪　近いうちに、また絶対誘ってね？=Oh, my body is still on fire... You'll definitely have to ask me out again soon, okay?
 はぁ、この終わった後の気怠い感じ、すっごい好き♪　ヤリ切ったって感じしない？　私だけかな？=I love the languid feeling I get afterwards. Is it just me?
 さて、もう一回！　は……流石に欲張りすぎ？　うん、次の楽しみに取っておこうっと♪=Okay, one more time! Is that too much to ask? I'll save it for next time ♪
-享楽より80～100{0}=80-100{0}
 うーん、楽しい時間はあっという間ってやつかぁ。ねぇ、何が一番気持ち良かったぁ？=Hmmm... I guess the good times just fly by. Hey, what was the best feeling?
 ふぅ、ヤったヤったぁ……余は満足じゃ～、なんて♪　もう、時間が許すならずっとシてたいねぇ♪=I'd like to have sex with you all the time if time permits ♪
 こんな性欲オバケの相手してくれて、ありがとね♪　また一緒に気持ちよくなりたくなったら、声かけてぇ♪=Thank you for taking care of such a sexual wanker, and if you ever want to feel good again, give me a call ♪
-嫌悪より50～79{0}=50-79 from disgust {0}
 はぁ……疲れたー……もう終わりでいいよね？　これ以上は勘弁して。=Huh... I'm tired... Can we just get this over with, please? Please, no more of this.
 あのさー……まあいいや……これっきりで終わってくれた方がありがたいし……=You know... Well... It'd be nice if we could just get this over with...
 まー、一応イケたし……そこは良かったんじゃない？　でも別に、またしたいってわけじゃないから。=Well, it worked, so... That's good, right? But it's not like I want to do it again.
-嫌悪より80～100{0}=80-100{0} than disgust.
 あーやだ。もーうんざり……イったのにこんな後味悪いとか、普通無いから……=Oh, no. I'm so sick of it... It's not normal to have such a bad aftertaste after coming...
 流石に、もう嫌われてるって分かってるよね？　もしかして、罵倒されるのが好きなマゾなの？=Quicksilver, you know you don't like me anymore, right? Maybe you're a masochist who likes to be abused?
 はいはい、終わり終わり。お互いイったんだし、もうやることないでしょ？=Yeah, yeah, yeah, yeah. Now that we've both cum, there's nothing left to do, right?
-隷属より50～79{0}=50-79{0} from servitude.
 乱れちゃだめとか、これ以上気持ちよくなったらって我慢すると益々気持ち良くなっちゃうんだよね……=Whenever I hold back from going wild or getting more comfortable, it makes me feel even better...
 お前が私で気持ちよくなってると、エロな私でもいいんだって、少し気持ちが楽になるんだ……=When you're feeling good about me, it makes me feel a little better that it's okay to be erotic...
 え？　もっと苛めていいんだよ？　私なら大丈夫だからさ。ほら……もっとヤらないと。=What? You can torment me more, okay? I'll be fine. Come on... We need to do more.
-隷属より80～100{0}=80-100{0} from servitude.
 お前が好き放題しても絶対文句言わないから……だからもっと、私の身体を使ってね……=I won't complain if you do whatever you want... So please use my body more...
 激しくしてくれて嬉しかった……お前に遠慮なく使ってもらえないと、困るからさ……=It was nice of you to go hard on me... Because I wouldn't want you to use me without reservation...
 一緒にイっても大丈夫だった？　あ、や……私とイッたら恥ずかしいんじゃないかと思ってさ……=Was it okay if I came with you? I thought you'd be embarrassed if you came with me, so...
-依存{0}=Depends{0}
 んふふ、やっぱり私とお前って仲良しだよねぇ♪　セックスのことしか頭にない所までおんなじぃ♪=You and I are really close, aren't we? We're even the same in that we only think about sex ♪
 セックスって赤ちゃん、つまり命を生み出すアレだけど、私たちも生きてるーってなるよねぇ♪=Sex is the thing that creates babies, or life, but it also makes us feel alive ♪
 あ～～っ、ヤッたヤッたぁ♪　ヤり足りない気もするけど、お前とはずっと一緒だし焦ることないよねぇ♪=I don't think I've done enough, but I'll always be with you, so there's no rush ♪

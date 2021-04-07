@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 このにょろにょろ動いてるやつ、一体何なんだよ？=What the hell is this wispy thing doing?
 一応、害はないんだよな？=In case you were wondering, it's harmless, right?
 だったら、遊んでみるのも面白いのかもな。=Then maybe it would be interesting to play with it.

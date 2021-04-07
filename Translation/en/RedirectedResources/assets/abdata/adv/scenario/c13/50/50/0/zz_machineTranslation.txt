@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 これ以上、私を惚れさせてどうするつもりなんですか……？=What are you going to do to make me fall in love with you even more?
 お洒落な場所であなたとお酒を飲みながら、静かな一時を過ごすなんて……=Spending a quiet moment with you and a drink in a stylish place...
 そんなの好きにならないはずがありません……今すぐ私を抱いてください……=How could I not like that... Please take me now...

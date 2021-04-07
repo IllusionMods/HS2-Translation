@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 なんだよココ、すっごい面白そうじゃん♪=What the hell, this place looks really interesting ♪
 動けない状態のお前に、たっぷりいたずらしてやるからな～。=I'm going to play a lot of tricks on you while you're stuck here~.
 やばい……なんか興奮してきたかも……=I think I'm getting excited...

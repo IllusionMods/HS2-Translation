@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 ……愛人との情事に勤しむのは構いませんが、大切なことをお忘れではありませんか？　私のこともしっかり愛してくださいね。=... It's fine to have an affair with your mistress, but aren't you forgetting something important? Please make sure you love me too.
 随分とお愉しみだったようですね。私も幸せのご相伴に与りたいものです。……もちろん構いませんよね？=It looks like you had a lot of fun. I'd like to join you in your happiness... Of course you don't mind, do you?

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後B普通{0}=H posterior B normal {0}
 まー、なんだかんだで気持ち良かったね♪　とりま、皆ハッピーってことでいーんじゃない？=Well, it felt good after all... Anyway, I guess everyone is happy, right?
 最初はどーなるかと思ったけど、終わりよければってやつじゃん？=At first I wondered what would happen, but all's well that ends well, right?
-H事後B好意{0}=H posterior B favor {0}
 もっとモヤモヤするかと思ったけど、そーでもなくて安心した。またするのも全然アリかな♪=I thought it would be more bewildering, but I was relieved that it wasn't. I'm sure I'll do it again ♪
 まぁ、一夫多妻の国とかもあるしね。一対一にそこまでこだわる必要もないのかなーって。=Well, there are countries that have polygamy. I don't think it's necessary to be so particular about one to one.
-H事後B享楽{0}=H Post B Enjoyment {0}
 なんつーかアレだね、ラブアンドピースっやつ？　もうそれでいーと思うよ♪=It's kind of like love and peace, isn't it? I think that's enough ♪
 は～、人数が増えただけで全然違うね。これはまた、楽しみ甲斐がありそう♪=Ha~, it's totally different with more people. It's going to be worth having fun again ♪
-H事後B嫌悪{0}=H posterior B aversion {0}
 はぁ……やっぱ三人とか無理があるっしょ……せめてキモいのがいなければなぁ……=If only there weren't so many creeps around...
 あー、これ以上変な空気になる前に解散ね？　今日のことはみんな忘れるってことで……いい？=Uh, let's break up before things get any weirder, okay? Let's just forget about today, okay?
-H事後B隷属{0}=H Post B Subjugation {0}
 二人がよければ、アタシはまたやってもいいと思うな～♪　あんまり嫌な感じしなかったし。=I'd be happy to do it again if it's okay with you two... I didn't feel too bad about it ♪
 いーんじゃん。皆仲良しっていいことじゃん？　だからアタシらは何も間違ってないよ。きっと♪=That's fine. It's good that we all get along, right? So we're not doing anything wrong. I'm sure ♪

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 少しくらいなら痛くしても構いませんよ。好んでしたいわけではありませんが……見苦しい姿はお見せしないようにしますので……=I don't mind if it hurts a little. It's not something I like to do, but I'll try not to make you look uncomfortable, so...
 痛くされるのは今でも怖いです。でも、少しは慣れたと思いますので……してみたいのでしたら……どうぞ。=I'm still afraid of being made to hurt. But I think I've gotten used to it a little... So if you want to try... Go ahead.
-好意{0}=Favors {0}
 本当は貴方に思い切りしてもらいたいのですが……少し慣れたとはいえ、やはりどうしても怖さが抜けません……=I really want you to give me all you can, but even though I've gotten used to it, I'm still afraid...
 貴方が望むなら、痛くされても我慢します。本当は痛くされて悦ぶくらいがいいのでしょうが……まだ、そこまでは難しいです……許してください。=If you want, I will endure even if it hurts. In fact, I think it would be better if you were pleased with the pain, but I'm not ready to go that far yet... Please forgive me.
-享楽{0}=Enjoyment {0}
 痛さに慣れると快楽に変わる……という理屈は分かりました。ですが全て受け入れられるかと言われると、疑問が残りますね……=I understand the theory that once you get used to the pain, it turns into pleasure. But I'm not sure I can accept it all.
 痛くされるのにも少し慣れましたが……気持ちよくして頂けるのが大前提ですよ？　そこを忘れないでくださいね？=I've gotten a little used to being hurt, but... The main thing is to make you feel good, okay? Please don't forget that, okay?
-嫌悪{0}=Disgust {0}
 はぁ……どうせ乱暴にするのですよね？　それで早く終わるのであれば構いませんよ。慣れたくもないのに、慣れてしまいましたから……=Huh... You're going to rough them up anyway, aren't you? If that makes it go faster, I don't mind. I don't even want to get used to it, but I've gotten used to it...
 なんとなく、痛みで感じるという感覚は分かってきましたが……それを率先してやろうとする、貴方の考えは分かりません。=Somehow, I've come to understand the sensation of feeling pain, but I don't understand your idea of taking the initiative to do so.
-隷属{0}=Slavery {0}
 私、どんどん変態になっている気がします。最初からそうだと言われると否定できませんが……今はより強く感じます……=I feel like I'm getting more and more perverted. I can't deny it when you say I've been like that from the beginning, but I feel it more strongly now...
 ふふ、今日はどのように苛めて頂けるのですか？　普通にするのではお互い満足できませんよね？いいですよ。私、もう大分慣れましたから。=How will you torment me today? We both can't get enough of the normal stuff, can we? That's fine. I've gotten used to it.

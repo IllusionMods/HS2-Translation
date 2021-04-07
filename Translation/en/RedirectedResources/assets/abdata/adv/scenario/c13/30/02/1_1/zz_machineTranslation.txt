@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelude B normal {0}
 今きたところですか……？　私はお友達と話してました……=Did you just get here? I was just talking to your friend...
 あの……どっちかに用でしたか……？=Um... Did you want to see either of us?
-前フリB好意{0}=Prelude B Favor {0}
 今日も大好きです……今、お友達とお話してました……=I love you today... I was just talking to my friend...
 3人で話しますか……？　あ、ふたりがよければですけど……=Do you want to talk about it alone? Well, if it's okay with you two...
-前フリB享楽{0}=Prelude B. Kyouraku {0}
 もしかして……3人でエッチしたいんですか、うふふ……=Do you... Do you want to have sex with the three of us, ugh?
 わざわざ割って入ってきたということは……私たちの身体に割って入りたいんですね……？=If you've come all this way to break in... You want to break in to our bodies?
-前フリB嫌悪{0}=Pretense B Disgust {0}
 私があなた以外の子と話してるのが意外ですか……？=Are you surprised that I'm talking to a girl other than you?
 私にも相談相手ぐらいいます……=I could use someone to talk to...
-前フリB隷属{0}=Prelude B Slave {0}
 うふふ、なんとなく……何が言いたいかわかっちゃいます……=Ummm... I kind of... Know what you mean...
 この子の前で犯そうとしてませんか……？　その逆ですか……？=Are you trying to fuck me in front of her? Or vice versa?

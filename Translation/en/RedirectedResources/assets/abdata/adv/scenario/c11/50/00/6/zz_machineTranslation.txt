@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 ……私の場合、ですか？　怖くて、声をかけるのがやっとだと思います。=... In my case, you mean? I think I'm so scared that I can barely speak to him.
 踏み出すことは、とてつもない勇気が必要ですよね。私も、よく分かります……=It takes a tremendous amount of courage to step out of your comfort zone. I know exactly what you mean...
-好意{0}=Favors {0}
 な、中々難しい問題ですね……私の意見が参考になるかは分かりませんが――=Well, it's a difficult question, and I don't know if my opinion will be of any help, but--
 その……正直なことを申しますと、困惑の方が大きいです……申し訳ありません。=Well... To be honest, I'm more confused... I'm sorry.
-享楽{0}=Enjoyment {0}
 ……違う価値観を持っているからこそ、お話をしていて楽しいのではないでしょうか？=... I think it's fun to talk to them because they have different values.
 ……十人十色と申しますし、そこまで気になさる必要はないかと思います。=... I don't think you need to worry so much about it.
-嫌悪{0}=Disgust {0}
 ……憚られることを平気で口にされるのですね。=... You are not afraid to say what you are afraid to say.
 ……今更取り繕うとした所で、手遅れではないでしょうか？=... Isn't it too late to try to mend things now?
-隷属{0}=Slavery {0}
 ……私の好みではありますが、万人受けはしないと思います。=... It's my favorite, but I don't think it's for everyone.
 ……そういった中で、ご自分の意見を通すことが出来るのは素晴らしいです。=... It's great that you are able to make your point in such a situation.

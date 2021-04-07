@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 逃げても無駄ですよ。貴方は絶対、私の元に帰ってくる。どんなに他の女性と交わろうと、最後は必ず……です。=There's no point in running away. You will definitely come back to me. No matter how many other women you associate with, in the end, you will always...
 貴方は間違った選択をしています。目先の快楽を追ってばかりでは、本当に幸せにはなれませんよ。ですが……私なら貴方を幸せにできます。絶対です。=You are making the wrong choice. You will never be truly happy if you keep chasing after short-term pleasures. But... I can make you happy. I promise.
 逃げ出した=He got away.

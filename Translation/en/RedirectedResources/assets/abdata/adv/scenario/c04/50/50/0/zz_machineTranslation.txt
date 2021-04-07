@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 うっは、ナニコレめっちゃムード良すぎなんですけどぉ～、アガるぅ～。=It's just too good to be true.
 お酒飲んで、プール入って……んで、どうせヤルんしょぉ？=We're going to drink and play pool... And then we're going to fuck, right?
 いいよ♪　アタシってほら、そういうパリピなノリ、全然アリだから♪=I'm not afraid of that ♪

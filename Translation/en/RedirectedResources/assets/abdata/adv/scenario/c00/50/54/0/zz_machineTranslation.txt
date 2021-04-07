@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 しぇっくしゅぅ……あにゃたとしぇっくしゅれきるんれすかぁ……？=Is it possible for you and I to be able to make love?
 おしゃんぽしぇっくす……うれひいれすぅ……=I'm so glad you're here...
 どこにいるんれすかぁ……わぁしお……おいへいかないれくらはい……=Where are you... Wow...

@@ -2,43 +2,33 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 今のエッチ、すっごく気持ち良かったですよー。こーいうエッチなら何回でもしたくなっちゃいますね、えへへ。=The sex you just had felt really good. This kind of sex makes me want to have it over and over again, doesn't it?
 わたしとのエッチ、満足できましたか？　わたしは……大満足に決まってるじゃないですかー♪=Were you satisfied with the sex you had with me? I... Of course I'm very satisfied ♪
 ほえー、エッチって本当に気持ちいいんですねー。あなたさんも悦んでくれてたら嬉しいですよー。=Wow, sex really feels good, doesn't it? I'm glad that you're enjoying it too.
-好意より50～79{0}=50-79{0} from favor.
 お互いに気持ち良くなれるのって、なんかいいですよねー。他には何もいらない、みたいなみたいなー！=It's kind of nice to be able to feel good about each other. It's like we don't need anything else!
 今みたいなエッチだったら、あなたさんは満足してくれるんでしょーか？　なるほどー、ではでは次もお任せくださいですよー！=Will you be satisfied with the kind of sex I'm having now? I see... Then, please leave the next one to me too!
 今のエッチってー、すごく良かったと思うんですよー。これからもどんどんこーいうエッチしていきましょーねー。=I think that the sex we just had was really good. Let's keep having this kind of sex in the future.
-好意より80～100{0}=80-100{0} over favoritism
 あなたさんが満足してくれるなら、わたしも満足なんですよー。こーいうのなんて言うんだろう？　……愛？　なんちゃって♪=If you're satisfied, then I'm satisfied too. What do you call this kind of thing? Love? I don't know ♪
 お互いに求め合って、お互いに気持ち良くなれるなんて最高ですよねー。エッチ考えた人って超天才ですよー！=It's so great to be able to seek each other out and make each other feel good! Whoever thought of sex is a super genius!
 ここまで気持ち良くなれるってことは、やっぱり相性がいいってことなんでしょーか？　これはもう運命だと認めざるを得ませんな！=If I can feel this good, does that mean we're compatible? I have to admit that this is fate!
-享楽より50～79{0}=50-79 from Kyouraku {0}
 ふふふっ、わたしのテク、どーでしたか？　満足できました？　だったら良かったですー！=How did you like my technique? Was it satisfying? If so, I'm glad!
 今のエッチは最高でしたよね！　これからも貪欲に技術を磨いていきますから、期待しててくださいね！=Now that was some great sex, wasn't it! I'll continue to greedily hone my skills, so stay tuned!
 最初から最後まで、頭の中がやらしーことでいっぱいでしたよー！　あなたさんもそーだったら嬉しいです！=From start to finish, my head was full of things I wanted to do! I'd be happy if you were, too!
-享楽より80～100{0}=80-100{0}
 エッチって、なんかもー、全部さらけ出してばーんみたいな感じですよね！　頭も身体もばーんって気持ち良くなっちゃう！　みたいな！=When you're having sex, it's like you're exposing everything and going all out! Both your head and your body are going to feel so good! Like that!
 世の中にこーんな素敵なエッチがあるとは！　これはやっぱり、相手があなたさんだから！　ですよね。えへへ。=I didn't know there was such a wonderful sex in the world! This is because you're the one! That's because you're the one, right? Ehehe.
 今みたいなエッチ、どーでしたか？　わたしの身体で満足出来ました？　次はもっともっと色んなことに挑戦しちゃいますからね♪=What was it like to have sex like this? Were you satisfied with my body? Next time, I'll challenge you with many more things ♪
-嫌悪より50～79{0}=50-79 from disgust {0}
 はぁぁ、疲れた……でもまぁ、一応は気持ち良かったですよ。=Huh, I'm tired... But well, it felt good for a change.
 あなたさんの満足そうなお顔を見ると、それだけでまー、頑張った甲斐はあるなーって思いますよ、うん。=When I see your satisfied face, it makes me feel that it was worth the effort.
 確かに気持ち良かったですけど……こんなくたくたになってまですることですかね、エッチって。=It certainly felt good, but... Is sex really something to be done until you're this exhausted?
-嫌悪より80～100{0}=80-100{0} than disgust.
 もぉぐったり……確かに満足しましたけど、気持ち良さより疲れの方が大きくなっちゃいますよー。=I was definitely satisfied, but I was more tired than I felt.
 わたし、結構頑張りましたよね？　これでもしも満足出来ないなんて言ったら、怒っちゃいますからね？=I worked pretty hard, didn't I? If you say you're not satisfied with this, I'll get angry, okay?
 ふぅ、なんだかんだ気持ち良かったですよ。でもまぁ、別に相手があなたさんである必要もなさそうですけど……=It felt good, for some reason. But I guess it doesn't have to be you, but...
-隷属より50～79{0}=50-79{0} from servitude.
 わたしの身体を使って、あなたさんが満足してくれる……それだけでわたしも大満足なんですよー！=If I can use my body to satisfy you... That's all that matters to me!
 あなたさんを悦ばせようとしてたら、ついついわたしも気持ち良くなっちゃいました！　でも……エッチってそーいうものですよね、えへへ。=When I was trying to please you, I couldn't help but feel good too! But... That's what sex is all about, isn't it?
 はぁぁ、なんかもー、身も心も満ち足りた気分です……あなたさんとのエッチ、大好きですよー。=I love to have sex with you!
-隷属より80～100{0}=80-100{0} from servitude.
 わたしの身体はもー全部あなたさんのものですよー。だから次回も好きに使ってくださいね、ご主人様っ、えへへ。=My body is all yours, you know. So please use it as you like next time too, master, hehehe.
 ご奉仕していたつもりが、わたしまで気持ち良くなっちゃうなんて。エッチってびっくりですよー！=I thought I was doing her a favor, but I didn't realize how good it made me feel. It's amazing what sex can do!
 わたしとのエッチ、いっぱい感じてくれましたか？　あなたさんが求めてくれるなら、次はもっともっと頑張りますからね♪=Did you feel a lot when you had sex with me? If you want me to, I'll do even better next time ♪
-依存{0}=Depends{0}
 あなたさんの愛を感じながらのエッチ……すごく幸せでした。これからも末永く、よろしくお願いします。=I was so happy to have sex with you, feeling your love. I look forward to working with you for a long time to come.
 愛し合う二人だからこそ、濃密な時間が過ごせるんですよね。気持ちを確かめ合う行為、これからも大切にしましょうね。=It's because two people love each other that they can spend so much time together. Let's continue to cherish the act of confirming each other's feelings.
 あなたさんの温もりを感じながら、昂ぶっていく快感。その気持ちを大切に思い出しながら、次のエッチをお待ちしていますからね。=The pleasure of being aroused while feeling your warmth. I'll be waiting for the next time we have sex, remembering that feeling with care.

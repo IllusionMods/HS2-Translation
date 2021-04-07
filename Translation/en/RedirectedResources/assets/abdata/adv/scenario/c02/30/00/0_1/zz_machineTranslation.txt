@@ -2,37 +2,27 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-汎用普通{0}=General-purpose normal {0}
 こんにちは。=Hello.
 あら、どうしましたか？=Ahhh, what's wrong?
-汎用普通用件{0}=General-purpose normal case {0}
 それで、何か？=So, what is it?
 私に何か用ですか？=What do you want from me?
-汎用好意{0}=Generic favor {0}
 あら……奇遇ですね。=Oh... That's odd.
 まさかあなたに出会うとは……=I never thought I'd see you...
 っと、急にあなたの顔を見ると……=Suddenly, I see your face...
-汎用好意用件{0}=General Favor {0}
 そ、それで、私に何か？=Okay, so, what do you want from me?
 私に声をかけてまで……どうしましたか？=You even approached me... What can I do for you?
-汎用享楽{0}=General Enjoyment {0}
 あら、私を探していたんですか？=Oh, you've been looking for me?
 ふふっ、奇遇ですね。=Phew, that's odd.
 あら、丁度私もあなたに会いに行こうと思ってた所です。=Oh, I was just about to come and see you too.
-汎用享楽用件{0}=General Enjoyment Case {0}
 それで、何でしょうか？=So, what is it?
 さぁ、要件をどうぞ。=Now, please state your requirements.
-汎用嫌悪{0}=General aversion {0}
 ……どうも。=... Thanks.
 あなた、ですか……=You, sir...
 どうしてあなたが……=Why are you...
-汎用嫌悪用件{0}=General dislike {0}
 ……それで？=... So?
 要件があるなら早くしてください。=If you have a requirement, do it quickly.
-汎用隷属{0}=General Purpose Slavery {0}
 あなたにお会い出来るなんて……=I can't believe I'm meeting you.
 あら、偶然ですね。=Oh, that's a coincidence.
 こ、こんにちは……=Hello...
-汎用隷属用件{0}=General Slavery Conditions {0}
 どうぞ、何でも言ってください。=Go ahead, say whatever you want.
 私に出来る事なら何でも。=Anything I can do to help.

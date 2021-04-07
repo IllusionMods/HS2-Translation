@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 最低な人間だとは常々思っていましたが、ここまでとは……=I always thought I was a horrible person, but I never thought I'd get this far...
 しばらく顔も見たくありません。消えてください。=I don't even want to see your face for a while. Please go away.
 今まで会った人の仲で、あなたが一番嫌いです。それもダントツの一番です。=Of all the people I've ever met, I hate you the most. You're the best.

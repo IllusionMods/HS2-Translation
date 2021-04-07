@@ -2,9 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H{0}=H{0}
 いいから、早速始めようぜ。俺とお前がそろったらやることは一つだろ？=All right, let's get on with it. When you and I get together, there's only one thing to do, right?
 とにかくエッチしようぜ。お前と一緒ならエッチしないと始まらないんだからさ。=Anyway, let's have sex. If I'm with you, I can't start without having sex.
-Home{0}=Home{0}
 う～ん……なんか、興奮しすぎて、ちょっとおかしくなってたのかなぁ。=Hmmm... I guess I was just a little crazy from being so excited.
 ……悪いな、熱くなりすぎて、我を忘れてたみたいだ。=... I'm sorry, I guess I got overheated and forgot myself.

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Let's H B normal {0}
 俺も全然大丈夫！　それじゃ早速始めようぜ。=I'm totally fine with it! Let's get started then.
 ３Pだったら、俺も混ぜてくれよ。=If it's a threesome, I want in on it.
-HしようB好意{0}=Let's H B favor {0}
 しょうがねぇな、俺も付き合うよ。=I can't avoid it. I'll go with you.
 三人でするのかよ？　わかった、わかった、俺も付き合うから。=You three are gonna do this? All right, all right, I'll go with you.
-HしようB享楽{0}=Let's have some fun.
 俺だって大賛成だぜ。さあ、一緒に楽しもうぜ。=I'm all for it. Come on, let's have some fun together.
 そういうことなら、俺だって、お前らと気持ち良くなりたいぜ。=If that's the case, I want to feel good with you guys, too.
-HしようB嫌悪{0}=Let's H. B. Aversion {0}
 俺も、別に付き合ってもいいけどな。=I wouldn't mind going out with you, either.
 好きにしてくれよ。俺もちょっとだけ付き合うから。=Do what you want. I'll hang out with you for a bit.
-HしようB隷属{0}=Let's H B Slave {0}
 ３Pなら、俺も大歓迎だぜ。たっぷり楽しませてもらうからな。=I'd love to have a threesome. I'll have a lot of fun.
 俺だって付き合うぜ……お前、頑張って感じさせてくれよ？=I'll go out with you too... You just try to make me feel good, okay?

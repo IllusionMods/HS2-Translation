@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 うぅ、距離が近すぎますよー。もっとあっちにいけないんですか？　しっしっ。=Ugh, you're too close! Can't you go over there more? Ssshhh.
 っ……な、なにをするんですかぁ……他にも人がいるんですよ？=What are you doing... There are other people here...
 い、いやっ……電車の中でなんて、絶対ダメですからー……=No, no, no... You can't do that on the train...

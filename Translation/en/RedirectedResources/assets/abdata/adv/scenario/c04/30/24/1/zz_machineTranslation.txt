@@ -2,29 +2,22 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 え？　マ？　アンタ、レズってやつ？　これは流石にアタシも予想外……=What? Ma? You're a lesbian? I didn't expect this...
 まーでも、ものは試しってやつ？　とりま、ヤってみよっか？=Well, I guess we'll see. Let's just try it, shall we?
 へぇー、女同士かぁ。まーアリなんじゃない？　男とするより気楽にできそうだし……=Oh, so it's between women. Well, I guess it's possible. It would be easier than with a man...
-好意{0}=Favors {0}
 アハッ、アンタもレズ？　うっわ、こんなところで同じ趣味の人と会えるとか。全然アリ、アリよりのアリだから。=Ahaha, you're a lesbian too? Wow, I never thought I'd meet someone with the same interests as me in a place like this. It's totally fine, it's more fine than fine.
 アンタ、結構かわたんじゃん♪　アタシ、気に入っちゃったかも♪　次もリピってもらえるように頑張っちゃおっかな。=You're pretty cute. I think I like you. I'll try my best to get you to come back next time ♪
-享楽{0}=Enjoyment {0}
 ねぇ、いきなりで悪いけどさ、アタシが攻めでいーい？=Hey, I'm sorry to be so abrupt, but can I be the one to attack?
 女同士でするならさ、その辺りハッキリしてた方がいーっしょ？　てわけで、とりまアタシが攻めね。基本リバはナシで！=If you're going to have sex with other women, it's better to be clear about it, right? So, I'll be the aggressor. Basically, no liberties!
 おー、女の子か～。おけおけ、アタシそっちもイケるから。=Oh, you're a girl! I'm good at that too.
 ふふーん、アンタのきゃわたんな声、いっぱい聞かせてもらっちゃおっかな～♪=I'd like to hear a lot of your cute voice!
-嫌悪{0}=Disgust {0}
 うわ、ヤバイの引いちゃったんですけど……アンタ……レズってやつ？　キモ……=Ugh, I pulled a bad one... Are you... A lesbian? Gross...
 うーん、キモ男よりはマシだけどさー。女同士って……アリよりのナシじゃない？=Well, it's better than creepy guys, but... Woman to woman... That's more pear than ant.
-隷属{0}=Slavery {0}
 えっと、女同士でするのは全然いーんだけどさ……アタシ……実はわりと受け身だったりして……=Well, it's totally fine for women to do it with other women, but I'm actually rather passive...
 つまり、アンタに攻めて欲しいなーとか……思ったりしてるんだけど……ダメ？=I mean, I've been thinking that I want you to attack me, but... No?
 おっと、そう来たかぁ……まさか相手が女の子とはねぇ……=Oh, that's right... I didn't think it was a girl...
 あ、嫌とかじゃないから安心して？　てか、アタシのカラダ、好きに触っちゃっていーから。=Oh, it's not like I don't want to, so don't worry. In fact, you can touch my body as you like.
-壊れ{0}=Broken {0}
 ………………=...
 ぁ……ぅ……らに？　ん……ぁんらとすぇばぃーろ？=Oh... Uh... Lani? N... N... Rato... Sebairo?
-依存{0}=Depends{0}
 こマ？　うれしーんだけど。アタシも実は……レズッ気あってさ……女子同士だし、感じるところとか分かるっしょ？=Is this it? I'm so happy. I actually have lesbian tendencies too... And since we're both girls, we know how to feel, right?
 ヤバ、こんなとこで同じ趣味の子見つけちゃった♪　先言っとくね？　アタシ、束縛するタイプだから。ま、ヤバイのに捕まっちゃったと思って諦めて？=Oh no, I found a girl here who shares my interests. I'm the type of person who gets tied down. I'll tell you what, I'm the type of guy who binds people ♪

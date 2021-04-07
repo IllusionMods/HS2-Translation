@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 はいー、ありがとうございましたー！=Yes, thank you very much!
 ではでは、また！=I'll see you around!
-好意{0}=Favors {0}
 色んなことが聞けて楽しかったですよー！=It's been fun hearing about all the different things you've been up to!
 またいっぱいお話してくださいねー！=I hope you'll talk to me a lot again!
-享楽{0}=Enjoyment {0}
 なんか……すごく勉強になった気がします！　また色々教えてくださいー！=I feel like... I learned a lot! Please teach me more stuff!
 あなたさんとお話してると、頭良くなった気になっちゃいますよー。またたくさんお話しましょーね。=When I talk to you, I feel like I'm getting smarter! Let's talk a lot again.
-嫌悪{0}=Disgust {0}
 はいはい、それではー！=Yes, yes, then!
 思ったよりも時間使っちゃいましたね、ではー！=I spent more time than I thought I would. Bye!
-隷属{0}=Slavery {0}
 うーん、もう少し詳しく聞きたい気もしましたけど……今日はここまでですね！　ではまたの機会に！=Hmmm, I felt like asking you a few more details but... That's it for today! See you next time!
 次回はぜひ一晩中語り合いましょー！　もちろん、ぺったりくっつきながら……です♪　えへへ。=Next time, let's talk all night long! Of course, we'll be sticking together ♪

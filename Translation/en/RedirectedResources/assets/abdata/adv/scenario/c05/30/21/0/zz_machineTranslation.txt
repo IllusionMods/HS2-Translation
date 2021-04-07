@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 ご主人様のペットは私だけだと思ってたのに……ごめんなさい、私の独りよがりでした……でも……やっぱり可愛がって欲しいです……=I thought I was the only one of Master's pets... I'm sorry, I was so selfish... But... I still want you to love me...
 ご主人様ぁ……他のペットになびいちゃ嫌です……駄犬は駄犬なりに……きちんと頑張りますからぁ……=Master... I don't want to be swayed by other pets... A bad dog is a bad dog... I'll do my best...

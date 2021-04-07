@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 ハッ、オマエらしいな。=Ha, that's so you.
 まぁ、いいんじゃねぇか？=Well, that's good, isn't it?
-好意{0}=Favors {0}
 それがアリなら、何でもアリだろ。=If that's the case, then anything is possible.
 ほう、面白いことを言ってくれる。=Wow, that's an interesting thing to say.
-享楽{0}=Enjoyment {0}
 ……だといいがな。そっちの方が面白れぇ。=... I hope so. That would be more interesting.
 おいおい、流石にやり過ぎじゃねぇか？=Oh, come on, that's a bit much, don't you think?
-嫌悪{0}=Disgust {0}
 で？　それのどこが面白いんだ？=So? What's so funny about that?
 チッ、馬鹿な事ばっか言ってんじゃねぇ。=Tsk, don't say stupid things all the time.
-隷属{0}=Slavery {0}
 ……そうか、そういうこともあるんだな。=... Oh, yeah, that happens.
 ……ったく、少しは自重しろ。=... Damn it, pull yourself together a little.

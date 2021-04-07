@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Let's H B normal {0}
 そういう事なら、私もＯＫよ。=If that's the case, I'm okay with it.
 私もエッチしたいと思ってたわ。=I've always wanted to have sex with you.
-HしようB好意{0}=Let's H B favor {0}
 だったら、私もエッチしたいわ。=Then I'd like to have sex with you.
 勿論、私の方もＯＫよ。=Of course, I'm okay with that.
-HしようB享楽{0}=Let's have some fun.
 気持ち良くなれるなら、私だってしたいわ。=If it makes you feel better, I want to do it too.
 いいわね、エッチ、私も賛成よ。=Great, sex, I'm with you.
-HしようB嫌悪{0}=Let's H. B. Aversion {0}
 そっちが構わないなら、私は別にいいわよ。=If you don't mind, I don't mind.
 私の方も特に問題はないけど。=Not that there's anything wrong with that on my end.
-HしようB隷属{0}=Let's H B Slave {0}
 あなたが望むなら、私に異論はないわ。=If that's what you want, I have no objection.
 私もあなたの望み通り、エッチがしたいわ。=I want to have sex with you, just like you want me to.

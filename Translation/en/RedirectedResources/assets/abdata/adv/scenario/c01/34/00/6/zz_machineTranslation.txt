@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 あなたが喜ぶなら、私は良いと思うわ。=If it makes you happy, I think it's good.
 この話題なら、私も楽しめると思うわ。=I think I'd enjoy this topic.
-好意{0}=Favors {0}
 こんなお話もできるなんて、やっぱりあなたの事、好きだわ。=I really like you that we can talk like this.
 あなたとなら、いつまでもおしゃべりしていられるわ。=I could chat with you forever.
-享楽{0}=Enjoyment {0}
 この話題でおしゃべりしてたら、気持ち良くなってきたわ。=I've been chatting with you on this subject and it's starting to feel good.
 なんだか、あなたの声を聴いているだけで、身体が感じてるみたい。=It's like my body is feeling it just by listening to your voice.
-嫌悪{0}=Disgust {0}
 その話題を受け入れるのは難しいわね。=It's hard for me to accept that topic.
 その話、私にはよくわからないわ。=I'm not sure I understand what you're talking about.
-隷属{0}=Slavery {0}
 いいわね、この話題……すごく納得できるわ。=Good, this topic... Makes a lot of sense.
 相手のすべてを受け入れるっていうのは、すごく気持ちがいいのよ。=It feels so good to accept everything about the other person.

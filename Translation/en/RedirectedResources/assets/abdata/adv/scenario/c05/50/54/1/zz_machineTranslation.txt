@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 あしょびは……これへ、おわりなんれすか……？=Is this the end of the Ashobi?
 じゃぁ……まは、わぁしろあしょんへ……くらはいね……=Well, I'm off to the White House... To see you.
 もっろ……あなはときぉひおく……なりはいれすぅ……=I'll be back...

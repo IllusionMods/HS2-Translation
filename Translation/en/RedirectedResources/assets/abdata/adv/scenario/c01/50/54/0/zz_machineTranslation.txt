@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 いっはい……おしゃんぽぉ、ひたいわぁ……=I've got to get out of here...
 ろこれも、ちゅれへっへぇ……=And this one too, chuure hehehe...
 このへん……らいしゅきよぉ……=It's so nice here.

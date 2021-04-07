@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 私ぃ……まら出来るぅ……♪=I... Can... Still ♪
 景色あぁ……ぐるぐるぅ……♪=Oh, the view... Round and round ♪
 身体ぁ……びくびくぅ……♪=Body... Shivering ♪

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 ???=????
 これは……参ったな。=This is... This is a disaster.
 俺としたことが……こんな事で。=I'm sorry... For what I did.

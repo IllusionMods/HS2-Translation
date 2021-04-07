@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 まさかとは思いますが……こんな所でシたいなどとは言いませんよね？=I don't think so... But you wouldn't want to do it here, would you?
 ぅう……絶対に気付かれてしまいますよ？　そうなったら、貴方だって……=I'm sure they'll notice, won't they? And if they do, you'll be...
 い、色々と大変なことになりますから……どうか自重してください……=No, it's going to be a lot of trouble... Please try to control yourself...

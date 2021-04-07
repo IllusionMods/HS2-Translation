@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 電車とか……こんな所で何するつもり？=Trains and... What are you doing here?
 言っておくけど……変なまね、しないでよね=Just so you know... Don't do anything crazy.
 ちょっと、言った傍から何してんのっ……=What are you doing right after I said that?

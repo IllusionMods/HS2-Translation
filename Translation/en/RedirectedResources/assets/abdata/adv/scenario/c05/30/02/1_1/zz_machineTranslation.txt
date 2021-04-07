@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelude B normal {0}
 せ、せっかくですから……ご一緒にどうですか？=Since you're here, why don't you join us?
 あ、あなたも……少し、お話していきませんか？=Oh, you, too... Why don't we have a little chat?
-前フリB好意{0}=Prelude B Favor {0}
 あの……どうせなら、あなたともお話したいです……=Um... Anyway, I'd like to talk to you too...
 せ、せっかく会えたことですし……何か話しませんか？=Now that we've met, why don't we talk about something?
-前フリB享楽{0}=Prelude B. Kyouraku {0}
 今……少しくらいは時間ありますか？=Now... Do you have a little time?
 わ、私たちと一緒に……ちょっと話しませんか？=Why don't you come with us... And have a little talk?
-前フリB嫌悪{0}=Pretense B Disgust {0}
 あ、あなた……こんなところでどうしたんですか……=Oh, you... What are you doing here...
 ま、まさかここであなたに会うなんて……はぅぅ……=I never thought I'd see you here, but...
-前フリB隷属{0}=Prelude B Slave {0}
 きっと大人数の方が会話も盛り上がりますよ。=I'm sure the larger the group, the more lively the conversation will be.
 あ……私たち、あなたの話も聞きたいです。=Oh... We want to hear your story, too.

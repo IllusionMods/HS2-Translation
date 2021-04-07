@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 触手ってすげぇんだな……あんなに気持ち良くなれるなんてさ。=Tentacles are amazing... I never knew they could feel so good.
 これだったら、また遊んでもいいかな、うん。=If this is it, I'll play with it again, yeah.
 すげぇ……俺、触手で遊んじまったぜ。=Wow, I've been playing with tentacles.

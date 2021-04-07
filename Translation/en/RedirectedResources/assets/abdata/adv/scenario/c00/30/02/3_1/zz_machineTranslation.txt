@@ -2,33 +2,23 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-返答肯定2普通{0}=Reply affirmative 2 normal {0}
 やはりそうですよね、同じ意見で嬉しいです。=I knew you were right. I'm glad we agree.
 私も同意見です。=I agree with you.
-返答肯定2好意{0}=Reply Affirmative 2 Favor {0}
 あなたもそう思われますか？　私とあなたは感性が似ているのかもしれませんね。=Do you think so too? Maybe you and I have similar sensibilities.
 私も同じ見解です。一致すると何だか嬉しいですね。=I have the same view. I'm kind of happy when they match.
-返答肯定2享楽{0}=Reply Affirmation 2 Enjoyment {0}
 そうですか、私たち気が合いますね。=Well, we're kindred spirits, aren't we?
 成程、私と近しい意見ですね。=I see, you have a similar opinion to mine.
-返答肯定2嫌悪{0}=Reply affirmative 2 dislike {0}
 あなたと意見が一致するとは思ってもみませんでした。=I never thought I'd agree with you.
 私と近しい考え方ですね。=That's a similar idea to mine.
-返答肯定2隷属{0}=Reply Affirmation 2 Slavery {0}
 本当ですか？　私も同じことを思っていました=Are you sure? I was wondering the same thing.
 あなたもですか？　同じ意見とは嬉しいです。=You too? I'm glad we share the same opinion.
-返答否定2普通{0}=Reply Negative 2 Normal {0}
 貴重なご意見をありがとうございます。=Thank you for your valuable feedback.
 そういった考え方もあるのですね。=So that's one way of thinking about it.
-返答否定2好意{0}=Reply Negative 2 Favor {0}
 私とは違いますが、素晴らしい考え方だと思います。=It's not like me, but I think it's a great idea.
 成程……それも一理ありますね。=I see... You have a point.
-返答否定2享楽{0}=Reply negation 2 enjoyment {0}
 違う視点でのご意見、大変参考になりました。=Your opinion from a different perspective was very helpful.
 それは面白いですね、私にはない考え方でした。=That's interesting, I hadn't thought of that before.
-返答否定2嫌悪{0}=Reply Deny 2 Dislike {0}
 見解の不一致ですね。=It's a disagreement of opinion.
 個人的には賛同できませんね。=Personally, I don't agree with it.
-返答否定2隷属{0}=Reply negation 2 slavery {0}
 確かに……私が浅慮だったかもしれません。=You're right... Maybe I was being shallow.
 面白いですね、とても参考になりました。=That's interesting, and very informative.

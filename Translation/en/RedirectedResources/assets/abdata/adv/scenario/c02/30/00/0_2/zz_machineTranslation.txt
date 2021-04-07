@@ -2,33 +2,23 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-風呂普通{0}=Bath normal {0}
 あら、あなたもお風呂ですか？=Oh, are you taking a bath, too?
 あなたも入りに来たんですか？=Did you come in here too?
-風呂普通用件{0}=Bath normal matters {0}
 それで、何か？=So, what is it?
 私に何か用ですか？=What do you want from me?
-風呂好意{0}=Bath Favors {0}
 えっと、私と一緒に入りたい、とか……？=Well, do you want to come in with me or?
 こんにちは。その、先に綺麗にしておこうと思いまして……=Hello. Well, I thought I'd clean it up first...
-風呂好意用件{0}=Bath favors {0}
 そ、それで、私に何か？=Okay, so, what do you want from me?
 私に声をかけてまで……どうしましたか？=You even approached me... What can I do for you?
-風呂享楽{0}=Bath Enjoyment {0}
 あら、一緒に入りたいんですか？=Oh, you want to come in with me?
 こんな所で出会うなんて……何を期待していたんですかね？=I never thought I'd meet you here... What did you expect?
-風呂享楽用件{0}=Enjoying the Bath {0}
 それで、何でしょうか？=So, what is it?
 さぁ、要件をどうぞ。=Now, please state your requirements.
-風呂嫌悪{0}=Bath Aversion {0}
 はぁ、何でこんな所で……=Huh, what are you doing here...
 ……あなたはストーカーか何かですか？=... Are you a stalker or something?
-風呂嫌悪用件{0}=Bath Abomination {0}
 ……それで？=... So?
 要件があるなら早くしてください。=If you have a requirement, do it quickly.
-風呂隷属{0}=Bath Slavery {0}
 こんにちは、あなたもお風呂に？=Hello, are you taking a bath too?
 あ……一緒に入りますか？=Uh... Would you like to come in with me?
-風呂隷属用件{0}=Bath Slavery {0}
 どうぞ、何でも言ってください。=Go ahead, say whatever you want.
 私に出来る事なら何でも。=Anything I can do to help.

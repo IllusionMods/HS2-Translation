@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 お、おわっ……た……すか……？=Oh... Oh... Is that?
 ぁく……か……から、だ……ちから、はいんない……す……=I don't need it from you, so...
 ギブ……ギブ……こうさん、っす……=Give... Give... Give... Give...

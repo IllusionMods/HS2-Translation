@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=Would you like to talk with me? I'm not sure I can offer a pleasant topic, but I understand.
 分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=I understand. I may not be able to give you a witty reply, but please understand that.
-好意{0}=Favors {0}
 ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=Yes, with pleasure. What can we talk about? Personally, I'm interested in your love story.
 勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=Of course, I'll go along with you. I have a reputation for my timing.
-享楽{0}=Enjoyment {0}
 猥談でしたら、お任せください。=If it's an obscene story, we can handle it.
 ……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=... I see, you want to talk obscenities to get me in the mood before having sex. I understand.
-嫌悪{0}=Disgust {0}
 ちょうど暇をしていたところでしたので、お付き合いしますよ。=I just had some free time on my hands, so I'll keep you company.
 盛り上がるとは到底思えませんが……分かりました。=I don't think it's going to be very exciting, but... Okay.
-隷属{0}=Slavery {0}
 身体ではなく、言葉でコミュニケーションを……分かりました。=Communicate with words, not with your body... I get it.
 言葉攻めですか、分かりました。=A verbal attack, I understand.

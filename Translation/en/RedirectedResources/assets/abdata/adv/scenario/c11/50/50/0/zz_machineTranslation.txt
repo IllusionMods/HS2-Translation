@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 うふふ、お酒を飲んでいたら、身体が火照ってしまいました。=Ummm, I was drinking and my body was on fire.
 貴方も同じではありませんか？　お顔、赤くなっていますよ。=Isn't it the same with you? Your face is getting red.
 ぷーるも併設されていますから、一緒に身体を冷やしませんか？=There is also a pool on the premises, so why don't you cool off with us?

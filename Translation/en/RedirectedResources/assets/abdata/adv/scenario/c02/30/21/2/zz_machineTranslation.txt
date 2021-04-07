@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 だめです。　早くあなたを私の体液で消毒しないと……っ=No, no, no. I need to disinfect you with my fluids...
 何してるんですか？　どこへ行こうというんですか？　あなたが来るのは、私のナカにですよ……？=What are you doing? Where do you think you're going? You're coming for my naka?
 逃げ出した=He got away.

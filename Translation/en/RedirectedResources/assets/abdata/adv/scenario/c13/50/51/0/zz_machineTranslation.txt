@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 ……もしかして、私の気持ちを汲んでここへ連れてきてくれたんですか？=... Could it be that you took my feelings into consideration and brought me here?
 嬉しいです……では、あなたに甘えて遠慮せずにやりたいようにやってみますね……=I'm glad... Then I'll indulge you and do what I want without reservation...
 まずはあなたを縛っちゃいます……うふふ、心配しなくても大丈夫ですよ……痛いことは絶対にしません……=I'm going to tie you up first... Ugh, don't worry... I won't do anything painful...

@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 色よいお返事、嬉しいですわぁ……♪　それでは私と快楽うずまく桃源郷へ参りましょう……♪=I'm glad to hear your colorful reply... Let's go to the peach garden of pleasure with me ♪
 はい……♪　あの方との快楽を否定するつもりはありませんわ、より深くは潜って頂きますけれども♪=Yes, I don't mean to deny you the pleasure of being with her, though you will have to dive deeper ♪

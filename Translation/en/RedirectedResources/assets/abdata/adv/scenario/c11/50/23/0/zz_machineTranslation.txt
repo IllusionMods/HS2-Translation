@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 共に淫らな一時を過ごしましょうね。=Let's have a lewd time together.
 私を孕ませることだけをお考えになって下さい。=Please think only of impregnating me.
 うふふ、私がよがり狂う姿をご覧になって下さい。=Mmmmm, watch me squirm.

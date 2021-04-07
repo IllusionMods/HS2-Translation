@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 ずっろ……あなはろこうしれ……いはいれす……=Zuro... Ana roko koukou... Irayasu...
 かぇうのいやれす……もっろ……ここにいまひょうぅ……=I don't want to die... But I'm here...
 しぇっくしゅ……おわぃ、なんれすか……？=What's the matter with you?

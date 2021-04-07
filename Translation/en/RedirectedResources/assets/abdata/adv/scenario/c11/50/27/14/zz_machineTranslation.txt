@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 うふふ、次回はいつに致しましょう？　私はいつでも問題ございません。貴方の子を孕む準備は出来ておりますので。=When shall we do it again? Anytime is fine with me. I'm ready to conceive your child.
 貴方の子を孕みたいと子宮が訴えてきています。これが本当の恋なのでしょうか？=My womb is telling me that it wants to conceive your child. Is this true love?

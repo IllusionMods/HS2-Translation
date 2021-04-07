@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 ずっろ、ふぁふぁしれぇ……♪=(Slurp, slurp, slurp, slurp...)
 私ぃ……もうらぇかもぉ……♪=I... Might be done ♪

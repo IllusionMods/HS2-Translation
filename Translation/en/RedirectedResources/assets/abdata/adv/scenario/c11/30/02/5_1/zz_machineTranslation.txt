@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Let's H B normal {0}
 少々緊張しますが、承知致しました。=I'm a little nervous, but I understand.
 その……折角の機会ですので、参加させて頂きます。=Well... It's an opportunity for me, so I'll participate.
-HしようB好意{0}=Let's H B favor {0}
 背に腹はかえられません……畏まりました。=I can't turn my back on this... Awe.
 このまま除け者にされてしまうのは……承知致しました。=I understand that I'm going to be left out of this.
-HしようB享楽{0}=Let's have some fun.
 私達二人で、貴方を快楽へと導いてみせます。=The two of us will lead you to pleasure.
 貴方が何処まで耐えられるか……楽しみです。=I'm looking forward to seeing how far you can take it.
-HしようB嫌悪{0}=Let's H. B. Aversion {0}
 ……私には構わなくて結構ですので。=... You don't have to worry about me.
 彼女を放っておくわけにはいかないので、致し方ありません。=I can't leave her alone, I can't avoid it.
-HしようB隷属{0}=Let's H B Slave {0}
 私も抱いて下さるのですか？　大変嬉しく存じます。=Will you hold me, too? I will be very happy.
 私もご一緒して宜しいのですか？　身に余る光栄です。=May I join you? It would be a great honor.

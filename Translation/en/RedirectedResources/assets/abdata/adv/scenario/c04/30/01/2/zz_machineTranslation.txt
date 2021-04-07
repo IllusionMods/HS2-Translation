@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 んふ、自分から誘えるとか偉いじゃん♪　これはご褒美あげないとね♪=It's great that you can ask her out yourself... I have to reward you for this ♪
 そうそう、それでいーの♪　アタシらは身体で会話する方が合ってるっしょ？=That's right, that's fine ♪

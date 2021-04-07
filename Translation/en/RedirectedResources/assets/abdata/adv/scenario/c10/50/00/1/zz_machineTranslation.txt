@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 私、お話は好きですよ♪　では、どんなお話をしましょうか？=I like stories... So, what kind of story shall I tell you?
 お話って素敵ですよね。貴方がどんな人なのか、色々話してみたいです。=Stories are wonderful, aren't they? I'd like to talk to you about who you are and what you do.
-好意{0}=Favors {0}
 何のお話をしましょうか？　なんだか少し、緊張してしまいますね。=What shall we talk about? I'm a little nervous, aren't I?
 貴方のお話なら、どんなことでも聞きたいです。あと、私のことも、色々知って欲しいです……=I want to hear whatever you have to say. I also want you to know a lot about me...
-享楽{0}=Enjoyment {0}
 さて、どんなお話がお好きですか？　ふふ、多少下品な話でも、私は引いたりしませんよ。=Now, what kind of stories do you like? Hmm, I won't be put off by a slightly vulgar story.
 雰囲気作りは大事ですからね。さぁ、この後なにを話すのか、重要な選択ですよ？　ふふ♪=It's important to set the right mood. Now, what to talk about after this is an important choice, right? Hmm ♪
-嫌悪{0}=Disgust {0}
 お話ですか？　私は特にありませんので、貴方の要件をどうぞ。=Can I help you? I don't have anything in particular, so tell me what you need.
 では、好きに話してみてください。内容によって、返事をするかどうか考えます。=Then, talk about it as you like. Depending on the content, I will consider whether or not to respond.
-隷属{0}=Slavery {0}
 お話……お話……うぅ、特に話題が思いつきません。貴方は何かありますか？=Talk... Talk... Talk... Um, I can't think of anything in particular. Do you have anything in mind?
 まずは、貴方のお話を聞かせてください。私、これでも聞き上手と言われていますので。=First of all, let me hear your story. I've been told that I'm a good listener.

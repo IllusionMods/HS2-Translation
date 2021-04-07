@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 それはまぁ構いませんが……随分唐突ですね。=That's fine, but... It's very abrupt.
 いいですよ、シましょうか。=Okay, let's do it.
-好意{0}=Favors {0}
 そんなに私とシたいんですか？　し、仕方ありませんね……=Do you really want to have sex with me that badly? I can't avoid it...
 私とですか？　……いいですよ？=With me? Okay?
-享楽{0}=Enjoyment {0}
 何ですか？　私を見て発情でもしちゃったんですか？=What is it? Did you come into heat when you saw me?
 この場で、ですか……ふふっ、見境ないですね？=In this place... Hmmm... You have no idea, do you?
-嫌悪{0}=Disgust {0}
 どうせ拒否権なんてないですよね……？=You don't have the right to veto it anyway?
 ふん、断れないのを知っているくせに……=Huh, you know I can't say no...
-隷属{0}=Slavery {0}
 あなたがシたいのなら、断る理由なんてありませんからね。=If you want to do it, there's no reason to say no.
 えぇ、早速始めましょうか。=Yeah, let's get started, shall we?

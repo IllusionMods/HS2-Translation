@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 あ、ありがとうございますっ……はいっ、しましょうっ……早速しましょうっ。=Thank you very much... Yes, let's do it... Let's do it right away.
 はいぃ……ご主人様ぁ……今日も雌犬の穴、たくさん使ってくださいぃ……=Yes, Master... Please use my bitch hole a lot today...

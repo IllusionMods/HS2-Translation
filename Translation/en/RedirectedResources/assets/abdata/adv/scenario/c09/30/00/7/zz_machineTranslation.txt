@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 ほえー、なるほどなるほど……本当にそんなことまでしちゃうんですねー！=Oh, I see, I see... You really do go to such lengths!
 えーっと……それはさすがに……わたしの想像を超えているというかー……あははーっ。=Well... That is indeed... Beyond my imagination... Hahaha...
-好意{0}=Favors {0}
 おおお、そんなエッチなことがっ……それは聞き捨てなりませんねー！=Oh, that's so naughty... That's not nice to hear!
 もしかして……みんなそーなんですか？　だとしたら、わたしもエッチに対する認識を改めないと！=Is it possible that everyone is like that? If that's the case, then I need to change my perception of sex!
-享楽{0}=Enjoyment {0}
 あなたさんもそーいう感じなんですか？　ふむー……でしたらわたしも色々勉強しないといけませんね。=Are you like that, too? If that's the case, I need to learn more about it.
 そ、そんなことが好きなんですか？　ほえー、意外です……でも……ちょっと興味ありますよ、えへへ。=So, you like that kind of thing? Wow, that's unexpected... But... I'm kind of interested, ehehe.
-嫌悪{0}=Disgust {0}
 あのー……その話って、今ここでしなきゃいけないことですかー？=Um... Do we have to talk about this right here and now?
 ふむー、なんですぐにそーいう話したがっちゃいますかね？=Hmmm... Why do you want to talk about that right away?
-隷属{0}=Slavery {0}
 そ、そんなにエッチなことがっ……でも……そーですね……あなたさんが相手だったら平気な気もします、えへへ。=But... Well... I think I'll be fine if it's with you, ehehe.
 そーいうこと、どーしてもしてみたいって言われたら……うーん、受け入れちゃうかなー。だってわたし、そーいう性格ですしー！=If someone asked me if I wanted to do something like that... Well, I think I would accept it. Because I'm that kind of person!

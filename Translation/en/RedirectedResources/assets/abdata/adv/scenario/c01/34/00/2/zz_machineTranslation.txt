@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 いいわよ……エッチしましょう。=Okay... Let's have sex.
 いきなりだけど……別に問題ないわ。=I know it's out of the blue, but... It's no problem.
-好意{0}=Favors {0}
 もちろん……あなたが相手なら私はＯＫよ。=Of course... If it's with you, I'm okay with it.
 嬉しいわ、あなたからエッチに誘ってくれて。=I'm glad you asked me to have sex with you.
-享楽{0}=Enjoyment {0}
 いいわよ……気持ちのいいエッチ、しましょう。=Okay... Let's have a nice sex.
 私も、あなたとエッチしたかったから……しましょう。=I wanted to have sex with you, too, so... Let's do it.
-嫌悪{0}=Disgust {0}
 分かったわ、別にいいわよ=Okay, fine. I don't mind.
 私とエッチがしたいのね？　別に構わないけど。=You want to have sex with me, don't you? I don't mind.
-隷属{0}=Slavery {0}
 あなたがしたいのなら……私はいつでもいいわよ。=If you want to... I'm always up for it.
 あなたとのエッチなら、どんな用事があっても優先するわ。=If it's sex with you, I'll prioritize it no matter what my business is.

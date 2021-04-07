@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようA普通{0}=Let's do H. A. Normal {0}
 それは……三人でということ、でしょうか？　私は問題ありませんが……=Does that mean... The three of us? I have no problem with that, but...
 えっと……私の方は、問題ございません。=Um... No problem on my end.
-HしようA好意{0}=I'll do you a favor.
 三人で、ですか……貴方が望まれるのでしたら……=The three of us... If that's what you want.
 さ、三人で……その様な行為をお望みなのですね……=Well, the three of you... You want to do something like that...
-HしようA享楽{0}=Let's have some fun.
 はい、私は喜んでお付き合い致します。=Yes, I am willing to go along with you.
 うふふ、そう仰ることは予想しておりました。=I was expecting you to say that.
-HしようA嫌悪{0}=Let's H. A. Hate {0}
 何故、二人同時なのですか？　理解に苦しみます……=Why both of you at the same time? I don't understand...
 ……彼女が問題ないのでしたら、私も構いません。=... If she's okay with it, I'm fine with it.
-HしようA隷属{0}=Let's H A slave {0}
 三人で……自信はありませんが、努力致します。=The three of us... I'm not sure, but we'll try.
 刺激的なお誘いですね。勿論、喜んでお付き合い致します。=That's an exciting invitation. Of course, I'll be happy to go along with it.

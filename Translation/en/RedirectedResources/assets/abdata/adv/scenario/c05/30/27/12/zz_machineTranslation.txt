@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 あはぁ、はぁぁ、気持ち……良かったよぉ……=Aah, aah, that felt... Good...
 ああぁ……しゅごいえっひぃ……まらしらいぃ……=Oh... Ah... Ah... Ah...
 ん……あ……はぁ……あは、あははっ！=Mmm... Ah... Ah... Ah!

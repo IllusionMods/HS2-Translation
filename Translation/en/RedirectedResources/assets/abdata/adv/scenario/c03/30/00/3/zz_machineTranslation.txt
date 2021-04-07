@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 ……へ？　あー、さてはからかったなぁ？　私としたことが、やられたぁ！=... Huh? Oh, now you're kidding, right? What I did to you, you got me!
 はいはーい、ひやかしおことわりでーす。=Yes, yes, hiyakashi okowa desu.
-好意{0}=Favors {0}
 はぁ……あんまりそういう事ばっかりしてると、誰からも相手されなくなっちゃうよ？=If you keep doing that kind of thing, you'll never be taken seriously by anyone.
 思わせぶりな態度ってやつ？　はっきり言ってくれないと分からないよ？=Is that what you call a suggestive attitude? I won't know unless you tell me clearly, okay?
-享楽{0}=Enjoyment {0}
 えー、気になるってばぁ♪　恥ずかしいこと？　アブノーマルなプレイでも受け入れるよぉ♪=Oh, I'm curious. ♪ Is it embarrassing? I'm open to abnormal play ♪
 もしかして、人違い！？　ってー、こんなエロいのはさすがに見分けがつくかぁ♪=Could it be that I have the wrong person? I don't know if I can tell the difference between the two ♪
-嫌悪{0}=Disgust {0}
 あっそ、じゃね。=Yeah, right.
 なにそれ……=What the...
-隷属{0}=Slavery {0}
 え？　本当に何もなし？　ちょっと残念かな……=What? There's really nothing here? I'm a little disappointed...
 あはは、焦らされちゃった……♪=Haha, I've been rushed ♪

@@ -1,5 +1,0 @@
-//***********************************************************************
-//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
-//***********************************************************************
-
-電話{0}=Phone {0}

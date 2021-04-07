@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 もしかして、私を永遠のパートナーにと考えてもらえているのですか？=Could it be that you are thinking of me as your eternal partner?
 なら、そのお気持ちには全力でお応えしなければいけませんね……=Then I must do my best to reciprocate your feelings...
 さぁ、この神聖な場所で……身も心も一つになりましょう……=Now, in this sacred place, let us unite body and soul...

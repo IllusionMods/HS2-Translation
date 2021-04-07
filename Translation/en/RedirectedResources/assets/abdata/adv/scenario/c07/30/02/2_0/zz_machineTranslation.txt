@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=What were you doing?
 あ？　なんでいちいちオマエには言わねえといけねぇんだ？=Oh? Why do I have to tell you every time I want to?
 教えねぇよ。女子同士の秘密ってやつだ。=I'm not gonna tell you. It's a secret between girls.
-なにしてたのA好意{0}=What were you doing?
 そういう詮索をいちいちするから、モテねぇんだよ。=That's why you're not popular.
 ハッ、オマエがどんだけアホかって話をしてたんだよ。=Ha, I was just talking about how stupid you are.
-なにしてたのA享楽{0}=What were you doing there, Kyouraku?
 教えて欲しかったら、なんか一発芸でもしろ。=If you want me to teach you, you'll have to do some tricks.
 オマエをどう苛めたら一番楽しいか、相談してたところだ。=We were just discussing how to torment you in the most fun way possible.
-なにしてたのA嫌悪{0}=What were you doing?
 特になにもしてねぇよ。そもそもオマエに教える義理がねぇ。=I'm not doing anything special. I don't have any obligation to tell you in the first place.
 それを知ってどうするつもりだ？　どうせ厄介なことにしかならねぇだろうが。=What are you going to do when you find out? It's only going to get you in trouble anyway.
-なにしてたのA隷属{0}=What did you do, A slave?
 本当に聞きたいか？　女同士のこういう話はエグいぞ？=You really want to hear this? This kind of talk between women can get pretty ugly, you know?
 どこまでが苛めで、どこまでが弄りかって話をしてた。そんだけだ。=We were talking about how much was bullying and how much was playing around. That's all.

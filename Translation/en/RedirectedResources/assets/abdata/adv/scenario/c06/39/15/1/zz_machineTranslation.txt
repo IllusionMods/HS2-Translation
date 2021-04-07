@@ -3,14 +3,11 @@
 //***********************************************************************
 
 あなたにお会いしたくなってしまいまして……宜しければ、少しお話いたしませんか……？=I'd like to meet you... If you don't mind, I'd like to have a little chat with you...
-好意50_汎用{0}=Favors 50_ Generic {0}
 何度もお訪ねしてしまい申し訳ございません、あなたの側を片時も離れたくなくて……=I'm sorry to keep visiting you, but I didn't want to leave your side for even a moment...
 今、お手すきでしょうか？　限りある時をあなたと共に過ごしたいのですが、いかがでしょう。=Is this a good time for you? I'd like to spend some of my limited time with you.
 お邪魔いたします……あの、今日の服、いかがでしょう、変ではありませんか……？=I'm sorry to bother you... But what do you think of today's outfit, isn't it strange?
 ・・・・・=・・・・・
-好意50続き{0}=Favors 50 continued {0}
 昨日はお邪魔ではありませんでしたか？　私の為に無理をなさっていないか心配ですわ。=I hope I didn't disturb you yesterday. I'm afraid you're straining yourself for my sake.
 あなたとお話できて、素敵なひと時を過ごすことができました、またお伺いしても宜しいでしょうか。=I had a wonderful time talking with you, and I hope you don't mind if I visit again.
 昨日ほど時間が早く過ぎた日はありません、あなたとずっと一緒にいれたらよいのですが……=Time has never passed as quickly as it did yesterday, I wish I could be with you forever...
 あなたのことを想っていたら、居ても立っても居られず……お側に置いて頂けますか……？=When I was thinking about you, I couldn't stand still... Can you keep me close?
-好意80_汎用{0}=Favors 80_ Generic {0}

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=An unremarkable response A. Normal {0}
 そうなのか？　まぁいいけど。=Is that so? Well, okay.
 なんか、他に用事があったのか？=What, did you have something else to do?
-なんでもない返答A好意{0}=An unremarkable response A favor {0}
 何か用があったんじゃないのか？=Didn't you have something to do with that?
 てっきりなんか用事かと思ったんだけどな……=I thought you had something to do...
-なんでもない返答A享楽{0}=Nothing Reply A Kyouraku {0}
 なんでもないなんて……らしくねぇな。=It's not like it's nothing.
 3Pしようぜって話じゃなかったのか？　残念だぜ。=I thought we were going to have a threesome. Too bad.
-なんでもない返答A嫌悪{0}=Nothing Reply A Disgust {0}
 そうか、じゃあな。=All right, then.
 俺の方も同じだよ。=It's the same on my end.
-なんでもない返答A隷属{0}=Nothing Reply A Slavery {0}
 何だ、忙しかったのか？=What, were you busy?
 俺たちに用事があったんじゃないのか？=I thought you were here for us.

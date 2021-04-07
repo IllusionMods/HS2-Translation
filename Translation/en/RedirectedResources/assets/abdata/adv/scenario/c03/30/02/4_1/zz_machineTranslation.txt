@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話事後B普通{0}=Conversation Post B Normal {0}
 うん、いい話が出来たと思うよ。お互いにね。=Yeah, I think we had a good talk. Both of us.
 色々あるよねぇ。お前のことが少し分かったかな。=There's a lot going on here. I think I know you a little better now.
-会話事後B好意{0}=Conversation Post B Favor {0}
 まぁ、私的には、話せただけで嬉しかったかな♪=Well, personally, I'm glad we got to talk ♪
 とりあえず、話し合うのが大事だよね。よく分かった。=Anyway, it's important to talk about it. I understand well.
-会話事後B享楽{0}=Conversation Post B Enjoyment {0}
 結構面白い話が出来たよね。満足感あるし♪=You've got a pretty interesting story. And it's satisfying. ♪
 ふふ、みんな違ってみんないいってやつかな♪=Hmm, I guess we're all different and we're all good ♪
-会話事後B嫌悪{0}=Post-conversation B disgust {0}
 まぁ、一つの意見としては、参考になったかな。=Well, I guess that's one opinion that helped me.
 全否定まではしないよ。意見は人それぞれだし。=I'm not going to deny everything. Everyone has their own opinion.
-会話事後B隷属{0}=Conversation Post B Subjugation {0}
 ちょっとした答え合わせだったかな、えへへ……=I guess that was a bit of an answer, eh...
 結構新しい発見があったかも、話すって大事だね。=I may have made some new discoveries, but I think talking is important.

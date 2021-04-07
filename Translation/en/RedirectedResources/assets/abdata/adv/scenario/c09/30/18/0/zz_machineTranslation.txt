@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 ???=????
 うーん、うーん……これはわたし史上最大に困った出来事となりましたよ……うぅん……=Well, well, well... This has been the most troubling event in my history... Hmmm...
 はぁぁ……誰か来てくれるといーんですが……日頃の行いは悪い方じゃないと思うんですけどねー……うーん……=I wish someone would come... But I don't think I'm a bad person... Hmm...

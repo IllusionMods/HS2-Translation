@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 うんうん、なかなか楽しめたかも♪　たまにはこういうのもいーね。=It's nice to have something like this once in a while ♪
 アンタの反応、いちいちウケるからさ。なんかずっと背中ゾクゾクしてたわ♪=Your reactions are always so funny. My back was tingling the whole time ♪
 いやー、見た目はちょっとエグめだけどさぁ……この部屋全然アリでしょ♪=I mean, it looks a little edgy, but this room is totally doable ♪

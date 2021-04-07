@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 ありがとう、楽しい話だったわ。=Thanks, that was a fun story.
 あなたとのおしゃべり、すごく楽しかったわ。=I really enjoyed chatting with you.
-好意{0}=Favors {0}
 ありがとう、本当に楽しい時間だったわ。=Thank you, it was a really fun time.
 こんなに素敵なお話、聞かせてくれてありがとう。=Thank you for sharing such a wonderful story with us.
-享楽{0}=Enjoyment {0}
 お話だけでこんなに盛り上がるなんて、あなたって最高ね。=You're the best, getting so excited just by talking.
 あなたとのお話、最高に盛り上がったわ、ちょっと感じちゃったかも。=I had a great time talking with you, I think I felt it a little.
-嫌悪{0}=Disgust {0}
 話してくれてありがとう、それじゃあね。=Thanks for talking to me. Bye.
 それなりにいい話だったわ、それじゃあまたね。=That was a reasonably good story. I'll see you then.
-隷属{0}=Slavery {0}
 ありがとう、こんなに話してもらえるなんて幸せよ。=Thank you. I'm so happy to hear you talk so much.
 あなたの話しならいつでも聞くから、好きな時に声をかけてね。=I'm always willing to listen to what you have to say, so just give me a shout when you want.

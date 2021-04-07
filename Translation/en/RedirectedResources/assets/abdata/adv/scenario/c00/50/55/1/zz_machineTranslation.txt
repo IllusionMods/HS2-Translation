@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 この施設で婚姻届を受理していただけるなら、今すぐ提出に行く所でした。=If this facility would have accepted our marriage certificate, we would have gone there right now to submit it.
 やはり私には、あなたしかいない様です。これからもよろしくお願いします。=It seems that you are the only one for me after all. Thank you for your continued support.
 結婚して新婚生活が始まった時、私があなたに望むことはたった一つだけです。=When you get married and start your honeymoon, there is only one thing I want for you.

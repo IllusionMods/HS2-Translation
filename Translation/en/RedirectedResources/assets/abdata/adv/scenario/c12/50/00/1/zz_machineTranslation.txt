@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 俺と話？　なんの話かわかんないけど、別にいいぜ。=You want to talk to me? I don't know what you're talking about, but I don't care.
 分かった。おしゃべりでもなんでも付き合うぜ。=All right. I'll stay for a chat, whatever.
-好意{0}=Favors {0}
 いいぜ。何の話をするんだ？　俺はなんでも付き合うぞ。=All right. What do you want to talk about? I'll go with whatever you want.
 分かった、任せろ。俺がお前とたっぷりおしゃべりしてやるからな。=All right, I'll take care of it. I'll have a nice chat with you, okay?
-享楽{0}=Enjoyment {0}
 エロい話なら付き合うぞ。=I'll go with you if you want to talk about sex.
 話しだけでいいのか？　まぁ、お前がそれでいいなら付き合うけどな。=You want to just talk? Well, I'll go out with you if that's what you want.
-嫌悪{0}=Disgust {0}
 お前とおしゃべりだぁ……まぁ、暇だから別にいいけどな。=I'm talking to you... Well, I'm bored, so I don't mind.
 俺と話したいっていうのか？　こっちは話す事なんかないけどな。=You want to talk to me? I don't have anything to say to you.
-隷属{0}=Slavery {0}
 おしゃべり？　おしゃぶりじゃなくて？　まぁ、別にかまわんけどな。=Talking? Not a pacifier? Well, I don't mind if you do.
 お話ねぇ……言葉攻めの練習でもするのか？　分かった、付き合ってやるよ。=You want to practice your verbal assault? Okay, I'll go with you.

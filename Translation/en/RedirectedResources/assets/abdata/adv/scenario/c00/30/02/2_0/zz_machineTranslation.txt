@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=What were you doing?
 上手な自撮りの撮影方法について、教えを乞いていたところです。=I was just asking for a lesson on how to take a good selfie.
 効果的なダイエットの方法を語り合っていました。=We were discussing effective ways to lose weight.
-なにしてたのA好意{0}=What were you doing?
 理想の告白シチュエーションについて、話を膨らませていました。=We were talking about ideal confession situations.
 一番素敵なプロポーズの言葉を考えていました。=I was trying to think of the most beautiful words to propose.
-なにしてたのA享楽{0}=What were you doing there, Kyouraku?
 好きな体位について、熱く討論しておりました。=We had a heated discussion about our favorite positions.
 過去の性体験を赤裸々に語り合っていました。=They were discussing their past sexual experiences in a very candid manner.
-なにしてたのA嫌悪{0}=What were you doing?
 セックスについて、話をしていました。=We were talking about sex.
 ……誘われて嬉しいデートコースの話をしていたところです。=... I was just talking about a date course that I would be happy to be invited to.
-なにしてたのA隷属{0}=What did you do, A slave?
 緊縛について意見交換をしておりました。=We were exchanging ideas about bondage.
 アダルトビデオのジャンルに関して、お互いの主張をぶつけておりました。=We were battling each other's arguments regarding the adult video genre.

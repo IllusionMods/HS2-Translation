@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 いい時間だったぜ……やっぱり、場所の雰囲気って大事なんだな。=It was a good time... I guess the atmosphere of a place is important.
 お前の事、もっと好きになりそうだぜ。=I think I'm going to like you more.
 何だか、いつもより感じてたかも知れないぜ……=I don't know, maybe I felt it more than usual.

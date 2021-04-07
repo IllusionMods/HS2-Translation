@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 もう、もうらめ……私、おかひく、なっひゃう。=I can't take it anymore... I'm going to get sick.
 わ、わらしぃ…もうこわれひゃった、みたい……=I think it's broken...

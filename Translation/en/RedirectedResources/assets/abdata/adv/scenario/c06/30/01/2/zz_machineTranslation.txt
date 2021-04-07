@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 やっぱり私とダンスを踊るために来てくださったのですねぇ、早速致しましょう……♪=I knew you came here to dance with me, let's do it right away ♪
 うふふふ、私たち相思相愛ですわね、致しましょう、致しましょう、うふ、うふふふ……♪=Ufufufu, we're a lovely love, let's write, let's write, ufu, ufufu ♪

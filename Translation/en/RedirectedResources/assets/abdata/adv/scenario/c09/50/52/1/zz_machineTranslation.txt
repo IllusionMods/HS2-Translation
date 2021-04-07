@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 もう……わたしはあなたさんの傍にはいたくないですよ……=I don't want to be around you anymore...
 どうしてわたしなんですか？　わたしじゃないといけないんですかぁ？=Why me? Why does it have to be me?
 はぁぁ……あなたさんは、ずっとエッチなことしか考えてないんですか？=Huh... Are you the one who only thinks about sex all the time?

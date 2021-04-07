@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=An unremarkable response B. Normal {0}
 あー、どっちかに用事があったとか？　別にアタシら気にしないよ？=Did one of you have an errand to run? We don't mind, do we?
 なんかよくわかんないけど……アンタがそれでいいんなら、じゃあね？=I don't know what it is, but... If you're okay with it, then see you later.
-なんでもない返答B好意{0}=An unremarkable response B Favor {0}
 アタシらに気使わなくていいよ？　なんかあるなら言って？=You don't have to worry about us, okay? Let us know if you need anything.
 うーん、ほんとに？　なんか遠慮してない？=Hmm. Really? Aren't you being a little reserved?
-なんでもない返答B享楽{0}=Nothing Reply B Kyouraku {0}
 えっと……アタシらは気にしないけどさ。あんまそういうの、他の人らにはやめた方がいいよ？=Well, we don't mind, but... We don't mind, but you don't want to do that to other people, okay?
 まぁ、またなんか思い出したら来なよ。どっちかだけでも、またアタシらが集まってる時にでもさ。=Well, if you remember anything else, come back. Just one or the other, or when we get together again.
-なんでもない返答B嫌悪{0}=Nothing Reply B Disgust {0}
 雰囲気だけ悪くして帰るとか、アンタって絶対友達できないタイプだね。=You're the type of person who will never make friends.
 じゃあさっさとアタシらの前から消えて？　マジ目障りだから。=Then why don't you just get out of our way? It's really annoying.
-なんでもない返答B隷属{0}=Nothing Reply B Slavery {0}
 なんでもないって……うーん、それだとアタシらも反応に困っていうか……じゃーねでいいの？=I'm sure you'll have a lot of questions about this.
 どしたん？　調子悪いなら、アタシらが病院連れてってあげよっか？=What's wrong? If you're not feeling well, why don't we take you to the hospital?

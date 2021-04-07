@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 俺たち、一緒になったんだし……とりあえず身体も一緒になろうぜ。=Now that we're together... Let's get our bodies together, too.
 場所がどこだって関係ねぇよ……=It doesn't matter where you are...
 お前が目の前にいたら、いつだって始めたくなるんだよ。=I'm always tempted to start when you're right in front of me.

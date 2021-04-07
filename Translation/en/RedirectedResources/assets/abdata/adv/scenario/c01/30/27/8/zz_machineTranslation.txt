@@ -2,21 +2,15 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 どうしたの？　何もしないでいいの？=What's wrong with you? Are you sure you don't want to do something?
 これで終わりなの？　何もしてないけど……=Is that all you got? I didn't do anything, but...
-好意{0}=Favors {0}
 どうかしたの？　これで終わりなんて。=What's wrong with you? I can't believe this is over.
 これで終わりなの？　私、どこか変だったかしら？=Is this all you've got? Is there something wrong with me?
-享楽{0}=Enjoyment {0}
 何もしてないけど、どうしたの？　疲れてるのかしら？=I'm not doing anything. What's wrong? Am I tired?
 何もしないで終わりなの？　何かあったんじゃないの？=What's the point of doing nothing? Isn't there something wrong with you?
-嫌悪{0}=Disgust {0}
 これで終わりなのね。私は別にいいわよ。=I guess that's it. I don't mind.
 何もしないで終わりなの？　だったらこれでいいわ。=You're done doing nothing? Then this is it.
-隷属{0}=Slavery {0}
 これでおしまい？　私、何かしたのかしら？=That's it? Did I do something wrong?
 まだ何もしてないわよ？　体調でも悪いの？=I haven't done anything yet, okay? What's wrong with you?
-依存{0}=Depends{0}
 これで終わりなんて嘘よね？　私、これじゃ満足できないわ。=You're lying about this being the end, aren't you? I can't get enough of this.
 何もしないで終わりなんてひどいわ。私は準備万端だったのに……=It's awful to end up doing nothing. I was so ready to...

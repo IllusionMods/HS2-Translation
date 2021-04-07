@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 あなたには喜んでもらえて、私は気持ちよくなれて……最高のプレイでした。=You made me happy, I made you feel good... It was a great play.
 ……病みつきになってしまうかもしれません。=... You may become addicted to it.
 絡みついていた触手の感触……忘れられそうにないです……=The feel of the tentacles entwined around me... I'll never forget it...

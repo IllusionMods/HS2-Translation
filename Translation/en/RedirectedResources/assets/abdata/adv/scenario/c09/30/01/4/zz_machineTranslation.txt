@@ -2,9 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H{0}=H{0}
 ……？　何を言ってるんですか？　今のわたしが元のわたしですよ？　だって、あなたさんのこと、愛してるんですもん。だから……さぁ、エッチしましょう。=? What are you talking about? The current me is the original me, you know? Because I love you, you know. So... Let's have sex.
 元に戻るもなにも……わたしはわたしですよ？　別人かもと疑っているのでしたら、直接おまんこに聞いてみてくださいませ♪=I'm not going to go back to the way I was... I'm still me. If you suspect that you might be a different person, please ask my cunt directly ♪
-Home{0}=Home{0}
 あ……あれ、あなたさん？　わたし、なんか変なことでも言ってましたかー？=Oh... Hey, is that you? Did I say something strange?
 あらら、わたし今……すごく恥ずかしいことを平気で言ってたよーな……わぁぁ、忘れてくださいー！=Ahhh, I just said something really embarrassing... Wow, please forget it!

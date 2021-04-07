@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後B普通{0}=H posterior B normal {0}
 良かったわ、それじゃあ、また。=Great, I'll see you then.
 いい時間だったわ、ありがとう。=It was a good time, thank you.
-H事後B好意{0}=H posterior B favor {0}
 また、あなたと一緒に過ごしたいわ。=I'd love to spend time with you again.
 一緒に過ごせて楽しかったわ、ありがとう。=It's been fun spending time with you, thank you.
-H事後B享楽{0}=H Post B Enjoyment {0}
 気持ちのいい時間だったわ、それじゃあ、またね。=It was a pleasant time. I'll see you then.
 最高にいい時間だったわ、ありがとうね。=It was a great time, thank you.
-H事後B嫌悪{0}=H posterior B aversion {0}
 それじゃあ、これで。=Well, here we go then.
 終わったなら、もう行くから。=If you're done, I'm leaving.
-H事後B隷属{0}=H Post B Subjugation {0}
 あなたと素敵な時間が過ごせて、良かったわ。=I'm glad I had such a wonderful time with you.
 あなたが望んでくれるなら、いつだってお相手するわ。=I'm always here for you, if that's what you want.

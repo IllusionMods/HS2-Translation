@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 は？　本気で言ってんの？　そんなん許されないから！=Huh? Are you serious? I can't let you do that!
 ふーん、自分の立場が分かってないんだ？　これもう、躾けとかじゃなくて、おしおき決定だねっ！=You don't know what you're getting into, do you? It's not discipline anymore, it's a spanking!
 逃げ出した=He got away.

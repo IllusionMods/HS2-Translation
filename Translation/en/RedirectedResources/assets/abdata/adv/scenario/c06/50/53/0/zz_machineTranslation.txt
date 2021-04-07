@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 なんだか、とても元気に蠢いているようですわね。=You seem to be stirring very energetically.
 ちょっとだけ不安ですが、期待もしていますわ。=I'm a little nervous, but I'm also hopeful.
 早速……試してみましょう。=Let's... Let's try it out.

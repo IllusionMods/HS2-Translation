@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 うん、結構色々話せたんじゃない。楽しかったよ♪=Yeah, we talked about a lot of things, didn't we? It was fun ♪
 よっし、お話終了！　有意義な時間でしたっ♪=Okay, end of story! It was a good time ♪
-好意{0}=Favors {0}
 もっと話してたかったけど、際限なくなっちゃいそうだしね。=I would have liked to talk more, but it seems like there's no limit to what I can say.
 いっぱい話せて嬉しかった。またお話しようね♪=I was happy to talk to you a lot. Let's talk again ♪
-享楽{0}=Enjoyment {0}
 ふぅ、しゃべったしゃべった。喉乾いちゃった。=I've talked and talked and talked. I'm so thirsty.
 ふふ、喋るだけでも、結構時間使っちゃったね～。=Hmm, I spent a lot of time just talking!
-嫌悪{0}=Disgust {0}
 喋るの疲れちゃった。もう終わりでいいでしょ？=I'm tired of talking. Can we just get this over with?
 はぁ……退屈な話ばっかり、よくあんなにできるね？=I don't know how you do it, all that boring talk.
-隷属{0}=Slavery {0}
 じっくり話すのもいいね。普通に楽しかった。=It's nice to have a long talk. It was just plain fun.
 色々話して、お前のこと、ちょっと分かった気がする。=I feel like I know you a little better now that we've talked.

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 素敵な時間だったわ……あなたが連れてきてくれたおかげね。=It was a wonderful time... Thanks to you for bringing me here.
 また、誘って欲しいわ。=I hope you'll invite me back.
 あなたとお酒に、たっぷりと酔いしれた気分だわ……=I feel like I've been drinking a lot with you...

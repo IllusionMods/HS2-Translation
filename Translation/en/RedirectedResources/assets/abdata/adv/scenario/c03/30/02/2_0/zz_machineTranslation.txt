@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=What were you doing?
 ああ、この施設はアリかナシかって話。今更だけどねぇ。=Yeah, I'm talking about whether this facility is a good idea or not. It's a little late for that.
 一緒にバカできる友達はひとりで十分って話♪=♪ One friend is enough to make a fool of yourself ♪
-なにしてたのA好意{0}=What were you doing?
 ちょっとした恋バナ♪　白馬の王子様なんかより身近にいて私のことをよく知ってるヤツの方がいいよねって話♪=A little love story... I'd rather have a guy who knows me better than a prince on a white horse ♪
 え、ちょっと恥ずかしいけど、好きな人とのエッチが一番だよねって話……♪=Eh, it's a little embarrassing, but I'm just saying that sex with someone you love is the best ♪
-なにしてたのA享楽{0}=What were you doing there, Kyouraku?
 セックスって言うよりエッチって言った方がエロくない？　って話してたんだぁ♪=Isn't it more erotic to call it "sex" than "sex"? That's what we were talking about ♪
 乳首愛撫って地味に欠かせないって話♪　当然だよねぇ♪=The nipple caresses are essential for a simple reason ♪
-なにしてたのA嫌悪{0}=What were you doing?
 嫌なヤツってセックスしてるとき、濡れて来たねとか言われると超ムカつくって話ー。=When I was having sex with a guy I didn't like, he would say something like, "You're getting wet," and I would get really annoyed.
 誰かさんの愛撫がネチっこくて、最悪だよねーって話してただけー。=We were just talking about the fact that someone's caresses are very sticky and it's the worst.
-なにしてたのA隷属{0}=What did you do, A slave?
 あ、えっと……心の支えって、やっぱり人だよねって、そういう精神的な話……=Oh, well... The most important support is people, right?
 お前がサドかマゾかって話をしてた……=I was talking about whether you're a sadist or a masochist...

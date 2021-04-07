@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようA普通{0}=Let's do H. A. Normal {0}
 え……それはえぇと、この三人でということですよね？　わ、私は構いませんが……少し、ドキドキしますね。=Well... That means that it's just the three of us, right? I don't mind, but I'm a little nervous, aren't you?
 また、唐突ですね……いつもそういうことばかり考えているのですか？　ふふ、仕方のない人です。=Also, it's so sudden... Do you always think about that kind of thing? Hmm... I can't avoid it.
-HしようA好意{0}=I'll do you a favor.
 そ、そういうことは二人でするものでは？　いえ、嫌ではないのですが……少々突然だったもので……=Well, isn't that something we do together? No, it's not that I don't want to, it's just... It was a little sudden...
 うぅ、つまりそれは、貴方と私達と……三人で……や、やります！　私は大丈夫です！　貴方と、シたいですし……=Uh, I mean, it's you and us... The three of us... No, I'll do it! I'm fine! I want to have sex with you, and...
-HしようA享楽{0}=Let's have some fun.
 あら、これは想像以上のことになりましたね♪　私は大歓迎ですよ。三人でするなんて、凄くワクワクします。=Oh, this is so much more than I could have imagined... I'm all for it. It's so exciting to do it with three people ♪
 ふふ、素敵な提案ですね。もちろん私は大賛成なので……あとお一人のご説得を、頑張ってください♪=Hmm, that's a wonderful suggestion. Of course I'm all for it, so please try your best to persuade one more person ♪
-HしようA嫌悪{0}=Let's H. A. Hate {0}
 信じられない程の豪胆さですね。普通なら即却下ですが、そこまでの自信が……実際にシたらどうなるのか見てみたい気もします。=That's incredibly bold of you. Normally, I would dismiss it out of hand, but with that much confidence... I'd like to see what happens when you actually do it.
 はぁ……貴方は全部それですね。人数なんてお構いなしですか……仕方ありません、私だけ逃げるわけにもいきませんし……=You're all that, aren't you? You don't care about the number of people... I can't avoid it, I can't just run away...
-HしようA隷属{0}=Let's H A slave {0}
 わ、私はお二人に合わせますので……お二人がいいなら、私も参加させて頂ければ……幸いです。=I'll go along with the two of you, so if you're okay with that, I'd be happy to join you.
 まぁっ、また凄い事を考えましたね。私はその、流されやすい性格なので……こういう空気は、断り辛いというか……やってみても、いいですよ。=Well, you've come up with another great idea. I have a tendency to be easily influenced, so it's hard for me to say no to this kind of atmosphere... I'll give it a try.

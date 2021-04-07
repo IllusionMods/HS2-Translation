@@ -2,32 +2,25 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 えっ、女！？　いやいやごめんごめん、驚いただけで嫌ってわけじゃないからね！？=What, a woman? No, no, no, sorry, sorry, I'm just surprised, I don't hate you!
 でも、女とエッチするなんて、ちょっと照れるね。あ、あはは、緊張してるけど、よろしくねー？=But I'm a little embarrassed to have sex with a woman. Ah, haha, I'm nervous, but it's nice to meet you, okay?
 あーっ、本当に女じゃん！　プロフィールに女だって書いてあったからびっくりしてさー。私、女とするのは初めてだから、お手柔らかにね？=Oh, you're really a woman! I was surprised because you said you were a woman in your profile. I've never done it with a woman before, so please be gentle with me, okay?
-好意{0}=Favors {0}
 うわ……可愛い～！　めちゃくちゃ私のタイプの女だよ、というか私って女もイけたんだ～。=Wow... You're so cute! She's my type of girl, I mean, I can make women come too!
 でもヤバい、そんな子とスるのとか恥ずかしすぎ？　ちょ、ちょっと待って、心の準備するから……！=But oh no, I'm too embarrassed to have sex with a girl like that? Wait, wait, wait, I'll prepare myself!
 はじめまして～。プロフィール見たときから、好きだなーって思ってたんだけど、実物の方が可愛いね。=Nice to meet you~. I thought I liked you from the moment I saw your profile, but you're prettier in person.
 女同士でするのとかちょっと恥ずかしいけど、その……よ、よろしくね……♪=It's a little embarrassing to do it with other women, but... Well, it's nice to meet you ♪
-享楽{0}=Enjoyment {0}
 あ、やっほ～！　ずっと女同士でエッチしてみたかったんだよね～♪　お前もそうだから誘ってくれたんでしょ？　一緒に色々試してみよ♪=Ah, yoo-hoo! I've always wanted to have sex with other women ♪ You invited me because you're like that, right? Let's try some things together ♪
 私を呼びだすなんて、お前女のくせに勇気あるじゃん♪=You're very brave for a woman to call me out ♪
 その勇気が消えないうちにいただいちゃわないとね、今日はガッツリ楽しむから、覚悟しなよ？=I'm going to have to take it before that courage wears off. I'm going to have a lot of fun today, so be prepared, okay?
-嫌悪{0}=Disgust {0}
 正直、お前のことは嫌いだから、そんな相手とエッチするのは、本当は無理。でも誘われたら受けるのがルールだから、私のことは好きにシていいよ。=To be honest, I don't like you, so I can't really have sex with someone like that. But the rule is that if you ask me out, I'll take it, so you can do whatever you want with me.
 あのさー、悪いけど私レズじゃないからね？　お前が私のことをどう思ってるか知らないけど少なくとも私にその気はないから。=Look, I'm sorry, but I'm not a lesbian, okay? I don't know what you think of me, but at least I don't have any intention of being one.
-隷属{0}=Slavery {0}
 えーっと、男ならわかるけどさー、私って女にも需要あんの？　同じ女の身体を好き勝手したいとか？=Well, I understand if you're a guy, but... Am I in demand by women? Do you want to do whatever you want with the same woman's body?
 まあ、あんまり聞くと失礼かもしれないし、とりあえず……ヤろっ？=Well, it might be rude to ask too much, so let's just... Fuck.
 別に嫌ってわけじゃないんだけど、女より男が相手だった方が気が楽だったな。=It's not that I didn't like it, but I was more comfortable with a man than a woman.
 だって私、人よりエロだから、女に否定されるのって結構クるんだよね……=Because I'm more erotic than most people, it's pretty annoying to be denied by a woman...
 まあ、私を呼んだってことは否定するつもりはないのかな？　とりあえず、お手柔らかにね……=Well, I guess you're not going to deny that you called me, are you? Anyway, take it easy on me...
-壊れ{0}=Broken {0}
 ………………=...
 お前……あうぅ……♪=You... Uhh ♪
-依存{0}=Depends{0}
 あぁ、本当に女だぁ♪　私、女の身体を好き勝手できちゃうのぉ？=Oh, I'm really a woman... I can do whatever I want with a woman's body?
 あ、さすがに好き勝手は怖かったかな？　大丈夫大丈夫、ちゃんと気持ち良くするからぁ♪=I'll make you feel good. Don't worry, I'll make you feel good ♪
 へぇ、お前が私と気持ち良くなりたいっていう女？　私みたいな女選ぶなんて物好きだねぇ、というかゲテモノ好きってやつ？=Oh, so you're the one who wants to get it on with me? You must be a real freak to pick a girl like me, or is it a ghetto freak?

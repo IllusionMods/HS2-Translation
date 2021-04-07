@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 本当は気持ちいいのが一番なんすけどー最近は痛いのにも慣れたきちゃったんすよねー。=The best thing is to feel good, but lately I've gotten used to the pain.
 あなたが何度も酷いことするんで身体が慣れちゃったっすよー、慣れって恐ろしいもんすねー。=My body has gotten used to it because you've done so many terrible things to me.
-好意{0}=Favors {0}
 痛いのとか苦しいのに慣れてきたんでーも少し回数増やしてもいいすよー。=I'm getting used to the pain and suffering, so I can do it a little more often.
 痛いのとか苦しいのとかは嫌いすけど、あなたのことは好きなんで受け入れることにしたっすー。=I don't like pain and suffering, but I like you, so I've decided to accept you.
-享楽{0}=Enjoyment {0}
 今日なんすけど痛い系は一旦封印しないすか～？　痛いのに慣れてきてるんでマズいかなーってー。=Today, why don't we stop the painful stuff for a while? I'm getting used to pain, so I thought it might be a bad idea.
 痛め付けプレイに慣れてきたんであなたにもーと思ったんすけど、ヤる専門ぽいすよね～。=I'm used to playing with pain, so I thought I'd do the same for you, but you seem to specialize in fucking, don't you?
-嫌悪{0}=Disgust {0}
 そういやなんすけど、あなたが散々いためつけてくれたお陰で耐性ついちゃったんすよー。=Well, thanks to your torment, I've developed a tolerance.
 あなたがあんまりにも私を乱雑に扱うんで、痛いのに慣れちゃったんすけどー？=You've been treating me so roughly that I've gotten used to the pain, you know?
-隷属{0}=Slavery {0}
 今日も目いっぱい痛くしてくれるっすか～？　Mっ気があったみたいでーよくなってきちゃったんすよ～♪=Are you going to make me hurt like crazy again today? It seems that you have a "M" in you, and you've been getting better ♪
 エロって奥が、やー業が深いなーと思うんすけどー痛いのが逆に気持ちよくなってきたんすよね～♪=I think that eroticism is very deep, but the pain is making me feel better ♪

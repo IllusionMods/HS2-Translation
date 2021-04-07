@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 へ？　それは誠のお話なのですか？　驚きです……=Heh? Is that a sincere story? I'm surprised...
 ……人それぞれですね。私にはない発想でした。=... To each his own, I guess. It was an idea I never had.
-好意{0}=Favors {0}
 ……わ、私に出来るかは分かりませんが、参考に致しますっ。=... I don't know if I can do it, but I will refer to it.
 うふふ……貴方のそういった所を、私は特に尊敬しております。=I especially admire that about you.
-享楽{0}=Enjoyment {0}
 そうなのですか？　私達の相性はばっちりですね。=Is that so? We're a perfect match, aren't we?
 それは驚きですね……ですが、いつか試してみたい思いもあります。=That's amazing... But I also want to try it someday.
-嫌悪{0}=Disgust {0}
 ……もう少々、ゆっくり話して頂けませんか？=... Would you mind talking a little more slowly?
 何事も、程度というものがございます。それを学ばない限り、貴方に成長はありません。=There is a degree to everything. Unless you learn that, you will never grow.
-隷属{0}=Slavery {0}
 えっと……私は、違う箇所があるからこそ、惹かれるのだと思います。=Well... I think I am attracted to you because of the different parts.
 ……そういった際は、一度心を落ち着けるのが有効かと思います。気持ちが逸ったままでは上手くいきませんから。=... In such cases, I think it is useful to calm down. It's not going to work if you're not in the right frame of mind.

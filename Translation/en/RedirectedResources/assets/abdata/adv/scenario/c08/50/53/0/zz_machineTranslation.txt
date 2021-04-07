@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 見ただけで、すごくヌルヌルしてるのが分かるっす……=Just by looking at it, I can see that it's very slippery...
 これが、今から絡みついてくるんすね？=This is what you're about to get tangled up in, isn't it?
 さぁて……どんなエロい事されちゃうんすかねぇ。=Now... What kind of erotic things will they do to me?

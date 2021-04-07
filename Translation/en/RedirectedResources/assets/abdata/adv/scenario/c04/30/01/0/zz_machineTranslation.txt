@@ -2,13 +2,10 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-汎用{0}=General Purpose {0}
 んふ、いたいた♪　アタシに話しかけてくるのが遅いんじゃない？=It's a little late to be talking to me, isn't it?
 お、来たね。他の女に寄り道しないで、ちゃんとまっすぐアタシのとこに来た？=Oh, there you are. Did you come straight to me instead of stopping at other women?
 遅い。アタシが会いたいなーと思ったら、察してすぐ来るのがアンタの役目でしょ？=You're late. If I want to see you, you're supposed to come right away, right?
-風呂{0}=Bath {0}
 へぇ、アタシのお風呂を待ち伏せ？　可愛いとこもあるじゃん♪=So, you're waiting for me to take a bath? You have a cute side ♪
 他の女を覗いたりしてない？　アンタって節操無いから心配だわ。=Are you spying on other women? I'm worried about you because you're so manipulative.
-用件{0}=Business {0}
 で？　何の用？　なんて聞くまでも無いっしょ？　もちろん……エッチだよね？=So? What do you want? I don't have to ask, do I? Of course... We're having sex, right?
 じゃ、即ヤリでいい？　その前になんか話とかあれば、聞いてあげるけど。=So, can we fuck right away? If there's anything you want to talk about before that, I'm all ears.

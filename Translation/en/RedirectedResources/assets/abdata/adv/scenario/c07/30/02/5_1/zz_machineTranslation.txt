@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Let's H B normal {0}
 ったく、ここで断ったら、オレだけビビッてるみてぇじゃねぇか。=If I refuse at this point, I'll look like I'm the only one who's scared.
 仕方ねぇな、オレも付き合ってやるよ。=I can't avoid it. I'll go along with you.
-HしようB好意{0}=Let's H B favor {0}
 ここでオレだけ抜けても、後味がわりぃからな。いいぞ、やってやる。=I don't like the aftertaste of being left out here. I'll do it.
 気使うやつが増えるのは面倒だが。まぁ、やらない理由にはならねぇな。=It's a pain in the ass to have to worry about more people. Well, that's no reason not to do it.
-HしようB享楽{0}=Let's have some fun.
 おいおい、乱交ってやつか？　面白いことを考えるじゃねぇか。=What is this, an orgy? That's an interesting idea.
 もちろんオレも混ぜてもらうぞ。文句はねぇな？=Of course I'm in. No complaints, right?
-HしようB嫌悪{0}=Let's H. B. Aversion {0}
 オマエの提案ってのが気に入られねぇが、三人でするのには賛成だ。=I don't like what you're proposing, but I agree that the three of us should do it together.
 するのは構わないが、オマエはおまけみたいなもんだからな？　覚えとけよ？=I don't mind if you do, but you're just a bonus, okay? Remember that?
-HしようB隷属{0}=Let's H B Slave {0}
 悪くない話だな。三人でめちゃくちゃするってことだろ。=That's not a bad story. It means the three of us are going to mess things up.
 よし、オレも乗った。ここで断ったら、女がすたるってもんだ。=Okay, I'm in. If I refuse at this point, I'll lose my virginity.

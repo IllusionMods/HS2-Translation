@@ -2,38 +2,28 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-汎用普通{0}=General-purpose normal {0}
 よお暇人。なにボサッと突っ立ってんだ？=What are you doing? What are you just standing there for?
 ほう、奇遇だな。オマエも来てたのか。=Well, what a coincidence. You're here too?
 暇になるとここに来ちまうよな。お互い悪い癖だ。=When I'm not busy, I come here. It's a bad habit for both of us.
-汎用普通用件{0}=General-purpose normal case {0}
 で？　何かオレに用があるなら、早く言え。=So? If you need me for something, just tell me.
 オレに話があんのか？　手短にしろよ？=You want to talk to me? Can we make this quick?
-汎用好意{0}=Generic favor {0}
 おう、元気か？　もっと背筋を伸ばせ、みっともねぇぞ。=Hey, how you doing? You need to straighten your back, you're disgusting.
 また女漁りに来たのか？　ほどほどにしとけよ？=You're here to scavenge again? Why don't you go easy on yourself?
 なんでか、オマエと会うと緊張感が無くなるな。困ったもんだ。=I don't know why I feel so nervous when I see you. I'm in trouble.
-汎用好意用件{0}=General Favor {0}
 ん？　なんだ？　ジッと見てねぇで、言いたいことがあるならハッキリ言え。=Hmm? What is it? Don't just stare at me. If you have something to say, say it clearly.
 ほら、何か言え。オレに用があんだろ？=Come on, say something. You wanted to see me, right?
-汎用享楽{0}=General Enjoyment {0}
 おーいたいた。サカリのついたサルが一人な。=Oh, there you are. There's a monkey with a sakari.
 おい、万年発情期。オマエだ、オマエのことを言ってるんだよ。=Hey, perennial rut. It's you, man. I'm talking about you.
 なにギラついた目してんだ？　怖がられんぞ？=What's with the glare in your eyes? You're gonna scare the shit out of me.
-汎用享楽用件{0}=General Enjoyment Case {0}
 まさか、ガン付けに来たわけじゃないだろ？　要件はなんだ？=You're not here to shoot me, are you? What's the requirement?
 用が無いなら俺は行くぞ？　時間は有限ってやつだ。=If you don't need me, I'll go. Time is limited.
-汎用嫌悪{0}=General aversion {0}
 おい、会ったら挨拶だろ？　礼儀も知らねぇのか？=Hey, we're supposed to say hello when we see each other. Don't you even know how to be polite?
 チッ、目障りなやつがいやがる。=Damn, there's a guy who's a pain in the ass.
 おい、ゴミ箱はあっちだぞ？　勝手にうろちょろするな。=Hey, the trash cans are over there, okay? Don't go wandering around on your own.
-汎用嫌悪用件{0}=General dislike {0}
 なにをまごついてやがる。用が無いなら、最初からオレの視界に入るな。=What are you waiting for? If you don't need me, stay out of my sight from the start.
 なんだ？　ビビって口も聞けなくなったか？　情けねぇ。=What is it? You're so scared you can't even talk to me anymore? You're pathetic.
-汎用隷属{0}=General Purpose Slavery {0}
 あぁ、いたのか。挨拶くらいしろ。=Oh, there you are. You should at least say hi.
 よう、オマエはいつも気楽そうでいいな。=Hey, you always seem to take it so easy, don't you?
 オマエ、毎日いないか？　ハマリ過ぎだろ。=You're here every day, aren't you? I think you're a little overwhelmed.
-汎用隷属用件{0}=General Slavery Conditions {0}
 どうした？　何か話があるんだろう？　そんなに言い難いことか？=What's up? Is there something you want to tell me? What's so hard to say?
 ったく、愚図だな。用があるならさっさと話せ。=You're a fool, aren't you? If you have something to say, just say it.

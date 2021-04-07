@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelude B normal {0}
 こんちはー。今日は２人っすよー。=Hello. It's just the two of us today.
 なんすかなんすか～？　３Ｐ目的っすかー？=What is it? What is it? Is it for a threesome?
-前フリB好意{0}=Prelude B Favor {0}
 あー今３Ｐ想像したっすねー？　やー、私がなんすけどー。=You just imagined a threesome, didn't you? No, that was me.
 会うのがわかってたならーあなたのことを話してたんすけどねー残念っすー。=If I had known we were going to meet, I would have told her about you.
-前フリB享楽{0}=Prelude B. Kyouraku {0}
 むふふー、２人で何してたかわかるっすかー？=Mmmm... Do you know what we were doing together?
 あなたの方から会話に入ってくるなんてー超ヤる気マンマンじゃないすか～。=You're the one who's going to initiate the conversation.
-前フリB嫌悪{0}=Pretense B Disgust {0}
 おしゃべりに夢中であなたに気付かなかったっすー。=I was so busy chatting that I didn't notice you.
 ２人でおしゃべりは一旦中止っすねー。=The two of us stopped chatting for a while.
-前フリB隷属{0}=Prelude B Slave {0}
 もしかしてーセックスのお誘いすかー？　しかも３Ｐとかだったら最高なんすけど～。=Is it possible that you're asking me to have sex with you? And if it's a threesome, that would be great.
 ２人でしゃべってたのにーあなたが見えた瞬間濡れちゃったんすけど～。=We were just talking together, but the moment I saw you, I got wet.

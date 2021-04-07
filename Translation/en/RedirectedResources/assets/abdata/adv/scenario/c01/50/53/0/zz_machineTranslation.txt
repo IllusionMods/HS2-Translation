@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 なんだか、かなり動き回ってるけど、大丈夫なの？=You're kind of moving around a lot, are you okay?
 一応安全なのよね？　ならいいけど。=It's safe, right? I hope so.
 いいわよ……試しに遊んでみるから。=Okay... I'll give it a try and play with it.

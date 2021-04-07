@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 私たちは言葉なんて交わさなくても分かり合える関係ですよ……？　おしゃべりはピロートークの時間にとっておきましょう……♪=We don't need words to understand each other? Let's save the chatter for pillow talk time ♪
 うふふふ、急に恥ずかしくなったんですね……♪　大丈夫です、私があなたのいちばん好きなセックスへと導いてあげますから……♪=Don't worry, I'll lead you to the sex you love the most ♪

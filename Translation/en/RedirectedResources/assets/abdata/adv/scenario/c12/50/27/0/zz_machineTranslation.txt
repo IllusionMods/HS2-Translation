@@ -2,43 +2,33 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 楽しかったか？　だったら問題ないぜ。=Did you have a good time? If so, no problem.
 気持ち良かったな……お前も楽しめたみたいだし、満足だよな。=That felt good... And you seemed to enjoy it, so I'm happy for you.
 ありがとな、結構いい感じだったぜ。=Thanks, that was pretty good, man.
-好意より50～79{0}=50-79{0} from favor.
 うん、お前のおかげですげぇ満足できたぜ。=Yeah, you've given me a lot of satisfaction.
 お前と一緒にするの、やっぱり嫌いじゃないぜ……どっちかって言うと、好き、かな。=I still don't mind being with you... I guess I like you more.
 すげぇ楽しかったぜ。終わっちゃうのがもったいないくらいだよ。=It was so much fun. It's such a shame it's over.
-好意より80～100{0}=80-100{0} over favoritism
 終わっちゃったのか……なんかお前ともっと一緒にいたいけど、また今度会えるのを楽しみにしておくよ。=It's over... I kind of wish I could spend more time with you, but I'll look forward to seeing you another time.
 お前と一緒にいると、なんか幸せな気分になるんだよな……また、俺のこと誘ってくれよな。=I feel so happy when I'm with you... You should ask me out again.
 気持ち良くて、すげぇ幸せだったぜ……お前も喜んでくれてたなら、嬉しいな。=It felt so good, I was so happy... I'm glad you were happy too.
-享楽より50～79{0}=50-79 from Kyouraku {0}
 すげぇ気持ち良かったぜ。今度はいつにする？　予定を決めておこうぜ！=That felt so good, man. When do we do it again? Let's make a plan!
 思いっきり感じちゃったぜ。やっぱりお前とのセックスは最高だな！=I felt it with all my might. I've never had better sex than with you!
 お前となら、もっとすげぇセックスが出来る気がするぜ。次もよろしくな。=I feel like I can have even more amazing sex with you. See you next time.
-享楽より80～100{0}=80-100{0}
 こんなに気持ちのいいセックスができるなんて、やっぱりお前は最高だな。=I knew you were the best at having such good sex.
 お前のおかげですげぇ熱くなれたぜ。やっぱセックスはこうでなくっちゃな。=You made me feel so hot. This is what sex should be like.
 あぁ、気持ち良かったぁ……お前のおかげで最高に感じちゃったぜ、ありがとな。=Oh, that felt so good... You made me feel so good, thank you.
-嫌悪より50～79{0}=50-79 from disgust {0}
 お疲れ、もう終りでいいんだろ。=Good work. I guess we're done here.
 これで終わりだよな？　んじゃ、さいなら。=That's it, right? Well, good-bye.
 お前もいったんだよな？　なら、これで終わりでいいだろ。=You did it, right? Then let's just get this over with.
-嫌悪より80～100{0}=80-100{0} than disgust.
 特に楽しめたわけじゃないけど、射精できたなら別にいいだろ。=I didn't particularly enjoy it, but if I could ejaculate, so what?
 気持ち良かったならもういいだろ。これで終わりにしようぜ。=If it felt good, that's enough. Let's get this over with.
 終わりでいいんだろ？　もう話すこともないし、これで帰るからな。=Are you sure you want to end this? There's nothing more to talk about, and I'm leaving now.
-隷属より50～79{0}=50-79{0} from servitude.
 俺の身体、楽しんでもらえたかな？=I hope you enjoyed my body.
 やっぱりセックスは良いよな。特にお前とのセックスは最高に快感だよ。=Sex is still good, isn't it? Especially with you, it's the best sex I've ever had.
 今日も盛り上がったな。ありがとう、お前のおかげだよ。=It's been a great day. Thanks, man. You made my day.
-隷属より80～100{0}=80-100{0} from servitude.
 こんなに感じてしまうなんて、やっぱりセックスって最高だよね。=I can't believe I feel this way, sex is so great.
 俺の身体、存分に楽しんでもらえたかな？　もちろん、俺の方は大満足だけどね。=I hope you enjoyed my body as much as I did. Of course, I'm very satisfied.
 身も心も、最高に満足だよ……さすが、お前だな。=I'm very happy with my body and soul... You're the man.
-依存{0}=Depends{0}
 お前は本当にすごい奴だな。セックスをするたびに、心が蕩けそうになる。=You really are an amazing guy. Every time we have sex, I feel like my heart is about to be debauched.
 俺は、お前に求められたら絶対断らない……お前だったら全部任せてもいいよ。=I'll never say no to you if you ask me to... If it's you, I'll leave it all to you.
 最高に気持ち良かったぜ、やっぱりお前じゃなくちゃダメかもしれない。=That was a great feeling, I think it might have to be you.

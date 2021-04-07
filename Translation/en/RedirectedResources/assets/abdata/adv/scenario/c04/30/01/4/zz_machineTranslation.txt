@@ -2,9 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H{0}=H{0}
 ん？　なに？　聞こえない。アタシ、エッチしてる時以外は耳遠くなるんだよね。=Hmm? What? I can't hear you. I'm deaf when I'm not having sex.
 意味わかんないこと言ってないでさー、いいから早くヤろうって言ってんのっ！=Don't say something I don't understand, I said, let's fuck!
-Home{0}=Home{0}
 んぅ……ちょっとアタシ……なんか変になってたみたい。結構迷惑かけちゃった？=I think I've been acting a little strange. Did I bother you much?
 あーうー、アタシ痴女じゃん……流石にちょっと恥ずかしーわ。=I'm a lascivious woman... I'm a little embarrassed.

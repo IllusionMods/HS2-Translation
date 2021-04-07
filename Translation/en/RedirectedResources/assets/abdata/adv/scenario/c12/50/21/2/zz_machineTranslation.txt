@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 どこへ行くつもりだ？　俺から離れられると思ってるのかよ。=Where do you think you're going? You think you can get away from me?
 俺とセックスしろよ……それ以外、お前に選択肢ねぇから……=You should have sex with me... Because that's the only option you have.
 逃げ出した=He got away.

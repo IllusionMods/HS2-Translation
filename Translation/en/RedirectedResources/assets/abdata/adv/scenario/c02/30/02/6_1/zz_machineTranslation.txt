@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後B普通{0}=H posterior B normal {0}
 また、こうやって囲まれたい時には声をかけてみてください。=Also, if you want to be surrounded like this, please call out to them.
 それでは、私達も一息入れてきますね。=Then we'll go take a break, too.
-H事後B好意{0}=H posterior B favor {0}
 少しは私を感じてくれましたよね？　……ね？=You felt me a little bit, didn't you? Right?
 流石に、あなた以外の人とだと恥ずかしさがありますね……=I'd be embarrassed to be with anyone but you...
-H事後B享楽{0}=H Post B Enjoyment {0}
 次もまた私達の事、楽しませてくださいね？=You'll have to entertain us again next time, won't you?
 いつ私達に襲われてもいいよう、あなたも準備しておいてくださいね？=You should also be prepared for us to attack you at any time, okay?
-H事後B嫌悪{0}=H posterior B aversion {0}
 で、あなたはいつまでいるんですか……？=So, how long are you going to be here?
 用が済んだのなら、早くこの場から離れたいんですが……=If you're done here, I'd like to get the hell out of here.
-H事後B隷属{0}=H Post B Subjugation {0}
 ふぅ……乱交、いいですね……またしたいです。=Hmm... Orgy, good... I want to do it again.
 私達は、いつでもあなたのセックスを待ってますから。=We're always waiting for you to have sex with us.

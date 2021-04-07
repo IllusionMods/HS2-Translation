@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 なるほど……そういうことはあるかも知れないわね。=Well... That might be the case.
 それは……ちょっと恥ずかしいんじゃないの？=Isn't that... A little embarrassing?
-好意{0}=Favors {0}
 そんなＨな話してたら、恥ずかしくなっちゃうわ。=I'm so embarrassed when I talk about sex like that.
 そういう話が好きなの？　困った人ね。=You like that kind of talk? You're in trouble.
-享楽{0}=Enjoyment {0}
 Ｈな話をしていたら、身体が熱くなっちゃうわ。=All this talk of "H" is making me hot.
 あなたと、もっとＨなお話がしたいわ。=I'd like to talk more about sex with you.
-嫌悪{0}=Disgust {0}
 あんまり、Ｈな話に興味はないんだけど。=I'm not really interested in talking about sex.
 そういう話、聞いても仕方がないのよね。=That's the kind of story you can't avoid but hear.
-隷属{0}=Slavery {0}
 あなたが望むなら、どんなＨな話だって聞くわよ。=I'm willing to listen to any kind of sex talk you want.
 いいわよ……そういうＨな話、どんどん聞きたいわ。=I'd like to hear more and more about that kind of stuff.

@@ -3,14 +3,11 @@
 //***********************************************************************
 
 悪いな、突然来ちまって……ちょっとだけ俺と付き合ってくれねぇか？=I'm sorry I came out of nowhere, but I was wondering if you could hang out with me for a while.
-好意50_汎用{0}=Favors 50_ Generic {0}
 気が付いたらお前の部屋まで来てたんだよなぁ……ちょっとだけ邪魔してもいいか？=I found myself walking up to your room... Can I interrupt you for a moment?
 忙しい所悪いな……なんか、急にお前の顔が見たくなっちまって……=I'm sorry to bother you... But I suddenly wanted to see your face...
 お前の傍にいると、なんか安心するんだよ……今日も一緒にいてくれるか？=When I'm around you, I feel kind of safe... Will you stay with me today?
 ・・・・・=・・・・・
-好意50続き{0}=Favors 50 continued {0}
 ありがとな……それじゃ、俺はこれで帰るよ。=Thanks... I'll be on my way then.
 もうこんな時間かよ……悪いな、長居しちまって……それじゃ、ありがとな。=It's already this late... Sorry I stayed so long... Thanks for your time.
 やっぱ、お前と一緒にいられるのが一番楽しいな……それじゃ、またな。=I really enjoy being with you the most...
 なんか、ちょっとお前が何してんのかなぁって思って……押しかけちまったぜ。=I was just wondering what you were up to... So I barged in.
-好意80_汎用{0}=Favors 80_ Generic {0}

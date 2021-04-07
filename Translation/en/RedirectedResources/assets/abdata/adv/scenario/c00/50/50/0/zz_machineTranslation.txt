@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 この様な雰囲気のある場所であなたとお酒を飲むとなると、この後のことを期待してしまいます。=Having drinks with you in a place with such an atmosphere makes me anticipate what is to come.
 初めからそのつもりで誘って下さったのですよね？　とぼけても無駄ですよ？=You asked me out with the intention of doing so from the beginning, didn't you? There's no point in playing dumb, is there?
 本日はどの様なセックスをして下さるのですか？　期待しています。=What kind of sex are you going to have with me today? I'm looking forward to it.

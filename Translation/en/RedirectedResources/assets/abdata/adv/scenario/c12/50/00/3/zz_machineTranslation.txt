@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 そうか、わかった。またなんかあったら声かけてくれよ。=Okay, okay. If you need anything else, just give me a call.
 何でもないのか。なんかあるんじゃないのか？　まぁ、別にいいけど。=It's nothing. Isn't there something going on? Well, I don't care.
-好意{0}=Favors {0}
 そうか。でもちょっとだけでもお前と会えてよかったよ。それじゃあな。=I see. But I'm glad I got to see you for a little while. See you later.
 いいよ、別に。お前が俺に声をかけてくれただけで嬉しいぜ。=No problem. I'm just glad you asked me to come.
-享楽{0}=Enjoyment {0}
 なんだよ？　なんか変なもん拾い食いしたんじゃねぇだろうな。=What is it? I hope you didn't pick up something weird and eat it.
 そうか。それじゃまたなんかあった時によろしくな。=I see. I'll see you later.
-嫌悪{0}=Disgust {0}
 俺もだ。気が合うな……じゃあな。=Me too. We're kindred spirits... See you.
 俺も用はねぇよ、んじゃ、さいなら。=I don't need you either. Bye.
-隷属{0}=Slavery {0}
 放置プレイでもするつもりなのか？　だったら乗ってやるよ。じゃあ、後でな。=Are you going to play abandoned? Then I'll give you a ride. I'll see you later.
 あれ、なんでもないとは穏やかじゃないな……お前はいつも何かあると思ってたのにな。=Oh, that's nothing... That's not calm... You always knew there was something wrong with you.

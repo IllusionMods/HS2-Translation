@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 どうなのでしょう……何とも言えませんね。=I don't know... It's hard to say.
 貴方は少し、素直過ぎるのかもしれません。=You may be a little too honest.
-好意{0}=Favors {0}
 私の知らない世界ですね……よく、調べておきます。=It's a world I don't know... Well, I'll look into it.
 あ、貴方の趣味は否定しませんよ。理解できるよう頑張ります。=Oh, I won't deny your hobby. I'll do my best to understand it.
-享楽{0}=Enjoyment {0}
 それは少し……理解に苦しみますね。=That's a little... Hard to understand.
 貴方も、大分歪んでいるようですね。=It seems you are also very distorted.
-嫌悪{0}=Disgust {0}
 それ、本当ですか？　流石に少し、引きました……=Are you sure about that? I'm a little taken aback.
 もうその話はやめましょう。聞いていて気持ち悪いです。=Let's not talk about it anymore. It's unpleasant to listen to.
-隷属{0}=Slavery {0}
 お気持ち、分かります！　もう痛いほどに……=I know how you feel! It's so painful...
 ふふ、貴方の感性は、私に似ているようですね。=Hmm, your sensibility seems to be similar to mine.

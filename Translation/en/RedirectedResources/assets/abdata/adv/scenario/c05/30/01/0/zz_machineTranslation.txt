@@ -2,13 +2,10 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-汎用{0}=General Purpose {0}
 こ、このようなところでご主人様にお会い出来るなんてっ……=I can't believe I'm meeting my master here...
 ご主人様っ……もしかして私を探してくれてたんですかっ……？=Master, could it be that you've been looking for me?
 こんな場所でご主人様に声を掛けて頂けるなんてっ……私みたいな駄犬には勿体ないです……=I can't believe I'm being called out by my master in a place like this, it's too good for a bad dog like me...
-風呂{0}=Bath {0}
 え……あ、ご主人様……この駄犬と一緒に洗いっこしますかぁ？=Uh... Oh, master... Would you like to wash with this bad dog?
 こ、ここに来てくれたってことは……ご主人様の背中を流させて頂けるってこと……ですか？=If you've come here, does that mean you'll let me wash your back?
-用件{0}=Business {0}
 さぁ、ご主人様、せっかく会えたんですから……早速、この駄犬の穴を使ってください。=Now, master, now that we have met... Please use this spoiled dog hole as soon as possible.
 ご主人様……駄犬まんこ……いつでも準備万端ですよ？　ふふっ、もちろん使ってくれるんですよね？=Master... My spoiled dog cunt... It's always ready for you, isn't it? Of course you'll use it, won't you?

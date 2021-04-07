@@ -2,24 +2,17 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 お疲れさまです。　とりあえず、これからもよろしくお願いします。=Thanks for your help. For now, please keep up the good work.
 終わりですか？　……そうですか、お疲れさまでした。=Are you finished? Well, thank you for your help.
-好意{0}=Favors {0}
 ……それじゃぁ、これから心身共々、よろしくお願いしますね。=... Well then, please take care of me both physically and mentally from now on.
 ふぅ……まぁ、したい時にまた呼んで下さい。　……あなたになら、応えて問題なさそうですから。=Hmm... Well, call me again when you want to... Because I don't think I'll have a problem responding to you.
-享楽{0}=Enjoyment {0}
 私、まだまだ満足していないんで。　これから、もっともっと楽しませて下さいね？=I'm not satisfied yet. Please let me have more and more fun in the future, okay?
 それじゃまた。　……次もまた、遊びましょう？=See you later... Let's play again next time, okay?
-嫌悪{0}=Disgust {0}
 はい、終わりです。　お疲れさまでした。=Yes, it's over. Thank you for your hard work.
 別に、無理に誘って頂く必要はないので。　むしろ誘って頂かなくても結構ですので。=You don't have to force me to invite you. In fact, you don't even have to invite me.
-隷属{0}=Slavery {0}
 私、待つのは得意ですから。　次もまた、よろしくお願いしますね？=I'm good at waiting. I'll see you next time, won't I?
 こんなものじゃ相性なんてわかりませんよね。　だから……次も、お願いしますね？=You can't tell compatibility with something like this. So... Next time, please do the same, okay?
-壊れ{0}=Broken {0}
 おわ……った……？=Did you?
 あり、がと……ございまし、た……=Thank you... Thank you...
-依存{0}=Depends{0}
 嫌、離れたくない……でも、離れないと嫌われちゃう……ははっ、私、どうしたらいいんですかね……？=No, I don't want to leave... But if I don't, he'll hate me... Haha, what am I supposed to do?
 終わり、ですか……わかりました、いつでも呼んで下さい。　……いえ、呼ばれなくても、あなたの傍に向かいますから……=It's over, isn't it... Okay, please call me anytime... No, you don't have to call me, I'll come to your side...

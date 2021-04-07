@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-好意{0}=Favors {0}
 いい時間だったすね……やっぱり場所の力って偉大っすねー。=It was a good time... The power of the place is great, isn't it?
 また、誘って欲しいっす。=I hope you'll invite me back.
 あなたと美味しいお酒が飲めて、幸せだったすよ～。=I was so happy to have had a good drink with you!

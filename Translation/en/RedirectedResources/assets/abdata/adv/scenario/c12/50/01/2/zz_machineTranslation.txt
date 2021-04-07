@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 勿論OKだぜ。お前とエッチできないなんて冗談じゃないからな=Of course you can. I'm not joking about not being able to have sex with you.
 俺が断る訳ねぇだろ。今日も一緒に楽しく感じ合おうぜ。=I wouldn't say no to that. Let's have some fun together today.

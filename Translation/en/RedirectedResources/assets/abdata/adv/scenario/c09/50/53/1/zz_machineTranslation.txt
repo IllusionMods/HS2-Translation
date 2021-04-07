@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 触手に犯されちゃうわたし、しっかり見てくれましたかー？=Did you get a good look at me being fucked by tentacles?
 あなたさんの為に頑張ったので、あとでご褒美が欲しいです。=I worked hard for you, and I want to be rewarded later.
 あなたさんも一度、触手に絡みつかれた方がいいですよ。=You, too, should get entangled in a tentacle once.

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=An unremarkable response B. Normal {0}
 ゆっくりお話できると嬉しかったんですがー……=I was hoping we could take some time to talk, but...
 うーん、残念オブ残念ですよー！=Well, it's a shame of a shame!
-なんでもない返答B好意{0}=An unremarkable response B Favor {0}
 またお時間ある時にでも、まったりお話しましょー！=I'll talk to you again when I have time!
 次回はきっと、あなたさんも一緒に盛り上がりましょーねー！=Next time, I'm sure you'll join in on the fun!
-なんでもない返答B享楽{0}=Nothing Reply B Kyouraku {0}
 ふむー……一緒に色んなことが出来るかと思ったのですがー……=Hmm... I thought we could do a lot of things together, but...
 今度、もっと時間がある時に……お話と言わず、その他のこともやっちゃいましょー！=Maybe next time, when I have more time... Let's not just talk about it, let's do something else!
-なんでもない返答B嫌悪{0}=Nothing Reply B Disgust {0}
 はーい、ではではこれで、お疲れ様でーす。=Yes, that's it then.
 はぁ……疲れなくて良かった……今日はいー日かも！=I'm glad I'm not tired... Today might be a good day!
-なんでもない返答B隷属{0}=Nothing Reply B Slavery {0}
 はぁぁ……せっかくあなたさんと過ごせると思ったのに……ちょっと寂しいですね……=I thought I was going to be able to spend time with you... But I'm a little sad...
 なんか切ないですけど……その分、次にお会いできるのを楽しみにしてますよー！=It's kind of sad, but... That's why I'm looking forward to seeing you next!

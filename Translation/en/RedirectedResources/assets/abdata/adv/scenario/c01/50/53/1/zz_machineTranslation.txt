@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 あんなに気持ち良くなれるなんて……触手ってすごいのね。=I never thought I could feel that good... Tentacles are amazing.
 私も飼おうかしら、この子。=I think I'll keep her, too.
 触手って、あんなに感じちゃうのね……すごかったわ。=I didn't know tentacles could feel like that... It was amazing.

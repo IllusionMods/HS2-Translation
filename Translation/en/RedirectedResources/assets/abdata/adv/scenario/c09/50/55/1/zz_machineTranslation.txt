@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 ふふっ、叶うならずっとあなたさんとエッチなことをしてたいです。=I'd like to have sex with you all the time if I could.
 エッチして休んでまたエッチして……朝から晩まで、そうやって過ごせたら幸せだと思いませんか？=Wouldn't you be happy if you could have sex, rest, and then have sex again... From morning to night?
 ここで愛し合うと、永遠に結ばれたりしないですかね？=If we make love here, won't we be bound together forever?

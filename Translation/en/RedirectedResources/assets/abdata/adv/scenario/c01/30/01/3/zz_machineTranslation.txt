@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 なんでもないのね？　いいわよ、だったらエッチしましょう。=It's nothing, right? Okay, then let's have sex.
 言葉はいらないって事ね？　だったら、身体で語り合いましょう。=You mean you don't need words? Then let's talk with our bodies.

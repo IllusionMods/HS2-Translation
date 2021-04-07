@@ -2,21 +2,15 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 結局、痛い方が強かったぞ？　こういうことは、もっと上手く出来るようになってからしろ。=The pain was stronger in the end, okay? You'll have to learn to do these things better.
 オレを痛めつけて楽しかったか？　自己満足も大概にしろよ。=Did you enjoy torturing me? Don't be so self-absorbed.
-好意{0}=Favors {0}
 まったく、好き放題しやがって。相手がオマエじゃなけりゃ、ぶっ飛ばしてたところだ。=You've got a lot of nerve, you know that? If it weren't for you, I'd have kicked my ass.
 痛めつけられても、またしたくなってんだから……オレも重症だな。=Even though I've been hurt, I still want to do it again... So I have a serious problem.
-享楽{0}=Enjoyment {0}
 痛くされることに、そこまで文句を言うつもりはねぇが。別に気持ちいいだけでよくねぇか？=I don't mean to complain so much about the pain, but... Isn't it enough that it feels good?
 オマエの趣味はちょっとヤベェな。全部付き合ってたら、オレでも身体が壊れちまいそうだ。=Your hobby is a little dangerous. If I had to deal with all of them, even I would break down.
-嫌悪{0}=Disgust {0}
 オマエ、なんか勘違いしてねぇか？　きっとオマエみたいなやつが、犯罪者予備軍ってやつなんだろうな。=You've got it all wrong, haven't you? I'm sure that people like you are the pre-criminals.
 痛めつけたいだけなら、自分でも殴ってろ。痛みを知らないやつが、こんなことを軽々しくすんじゃねぇ。=If you just want to hurt me, go ahead and beat yourself up. Don't take this lightly if you don't know pain.
-隷属{0}=Slavery {0}
 あぁ、悪くねぇ。ここまで遠慮なしにできるヤツってのは少ないからな。オマエは貴重な存在だ。=Yeah, not bad. There aren't many people who can be this unreserved. You're a precious thing.
 そうだ、それでいい。需要と供給ってやつだな。オレ達はそういうところじゃ、最高に相性がいい。=Yes, that's it. It's like supply and demand. We're the best of both worlds.
-依存{0}=Depends{0}
 ハッ、何でも気持ちよくなっちうまうのも考えもんだな。お互い加減が分からなくなる。=Ha, it's a good idea to get comfortable with everything. It's hard for both of us to know what's right and wrong.
 おい、オレ以外にこんなことしてみろ？　下手すりゃオマエ、ブタ箱行きだぞ？=Hey, you ever do this to anyone but me? You're gonna get yourself thrown in jail, you know that?

@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 結婚式の次にすることは、お分かりですか？=Do you know what to do next after the wedding?
 結婚と言えば、初夜のちぎりですわ。=Speaking of marriage, it's my wedding night.
 それでは、早速始めましょう……=So let's get started...

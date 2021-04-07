@@ -2,42 +2,32 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 いやー……いやぁ～、やっぱセックスすると～このために生きてる～ってなるんすよね～♪=Oh no... When I have sex, I feel like I'm living for this ♪
 はー……あなたのがネチっこい動きで私を……あ、また濡れてきたっすー。２回戦目ってアリすかー？=I'm getting wet again... Can we have a second round?
 なーんかー……セックス以上に気持ちいいものなんてあるのかーって感じじゃないすかー？=I don't know... Is there anything more pleasurable than sex?
-好意より50～79{0}=50-79{0} from favor.
 あなたとすると気持ちいいってかー幸せってかー、このふたつって微妙に違うっすよねー？=When I do it with you, I feel good... I feel happy... These two things are slightly different, aren't they?
 はふー……ふふ、セックスが終わった後に、こーゆー雰囲気になれるのっていいっすねー。=Huh... Hmmm... It's nice to be able to get into this kind of mood after sex is over.
 前はセックスできればそれでいい～みたいなこと言ってたかもしれないすけど今は全然違うっすー♪=In the past, I might have said that as long as you can have sex, that's all that matters, but now it's completely different ♪
-好意より80～100{0}=80-100{0} over favoritism
 なんか、私の身体を知り尽くされてる～って感じのセックスで、ちょー気持ちよかったっすー♪=The sex felt like they knew my body inside and out, and it felt really good ♪
 身体もそうなんすけど、特に心というかー……あなたとのセックスって一体感があるんすよねー♪=The body is the same, but especially the mind... Sex with you is a feeling of oneness ♪
 セックスするためにあなたに会ってたのにー今はあなたに会うためにセックスしてる感じっす～♪=I used to meet you to have sex with you, and now I'm having sex with you to meet you ♪
-享楽より50～79{0}=50-79 from Kyouraku {0}
 お互いにイッたセックスの後ってー、なんかやってやった感あるっすよー♪=After sex, when you both come, you feel like you've done it ♪
 最近、自分がイッたときより、あなたがイッた時のホヤ～っとした顔見た方がゾクゾクするんすよねー。=Lately, I feel more thrilled when I see your face when you come than when I come myself.
-享楽より80～100{0}=80-100{0}
 最高のセックスだったっすけど、次はもっと私にヤらせてもいいっすよー♪=It was great sex, but next time you can let me fuck you more ♪
 同じ「イク」でも、あなたを攻めてるときの絶頂感ってハンパないんすよー♪=Even though it's the same as cumming, the feeling of climax when I'm attacking you is incredible ♪
 私、あなたのおちんちんから精液を搾り取るマニアになってるの気付いてるっすか～？=Do you realize that I'm becoming a maniac who squeezes the semen out of your penis~?
-嫌悪より50～79{0}=50-79 from disgust {0}
 ふぃ～、イッたイッたー、んじゃ、さよならっすー。=Woo~, I came, I came, I came... Well, goodbye.
 セックスできるならホイホイお呼ばれされちゃうんでー、気が向いたら誘っていいすよー。=If I can have sex with you, I'll be invited to your party, so you can invite me if you feel like it.
 やっぱセックスは気持ちいいやつに限るっすねー。=After all, sex should be pleasurable, right?
-嫌悪より80～100{0}=80-100{0} than disgust.
 ふぅ……あなたってほんとーセックスだけはうまいっすよね～。=You're really good at sex, aren't you?
 ちゃんとイけてよかったーってことでー、これにて失礼するっすー、ではではー。=I'm glad I was able to come properly, so I'll leave you now.
 イッたはイッたんすけどー、なーんか物足りないんすよねー。=I came, but it wasn't enough for me.
-隷属より50～79{0}=50-79{0} from servitude.
 あなたってほんとーに私を絶頂に導く天才っすよねー。なんかーもー病みつきって感じっす～。=You really are a genius at making me climax, aren't you? It's like I'm addicted to you.
 最近、あなたに攻められるとドキドキが止まらないんすよー、こりゃセックスの病っすね～♪=Lately, I can't stop my heart from pounding when you attack me... This is a sexually transmitted disease ♪
 あなたにアソコを舐めてもらったり、沢山気持ちよくしてもらうとー、すっごく安心するんすよ～♪=I feel so relieved when you lick my pussy and make me feel so good ♪
-隷属より80～100{0}=80-100{0} from servitude.
 もー私ーあなたとのセックスにぞっこんラブって感じっす～♪=I'm so in love with having sex with you ♪
 う～、ちゃんとふたりでイッたのに、まだ身体が疼くんすよ～、さてはあなたインキュバスっすね～？=You're an incubus, aren't you?
 あぁ～……もう時間っすねー、スケベなシンデレラになった気分っす。=It's time to go... I feel like a dirty Cinderella.
-依存{0}=Depends{0}
 あの、また乱れちゃいましたけど……そんな私を誘い続けてくれるあなたのことが……好き、です。=You know, I've gotten into trouble again, but I like you for continuing to invite me out like that.
 え、H、気持ちよかったです……あの、スケベな私ですけど……その、ま、また誘ってくれますか？=Well, H, it felt good... I know I'm a dirty person, but... Well, will you ask me out again?
 あの……やっぱり私、あなたのことが好き、です。うぅ、Ｈのときより心臓バクバクしてます……=I really like you, after all. Ugh, my heart is beating faster than it did when we were having sex...

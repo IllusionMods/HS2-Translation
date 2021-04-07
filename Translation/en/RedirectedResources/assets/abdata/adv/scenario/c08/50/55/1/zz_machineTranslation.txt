@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 新婚初夜って、素敵ですね……=A honeymoon is a wonderful thing...
 早く……家族を増やしていきたいです。=I can't wait... To expand my family.
 素敵な初夜でしたね……=It was a beautiful wedding night...

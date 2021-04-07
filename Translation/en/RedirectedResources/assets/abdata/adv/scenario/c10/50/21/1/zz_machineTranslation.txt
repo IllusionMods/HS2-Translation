@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 当たり前です。断っていたりしたら、少々面倒なことになっていましたよ？　さて、時間が惜しいです。早く始めましょう。=Of course. If I had refused, it would have been a bit troublesome, you know? Well, we're running out of time. Let's get started.
 そうです、貴方は私のパートナー。まぁ、多少の浮気は許しましょう。ですが、誰が一番貴方を気持ちよくできるのか、すぐに思い出せてあげます。=Yes, you are my partner. Well, I'll forgive a little cheating. But I'll remind you soon who can make you feel the best.

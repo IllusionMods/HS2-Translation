@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-享楽{0}=Enjoyment {0}
 身動きが取れないんですのね？　どうして差し上げようかしら？=You're stuck, aren't you? What can I do for you?
 あなたも、興奮しているようですわね。=You, too, seem to be excited.
 よろしいですわ……私が、悶えさせて差し上げます。=Very well... I will make you writhe.

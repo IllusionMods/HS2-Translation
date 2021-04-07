@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 ???=????
 端的に言って、ピンチですね……=Quite simply, I'm in a pinch...
 私としたことが、不覚です……=I'm sorry for what I did...

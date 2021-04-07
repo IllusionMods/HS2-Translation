@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 あら、照れていらっしゃるの？　そういう所もお可愛らしくて、襲ってしまいたいですわぁ……♪=Oh, are you embarrassed? That part of you is also very cute, and I want to attack you ♪
 では、ふたりでいやらしいつがいとなりましょう、激しく、艶めかしく……うふふふ♪=Now, let's be an illicit pair, intense and lustful ♪

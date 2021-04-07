@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=An unremarkable response A. Normal {0}
 あら、そうなの。=Oh, I see.
 そう、何か用があったんじゃないのね。=Yeah, you didn't want anything to do with it.
-なんでもない返答A好意{0}=An unremarkable response A favor {0}
 そう、残念ね。=Yeah, I'm sorry.
 そうなの、なんでもなかったのね。=Oh, yeah, it was nothing, wasn't it?
-なんでもない返答A享楽{0}=Nothing Reply A Kyouraku {0}
 あら、なんでもないなんて寂しいわね。=Oh, it's so sad that it's nothing.
 本当に何でもないの？=Are you sure it's nothing?
-なんでもない返答A嫌悪{0}=Nothing Reply A Disgust {0}
 なんでもないなら、別にいいわ。=If it's nothing, I don't care.
 そうなの、だったら気にしないわね。=Oh, well, I won't mind if you do.
-なんでもない返答A隷属{0}=Nothing Reply A Slavery {0}
 特に用事はないって事かしら？=You mean you don't have anything special to do?
 なんでもないなら、私も何も聞かないわ。=If it's nothing, I won't ask any questions either.

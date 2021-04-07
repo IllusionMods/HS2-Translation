@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 ……そ、それは過激ですね。お話を聞いているだけで、顔が赤くなってしまいます……=... Well, that's extreme, isn't it? Just listening to you, my face is turning red...
 その様なことを……私には少々刺激が強すぎます……=Such a thing... It's a little too stimulating for me.
-好意{0}=Favors {0}
 えっと……貴方がお望みになるのでしたら、多少は努力致します……はい。=Well... If that's what you want, I'll make some effort... Yes.
 ぅ……想像しただけで、照れてしまいます……=I feel embarrassed just thinking about it...
-享楽{0}=Enjoyment {0}
 それは……興味深いですね。私も試してみたです。=That's... Interesting. I've tried it myself.
 まあ……その様な趣向もあるのですね。勉強不足を痛感致します。=Well... That's the way it is, isn't it? I feel that I have not studied enough.
-嫌悪{0}=Disgust {0}
 ……貴方は、下品なことしか喋ることが出来ないのですか？=... You can only speak in vulgarities, can you not?
 ……こういった施設だからといって、何を話しても良い訳ではありません。自重して下さい。=... Just because it's a facility like this doesn't mean you can't talk about anything. Please behave yourself.
-隷属{0}=Slavery {0}
 その……全く恥じらいがないと言えば嘘になりますが、貴方の為でしたら問題ございません。=It would be a lie to say that I have no shame at all, but if it's for your sake, it's no problem.
 ……その様な場所があるのですね。この施設を初めて知った時と、同じくらい驚きました。=I was as surprised as I was when I first heard about this facility. I was as surprised as I was when I first learned about this facility.

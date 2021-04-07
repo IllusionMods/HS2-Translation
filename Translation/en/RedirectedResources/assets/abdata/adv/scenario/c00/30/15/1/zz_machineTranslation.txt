@@ -3,14 +3,11 @@
 //***********************************************************************
 
 突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=I'm sorry to bother you so suddenly. I was wondering if you could stay with me for a moment.
-好意50_汎用{0}=Favors 50_ Generic {0}
 無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=I unconsciously walked closer to the room. I hope you can stay with me for a little while today.
 お会いしたいという気持ちを抑えることができず……申し訳ございません。=I'm sorry I couldn't resist the urge to meet you...
 あなたのお傍にいると、心が安らぐのを実感致します。今日も甘えてもよろしいでしょうか？=When I am by your side, I feel at ease. May I spoil you again today?
 ・・・・・=・・・・・
-好意50続き{0}=Favors 50 continued {0}
 誠にありがとうございました。……それでは、私はこれで失礼致します。=Thank you very much for your time... I will leave you now.
 もう少しだけ……いえ、何でもありません。誠にありがとうございました。=Just a little more... No, nothing. Thank you very much for your time.
 とても幸せで、かけがえのない時間をありがとうございます。=Thank you for a very happy and invaluable time.
 ふと、あなたにお会いしたくなりまして……押しかけてしまい申し訳ございません。=I suddenly wanted to meet you... I'm sorry to barge in on you.
-好意80_汎用{0}=Favors 80_ Generic {0}

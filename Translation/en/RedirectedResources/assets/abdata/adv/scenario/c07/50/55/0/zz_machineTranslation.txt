@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-依存{0}=Depends{0}
 なんだなんだ？　まさかオレに本気で惚れちまったのか？=What the hell? You're not seriously in love with me, are you?
 こんなガサツな女のどこが気に入ったんだよ？　ん？=What do you like about this crass woman? Hmm?
 ほら、答えられねぇのか？　そんなんじゃ無理矢理襲われても文句言えねぇぞ？=See, you can't answer? You can't complain about being forcibly attacked like that, can you?

@@ -2,42 +2,29 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 今日は何回ぐらいイキたいんだ？=How many times are you going to cum today?
 さぁて、一緒に気持ち良くなろうぜ。=Now, come on, let's get comfortable together.
-好意より20～49{0}=20-49{0} from favor
 まずはキスからって、決まってるわけじゃないけどな。=It's not like we're supposed to start with a kiss, though.
 いいぜ、身体も心も、思いっきり行こうぜ。=All right, let's go all out, body and soul.
-好意より50～79{0}=50-79{0} from favor.
 お前となら、すっげぇ気持ち良くなれると思う。=I think I'd feel really good with you.
 なんかさ、会う度にお前の事……ん～、やっぱなんでもないや。=You know, every time I see you, I feel like you're... Well, you know, it's nothing.
-好意より80～100{0}=80-100{0} over favoritism
 お前と一緒にやれるのってすげぇ幸せなんだよな、理由は良くわかんないけど……=I'm so happy to be able to do this with you. I don't really know why, but...
 お前とやれるって思ったら……なんだか、顔が熱くなってくるぜ。=The thought of doing it with you makes me feel all hot and bothered.
-享楽より20～49{0}=20-49 from Kyouraku{0}
 それじゃあ、二人で思いっきり気持ち良くなろうぜ。=Well then, let's both feel as good as we can.
 お前の事、いっぱい感じさせてやるからな。=I'm going to make you feel a lot of things.
-享楽より50～79{0}=50-79 from Kyouraku {0}
 やっぱりさ、気持ちいいのが一番だよな、一緒に気持ち良くなれるなら最高だろ？=After all, it's best to feel good, right? If we can feel good together, why not?
 いいねぇ、お前のその目……すごくギラついてて、俺まで熱くなって来たぜ。=I like your eyes... They're so bright, they're making me hot too.
-享楽より80～100{0}=80-100{0}
 もっと、俺の事欲しがっていいんだぞ……俺も、その方が燃えるから。=You can want me more... Because I'll be burning up that way, too.
 さぁ、楽しいセックスの時間だぜ！　気持ち良くなる準備はいいか？=Now it's time for some fun sex! Are you ready to get it on?
-嫌悪より20～49{0}=From disgust 20-49{0}
 あんまり期待してないけど、よろしくな。=I'm not expecting much, but I'm glad you're here.
 俺とするよりさ、一人でしちゃった方が良いんじゃないの？=Wouldn't it be better to do it alone than with me?
-嫌悪より50～79{0}=50-79 from disgust {0}
 また俺とやりたいのかよ。=You want to fuck me again?
 なるべく早めに済ませてくれよな。=Get this done as soon as possible, will you?
-嫌悪より80～100{0}=80-100{0} than disgust.
 言っとくけど、別に何回やったってお前の事好きにはならないからな。=I'm telling you, I'm not going to fall in love with you no matter how many times I do it.
 またお前かよ……セックスは嫌いじゃないけど、お前はちょっとな……=It's you again... Not that I don't like sex, but you're just not...
-隷属より20～49{0}=From slavery 20-49{0}
 何がしたい？　とりあえずお前のしたい事、かなえてやるよ。=What do you want? At any rate, I'll do whatever you want.
 さぁ、どうする？　激しいのも、まったりするのもどっちだって悪くないぜ。=So, what do you think? There's nothing wrong with being intense or being relaxed.
-隷属より50～79{0}=50-79{0} from servitude.
 遠慮なんかしなくていいぜ。お前の全力を見せてくれ。=Don't be shy. Let's see what you've got.
 言葉だけじゃ足らないだろ？　早く体で話し合おうぜ。=Words aren't enough, are they? Let's talk about it with our bodies.
-隷属より80～100{0}=80-100{0} from servitude.
 俺の唇も、胸も、尻も、太腿も……お前の好きにしていいんだぜ？=My lips, my breasts, my ass, my thighs... You can do whatever you want with them, okay?
 お前にだったら……何をされても感じる自信があるんだ。=If it's you, I'm confident that I can feel whatever you do to me.

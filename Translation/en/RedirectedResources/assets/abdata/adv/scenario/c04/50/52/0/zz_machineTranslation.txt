@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Disgust {0}
 マジキモ……電車の中で発情するとか……サイテー。=Seriously creepy... Rutting on the train... Psycho.
 痴漢て、した方が圧倒的に不利だかんね？　冤罪とかヨユーであるから。=In the case of molestation, the perpetrator is at a huge disadvantage, right? You can be falsely accused.
 まぁアンタはマジでする気みたいだから……脅しにもならないのがムカつくわ、ホント……=Well, you look like you're gonna do it for real, so... It's annoying that you're not even threatening me, really...

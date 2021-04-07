@@ -2,42 +2,29 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 さて、今日も、一緒に楽しもうか。=Well, today, let's have some fun together.
 緊張しないで、楽に行こうぜ、お互いにな。=Don't be nervous, take it easy, we're both here.
-好意より20～49{0}=20-49{0} from favor
 また俺としてくれるんだな？　期待してるぜ。=You'll do it with me again, won't you? I'm counting on it.
 誘ってくれて、ありがとう……なんか、ちょっとニヤついちゃうな。=Thank you for inviting me... You're kind of making me grin.
-好意より50～79{0}=50-79{0} from favor.
 あ、お前だったのか……誘ってくれてありがとう……うん、まぁよろしくな。=Oh, it's you... Thanks for inviting me... Yeah, well, nice to meet you.
 おぉ！　お前か？　いやぁ、俺も会いたかったんだよな……まぁ理由はよく分からんけど、会いたかったんだよ、うん。=Oh! Is that you? Well, I missed you too... Well, I don't really know why, but I missed you, yeah.
-好意より80～100{0}=80-100{0} over favoritism
 なんだ、お前が誘ってくれたのか……な、なんだよお前……ひょっとして、俺に気があるとか？　いやなんでもねぇよ。=What, you asked me out... What, you... You have a thing for me, by any chance? No, it's nothing.
 やった、またお前だったんだな！　実をいうと、俺もお前に会いたいなぁって思ってたんだぜ。=Yay, it's you again! To tell you the truth, I've been wanting to meet you too.
-享楽より20～49{0}=20-49 from Kyouraku{0}
 それじゃ、一緒に気持ち良くなろうぜ！=Then we'll feel better together!
 今日も一緒に満足できるよう頑張ろうぜ！=Let's work together to satisfy you today!
-享楽より50～79{0}=50-79 from Kyouraku {0}
 気持ち良くなってるお前の顔……じっくり見せてくれよな？=I want to see your face when you're feeling good, okay?
 俺、お前とならもっと気持ち良くなれると思ってるから、よろしくな。=I'm sure I can get more comfortable with you, so please do.
-享楽より80～100{0}=80-100{0}
 お前に誘われたってだけで、なんだか興奮してきたみたいだ。=Just the fact that you asked me out makes me feel kind of excited.
 まだまだ不慣れだけど、思い切り気持ち良くなろうぜ！=I'm still getting used to it, but let's make it feel as good as it can!
-嫌悪より20～49{0}=From disgust 20-49{0}
 俺としても、楽しくないんじゃないの？=Even for me, it's not fun, is it?
 ああ……また俺と遊ぶんだ。まぁ、いいけど……=Oh... You're playing with me again. Well, okay, but...
-嫌悪より50～79{0}=50-79 from disgust {0}
 俺とやるより、一人でした方がいいんじゃないのか？=Wouldn't it be better to do it alone than with me?
 やるんなら、なるべく早く終わらせようぜ。=If we're going to do this, let's get it over with as soon as possible.
-嫌悪より80～100{0}=80-100{0} than disgust.
 はぁ……なんかもう、あんまりやる気がしないんだよなぁ。=Huh... I don't really feel like doing much anymore.
 俺を選ぶなんて、本当に変わってんな、お前……=You're really weird for choosing me, you know that?
-隷属より20～49{0}=From slavery 20-49{0}
 お前の思うままに、俺を求めてもいいんだぜ？=You can want me as much as you want, you know?
 言葉なんかより、身体の方が伝わりやすいって、知ってるか？=Do you know that the body is easier to communicate with than words?
-隷属より50～79{0}=50-79{0} from servitude.
 今日はどんなセックスがお望みだ？　聞かせてくれよ。=What kind of sex do you want today? Let's hear it.
 俺の興奮がお前にも伝わるといいな……絶対感じさせてやる。=I hope you can feel my excitement... I'll definitely make you feel it.
-隷属より80～100{0}=80-100{0} from servitude.
 俺が好きなのは、お前との気持ちいい時間なんだよ。=What I like is a good time with you, man.
 今日も身体を熱くして、たっぷり感じ合おうぜ……=Let's get our bodies hot and feel each other out today...

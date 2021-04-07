@@ -2,9 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H{0}=H{0}
 え？　どこをどう見ても、私そのものじゃないですか？　……あぁ、あなたの身体が一番「私」だと知ってますよね……？=What? No matter how you look at it, isn't it just me? Oh, you know that your body is the most "me" of all?
 何がですか？　あなたに都合のいいセックス人形、それが私ですよ？　ほら、確かめてください……♪=What's that? I'm your convenient sex doll, that's what I am, right? Here, check it out ♪
-Home{0}=Home{0}
 あ……す、すみません……私、少しはしゃぎすぎてしまってたみたいで……=Oh, I'm sorry... I think I got a little carried away...
 そ……そうですね、私、どうかしてましたね……はい……=Well... Yes, I was out of my mind... Yes...

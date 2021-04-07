@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelude B normal {0}
 おい、オレもいるぞ。逃げるなよ？=Hey, I'm here, too. Don't run away, okay?
 まるで吸い寄せられるみたいに来やがって、この女好きめ。=It's like I'm being sucked in, you womanizer.
-前フリB好意{0}=Prelude B Favor {0}
 どっちに用があって来たんだ？　オレか？　そっちか？=Which way did you come? Me? Or you?
 オレらの邪魔をしに来たんなら、それなりに面白いことをしろよ？=If you're here to interfere with us, why don't you do something interesting?
-前フリB享楽{0}=Prelude B. Kyouraku {0}
 二人一気に相手しようってか？　それは無謀ってもんだな。=You want to take on two people at once? That's reckless, isn't it?
 オレらに嬲られに来たのか？　クソマゾだな。=Did you come here to be tortured by us? You're a fucking masochist.
-前フリB嫌悪{0}=Pretense B Disgust {0}
 おい、オマエのせいで雰囲気が悪くなっただろうが。どうしてくれんだ？=Hey, you've ruined the mood, haven't you? What are you going to do about it?
 オマエは仲間にいれてやらねぇぞ？　一人で寂しくしてろ。=You're not one of us, are you? You'll be alone and lonely.
-前フリB隷属{0}=Prelude B Slave {0}
 おい、ちゃんとオレにも挨拶しろ。礼儀だろ。=Hey, you should say hello to me, too. It's common courtesy.
 なんだ？　オレらに苛めて欲しくて来たのか？=What is it? Did you come here because you want us to torment you?

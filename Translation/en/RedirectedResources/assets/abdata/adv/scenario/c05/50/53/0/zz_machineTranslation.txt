@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-隷属{0}=Slavery {0}
 あ……あなたの考えていること……分かりました……あの触手に……犯されてくればいいんですね？=Oh... I know what you're thinking... I should be... Fucked... By those tentacles, shouldn't I?
 あなたの為なら、全然怖くないですよ……むしろ……あなたが悦んでくれると思うと、嬉しくなってきます……=For you, I'm not afraid at all... In fact... It makes me happy to think that you will be pleased...
 じゃ、じゃあ……触手に……犯されてきますね……そこで、見ていて下さい……=Okay, well, I'm going to go get... Fucked... By the tentacles... And you can watch me there...

@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=H posterior A normal {0}
 え、えっと……気持ち良かった……ですか？=Well, um... Did it feel good?
 さ、誘ってくれて……ありがとうございました。=Well, thank you for inviting me.
-H事後A好意{0}=H posterior A favor {0}
 こ、こういうエッチも……悪くないですね。=This kind of sex... It's not so bad, is it?
 なんだか……い、いつもよりも弾けちゃったような気がします……恥ずかしい……=I feel like... Well, I feel like I played more than usual... Embarrassing...
-H事後A享楽{0}=H Post A Enjoyment {0}
 皆さんの乱れ方を見ながら……私も……淫らになってしまいました……=As I watched you all go wild... I also became... Lewd...
 い、いつも以上に開放的な気分のエッチでした……えへへ。=It was a more liberating sex experience than usual... Hehehe.
-H事後A嫌悪{0}=H Post A Aversion {0}
 な、なんだか倫理的に……い、いえっ、あなたが満足してくれたのならっ、それでっ……=I don't know, it's kind of unethical... No, no, if you're happy with it, then...
 こ、こんなエッチを続けてたら……へ、変になっちゃいそうです……うぅぅ……=If we keep having sex like this, I'm going to go crazy...
-H事後A隷属{0}=H post A subjugation {0}
 たまにはこういうエッチも楽しいですね。=This kind of sex is fun once in a while.
 エッチの最中……私、ずーっと興奮しっぱなしでした……=During the sex, I was so excited the whole time...

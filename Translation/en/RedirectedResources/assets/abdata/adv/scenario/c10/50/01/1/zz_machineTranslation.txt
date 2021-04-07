@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversation {0}
 お話もいいですが……それは身体を重ねながらでも出来ますよね？　むしろ、距離が近い分、話も弾むと思いますよ？=We can talk, but... That can be done while we are physically together, can't it? In fact, I think the closer we are, the more we can talk, right?
 ふふ、奥ゆかしい貴方も好きです。でも……身体は正直なもの。本当は……お話よりもシたいこと……ありますよね？=I like your modesty too. But... The body is an honest thing. In truth... There are things you want to do more than talk about, aren't there?

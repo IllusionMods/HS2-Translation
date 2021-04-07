@@ -2,7 +2,6 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
 待て。本当にオレから逃げられると思ってたのか？　他の女とヤって、頭が馬鹿になっちまったのか？=Wait. Did you really think you could get away from me? You've been fucking other women and you've lost your mind?
 ハッ、面白いことを考えるな。そんなにおしおきされたいのか？　いいぞ、お望み通りのことをしてやる。=Huh, that's an interesting thought. Do you really want to be spanked so badly? Good, I'll give you exactly what you want.
 逃げ出した=He got away.

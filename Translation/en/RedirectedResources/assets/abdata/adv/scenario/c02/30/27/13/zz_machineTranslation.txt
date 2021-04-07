@@ -2,6 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Broken {0}
 はぁぁ……すご、い……えっち、なっちゃったぁ……♪=Ahhh, I'm getting hot ♪
 あ、は……これ……せかい、ぐるぐる……あはぁ……♪=Ah, ha... This... World, round and round... Ah ♪

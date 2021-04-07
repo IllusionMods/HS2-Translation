@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
 会話は不得手なのですが、畏まりました。=I'm not very good at conversations, but I'm awed.
 ご満足頂けるかは分かりませんが、努力致します。=I don't know if you will be satisfied, but we will try our best.
-好意{0}=Favors {0}
 でしたら、恋のお話でも……いえ、何でもありません。=If that's the case, I'd like to talk about love... No, nothing at all.
 話し手は得意ではないのですが、聞き手でしたらお任せ下さい。=I'm not a good speaker, but I can be a good listener.
-享楽{0}=Enjoyment {0}
 想像したご用向きとは違いましたが、畏まりました。=It was not what I had imagined, but I was awed.
 畏まりました。お話というと……猥談をされるのでしょうか？=I'm in awe. When you say "talk," do you mean... Obscene talk?
-嫌悪{0}=Disgust {0}
 親しい間柄でもないのに、お話をしなければならないのですか……=We're not even close, but I have to talk to you...
 ……お互い後悔することになりそうですが、分かりました。=... We're both going to regret this, but I understand.
-隷属{0}=Slavery {0}
 はい。貴方にご満足頂ける様に、尽力致します。=Yes. We will do our best to satisfy you.
 はい、盛り上げ役として頑張ります。=Yes, I will do my best to liven things up.

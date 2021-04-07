@@ -3,18 +3,13 @@
 //***********************************************************************
 
 ・・・・・=・・・・・
-普通{0}=Normal {0}
 その……この後、まだお時間はありますか？　よろしければ……お話以外でも、貴方のことを教えてください。=So... Do you have some time left after this? If you don't mind... Please tell me more about yourself.
 えぇと、いきなりこんなことを言うのは、はしたないと思われてしまうかもですが……この後、シませんか？=Well, I know it may seem immodest to say something like this out of the blue, but... Would you like to have sex with me afterwards?
-好意{0}=Favors {0}
 あ、貴方さえよければなのですが。これでお別れは寂しいので……できれば、二人で気持ちよくなりながら、お話の続き……しませんか？=Oh, if it's okay with you. I'm sad to say goodbye now, so if you could, why don't we continue our conversation while we both feel good?
 あの……お話だけで帰ってしまわれるのですか？　身体の方は、もうすっかり準備できていますから……貴方ともっと、一緒にいさせてください。=Um... Are you going to leave after just talking to me? My body is ready to go... Please let me spend more time with you.
-享楽{0}=Enjoyment {0}
 折角、会話でいい雰囲気にしたのに……このまま帰ってしまうのは勿体なくありませんか？　私なら……きっと貴方を満足させられますよ？=It would be a shame to leave after all the good conversation we've had. I'm sure I can satisfy you.
 すみません……実はお話をしながら、ずっと疼いてしまっていて……少しだけでもいいので、鎮めるのを手伝って頂けませんか？=I'm sorry... I'm actually tingling all the time as we speak... Can you help me calm it down, even if it's just for a little while?
-嫌悪{0}=Disgust {0}
 貴方のつまらない話に付き合わされて、私はストレスが溜まってしまいました……ですので、今度は私のストレス解消に付き合ってもらいます。=I've been so stressed out by your boring stories that now you're going to help me relieve my stress.
 意外と臆病者なのですね。お話だけして終わりなんて……ここでは相手を馬鹿にしているのと同じですよ？=You are surprisingly timid, aren't you? You can't just talk and be done with it... You're making a fool of yourself here, aren't you?
-隷属{0}=Slavery {0}
 素敵なお話のお礼に……私にご奉仕させて頂けませんか？　絶対に、気持ちよくいたしますから。=As a thank you for the wonderful story, would you let me serve you? I will definitely make you feel good.
 私……きっと上手くお話できていなかったと思うので。その、身体を使ってなら、少しは埋め合わせもできるかと思うのですが……=I... I'm sure I didn't speak very well. I think I can make it up to you a little bit if I use my body...

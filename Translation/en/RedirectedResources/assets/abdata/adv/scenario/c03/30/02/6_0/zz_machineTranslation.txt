@@ -2,18 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=H posterior A normal {0}
 あはは……なんか凄かったね……一人増えるだけで全然違うや……ふぅ……=Haha... That was something... Just one more person makes all the difference... Phew...
 予想以上に乱れちゃったかも……ちょっと恥ずかしいから、三人だけの秘密ね？=It's a little embarrassing, so it's a secret between the three of us.
-H事後A好意{0}=H posterior A favor {0}
 結構、よかったかな……ちょっと抵抗あったんだけど、やっぱり……気持ちいいのには勝てないね。=It was pretty good... I was a little resistant, but I guess... You can't beat a good feeling.
 うわー、ふたりの顔が、まともに見れない。次集まる時までには、治ってるといいなぁコレ……=I can't see their faces properly. I hope it's better by the next time we get together...
-H事後A享楽{0}=H Post A Enjoyment {0}
 ３Ｐ、凄かったね！　ほんと興奮したぁ♪　ふふ、３人でやれること増えて良かったね♪=That was a great threesome. I'm so excited... I'm glad we can do more things together ♪
 なんかさ、今の３Ｐのことでまた語り合いたいくらい。これ……終わらなくなっちゃいそうだね♪=It's like, I just want to talk about the threesome again. This... Is never going to end ♪
-H事後A嫌悪{0}=H Post A Aversion {0}
 うーん、お前がいなければなー。視界にチラチラ映るのが、本当に邪魔だった。=Hmm, if only you weren't here. The flickering in my vision was really disturbing.
 なんか、二人でやり直したい気分。もちろんお前は抜きでね？　勘違いしないでよ？=I feel like we should start over, just the two of us. Without you, of course, right? Don't get me wrong, okay?
-H事後A隷属{0}=H post A subjugation {0}
 良かった。思ったより、私も上手くできてたよね？　３人だと、やっぱ少し緊張感あるなぁ。あはは……=Good. I did better than I thought I would, didn't I? The three of us are a bit tense, aren't we? Hahaha...
 もうさ、二人で私を攻めてくれた方が気持ちは楽だったかな？=You know, I think I would have felt better if you two had attacked me already.
