@@ -22,7 +22,7 @@ English fan translation project for Honey Select 2. The translations are applied
 
 Any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience, you can help by proofreading or using machine translation services such as Google Translate or [DeepL](https://www.deepl.com/translator) (we currently recommend to use [DeepL](https://www.deepl.com/translator)). In the case of machine translations, clean up the translation using sanity and a little logic.
 
-Translation done purely by machines should be kept in the designated files (`zz_machineTranslation.txt` files within `RedirectedResources`), but the goal of this project is that none of these files are left and everything is translated properly.
+Translation done purely by machines must be kept in the designated files (`zz_machineTranslation.txt` files within `RedirectedResources`). These should be considered placeholders until manual translations are available (those should go into `translation.txt`). The goal is to have everything, manually translated.
 
 ### Basic operation and structure
 
