@@ -83,7 +83,7 @@ This is the main translation directory for the game, so it gets special treatmen
 
 Inside each folder there is a file named `translation.txt`, this is the file where the translations should go. In some folders there is also the file `zz_machineTranslation.txt` which is where machine translations go, that usually have a lower quality.
 
-Every translation.txt file has the raw Japanese text that needs translations. Each one starts commented out (`//` at the begining) so it will not be loaded. For your text to display correctly in game, put the translation on the right side of the equal sign and remove the `//` at the start of the line. Do not edit the Japanese text or the translation will not work. Example:
+Every `translation.txt` file has the raw Japanese text that needs translations. Each one starts commented out (`//` at the begining) so it will not be loaded. For your text to display correctly in game, put the translation on the right side of the equal sign and remove the `//` at the start of the line. Do not edit the Japanese text or the translation will not work. Example:
 
 Before:
 ```
