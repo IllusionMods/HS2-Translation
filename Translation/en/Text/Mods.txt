@@ -57,6 +57,7 @@ r:"^大力-赞助发型([0-9]{2})"=[DALI] Sponsored Hairstyle $1
 大力-TD天华-发型=[DALI] TD Sky - Hair
 大力-眀妆-作者q3344929957=[DALI] Ming Dynasty - Author q3344929957
 大力-发型分享B1Q3344929957=[DALI] Hair Sharing B1 Q3344929957
+犬姫ロング=Princess of Moonbrook Long
 
 //------------------------------------------------------------
 //Hair -> Bangs Settings
@@ -141,6 +142,10 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 セーラー服(半袖)=Sailor Suit (Short Sleeves)
 大力-分享DVAQ3344929957=[DALI] Sharing - D.VA - Q3344929957
 大力-分享DVA透明Q3344929957=[DALI] Sharing - D.VA Transparent - Q3344929957
+犬姫のローブ=Princess of Moonbrook Robe
+制服一般=General Uniform
+制服衛生士=Medic Uniform
+パイロットスーツ=Pilot Suit
 
 
 //Male Tops
@@ -254,6 +259,8 @@ HS男西装 上衣=HS Men's Suit Pants
 褌=Loincloth
 陸上ブルマ=Sports Bloomers
 大力-龙盔甲裤=[DALI] Dragon Armor Pants
+ショーツ短=Short
+ショーツ長=Leggings
 
 //------------------------------------------------------------
 //Gloves
@@ -342,6 +349,8 @@ T裆黑丝=Black Stockings T
 ハーフコート=Open Coat
 ゼッケン上（ランナートップ改用）=Running Number Up (Runner Top Revised)
 ゼッケン上下（ランナートップ改用）=Running Number Up and Down (Runner Top Revised)
+パイロットハーネス=Pilot Harness
+航空ジャケット=Aviation Jacket
 
 //------------------------------------------------------------
 //Socks
@@ -407,6 +416,7 @@ HS 板鞋(蓝)=HS Sneakers (Blue)
 HS 板鞋(红)=HS Sneakers (Red)
 HS 板鞋(绿)=HS Sneakers (Green)
 HS 板鞋(黑)=HS Sneakers (Black)
+パイロットブーツ=Pilot Boots
 
 //Male Shoes
 忍者草鞋=Ninja Sandals
@@ -456,6 +466,8 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 通信ヘッドセット=Headset
 陸軍ヘルメット=Army Helmet
 大力-分享DVA-Q3344929957=[DALI] Sharing - D.VA - Q3344929957
+パイロットヘルメット=Pilot Helmet
+犬姫の頭巾=Princess of Moonbrook Hood
 
 //------------------------------------------------------------
 //Accessories -> Ears
@@ -570,6 +582,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 大正義ネックレス=Yomiuri Giants Cheerleader Necklace
 太リボン=Thick Ribbon
 PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
+パイロットネックカラー=Pilot Neck Collar
 
 //------------------------------------------------------------
 //Accessories -> Waist
@@ -589,6 +602,11 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 受令機=Police Radio
 レイピア（納刀）=Rapier (Sword)
 レイピア（鞘）=Rapier (Sheath)
+ベルト=Belt
+スーツ腰巻=Suit Waistcoat
+コスモガン=Cosmic Gun
+ポーチ=Pouch
+
 
 //------------------------------------------------------------
 //Accessories -> Back
