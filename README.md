@@ -94,7 +94,7 @@ After:
 Tシャツ=T-shirt
 ```
 
-The file "zz_machineTranslation.txt" can only have the translation lines that are commented out in "translation.txt". If the file "translation.txt" has been fully translated, the file "zz_machineTranslation.txt" should be deleted. The goal of this translation project is that none of the "zz_machineTranslation.txt" files remains.
+The file `zz_machineTranslation.txt` can only have the translation lines that are commented out in `translation.txt`. If the file `translation.txt` has been fully translated, the file `zz_machineTranslation.txt` should be deleted. The goal of this translation project is that none of the `zz_machineTranslation.txt`" files remain.
 
 The `assets` folder inside of `Bepinex\Translation\en\RedirectedResources` can be compressed into a .zip archive to be read by the game (simply right-click on the assets folder and then compress to .zip). Uncompressed files under `assets` are also still loaded. The game has to be restarted in order to see updated translations.
 
