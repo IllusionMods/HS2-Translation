@@ -57,7 +57,7 @@ text=translation
 ```
 Where "xxx" represents the number of the desired scope level. Below is a table containing the known scope levels and their locations:
 
-### Known Scope Levels
+#### Known Scope Levels
 
 | Level | Description           |
 |------:|-----------------------|
