@@ -87,7 +87,7 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 
 ##  Resource Translation
 
-This is the main translation directory for the game, so it gets special treatment.
+The folder `RedirectedResources` is the main translation directory for the game, so it gets special treatment.
 
 Inside each folder there is a file named `translation.txt`, this is the file where the translations should go. In some folders there is also the file `zz_machineTranslation.txt` which is where machine translations go, that usually have a lower quality.
 
