@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+Tasty Surströmming=Tasty Surströmming
+貴様の人生終わった=Your life is over.

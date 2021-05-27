@@ -1,0 +1,141 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2毛衣=HS2 Fur Coat
+
+// chara/00/connectorjp/fo_panst_00.unity3d
+[MOD] ストッキング=[MOD] Stockings
+[MOD] ストッキングTカバー=[MOD] Stockings T
+[MOD] ストッキングHカバー=[MOD] Stockings H
+[MOD] レースストッキング=[MOD] Lace Stockings
+[MOD] 網タイツ細目=[MOD] Mesh Tights Fine
+[MOD] 網タイツ中目=[MOD] Medium mesh tights
+[MOD] 網タイツ大目=[MOD] Large mesh tights
+[MOD] 穴あきストッキング=[MOD] Stockings with holes
+[MOD] スパッツA=[MOD] Spats A
+[MOD] スパッツB=[MOD] Spats B
+[MOD] ショートスパッツ=[MOD] Short Spats
+[MOD] シンプルガーター=[MOD] Simple Garter
+[MOD] レースガーター=[MOD] Lace Garter
+[MOD] ベルトガーター=MOD] Belt Garter
+
+// chara/cuzkuz/cuzkuz_top_02.unity3d
+ポンチョコート=Poncho Coat
+
+// chara/cuzkuz/cuzkuz_top_03.unity3d
+クリスマスポンチョ（フード）=Christmas Poncho (Hood)
+
+// chara/cuzkuz/cuzkuz_top_04.unity3d
+クリスマスポンチョ=Christmas Poncho
+
+// chara/cuzkuz/cuzkuz_top_13.unity3d
+ジャージ（前開き）=Jersey (Open)
+
+// chara/cuzkuz/cuzkuz_top_07.unity3d
+カーディガン=Cardigan
+
+// chara/cuzkuz/cuzkuz_top_05.unity3d
+ブレザー=Blazer
+
+// chara/cuzkuz/cuzkuz_top_06.unity3d
+ブレザー前開き=Blazer Open
+
+// chara/cuzkuz/cuzkuz_bot_05a.unity3d
+ヒーラーの衣=Healer's Clothing
+
+// chara/cuzkuz/cuzkuz_top_15.unity3d
+ハーフコート=Open Coat
+
+// chara/cuzkuz/cuzkuz_top_14.unity3d
+ロングコート=Long Coat
+
+// chara/cuzkuz/cuzkuz_inner_01.unity3d
+大正義スパッツ=Yomiuri Giants Cheerleader Spats
+
+// chara/cuzkuz/cuzkuz_inner_02.unity3d
+一番星パンツ=Top Star Pants
+
+// chara/cuzkuz/cuzkuz_top_21.unity3d
+女王のショール=Queen Shawl
+
+// chara/etc.unity3d
+なし=None
+
+// chara/FFFQ/FFFQ_pants.unity3d
+紧身裤=Skinny Pants
+
+// chara/FFFQ/FFFQ_pantyhose.unity3d
+黑丝=Black Stockings
+T裆黑丝=Black Stockings T
+平裆黑丝=Black Stockings H
+
+// chara/hs2_shibari/shibari.unity3d
+亀甲縛り（体操服着衣時用）=Rope Harness (For Gym Clothes)
+
+// chara/hs2_shibari/shibari2.unity3d
+亀甲縛り（体操服半脱時用）=Rope Harness(For half-off Gym Clothes)
+
+// chara/konodioda/konodioda_panst_01.unity3d
+中分渐变连裤袜薄=Different Left-Right Gradient Pantyhose (Thin)
+中分连裤袜厚=Different Left-Right Gradient Pantyhose (Thick)
+上下三色渐变连裤袜薄=Vertical Gradient Pantyhose (Thin)
+上下三色渐变连裤袜厚=Vertical Gradient Pantyhose (Thick)
+
+// chara/konodioda/konodioda_panst_02.unity3d
+长筒袜左右不同=Different Left-Right Gradient Stockings
+长筒袜渐变三色=Vertical Gradient Stockings
+长筒袜左右不同花边=Different Left-Right Gradient Stockings (Lace)
+长筒袜渐变三色花边=Vertical Gradient Stockings (Lace)
+
+// chara/re_bigger_jacket.unity3d
+ボディーハーネスBig=Body Harness Big
+
+// chara/re_bigger_jacket2.unity3d
+ボディーハーネスBig2=Body Harness Big2
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HBショーツ=[SENA] HB shorts
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]半脱ぎ穴開ストLOW=[SENA] Stockings LOW
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵金属パーツ=[SENA] Musashi Metal Parts
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]クノイチすね当て=[SENA] Knoichi shin pads
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElf腰ベルト=[SENA] DElf Waist Belt
+
+// chara/sena_mod/sena_pm01.unity3d
+[SENA]半脱ぎ穴開きストッキング=[SENA] Stockings
+
+// chara/sena_mod/sena_riku02.unity3d
+[SENA]ゼッケン上下=[SENA] Running Number Up and Down
+[SENA]ゼッケン上=[SENA] Running Number Up
+
+// chara/sena_mod/sena_riku03.unity3d
+[SENA]ゼッケン上下（ランナートップ改用）=[SENA] Bib Upper and Lower (for Runner Top Mod)
+[SENA]ゼッケン上（ランナートップ改用）=[SENA] Bib Top (for Runner Top)
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQパンスト=[SENA] RQ Pantyhose
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカ首=[SENA] Asuka Neck
+[SENA]アスカ首+レッグ（ヒール無し）=[SENA] Asuka Neck + Leg (without heels)
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFサスペンダー=[SENA] TF Suspenders
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]サポーターM1上下=[SENA] Elbow and Knee Pads M1
+[SENA]サポーターM1上=[SENA] Elbow Pads M1
+[SENA]サポーターM1下=[SENA] Knee Pads M1
+
+// chara/sena_mod/sena_ym2199_k.unity3d
+[SENA]YM航空ジャケット=[SENA] YM Aviation Jacket
+[SENA]YMパイロットハーネス=[SENA] YM Pilot Harness

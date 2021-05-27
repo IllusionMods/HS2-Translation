@@ -1,0 +1,27 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/00/ft_skin_f_00.unity3d
+タイプ01=Type 01
+タイプ02=Type 02
+タイプ03=Type 03
+タイプ04=Type 04
+タイプ05=Type 05
+タイプ06=Type 06
+タイプ07=Type 07
+タイプ08=Type 08
+タイプ09=Type 09
+タイプ10=Type 10
+
+// chara/nyaacho/ft_skin_f_nyaacho_vanilla.unity3d
+タイプ01 LIN=Type 01 LIN
+タイプ02 LIN=Type 02 LIN
+タイプ03 LIN=Type 03 LIN
+タイプ04 LIN=Type 04 LIN
+タイプ05 LIN=Type 05 LIN
+タイプ06 LIN=Type 06 LIN
+タイプ07 LIN=Type 07 LIN
+タイプ08 LIN=Type 08 LIN
+タイプ09 LIN=Type 09 LIN
+タイプ10 LIN=Type 10 LIN

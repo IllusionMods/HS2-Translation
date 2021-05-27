@@ -1,0 +1,111 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2毛衣=HS2 Fur Coat
+
+// chara/cuzkuz/cuzkuz_top_poncho.unity3d
+ケープ=Cape
+クリスマスポンチョ=Christmas Poncho
+
+// chara/cuzkuz/cuzkuz_top_13.unity3d
+ジャージ（前開き）=Jersey (Open)
+
+// chara/cuzkuz/cuzkuz_top_07.unity3d
+カーディガン=Cardigan
+
+// chara/cuzkuz/cuzkuz_top_05.unity3d
+ブレザー=Blazer
+
+// chara/cuzkuz/cuzkuz_top_06.unity3d
+ブレザー前開き=Blazer Open
+
+// chara/cuzkuz/cuzkuz_bot_05b.unity3d
+ヒーラーの衣=Healer's Clothing
+
+// chara/cuzkuz/cuzkuz_top_15.unity3d
+ハーフコート=Open Coat
+
+// chara/cuzkuz/cuzkuz_top_14.unity3d
+ロングコート=Long Coat
+
+// chara/cuzkuz/cuzkuz_socks_01.unity3d
+大正義ソックス=Yomiuri Giants Cheerleader Socks
+
+// chara/cuzkuz/cuzkuz_socks_02.unity3d
+一番星タイツ=Top Star High Tights
+
+// chara/cuzkuz/cuzkuz_top_21v.unity3d
+女王のショール=Queen Shawl
+
+// DLMEX/DLTD1/dl_socks_dltd1.unity3d
+大力_TD沧海_腿饰品=[DALI] TD Sea Garter
+
+// DLMEX/DLMZ/dl_socks_mz.unity3d
+大力-明妆腿部-作者q3344929957=[DALI] Ming Dynasty Garter - Author q3344929957
+
+// DLMEX/L/dl_socks_lo.unity3d
+大力-龙盔-腰带-作者q3344929957=[DALI] Dragon Armor Belt - Author q3344929957
+
+// chara/fo_socks_maomaowa.unity3d
+ë��Ͳ��=fo_socks_maomaowa
+
+// chara/fo_socks_maomaowa_yang.unity3d
+ë������Ͳ��=fo_socks_maomaowa_yang
+
+// chara/fo_socks_maomaowa_zhu.unity3d
+ë�������Ͳ��=fo_socks_maomaowa_zhu
+
+// chara/etc.unity3d
+なし=None
+
+// chara/FFFQ/FFFQ_stocking.unity3d
+蕾丝边黑丝=Lace High Tights
+蕾丝边黑丝02=Black silk lace 02
+
+// chara/gyobobo/gantz_socks.unity3d
+ガンツスーツ=Gantz Garter
+
+// chara/konodioda/konodioda_panst_01.unity3d
+中分渐变连裤袜薄=Different Left-Right Gradient Pantyhose (Thin)
+中分连裤袜厚=Different Left-Right Gradient Pantyhose (Thick)
+上下三色渐变连裤袜薄=Vertical Gradient Pantyhose (Thin)
+上下三色渐变连裤袜厚=Vertical Gradient Pantyhose (Thick)
+
+// chara/konodioda/konodioda_panst_02.unity3d
+长筒袜左右不同=Different Left-Right Gradient Stockings
+长筒袜渐变三色=Vertical Gradient Stockings
+长筒袜左右不同花边=Different Left-Right Gradient Stockings (Lace)
+长筒袜渐变三色花边=Vertical Gradient Stockings (Lace)
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]足袋=[SENA] Tabi Shoes
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQインナーショーツ=[SENA] RQ inner shorts
+
+// chara/sena_mod/sena_rq_jak.unity3d
+[SENA]裸ベンチコート=[SENA] Naked Bench Coat
+[SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFショートソックス=SENA] TF Short Socks
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]ハイソックス長=[SENA] High Socks Long
+｢SENA｣ソックス+レッグスリーブ=[SENA] Socks + Leg Sleeves
+｢SENA｣ソックス+レッグスリーブ左=[SENA] Socks + Left Leg Sleeve
+｢SENA｣ソックス+レッグスリーブ右=[SENA] Socks + Right Leg Sleeve
+
+// chara/sena_mod/sena_w_jersey.unity3d
+[SENA]ジャージ前開け=[SENA] jersey front open
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YM腰ベルトLow=[SENA] YM waist belt Low
+[SENA]YM腰ベルトHigh=[SENA] YM Waist Belt High
+
+// chara/00/fo_panst_00.unity3d
+シンプルガーター=Simple Garter Belt
+レースガーター=Lace Garter Belt
+ベルトガーター=Garter Belt

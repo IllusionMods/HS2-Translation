@@ -1,0 +1,98 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/sio/bigtwin.unity3d
+超ボリュームツイン=Super Voluminous Twin
+
+// chara/cuzkuz/cuzkuzhair_01.unity3d
+カールおさげ=Curl Ponitail
+
+// chara/cuzkuz/cuzkuz_12.unity3d
+犬姫ロング=Princess of Moonbrook Long
+
+// DLMEX/DLTD1/dlhairtd1.unity3d
+大力-TD沧海烟霞-发型=[DALI] TD Sea Haze - Hair
+
+// DLMEX/DLTD2/dlhairtd2.unity3d
+大力-TD天华-发型=[DALI] TD Sky - Hair
+
+// DLMEX/DLMZ/dlhairmz.unity3d
+大力-眀妆-作者q3344929957=[DALI] Ming Dynasty - Author q3344929957
+
+// DLM/hair/dlhair01.unity3d
+大力-免费-发型01=[DALI] Free Sharing Hairstyle 01
+
+// DLM/hair/dlhair02.unity3d
+大力-免费-发型02=[DALI] Free Sharing Hairstyle 02
+
+// DLM/hair/dlhair03.unity3d
+大力-免费-发型03=[DALI] Free Sharing Hairstyle 03
+
+// DLM/hair/dlhair04.unity3d
+大力-免费-发型04=[DALI] Free Sharing Hairstyle 04
+
+// DLM/hair/dlhair05.unity3d
+大力-免费-发型05=[DALI] Free Sharing Hairstyle 05
+
+// DLM/hair/dlhair06.unity3d
+大力-免费-发型06=[DALI] Free Sharing Hairstyle 06
+
+// DLM/hair/dlhair07.unity3d
+大力-免费-发型07=[DALI] Free Sharing Hairstyle 07
+
+// DLM/hair/dlhair08.unity3d
+大力-免费-发型08=[DALI] Free Sharing Hairstyle 08
+
+// DLMEX/hair/dlhairex01.unity3d
+大力-赞助发型01=[DALI] Sponsored Hairstyle 01
+
+// DLMEX/hair/dlhairex02.unity3d
+大力-赞助发型02=[DALI] Sponsored Hairstyle 02
+
+// DLMEX/hair/dlhairex03.unity3d
+大力-赞助发型03=[DALI] Sponsored Hairstyle 03
+
+// DLMEX/hair/dlhairex04.unity3d
+大力-赞助发型04=[DALI] Sponsored Hairstyle 04
+
+// DLMEX/hair/dlhairex05.unity3d
+大力-赞助发型05=[DALI] Sponsored Hairstyle 05
+
+// DLMEX/hair/dlhairex06.unity3d
+大力-赞助发型06=[DALI] Sponsored Hairstyle 06
+
+// DLM/hair/tf1.unity3d
+大力-发型分享B1Q3344929957=[DALI] Hair Sharing B1 Q3344929957
+
+// chara/hair100.unity3d
+�ɴ��ǵ�ëë=hair100
+
+// chara/00/so_hair_b_00.unity3d
+ボリュームポニー=Thick Ponytail
+
+// chara/sio/okappa.unity3d
+オカッパ=Straight Bob
+
+// chara/ymd/ym06_hairArrange.unity3d
+ストレートロング[arrange]=Straight long [arrange] 
+ぱっつんロング[arrange]=Long and snappy [arrange] .
+ボリュームポニー[notail]=Volume pony [notail] .
+細ツインテール[notail]=Thin twin tail[notail] .
+ツイン前おさげ[notail]=Twin front pigtails [notail] .
+後ろおさげ[notail]=Back pigtails[notail] .
+ツーサイドアップ[notail]=Two side up[notail] .
+横おさげ[notail]=Side pigtails[notail] .
+サイドテール(左)[notail]=Side Tail (Left) [notail]
+サイドテール(右)[notail]=Side Tail (Right) [notail]
+
+// chara/ymd/ym11_hairPortM.unity3d
+HS ショート=HS Short
+HS スマートショート=HS Smart Short
+HS テンショウ=HS Tenshou
+HS ツーブロック=HS Two-Block
+HS ミディアム=HS Medium
+HS シャギー=HS Shaggy
+HS オールバック=HS All Back
+HS セミロング=HS Semi-long
+HS バンダナ=HS Bandana

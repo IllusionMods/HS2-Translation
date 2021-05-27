@@ -1,0 +1,24 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/sena/sena_plbox.unity3d
+[SENA]交番=[SENA] 交番
+[SENA]壁掛け掲示板=[SENA] 壁掛け掲示板
+[SENA]消火器=[SENA] 消火器
+[SENA]無線機=[SENA] 無線機
+[SENA]壁掛け時計=[SENA] 壁掛け時計
+[SENA]煙缶=[SENA] 煙缶
+[SENA]警備不在看板=[SENA] 警備不在看板
+[SENA]警備不在案内=[SENA] 警備不在案内
+[SENA]広域地図=[SENA] 広域地図
+[SENA]広報ポスター=[SENA] 広報ポスター
+[SENA]屋外掲示板=[SENA] 屋外掲示板
+[SENA]旭日章=[SENA] 旭日章
+[SENA]建物用赤色灯=[SENA] 建物用赤色灯
+[SENA]交番看板=[SENA] 交番看板
+[SENA]事故件数板=[SENA] 事故件数板

@@ -1,0 +1,170 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/sio/clashdc.unity3d
+クラッシュデニム開き=Cutoff Denim Open
+
+// chara/sio/clashdo.unity3d
+クラッシュデニム閉じ=Cutoff Denim Closed
+
+// chara/kkkk1111/hs_idol_bot.unity3d
+HS 偶像 裙子=HS Idol Skirt
+
+// chara/kkkk1111/hs_skirt_pleat.unity3d
+HS百褶裙 短=HS Pleated Skirt Short
+HS百褶裙 略短=HS Pleated Skirt Short-Medium
+HS百褶裙 中=HS Pleated Skirt Medium
+HS百褶裙 略长=HS Pleated Skirt Medium-Long
+HS百褶裙 长=HS Pleated Skirt Long
+
+// chara/kkkk1111/hs_skirt_pleat2.unity3d
+HS百褶裙2 短=HS Pleated Skirt Short 2
+HS百褶裙2 略短=HS Pleated Skirt Short-Medium 2
+HS百褶裙2 中=HS Pleated Skirt Medium 2
+HS百褶裙2 略长=HS Pleated Skirt Medium-Long 2
+HS百褶裙2 长=HS Pleated Skirt Long 2
+
+// chara/kkkk1111/ph_attendant_bot.unity3d
+PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
+
+// chara/kkkk1111/skirt_pleat.unity3d
+百褶裙 短=Pleated Skirt Short
+百褶裙 略短=Pleated Skirt Short-Medium
+百褶裙 中=Pleated Skirt Medium
+百褶裙 略长=Pleated Skirt Medium-Long
+百褶裙 长=Pleated Skirt Long
+
+// chara/skonb/fo_bot_shimakaze.unity3d
+痴女プリーツ=Slutty Pleated Skirt
+
+// chara/cuzkuz/cuzkuz_bot_00.unity3d
+八十八学園スカート=88th Academy Skirt
+
+// chara/cuzkuz/cuzkuz_bot_03.unity3d
+巻きスカート=Tied Skirt
+
+// chara/cuzkuz/cuzkuz_bot_04.unity3d
+ひざ丈タイトスカート=Knee Length Tight Skirt
+
+// chara/cuzkuz/cuzkuz_bot_01.unity3d
+ひざ丈プリーツスカート=Knee Length Pleated Skirt
+
+// chara/cuzkuz/cuzkuz_bot_02.unity3d
+ひざ丈フレアースカート=Knee Length Flared Skirt
+
+// chara/cuzkuz/cuzkuz_bot_06.unity3d
+ハーフパンツ=Shorts
+
+// chara/cuzkuz/cuzkuz_bot_05.unity3d
+ジャージ（たくし上げ）=Jersey (Rolled Up)
+
+// chara/cuzkuz/cuzkuz_bot_07.unity3d
+大正義スカート=Yomiuri Giants Cheerleader Skirt
+
+// chara/cuzkuz/cuzkuz_bot_08.unity3d
+一番星ドレス（ボトム）=Top Star Dress (Bottom)
+
+// chara/cuzkuz/cuzkuz_bot_12.unity3d
+スーツパンツ2=Suit Pants 2
+
+// chara/cuzkuz/cuzkuz_bot_11.unity3d
+フレアーパンツ=Flared Pants
+
+// chara/cuzkuz/cuzkuz_bot_10.unity3d
+ハーフパンツ2=Half Pants 2
+
+// chara/cuzkuz/cuzkuz_bot_09.unity3d
+ショートデニム=Denim Shorts
+
+// chara/cuzkuz/cuzkuz_bot_13.unity3d
+女王のスカート=Queen's Skirt
+
+// chara/cuzkuz/cuzkuz_bot_14.unity3d
+大統領のスカート=President's Skirt
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のスカート=Diva's Skirt
+
+// DLMEX/DLTD1/dl_bot_dltd1.unity3d
+大力_TD沧海_裙子_原色=[DALI] TD Sea Skirt - Original Color
+
+// DLMEX/DLTD1/dl_bot_dltd1b.unity3d
+大力_TD沧海_裙子_半透明=[DALI] TD Sea Skirt - Translucent
+
+// DLMEX/DLMZ/dl_bot_mz.unity3d
+大力-明妆-金属-作者q3344929957=[DALI] Ming Dynasty - Metal - Author q3344929957
+
+// DLMEX/DLMZ/dl_bot_mz2.unity3d
+大力-明妆-金属-裸肩-作者q3344929957=[DALI] Ming Dynasty - Metal - Shouderless - Author q3344929957
+
+// DLMEX/L/dl_bot_lo.unity3d
+大力-龙盔甲裙-作者q3344929957=[DALI] Dragon Armor Skirt - Author q3344929957
+
+// DLM/DOA1/DLDOABOT.unity3d
+大力-免费分享-DOA-A=[DALI] Free Sharing - DOA-A
+
+// chara/taroukawai_dougi2bot/mymod.unity3d
+道着2=Street clothes2
+
+// chara/fo.unity3d
+夜莺-裤=Nightingale Pants
+
+// chara/FFFQ/FFFQ_pants.unity3d
+九分裤=Skinny Pants
+
+// chara/gyobobo/gantz_inner_t.unity3d
+ガンツインナー=Gantz Inner
+
+// chara/hs2_chunli/fo_bot_chunli.unity3d
+格闘用スカート=Fighting Skirt
+
+// chara/sena_mod/sena_anna.unity3d
+[SENA]AMスカート=[SENA] AM Skirt
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HBタイトスカート=[SENA] HB Tight Skirt
+
+// chara/sena_mod/sena_deni.unity3d
+[SENA]デニムスカート1=[SENA] Denim Skirt 1
+[SENA]デニムスカート2=[SENA] Denim Skirt 2
+[SENA]デニムスカート3=[SENA] Denim Skirt 3
+[SENA]デニムスカート4=[SENA] Denim Skirt 4
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ01スカート=[SENA] EVA RQ01 Skirt
+[SENA]EVA RQ01パンツ1=[SENA] EVA RQ01 Pants 1
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]R連邦ベルト=[SENA] R Federation Belt
+
+// chara/sena_mod/sena_g_reiko_s.unity3d
+[SENA]R連合ベルト=[SENA] R Federation Belt
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵スカート=[SENA] Musashi Skirt
+
+// chara/sena_mod/sena_pm01.unity3d
+[SENA]警備タイトスカート=[SENA] Security Tight Skirt
+
+// chara/sena_mod/sena_riku03.unity3d
+[SENA]ランナーパンツ半脱ぎ改=[SENA] Runner pants half off.
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFスカート=[SENA] TF Skirt
+
+// chara/sena_mod/sena_various02a.unity3d
+[SENA]もっこりスパッツ=[SENA] Dusty Spats
+
+// chara/sena_mod/sena_various03.unity3d
+[SENA]ベースボールパンツ=[SENA] Baseball Pants
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]バレースパッツM1=[SENA] Volleyball Spats M1
+
+// chara/sena_mod/sena_vb01b.unity3d
+[SENA]バレーブルマM2=[SENA] Volleyball Bloomers M2
+[SENA]バレーブルマM3=[SENA] Volleyball Bloomers M3
+
+// chara/sena_mod/sena_w_jersey.unity3d
+[SENA]ジャージ=[SENA] Jerseys

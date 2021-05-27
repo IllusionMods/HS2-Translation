@@ -1,0 +1,20 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/sena/sena_pm_today.unity3d
+[SENA]ミニパト車体=[SENA] ミニパト車体
+[SENA]ミニパト後部ドア=[SENA] ミニパト後部ドア
+[SENA]ミニパト右ドア=[SENA] ミニパト右ドア
+[SENA]ミニパト左ドア=[SENA] ミニパト左ドア
+[SENA]ミニパト=[SENA] ミニパト
+
+// studio/sena/sena_pm_moto.unity3d
+[SENA]モトコンポ（走行）=[SENA] モトコンポ（走行）
+[SENA]モトコンポ（収納）=[SENA] モトコンポ（収納）
+[SENA]パトライト（脱着式）=[SENA] パトライト（脱着式）
+[SENA]ヘルメット(ベースボール)=[SENA] Helmet (Baseball)

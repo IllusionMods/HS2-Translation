@@ -1,0 +1,31 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/cuzkuz/cuzkuz_arm_01.unity3d
+大正義リストバンドA=Taisho Wristband A
+
+// chara/gyobobo/gantz_arm.unity3d
+ガンツ丸いヤツ=Gantz Round Plug
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfアームレット=[SENA] DElf Armlet
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLアームレット=[SENA] GHL Armlet
+
+// chara/sena_mod/sena_pm_item01.unity3d
+[SENA]腕章(交通)=[SENA] Armband (Street)
+[SENA]腕章(防犯)=[SENA] Armband (Officer)
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQシンプルアームバンド=[SENA] RQ Simple Arm Band
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカ武器パック(収納)=[SENA] Asuka Weapon Pack (Stored)
+
+// chara/sena_mod/sena_t_asuka_wepon.unity3d
+[SENA]アスカ武器パック（ブレード）=[SENA] Asuka Weapon Pack (Blade)
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TF肘アーマー=[SENA] TF Elbow Armor

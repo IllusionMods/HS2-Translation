@@ -1,0 +1,25 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/d3mod/d3_moonstick.unity3d
+[d3mod]月スティック=[d3mod] Moon Stick
+
+// chara/d3mod/d3_moonstick2.unity3d
+[d3mod]月スティック（水晶）=[d3mod] Moon Stick (Crystal)
+
+// chara/d3mod/d3_stick_mars.unity3d
+[d3mod]星スティック（火）=[d3mod] Star Power Stick (Fire)
+
+// chara/d3mod/d3_stick_marc.unity3d
+[d3mod]星スティック（水）=[d3mod] Star Power Stick (Water)
+
+// chara/d3mod/d3_stick_jupiter.unity3d
+[d3mod]星スティック（木）=[d3mod] Star Power Stick (Wood)
+
+// chara/d3mod/d3_stick_venus.unity3d
+[d3mod]星スティック（金）=[d3mod] Star Power Stick (Gold)

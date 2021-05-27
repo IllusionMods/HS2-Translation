@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/XY/Rammus.unity3d
+拉莫斯=Ramos
+拉莫斯Q=拉莫斯 Q
+
+// studio/XY/Rift Herald.unity3d
+峡谷先锋=Canyon Pioneer

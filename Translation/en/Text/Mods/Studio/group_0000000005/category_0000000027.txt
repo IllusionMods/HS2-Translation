@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_pm_item01.unity3d
+[SENA]帯革=[SENA] Leather Belt
+[SENA]ホルスター=[SENA] Holster
+[SENA]手錠ケース=[SENA] Handcuff Case
+[SENA]警棒ホルダー=[SENA] Baton Holder
+[SENA]受令機=[SENA] Police Radio

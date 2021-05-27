@@ -1,0 +1,24 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_ym2199item.unity3d
+[SENA]YMホルスター=[SENA]YM Holster
+[SENA]YMポーチA=[SENA]YM Pouch A
+[SENA]YMポーチB=[SENA]YM Pouch B
+[SENA]YMコスモガン=[SENA]YM Cosmic Gun
+[SENA]YM パイロットヘルメット=[SENA]YM  Pilot Helmet
+[SENA]YM 酒瓶=[SENA]YM  酒瓶
+[SENA]YM お猪口=[SENA]YM  お猪口
+[SENA]YM 徳利=[SENA]YM  徳利
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YMベルト=[SENA]YM Belt
+
+// chara/sena_mod/sena_ym2199_k.unity3d
+[SENA]YM パイロットネックカラー=[SENA]YM  Pilot Neck Collar
+[SENA]YMスーツ腰巻=[SENA]YM Suit Waistcoat

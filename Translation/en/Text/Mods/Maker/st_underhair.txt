@@ -1,0 +1,18 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/koikatsu_pubes.unity3d
+四角=Square
+三角=Triangle
+小三角=Small Triangle
+丸=Circles
+薄い=Wispy
+小盾=Small Shield
+大盾=Large Shield
+太縦長=Long And Wide
+細縦長=Long And Narrow
+薄縦長=Long And Wispy
+横長=Broad
+そり跡=Pubic Stubble
+大縦長=Wide And Wispy

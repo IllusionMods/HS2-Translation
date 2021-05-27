@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLセイバー=[SENA]GHL Saber
+[SENA]GHLアームレット=[SENA]GHL Armlet
+[SENA]GHLカチューシャ=[SENA]GHL Headband
+[SENA]GHLネックレス=[SENA]GHL Necklace

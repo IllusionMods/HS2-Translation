@@ -1,0 +1,32 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/kkkk1111/hs_hotel_slippers_male.unity3d
+HS 酒店拖鞋=HS Hotel slippers
+
+// chara/kkkk1111/hs_sneakers_male.unity3d
+HS 板鞋(变色)=HS Sneakers (Colorable)
+HS 板鞋(蓝)=HS Sneakers (Blue)
+HS 板鞋(红)=HS Sneakers (Red)
+HS 板鞋(绿)=HS Sneakers (Green)
+HS 板鞋(黑)=HS Sneakers (Black)
+
+// chara/sena_mod/sena_efsf_uni.unity3d
+[SENA]ロングブーツG1=[SENA] Long Boots G1
+[SENA]ロングブーツG2=[SENA] Long Boots G2
+[SENA]ミリタリーブーツG3=[SENA] Military Boots G3
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]忍者草鞋=[SENA] Ninja sandals
+
+// chara/sena_mod/sena_mJersey.unity3d
+[SENA]陸上スパイク(A1)=[SENA] Athletic Spikes (A1)
+
+// chara/sena_mod/sena_various01.unity3d
+[SENA]靴下=[SENA] Socks
+[SENA]サンダル1=[SENA] Sandals 1
+[SENA]サンダル2=[SENA] Sandals 2
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YMパイロットブーツ=[SENA] YM Pilot Boots

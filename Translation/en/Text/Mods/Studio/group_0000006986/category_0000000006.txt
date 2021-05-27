@@ -1,0 +1,20 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_t_asuka_wepon.unity3d
+[SENA]マシンガン手甲=[SENA] マシンガン手甲
+[SENA]腕ミサイルパック=[SENA] 腕ミサイルパック
+[SENA]腕ブレード（展開）=[SENA] 腕ブレード（展開）
+[SENA]腕ブレード（収納）=[SENA] 腕ブレード（収納）
+[SENA]脚ブレード=[SENA] 脚ブレード
+[SENA]腕武器パック（展開）=[SENA] 腕武器パック（展開）
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]腕武器パック（収納）=[SENA] 腕武器パック（収納）
+[SENA]アスカ脚メカパーツ=[SENA] Asuka Leg Mecha Parts
+[SENA]アスカメカサークル=Asuka Mecha Circle

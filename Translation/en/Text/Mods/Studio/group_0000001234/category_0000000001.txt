@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/tAOb/tAOb_ff7_rem_cloud_and_tifa_appartments.unity3d
+��tAOb��ff7_rem_cloud_and_tifa_appartments=��tAOb��ff7_rem_cloud_and_tifa_appartments
+
+// studio/tAOb/tAOb_ff7_rem_aerith_church.unity3d
+��tAOb��ff7_rem_aerith_church=��tAOb��ff7_rem_aerith_church

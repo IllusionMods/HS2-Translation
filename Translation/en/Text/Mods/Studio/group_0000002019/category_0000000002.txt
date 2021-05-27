@@ -1,0 +1,25 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// b8mod/Cheyancheng.unity3d
+河阳城=River Yang City
+
+// b8mod/CHshuanlong.unity3d
+双龙舞台=Double Dragon Stage
+
+// b8mod/Exquisite.unity3d
+荷花池山庄=Lotus Pond Villa
+
+// b8mod/sanmap.unity3d
+废弃仓库=Abandoned Warehouse
+悬崖=Cliff
+指环王场景=Lord of the Rings Scene
+涂鸦墙角=Graffiti wall corner
+草地石头=Grass rocks
+走道=Walkway
+鹅卵石地面=Cobblestone floor

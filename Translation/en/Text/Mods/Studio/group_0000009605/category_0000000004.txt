@@ -1,0 +1,23 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// nullpon_item_bamboo/nullpon_item_bamboo/data_prefab_000.unity3d
+竹1=Bamboo 1
+竹2=Bamboo 2
+竹3=Bamboo 3
+竹4=Bamboo 4
+竹5=Bamboo 5
+竹6=Bamboo 6
+竹7=Bamboo 7
+竹8=Bamboo 8
+竹9=Bamboo 9
+竹10=Bamboo 10
+
+// nullpon_item_omaru/nullpon_item_omaru/data_prefab_000.unity3d
+おまる=Pottery
+おまる（蓋）=Pottery (Lid)

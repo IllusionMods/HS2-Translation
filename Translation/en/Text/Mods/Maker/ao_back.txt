@@ -1,0 +1,29 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// DLM/DE/wings.unity3d
+大力-分享恶魔右q3344929957=[DALI] Succubus Right q3344929957
+大力-分享恶魔左q3344929957=[DALI] Succubus Left q3344929957
+
+// DLMEX/DLTD2/dl_back_dltd2.unity3d
+大力_TD天华背带A=[DALI] TD Sky Straps A
+
+// DLMEX/DLMZ/dl_back_mz.unity3d
+大力_明妆背带-作者q3344929957=[DALI] Ming Dynasty Straps - Author q3344929957
+
+// DLMEX/DLMZ/dl_back_mz2.unity3d
+大力_明妆背金属=[DALI] Ming Dynasty Metal Back
+
+// DLMEX/L/dl_back_lo.unity3d
+大力-龙翅膀-作者q3344929957=[DALI] Dragon Wings - Author q3344929957
+
+// chara/sena_mod/sena_hb_item.unity3d
+[SENA]HBカタナ（全）=[SENA] HB Katana (All)
+[SENA]HBカタナ（鞘）=[SENA] HB Katana (Sheath)
+
+// chara/sena_mod/sena_EFSF_Testp.unity3d
+[SENA]EFSFテストバックパック=[SENA] EFSF Test Backpack
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵肩掛け上着=[SENA] Musashi Shoulder Jacket

@@ -1,0 +1,15 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// hooh/modern_furniture/modern_furniture_0031.unity3d
+KitCabinet Lo 1½x A=KitCabinet Lo 1½x A
+KitCabinet Lo 1½x Sink=KitCabinet Lo 1½x Sink
+
+// hooh/modern_furniture/modern_furniture_0010.unity3d
+KitCabinet Up 1½x A=KitCabinet Up 1½x A
+KitCabinet Up 1½x B=KitCabinet Up 1½x B

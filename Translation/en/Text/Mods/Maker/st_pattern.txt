@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/00/cur_st_pattern_01.unity3d
+単線(縦)=Single Line (Vertical)
+単線(横)=Single Line (Horizontal)
+単線2(横)=Single Line 2 (Horizontal)
+
+// chara/sfmphs2/st_pattern_sfmphs2.unity3d
+例の壁=Example Wall

@@ -1,0 +1,47 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// nullpon_kinbaku_knots/nullpon_kinbaku_knots/data_prefab_000.unity3d
+結目=Knot
+結目（男結）=Knot (male knot)
+結目（吊り縄）=Knot (hanging rope)
+
+// nullpon_kinbaku_matanawa/nullpon_kinbaku_matanawa/data_prefab_000.unity3d
+股縄（閉）=Crotch rope (closed)
+股縄（開）=Crotch rope (open)
+
+// nullpon_kinbaku_rope/nullpon_kinbaku_rope/data_prefab_000.unity3d
+麻縄・1本取=Hemp rope, 1 piece
+麻縄・2本取=Hemp rope, 2 strands
+コブ縄=Cob rope
+
+// nullpon_kinbaku_ropeset/nullpon_kinbaku_ropeset/data_prefab_000.unity3d
+縄輪（手首・左）=Rope ring (wrist / left)
+縄輪（手首・右）=Rope ring (wrist / right)
+縄輪（前腕・左）=Rope ring (forearm, left)
+縄輪（前腕・右）=Rope ring (forearm, right)
+縄輪（上腕・左）=Rope ring (upper arm, left)
+縄輪（上腕・右）=Rope ring (upper arm, right)
+縄輪（首）=Rope ring (neck)
+縄輪（ふともも上・左）=Rope ring (upper thigh, left)
+縄輪（ふともも上・右）=Rope ring (upper thigh, right)
+縄輪（ふともも下・左）=Rope ring (lower thigh, left)
+縄輪（ふともも下・右）=Rope ring (lower thigh, right)
+縄輪（ふくらはぎ・左）=Rope ring (calf, left)
+縄輪（ふくらはぎ・右）=Rope ring (calf, right)
+縄輪（足首・左）=Rope ring (ankle, left)
+縄輪（足首・右）=Rope ring (ankle, right)
+
+// nullpon_kinbaku_ushirode/nullpon_kinbaku_ushirode/data_prefab_000.unity3d
+後手緊縛（胸・上）=Back hand bondage (chest, top)
+後手緊縛（胸・下）=Back hand bondage (chest, bottom)
+後手緊縛（留め縄）=Back hand bondage (clasp rope)
+後手緊縛（腕・左）=Back hand bondage (arm, left)
+後手緊縛（腕・右）=Rear hand bondage (arms, right)
+後手緊縛（手首）=Back hand bondage (wrist)
+後手緊縛（縄）=Back hand bondage (rope)

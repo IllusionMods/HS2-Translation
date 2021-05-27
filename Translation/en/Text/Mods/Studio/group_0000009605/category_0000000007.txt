@@ -1,0 +1,19 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// nullpon_gag_sarugutsuwa/nullpon_gag_sarugutsuwa/data_prefab_000.unity3d
+猿轡 A=Gag  A
+猿轡 B1=Gag  B1
+猿轡 B2=Gag  B2
+
+// nullpon_mask_tsumibukuro/nullpon_mask_tsumibukuro/data_prefab_000.unity3d
+罪袋=Sin bag
+袋(´・ω・`)=Bag (´・ω・`)
+袋（穴あき）=Bag (perforated)
+袋（黒）=Bag (black)
+袋（白）=Bag (white)

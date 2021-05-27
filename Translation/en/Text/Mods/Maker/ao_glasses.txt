@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/ao.unity3d
+夜莺-眼罩=Nightingale Blindfold
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵メガネ=[SENA] Musashi Glasses

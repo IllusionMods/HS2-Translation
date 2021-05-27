@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/shiraore/cufflinks.unity3d
+手錠端末=Handcuff Terminal
+手錠端末(折り)=Handcuff Terminal (Folded)

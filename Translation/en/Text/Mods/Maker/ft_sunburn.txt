@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/d3mod/hestia_sb.unity3d
+乳神焼け（グローブなし）=Busty Goddess Tan (Without Gloves)
+乳神焼け（グローブあり）=Busty Goddess Tan (With Gloves)
+
+// chara/sena_mod/sena_sunburn01.unity3d
+[SENA]陸上A=[SENA] Sports A
+[SENA]陸上A+足首=[SENA] Sports A + Ankle
+[SENA]陸上B=[SENA] Sports B
+[SENA]陸上B+足首=[SENA] Sports B + Ankle

@@ -1,0 +1,26 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// adv/animater/female/30.unity3d
+ポーズ01=Pose 01
+ポーズ02=Pose 02
+ポーズ03=Pose 03
+ポーズ04=Pose 04
+ポーズ05=Pose 05
+ポーズ06=Pose 06
+ポーズ07=Pose 07
+ポーズ08=Pose 08
+ポーズ09=Pose 09
+ポーズ10=Pose 10
+ポーズ15=Pose 15
+
+// adv/animater/female/50.unity3d
+ポーズ11=Pose 11
+ポーズ12=Pose 12
+ポーズ13=Pose 13
+ポーズ14=Pose 14
+
+// custom/00/anim_f_00.unity3d
+マネキン1=Mannequin 1
+マネキン2=Mannequin 2

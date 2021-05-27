@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/XY/Rayquaza.unity3d
+裂空座=Split seat
+超级裂空座=Super split seat
+
+// studio/XY/Xerneas.unity3d
+哲尔尼亚斯=Zernas

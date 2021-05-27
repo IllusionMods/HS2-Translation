@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// XY/xblajc.unity3d
+休伯利安舰仓=Huberian Ship Warehouse
+休伯利安能源舱=Huberian Energy Cabin
+休伯利安驾驶舱=Huberian Cockpit
+休伯利安能源核心=Huberian Energy Core

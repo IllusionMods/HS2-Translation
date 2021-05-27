@@ -1,0 +1,178 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/CC353/shoes/CC353_shoes_01_011_01.unity3d
+【CC353】超高跟鞋011 <h01011>=[CC353] Super High Heels 011 <h01011>
+
+// chara/CC353/shoes/CC353_shoes_03_002_01.unity3d
+【CC353】高跟鞋002 <h03002>=[CC353] Super High Heels 002 <h03002>
+
+// chara/kkkk1111/hs_hotel_slippers.unity3d
+HS 酒店拖鞋=HS Hotel slippers
+
+// chara/kkkk1111/hs_idol_shoes.unity3d
+HS 偶像 鞋子=HS Idol Shoes
+
+// chara/kkkk1111/hs_idol_heels.unity3d
+HS 偶像 高跟=HS Idol High Heels
+
+// chara/kkkk1111/hs_sandals.unity3d
+HS 凉鞋(变色)=HS Sandals (Colorable)
+HS 凉鞋(棕)=HS Sandals (Brown)
+HS 凉鞋(蓝)=HS Sandals (Blue)
+HS 凉鞋(红)=HS Sandals (Red)
+HS 凉鞋(黑)=HS Sandals (Black)
+
+// chara/kkkk1111/hs_sneakers.unity3d
+HS 板鞋(变色)=HS Sneakers (Colorable)
+HS 板鞋(蓝)=HS Sneakers (Blue)
+HS 板鞋(红)=HS Sneakers (Red)
+HS 板鞋(绿)=HS Sneakers (Green)
+HS 板鞋(黑)=HS Sneakers (Black)
+
+// chara/kkkk1111/jk_shoes.unity3d
+HS流苏小皮鞋=HS tassel small leather shoes
+
+// chara/Lbxdd_HighHeels_2.unity3d
+[Lbxdd]鱼嘴高跟2_1=[Lbxdd] Fish Mouth High Heel 2_1
+[Lbxdd]鱼嘴高跟2_2=[Lbxdd] Fish Mouth High Heel 2_2
+
+// chara/Lbxdd_HighHeels_3.unity3d
+[Lbxdd]鱼嘴高跟3_1=[Lbxdd] Fish Mouth High Heel 3_1
+[Lbxdd]鱼嘴高跟3_2=[Lbxdd] Fish Mouth High Heel 3_2
+[Lbxdd]鱼嘴高跟3_3=[Lbxdd] Fish Mouth High Heel 3_3
+[Lbxdd]鱼嘴高跟3_4=[Lbxdd] Fish Mouth High Heel 3_4
+[Lbxdd]鱼嘴高跟3_5=[Lbxdd] Fish Mouth High Heel 3_5
+[Lbxdd]鱼嘴高跟3_6=[Lbxdd] Fish Mouth High Heel 3_6
+
+// chara/Lbxdd_HighHeels04.unity3d
+[Lbxdd]鱼嘴高跟4_1=[Lbxdd] Fish Mouth High Heel 4_1
+[Lbxdd]鱼嘴高跟4_2=[Lbxdd] Fish mouth high heel 4_2
+[Lbxdd]鱼嘴高跟4_3=[Lbxdd] Fish Mouth High Heel 4_3
+[Lbxdd]鱼嘴高跟4_4=[Lbxdd] Fish mouth high heel 4_4
+[Lbxdd]鱼嘴高跟4_5=[Lbxdd] Fish Mouth High Heel 4_5
+[Lbxdd]鱼嘴高跟4_6=[Lbxdd] Fish mouth high heel 4_6
+[Lbxdd]鱼嘴高跟4_7=[Lbxdd] Fish Mouth High Heel 4_7
+[Lbxdd]鱼嘴高跟4_8=[Lbxdd] Fish mouth high heel 4_8
+
+// chara/skonb/fo_shoes_shimakaze.unity3d
+艦ブーツ=Ship Boots
+
+// chara/cuzkuz/cuzkuz_shoes_01.unity3d
+大正義シューズ=Yomiuri Giants Cheerleader Shoes
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のブーツ=Diva's boots
+
+// DLMEX/DLTD1/dl_shoes_dltd1.unity3d
+大力_TD沧海_鞋=[DALI] TD Sea Shoes
+
+// DLMEX/DLTD2/dl_shoes_dltd2.unity3d
+大力_TD天华_鞋=[DALI] TD Sky Shoes
+
+// DLMEX/DLMZ/dl_shoes_mz.unity3d
+大力_明妆鞋-作者q3344929957=[DALI] Ming Dynasty Shoes-Author q3344929957
+
+// DLM/DE/emx.unity3d
+大力-分享恶魔q3344929957=[DALI] Succubus q3344929957
+
+// chara/DLM/dlgf1.unity3d
+大力-免费分享-三变高跟A作者Q3617354271=[DALI] Free Sharing Three - High Heels A - Author Q3617354271
+
+// chara/DLM/dlgf2.unity3d
+大力-免费分享-三变高跟B作者Q3617354271=[DALI] Free Sharing Three - High Heels B - Author Q3617354271
+
+// chara/DLM/dlgf3.unity3d
+大力-免费分享-三变高跟C作者Q3617354271=[DALI] Free Sharing Three - High Heels C - Author Q3617354271
+
+// chara/DLM/dlpixue.unity3d
+大力-免费分享-三变皮靴-作者Q3617354271=[DALI] Free Sharing Three - Leather Boots - Author Q3617354271
+
+// chara/fo.unity3d
+夜莺-靴=Nightingale Boots
+
+// chara/gyobobo/gantz_shoes.unity3d
+ガンツブーツ=Gantz Boots
+
+// chara/hs2_chunli/fo_shoes_chunli.unity3d
+格闘用ブーツ=Fighting Boots
+
+// chara/DKMEX/loxie.unity3d
+大力-龙爪-作者Q3344929957=[DALI] Dragon Claw - Author Q3344929957
+
+// chara/SDK/SDK_AI_PlatformPumps.unity3d
+厚底ハイヒールパンプス=Platform Heels
+
+// chara/sena_mod/sena_aeug.unity3d
+[SENA]AEUGブーツS=[SENA] AEUG Boots S
+[SENA]AEUGブーツM=[SENA] AEUG Boots M
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HBブーツ=[SENA] HB Boots
+
+// chara/sena_mod/sena_efsf_uni.unity3d
+[SENA]ロングブーツG1=[SENA] Long Boots G1
+[SENA]ロングブーツG2=[SENA] Long Boots G2
+
+// chara/sena_mod/sena_EFSF_Testp.unity3d
+[SENA]EFSFテストブーツ=[SENA] EFSF Test Boots
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ01ブーツ=[SENA] EVA RQ01 Boot
+
+// chara/sena_mod/sena_eva_rq01a.unity3d
+[SENA]EVA RQ01ブーツL=[SENA] EVA RQ01 Boot L
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]R連邦ブーツ=[SENA] R Federation Boots
+
+// chara/sena_mod/sena_g_reiko_s.unity3d
+[SENA]R連合ブーツ=[SENA] R Federation Boot
+
+// chara/sena_mod/sena_ggg.unity3d
+[SENA]GGGロングブーツ=[SENA] GGG Long Boots
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵ブーツ=[SENA] Musashi Boots
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]クノイチ草鞋=[SENA] Knoichi sandals
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfブーツ=[SENA] DElf Boots
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLブーツ=[SENA] GHL Boots
+
+// chara/sena_mod/sena_riku01_shoes.unity3d
+[SENA]陸上スパイク(A1)=[SENA] Athletic Spikes (A1)
+
+// chara/sena_mod/sena_riku02_shoes.unity3d
+[SENA]陸上スパイク(M1)=[SENA] Athletic Spikes (M1)
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQパンプス=[SENA] RQ Pumps
+[SENA]RQサンダル=[SENA] RQ Sandals
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカレッグ（日常用）=[SENA] Asuka Leg (Dialy)
+[SENA]アスカレッグ（戦闘用）=[SENA] Asuka Leg (Battle)
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFシューズ=[SENA] TF Shoes
+
+// chara/sena_mod/sena_various01.unity3d
+[SENA]サンダル1=[SENA] Sandals 1
+[SENA]サンダル2=[SENA] Sandals 2
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]バレーボールシューズ=[SENA] Volleyball Shoes
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YMブーツS=[SENA] YM Boots S
+[SENA]YMブーツL=[SENA] YM Boots L
+[SENA]YMパイロットブーツ=[SENA] YM Pilot Boots
+
+// chara/tan90/tan90_shoes_heels1.unity3d
+[tan90]高跟鞋=[tan90] High heels

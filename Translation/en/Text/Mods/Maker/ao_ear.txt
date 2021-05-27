@@ -1,0 +1,10 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/sena_mod/sena_av.unity3d
+[SENA]Wlヘッドセット左=[SENA] Wireless Headset Left
+[SENA]Wlヘッドセット右=[SENA] Wireless Headset Right
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFイヤリング=[SENA] TF Earring

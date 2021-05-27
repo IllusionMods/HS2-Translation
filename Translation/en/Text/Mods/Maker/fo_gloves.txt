@@ -1,0 +1,133 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2毛衣=HS2 Fur Coat
+
+// chara/skonb/fo_gloves_shimakaze.unity3d
+セーラーロングレングス=Sailor Long
+
+// chara/cuzkuz/cuzkuz_top_00.unity3d
+八十八学園ベスト=88th Academy Vest
+
+// chara/cuzkuz/cuzkuz_bot_05a.unity3d
+ジャージ（たくし上げ）=Jersey (Rolled Up)
+
+// chara/cuzkuz/cuzkuz_bot_06a.unity3d
+ハーフパンツ=Shorts
+
+// chara/cuzkuz/cuzkuz_top_08.unity3d
+ニットベスト=Knit Vest
+
+// chara/cuzkuz/cuzkuz_glove_01.unity3d
+一番星グローブ=Top Star Gloves
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のグローブ=Diva's Gloves
+
+// chara/d3mod/hestia_glove.unity3d
+[d3mod]乳神グローブ=[d3mod] Milky God Gloves
+
+// DLM/DE/gloves.unity3d
+大力-分享恶魔Q3344929957=[DALI] Succubus Q3344929957
+
+// DLMEX/DLTD1/dl_gloves_dltd1.unity3d
+大力_TD沧海_袖子_原色=[DALI] TD Sea Sleeves Original Color
+
+// DLMEX/DLTD1/dl_gloves_dltd1b.unity3d
+大力_TD沧海_袖子_半透明=[DALI] TD Sea Sleeves Translucent
+
+// DLMEX/DLTD2/dl_gloves_dltd2.unity3d
+大力_TD天华_袖子A=[DALI] TD Sky Sleeve A
+
+// DLMEX/DLTD2/dl_gloves_dltd2b.unity3d
+大力_TD天华_袖子B=[DALI] TD Sky Sleeve B
+
+// DLMEX/DLMZ/dl_gloves_mz.unity3d
+大力-明妆手-作者q3344929957=[DALI] Ming Dynasty Hands-Author q3344929957
+
+// DLMEX/DLMZ/dl_gloves_mz2.unity3d
+大力-明妆特效手-作者q3344929957=[DALI] Ming Dynasty Hands Special Effects - Author q3344929957
+
+// DLMEX/L/dl_gloves_lo.unity3d
+大力-龙盔甲护手-作者q3344929957=[DALI] Dragon Armor Gauntlets - Author q3344929957
+
+// chara/fo.unity3d
+夜莺-护臂=Nightingale Armguards
+夜莺-手套=Nightingale Gloves
+夜莺-护臂手套=Nightingale Armguard Gloves
+
+// chara/gyobobo/gantz_gloves.unity3d
+ガンツグローブ=Gantz gloves
+
+// chara/re_bigger_jacket.unity3d
+ボディーハーネスBig=Body Harness Big
+
+// chara/re_bigger_jacket2.unity3d
+ボディーハーネスBig2=Body Harness Big2
+
+// chara/sena_mod/sena_aeug.unity3d
+[SENA]AEUGグローブ=[SENA] AEUG Gloves
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HB戦闘グローブ=[SENA] HB Combat Gloves
+[SENA]HB指抜きグローブ=[SENA] HB Fingerless Glove
+
+// chara/sena_mod/sena_EFSF_Testp.unity3d
+[SENA]パイロットグローブ=[SENA] Pilot Glove
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ01手袋=[SENA] EVA RQ01 Glove
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]R連邦グローブ=[SENA] R Federation Glove
+
+// chara/sena_mod/sena_g_reiko_s.unity3d
+[SENA]R連合グローブ=[SENA] R Federation Glove
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵グローブ=[SENA] Musashi Glove
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]クノイチ手甲=[SENA] Knoichi Hand Armor
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfグローブ=[SENA] DElf Glove
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLグローブ=[SENA] GHL Glove
+
+// chara/sena_mod/sena_pm01.unity3d
+[SENA]警備手袋=[SENA] Security Glove
+
+// chara/sena_mod/sena_riku02.unity3d
+[SENA]テーピング=[SENA] Taping
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQインナーショーツ=[SENA] RQ inner shorts
+
+// chara/sena_mod/sena_rq_jak.unity3d
+[SENA]裸ベンチコート=[SENA] Naked Bench Coat
+[SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカアーム（日常）=[SENA] Aska Arm (Daily)
+[SENA]アスカアーム（戦闘）=[SENA] Asuka Arm (Combat)
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFグローブ=[SENA] TF Glove
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]アームスリーブ=[SENA] Arm Sleeve
+[SENA]アームスリーブ左=[SENA] Arm Sleeve Left
+[SENA]アームスリーブ右=[SENA] Arm Sleeve Right
+
+// chara/sena_mod/sena_vb01b.unity3d
+[SENA]指テーピング=[SENA] Finger Taping
+
+// chara/sena_mod/sena_w_jersey.unity3d
+[SENA]ジャージ前開け=[SENA] jersey front open
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YMパイロットグローブ=[SENA] YM Pilot Glove

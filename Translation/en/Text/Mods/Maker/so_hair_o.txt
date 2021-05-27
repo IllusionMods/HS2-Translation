@@ -1,0 +1,139 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/00/so_hair_b_00.unity3d
+ストレートロング=Long Straight
+くせっけショート=Messy Short
+ボリュームポニー=Thick Ponytail
+細ツインテール=Thin Twintails
+細ロングツインテール=Thin & Long Twintails
+セミロング=Medium Length
+ぱっつんロング=Blunt Long
+ツイン前おさげ=Twin Over-shoulder Tails
+後ろおさげ=Ponytail
+はねっけロング=Voluminous Long
+ショートヘア=Right Short, Long Left
+ツインロール=Twin Rolls
+ロングツインロール=Long Twin Rolls
+ぱっつんミディアム=Bob Cut
+外はねミディアム=Medium Wave
+外はねショート=Antenna Bangs
+横おさげ=Side Tail
+
+// chara/38/so_hair_b_38.unity3d
+ウェーブロング=Wavy Long
+
+// chara/05/so_hair_b_05.unity3d
+ツーサイドアップ=Both Sides Up
+くせっ毛セミロング=Messy Medium
+
+// chara/06/so_hair_b_06.unity3d
+お団子ポニー=Ponytail Bun
+お団子ツイン=Double Bun
+
+// chara/07/so_hair_b_07.unity3d
+ボウズ=Buzz Cut
+ボリュームツインテール=Voluminous Twintails
+ボリュームツーサイド=Voluminous Sides Up
+
+// chara/08/so_hair_b_08.unity3d
+サイドテール(左)=Side Tail (Left)
+サイドテール(右)=Side Tail (Right)
+
+// chara/10/so_hair_b_10.unity3d
+結わえロング=Tied Long
+
+// chara/13/so_hair_b_13.unity3d
+縦ロールロング=Long Curly
+
+// chara/14/so_hair_b_14.unity3d
+ボリュームツインロール=Voluminous Twin Rolls
+
+// chara/30/so_hair_b_30.unity3d
+二つ分けロング=Long Parted
+テンショウ=Tenshou Era
+あほ毛ミディアム=Short With Strands
+ツインロングおさげ=Long Twintails
+重ねぱっつんミディアム=Layered Medium
+マッシュヘア=Mash Hair
+ボリュームカールポニー=Volumous Long Curly Pony
+リングツインテール=Ring Tail
+オールバックポニー=Upper Back Pony
+オールバックツインテール=Uppper Back Twintails
+
+// chara/34/so_hair_b_34.unity3d
+三つ編みツインおさげ=Braid Twintails
+
+// chara/40/so_hair_b_40.unity3d
+シスターカールロング=Sister Curly Long
+シスターベールヘア=Sister Veil Hair
+
+// chara/41/so_hair_b_41.unity3d
+中分けカールヘア=Curved hair
+
+// chara/50/so_hair_b_50.unity3d
+シトリーヘア=Sitri Hair
+ボリュームぱっつんポニー=Voluminous Long Ponytail
+ワイルドミディアム=Medium Spikes with Ponytail Behind
+ロングサイドテール=Long with Side Ponytail
+アップスタイル=Up Bun
+
+// chara/00/so_hair_f_00.unity3d
+ロングヘア=Long
+くせっ毛ショート=Messy Short
+横分け=Side Part
+エムバング=M Bangs
+梳き髪=Trim
+姫カット=Princess Cut
+でこだし中わけ=Center Part (Bare Forehead)
+片目隠し=Over Right Eye
+はねっ毛=Spiky
+アシンメトリ=Asymmetric
+ぱっつんミデイアム=Straight Bangs
+切り揃えショート=Lopsided Short
+
+// chara/05/so_hair_f_05.unity3d
+ぱっつん横出し=Framed Blunt
+クロスセミロング=Medium Cross
+
+// chara/08/so_hair_f_08.unity3d
+サイドウェーブ(左)=Side Wave (Left)
+サイドウェーブ(右)=Side Wave (Right)
+
+// chara/10/so_hair_f_10.unity3d
+横流しカール=Sideways Curl
+
+// chara/13/so_hair_f_13.unity3d
+縦ロールバング=Roll Bangs
+
+// chara/14/so_hair_f_14.unity3d
+ウェーブゴスロリバング=Wavy Goth Lolita Bangs
+
+// chara/30/so_hair_f_30.unity3d
+斜めぱっつん=Diagonal Bangs
+エアインテークミディアム=Exhaust Bangs
+横出し流し髪=Side Bangs Flowy
+重ねぱっつん=Layered
+マッシュバング=Mashed Bangs
+ロングカール=Long Curly
+分けソフトヘア=Side Part (Center Hair Lock)
+
+// chara/34/so_hair_f_34.unity3d
+ナチュラルエムバング=Natural Bangs
+
+// chara/40/so_hair_f_40.unity3d
+シスターカールバング=Sister Curly
+
+// chara/41/so_hair_f_41.unity3d
+中分けカールバング=Curly Bangs
+
+// chara/50/so_hair_f_50.unity3d
+シトリーバング=Sitri Bangs
+和風ぱっつん=Japanese Straight Bangs
+ワイルドアシンメトリ=Asymmetrical Bob Over Eye
+エム分けぱっつん=Straight Bangs in "M"
+サイドロングラフバング=Side Long with Lock Over Eye
+
+// chara/ymd/ym11_hairPortM.unity3d
+HS バンダナ=HS Bandana

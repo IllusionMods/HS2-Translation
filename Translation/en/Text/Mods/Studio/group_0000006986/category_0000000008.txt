@@ -1,0 +1,22 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_anna_i.unity3d
+[SENA]ハンディターミナル=[SENA] ハンディターミナル
+[SENA]ピッチャー=[SENA] ピッチャー
+[SENA]コーヒーサーバ=[SENA] コーヒーサーバ
+[SENA]コーヒーカップ=[SENA] コーヒーカップ
+[SENA]メニュー=[SENA] Current Screen
+[SENA]AMブレスレット=[SENA]AM Bracelet
+[SENA]AM伝票クリップ=[SENA]AM Slip Clip
+[SENA]AM伝票クリップトップ=[SENA]AM Slip Clip Top
+[SENA]AMネックレス=[SENA]AM Necklace
+[SENA]AMリボン=[SENA]AM Ribbon
+[SENA]AMネームプレート=[SENA]AM Nameplate
+[SENA]丸トレイ=[SENA] 丸トレイ
+[SENA]ペパーミル=[SENA] ペパーミル

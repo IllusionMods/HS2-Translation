@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/stinger722/stinger722_ao_kokan_inmou.unity3d
+陰毛F=Pubic hair F
+陰毛R=Pubic Hair R

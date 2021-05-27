@@ -1,0 +1,10 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/zeromike/dragon_ball_kami_lookout.unity3d
+[龙珠]天岛=[Dragon Ball] Sky Island

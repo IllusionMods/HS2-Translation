@@ -1,0 +1,110 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// DLM/dl_head_dlms.unity3d
+大力-分享-面纱-正常版-作者Q3344929957=[DALI] Sharing Veil Normal - Author Q3344929957
+
+// DLM/dl_head_dlmss.unity3d
+大力-分享-面纱-反光版-作者Q3344929957=[DALI] Sharing Veil Reflective - Author Q3344929957
+
+// chara/ao.unity3d
+夜莺-面罩=Nightingale-Mask
+
+// chara/sio/foxmask.unity3d
+狐面=Fox Mask
+
+// chara/sio/foxmask2.unity3d
+狐面半分=Half Fox Mask
+
+// chara/sio/fullmask.unity3d
+全頭マスク=Whole Head Mask
+
+// chara/gyobobo/gantz_face.unity3d
+ガンツ顎=Gantz Jaw
+
+// chara/kky/ao_face_kky_basicshapes.unity3d
+基本図形：星2=Basic shape: Star 2
+基本図形：星3=Basic shape: Star 3
+基本図形：星4=Basic shape: Star 4
+基本図形：ハート2=Basic shape: Heart 2
+基本図形：爪=Basic Shape: Nail
+基本図形：筒=Basic Shape: Cylinder
+基本図形：筒2=Basic shape: Tube 2
+基本図形：パイプ1=Basic shape: Pipe 1
+基本図形：パイプ2=Basic shape: Pipes 2
+基本図形：台形1=Basic shape: Trapezoid 1
+基本図形：台形2=Basic shape: Trapezoid 2
+基本図形：矢印1=Basic shape: Arrows 1
+基本図形：矢印2=Basic shape: Arrows 2
+基本図形：矢印3=Basic shape: Arrows 3
+基本図形：穴あきキューブ=Basic Shape: Hollow Cube
+基本図形：直角1=Basic shape: Right Angle 1
+基本図形：直角2=Basic shape: Right Angle 2
+基本図形：直角3=Basic shape: Right Angle 3
+基本図形：三日月1=Basic shape: Crescent 1
+基本図形：三日月2=Basic shape: Crescent 2
+基本図形：三日月3=Basic shape: Crescent 3
+基本図形：十字=Basic Shape: Cross
+基本図形：Ｖ字=Basic Shape: V-Shaped
+基本図形：穴あき楕円=Basic Shape: Hollow Ellipse
+基本図形：先尖り棒=Basic Shape: Pointed Bar
+基本図形：三角=Basic Shape: Triangle
+基本図形：穴あき三角(通常)=Basic Shape: Hollow Triangle (Normal)
+基本図形：弧1=Basic shape: Arc 1
+基本図形：弧2=Basic shape: Arc 2
+基本図形：弧3=Basic shape: Arc 3
+基本図形：四分円=Basic Shape: Quarter Circle
+基本図形：半円=Basic Shape: Semicircle
+基本図形：五角形=Basic Shape: Pentagon
+基本図形：六角形=Basic Shape: Hexagon
+基本図形：穴あき六角形=Basic Shape: Hollow Hexagon
+基本図形：八角形=Basic Shape: Octagon
+基本図形：頭=Basic Shape: Head
+基本図形：平面（通常）=Basic Shape: Plane (Normal)
+基本図形：輪(通常)=Basic Shape: Ring (Normal)
+基本図形：正台形(通常)=Basic Shape: Regular Trapezoid (Normal)
+基本図形：山型多角形1(通常)=Basic Shape: Mountain Polygon 1 (Normal)
+基本図形：山型多角形2(通常)=Basic Shape: Mountain Polygon 2 (Normal)
+基本図形：長六角形(通常)=Basic Shape: Long Hexagon (Normal)
+基本図形：長五角形（通常）=Basic Shape: Long Pentagon (Normal)
+基本図形：歪み三角柱(通常)=Basic Shape: Distorted Triangular Prism (Normal)
+基本図形：マウス型右(通常)=Basic Shape: Mouse Button Right (Normal)
+基本図形：マウス型左(通常)=Basic Shape: Mouse Button Left (Normal)
+基本図形：三角横台形(通常)=Basic Shape: Triangular Horizontal Trapezoid (Normal)
+基本図形：五角横台形(通常)=Basic Shape: Pentagonal Horizontal Trapezoid (Normal)
+基本図形：円形横台形(通常)=Basic Shape: Circular Horizontal Trapezoid (Normal)
+基本図形：ドロップ立体(通常)=Basic Shape: Drop Solid (Normal)
+基本図形：ドロップ平面(通常)=Basic Shape: Drop Plane (Normal)
+基本図形：ひょうたん立体(通常)=Basic Shape: Gourd Solid (Normal)
+基本図形：ひょうたん平面(通常)=Basic Shape: Gourd Plane (Normal)
+基本図形：角リング(通常)=Basic Shape: Cone Ring (Normal)
+基本図形：立体半円(通常)=Basic Shape: Solid Semicircle (Normal)
+基本図形：立体四半円(通常)=Basic Shape: 3D Quarter Circle (Normal)
+基本図形：角型(通常)=Basic Shape: Cone (Normal)
+基本図形：直角形(通常)=Basic Shape: Right Angle (Normal)
+基本図形：斜ひし形(通常)=Basic Shape: Diagonal Rhombus (Normal)
+基本図形：歪み台形(通常)=Basic Shape: Distorted Trapezoid (Normal)
+基本図形：欠け四角(通常)=Basic Shape: Missing Cone (Normal)
+基本図形：二対多角形(通常)=Basic Shape: Two-Pair Polygon (Normal)
+基本図形：ヒレ型(通常)=Basic Shape: Fillet Button (Normal)
+基本図形：歪み多角形(通常)=Basic Shape: Distorted Polygon (Normal)
+基本図形：角なし斜ひし形(通常)=Basic Shape: Rounded Diagonal Rhombus (Normal)
+基本図形：角なし歪み台形(通常)=Basic Shape: Rounded Distorted Trapezoid (Normal)
+基本図形：角なし四角錐(通常)=Basic Shape: Rounded Square Pyramid (Normal)
+基本図形：角なし三角(通常)=Basic Shape: Rounded Triangle (Normal)
+基本図形：角なし四角(通常)=Basic Shape: Rounded Cube (Normal)
+基本図形：筒四分(通常)=Basic Shape: Quarter Cylinder (Normal)
+基本図形：半ピラミッド(通常)=Basic Shape: Half Pyramid (Normal)
+基本図形：角なし半四角錐(通常)=Basic Shape: Rounded Half Pyramid (Normal)
+基本図形：半コーン(通常)=Basic Shape: Half Cone (Normal)
+基本図形：階段型(通常)=Basic Shape: Staircase Button (Normal)
+基本図形：半カプセル(通常)=Basic Shape: Half Capsule (Normal)
+
+// nullpon_gag_sarugutsuwa/nullpon_gag_sarugutsuwa/data_prefab_000.unity3d
+猿轡A=Gag A
+猿轡B1=Gag B1
+猿轡B2=Gag B2
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]ドクロ仮面=[SENA] Skull Mask

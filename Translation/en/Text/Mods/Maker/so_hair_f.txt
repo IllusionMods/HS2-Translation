@@ -1,0 +1,21 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/cuzkuz/cuzkuzhair_02.unity3d
+普通の前髪=Normal Bangs
+
+// chara/sio/so_hair_f_hane2.unity3d
+はねっ毛2=Wavy hair 2
+
+// chara/sio/so_hair_f_hane3.unity3d
+はねっ毛3=Long hair 3
+
+// chara/sio/so_hair_f_hime2.unity3d
+姫カット2=Princess Cut 2
+
+// chara/sio/so_hair_f_hime3.unity3d
+姫カット3=Princess Cut 3
+
+// chara/sio/so_hair_f_hime4.unity3d
+姫カット4=Princess Cut 4

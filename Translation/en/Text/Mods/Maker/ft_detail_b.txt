@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/stinger722/ft_detail_b_00puffy.unity3d
+普通(puffy)=Normal (puffy)
+ムキムキ(puffy)=Muscular (puffy)
+ポッチャリ(puffy)=Chubby (puffy)
+スレンダー(puffy)=Slender (puffy)
+
+// chara/sdtcroc/ft_detail_b_sdtcroc.unity3d
+丰满=Chubby

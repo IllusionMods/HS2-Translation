@@ -1,0 +1,25 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/sjjpl_mask.unity3d
+口罩1=口罩 1
+口罩2=口罩 2
+口罩3=口罩 3
+
+// studio/[zhushiwo]chinese_jiaju2020.unity3d
+博古架=Hanging rack
+茶几=Tea table
+落地灯=Earthenware Lamp
+小摆架=Small Furnishing Stands
+圆花架=Flower Fence
+园椅子=Garden Chair
+桌子1=桌子 1
+桌子2=桌子 2
+
+// studio/[zhushiwo]china_bed0.unity3d
+床2=床 2

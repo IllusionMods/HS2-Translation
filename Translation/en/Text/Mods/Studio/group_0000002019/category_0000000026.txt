@@ -1,0 +1,67 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// b8mod/CHmap9.unity3d
+冰封城堡=Frozen Castle
+凌霄城1=凌霄城 1
+凌霄城2=凌霄城 2
+凌霄城3=凌霄城 3
+凌霄城4=凌霄城 4
+凌霄城围栏1=凌霄城围栏 1
+凌霄城围栏2=凌霄城围栏 2
+凌霄城标靶1=凌霄城标靶 1
+凌霄城标靶2=凌霄城标靶 2
+凌霄城标靶3=凌霄城标靶 3
+凌霄城桥1=凌霄城桥 1
+凌霄城桥2=凌霄城桥 2
+凌霄城楼1=凌霄城楼 1
+凌霄城楼2=凌霄城楼 2
+凌霄城楼3=凌霄城楼 3
+凌霄城火盆=Lingxiao Castle fire pit
+凌霄城练弓架子=Lingxiao Castle bow training stand
+凌霄城门=Lingxiao Castle Gate
+凌霄城阶梯=Lingxiao Castle stairs
+峨眉书院=Emei school
+峨眉云霄殿=Emei Yunxiao Temple
+峨眉云顶殿=Emei Yunding Temple
+峨眉仙峰寺=Emei Xianfeng Temple
+峨眉圆楼=Emei Round Building
+峨眉地板=Emei Floor
+峨眉地牢=Emei Dungeon
+峨眉塔=Emei Pagoda
+峨眉宝塔=Emei Pagoda
+峨眉宫殿=Emei Palace
+峨眉屋舍1=峨眉屋舍 1
+峨眉屋舍2=峨眉屋舍 2
+峨眉山下小村=Emei Lower Village
+峨眉山洞=Emei Cave
+峨眉山院=Emei Mountain Courtyard
+峨眉建筑1=峨眉建筑 1
+峨眉建筑2=峨眉建筑 2
+峨眉息心所=Emei Resting Place
+峨眉文心斋=Emei Wenxinzhai
+峨眉梅村=Emei Plum Village
+峨眉殿楼=Emei Temple Building
+峨眉法坛=Emei Dharma Temple
+峨眉派中心宫殿=Emei Central Palace
+峨眉清音崖=Emei Qingyin Cliff
+峨眉温泉1=峨眉温泉 1
+峨眉温泉2=峨眉温泉 2
+峨眉白象石=Emei White Elephant Stone
+峨眉石刻1=峨眉石刻 1
+峨眉石刻2=峨眉石刻 2
+峨眉石刻3=峨眉石刻 3
+峨眉石桥1=峨眉石桥 1
+峨眉石桥2=峨眉石桥 2
+峨眉秋圆楼=Emei Qiu Yuan Lou
+峨眉练功台=Emei Practice Platform
+峨眉英雄台=Emei Heroes' Terrace
+峨眉观音坛=Emei Guanyin Altar
+峨眉走廊=Emei Corridor
+峨眉鸣鹤观古月庵=Emei Minghe Guangyuean
+蛾眉山牌坊=Emei Mountain Pagoda

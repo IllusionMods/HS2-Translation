@@ -1,0 +1,71 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/kkkk1111/ph_attendant_neck.unity3d
+PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
+
+// chara/cuzkuz/cuzkuz_neck_01.unity3d
+八十八学園リボン=88th Academy Ribbon
+
+// chara/cuzkuz/cuzkuz_neck_02.unity3d
+大正義ネックレス=Yomiuri Giants Cheerleader Necklace
+
+// chara/cuzkuz/cuzkuz_neck_04.unity3d
+一番星リボン=Top Star Ribbon
+
+// chara/cuzkuz/cuzkuz_neck_03.unity3d
+一番星ブローチ=Top Star Brooch
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のブローチ=Diva's Brooch
+
+// chara/d3mod/hestia_neck.unity3d
+[d3mod]乳神チョーカー=[d3mod] Breast Goddess Choker
+
+// chara/ao.unity3d
+夜莺-披风=Nightingale-Cloak
+
+// chara/sena_mod/sena_anna_i.unity3d
+[SENA]AMネックレス=[SENA] AM Necklace
+[SENA]AMリボン=[SENA] AM Ribbon
+[SENA]AMネームプレート=[SENA] AM Nameplate
+[SENA]AM伝票クリップ=[SENA] AM Slip Clip
+[SENA]AM伝票クリップトップ=[SENA] AM Voucher Clip Top
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ01チョーカー=[SENA] EVA RQ01 Choker
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]太リボン=[SENA] Thick Ribbon
+
+// chara/sena_mod/sena_ggg.unity3d
+[SENA]GGGマフラー=[SENA] GGG Scarf
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵チョーカー=[SENA] Musashi Choker
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵しめ縄=[SENA] Musashi Shimenawa
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]忍者マフラー=[SENA] Ninja Scarf
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfネックレス=[SENA] DElf Necklace
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLネックレス=[SENA] GHL Necklace
+
+// chara/sena_mod/sena_pm_item01.unity3d
+[SENA]警備階級章=[SENA] Security Rank Badge
+
+// chara/sena_mod/sena_riku02_it.unity3d
+[SENA]ストップウォッチ=[SENA] Stopwatch
+[SENA]メダル=[SENA] Medal
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQシンプルチョーカー=[SENA] RQ Simple Choker
+
+// chara/sena_mod/sena_ym2199_k.unity3d
+[SENA]YMパイロットネックカラー=[SENA] YM Pilot Neck Collar

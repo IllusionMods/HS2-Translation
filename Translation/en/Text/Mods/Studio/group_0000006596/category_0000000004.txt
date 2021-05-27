@@ -1,0 +1,16 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/keyilongduan_diaochanbeijinggzs.unity3d
+貂蝉背景=Sable background
+
+// chara/keyilongduan_yygzlu.unity3d
+瑶瑶公主的法杖=Princess Yoyo's Staff
+
+// chara/keyilongduan_yygzlj.unity3d
+瑶瑶公主的鹿角=Princess Yoyo's Antlers

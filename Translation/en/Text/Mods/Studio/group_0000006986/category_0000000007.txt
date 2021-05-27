@@ -1,0 +1,18 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_eva_item.unity3d
+[SENA]RQ傘（開）=[SENA]RQ 傘（開）
+[SENA]RQ傘（閉）=[SENA]RQ 傘（閉）
+[SENA]団扇=[SENA] 団扇
+[SENA]レースタイヤ=[SENA] レースタイヤ
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQグリッドボード=[SENA]RQ グリッドボード
+[SENA]RQシンプルチョーカー=[SENA]RQ シンプルチョーカー
+[SENA]RQシンプルアームバンド=[SENA]RQ シンプルアームバンド

@@ -1,0 +1,25 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵ヘアバンド=[SENA] Musashi Hairband
+[SENA]武蔵メガネ=[SENA] Musashi Glasses
+[SENA]武蔵チョーカー=[SENA] Musashi Choker
+[SENA]武蔵武器ベルト=[SENA] Musashi Weapon Belt
+[SENA]46cm砲弾=[SENA]46cm 砲弾
+[SENA]武蔵腰砲基部=[SENA] 武蔵腰砲基部
+[SENA]46cm主砲塔=[SENA]46cm 主砲塔
+[SENA]46cm砲塔基部=[SENA]46cm 砲塔基部
+[SENA]15.5cm副砲塔=[SENA]15.5cm 副砲塔
+[SENA]武蔵艤装メイン=[SENA] 武蔵艤装メイン
+[SENA]武蔵艤装右=[SENA] 武蔵艤装右
+[SENA]武蔵艤装左=[SENA] 武蔵艤装左
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵しめ縄=[SENA] Musashi Shimenawa
+[SENA]武蔵肩掛け上着=[SENA] Musashi Shoulder Jacket

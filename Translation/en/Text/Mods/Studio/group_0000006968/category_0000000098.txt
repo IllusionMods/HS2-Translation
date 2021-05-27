@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// policeitems/policeitems.unity3d
+BoxBigС=BoxBig С
+BoxPortableС=BoxPortable С

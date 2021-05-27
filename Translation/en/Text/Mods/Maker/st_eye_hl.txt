@@ -1,0 +1,30 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// chara/00/st_eye_hl_00.unity3d
+タイプ21=Type 21
+タイプ22=Type 22
+タイプ23=Type 23
+タイプ24=Type 24
+タイプ25=Type 25
+タイプ26=Type 26
+タイプ27=Type 27
+タイプ28=Type 28
+タイプ29=Type 29
+タイプ30=Type 30
+タイプ31=Type 31
+タイプ32=Type 32
+タイプ33=Type 33
+タイプ34=Type 34
+タイプ35=Type 35
+タイプ36=Type 36
+タイプ37=Type 37
+タイプ38=Type 38
+タイプ39=Type 39
+タイプ40=Type 40
+タイプ41=Type 41
+タイプ42=Type 42
+タイプ43=Type 43
+タイプ44=Type 44
+タイプ45=Type 45

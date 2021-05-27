@@ -1,0 +1,18 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// b8mod/CHmap13.unity3d
+冰冻地牢=Frozen dungeon
+地牢吊笼=Dungeon Cage
+地牢大厅门=Dungeon Hall Door
+审判地牢大厅=Trial dungeon hall
+水牢=Water dungeon
+水牢闸门=Water dungeon gates
+火牢1=火牢 1
+火牢2=火牢 2
+酷刑地牢=Torture dungeon
