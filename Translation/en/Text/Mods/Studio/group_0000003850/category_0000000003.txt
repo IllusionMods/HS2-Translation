@@ -7,35 +7,35 @@
 
 
 // studio/sjjpl/battle arena.unity3d
-战斗竞技场=Battle arena
+//战斗竞技场=
 
 // studio/sjjpl/Hefeng Jiedao.unity3d
-和风街道=Wabi-sabi Street
+//和风街道=
 
 // studio/sjjpl/japanese winter spa.unity3d
-日本冬季温泉=Japanese winter hot springs
+//日本冬季温泉=
 
 // studio/sjjpl/old block.unity3d
-老街区=Old Quarter
+//老街区=
 
 // studio/sjjpl/SexyBeach.unity3d
-性感海滩1=性感海滩 1
-性感海滩2=性感海滩 2
+//性感海滩1=
+//性感海滩2=
 
 // studio/sjjpl/shuzhai.unity3d
-书斋=Bookstore
+//书斋=
 
 // studio/sjjpl/temple.unity3d
-寺院=Temple
+//寺院=
 
 // studio/sjjpl/the streets of asia 2.unity3d
-亚洲的街道2=亚洲的街道 2
+//亚洲的街道2=
 
 // studio/sjjpl/the streets of asia 4.unity3d
-亚洲的街道4=亚洲的街道 4
+//亚洲的街道4=
 
 // studio/sjjpl/the streets of asia.unity3d
-亚洲的街道1=亚洲的街道 1
+//亚洲的街道1=
 
 // studio/sjjpl/VillageCourtyard.unity3d
-乡村庭院=Country gardens
+//乡村庭院=

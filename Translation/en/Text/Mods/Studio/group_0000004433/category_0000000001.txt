@@ -7,4 +7,4 @@
 
 
 // studio/mmdd/fan01.unity3d
-透かし柄の扇子=Fan with translucent handle
+//透かし柄の扇子=

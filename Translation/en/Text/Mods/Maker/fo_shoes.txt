@@ -3,13 +3,13 @@
 //
 
 // chara/CC353/shoes/CC353_shoes_01_011_01.unity3d
-【CC353】超高跟鞋011 <h01011>=[CC353] Super High Heels 011 <h01011>
+【CC353】超高跟鞋011 <h01011>=【CC353】 Super High Heels 011 <h01011>
 
 // chara/CC353/shoes/CC353_shoes_03_002_01.unity3d
-【CC353】高跟鞋002 <h03002>=[CC353] Super High Heels 002 <h03002>
+【CC353】高跟鞋002 <h03002>=【CC353】 High Heels 002 <h03002>
 
 // chara/kkkk1111/hs_hotel_slippers.unity3d
-HS 酒店拖鞋=HS Hotel slippers
+HS 酒店拖鞋=HS  Hotel Slippers
 
 // chara/kkkk1111/hs_idol_shoes.unity3d
 HS 偶像 鞋子=HS Idol Shoes
@@ -32,29 +32,29 @@ HS 板鞋(绿)=HS Sneakers (Green)
 HS 板鞋(黑)=HS Sneakers (Black)
 
 // chara/kkkk1111/jk_shoes.unity3d
-HS流苏小皮鞋=HS tassel small leather shoes
+HS流苏小皮鞋=HS Fringed Leather Shoes
 
 // chara/Lbxdd_HighHeels_2.unity3d
-[Lbxdd]鱼嘴高跟2_1=[Lbxdd] Fish Mouth High Heel 2_1
-[Lbxdd]鱼嘴高跟2_2=[Lbxdd] Fish Mouth High Heel 2_2
+[Lbxdd]鱼嘴高跟2_1=[Lbxdd] Toeless High Heels 2_1
+[Lbxdd]鱼嘴高跟2_2=[Lbxdd] Toeless High Heels 2_2
 
 // chara/Lbxdd_HighHeels_3.unity3d
-[Lbxdd]鱼嘴高跟3_1=[Lbxdd] Fish Mouth High Heel 3_1
-[Lbxdd]鱼嘴高跟3_2=[Lbxdd] Fish Mouth High Heel 3_2
-[Lbxdd]鱼嘴高跟3_3=[Lbxdd] Fish Mouth High Heel 3_3
-[Lbxdd]鱼嘴高跟3_4=[Lbxdd] Fish Mouth High Heel 3_4
-[Lbxdd]鱼嘴高跟3_5=[Lbxdd] Fish Mouth High Heel 3_5
-[Lbxdd]鱼嘴高跟3_6=[Lbxdd] Fish Mouth High Heel 3_6
+[Lbxdd]鱼嘴高跟3_1=[Lbxdd] Toeless High Heels 3_1
+[Lbxdd]鱼嘴高跟3_2=[Lbxdd] Toeless High Heels 3_2
+[Lbxdd]鱼嘴高跟3_3=[Lbxdd] Toeless High Heels 3_3
+[Lbxdd]鱼嘴高跟3_4=[Lbxdd] Toeless High Heels 3_4
+[Lbxdd]鱼嘴高跟3_5=[Lbxdd] Toeless High Heels 3_5
+[Lbxdd]鱼嘴高跟3_6=[Lbxdd] Toeless High Heels 3_6
 
 // chara/Lbxdd_HighHeels04.unity3d
-[Lbxdd]鱼嘴高跟4_1=[Lbxdd] Fish Mouth High Heel 4_1
-[Lbxdd]鱼嘴高跟4_2=[Lbxdd] Fish mouth high heel 4_2
-[Lbxdd]鱼嘴高跟4_3=[Lbxdd] Fish Mouth High Heel 4_3
-[Lbxdd]鱼嘴高跟4_4=[Lbxdd] Fish mouth high heel 4_4
-[Lbxdd]鱼嘴高跟4_5=[Lbxdd] Fish Mouth High Heel 4_5
-[Lbxdd]鱼嘴高跟4_6=[Lbxdd] Fish mouth high heel 4_6
-[Lbxdd]鱼嘴高跟4_7=[Lbxdd] Fish Mouth High Heel 4_7
-[Lbxdd]鱼嘴高跟4_8=[Lbxdd] Fish mouth high heel 4_8
+[Lbxdd]鱼嘴高跟4_1=[Lbxdd] Toeless High Heels 4_1
+[Lbxdd]鱼嘴高跟4_2=[Lbxdd] Toeless High Heels 4_2
+[Lbxdd]鱼嘴高跟4_3=[Lbxdd] Toeless High Heels 4_3
+[Lbxdd]鱼嘴高跟4_4=[Lbxdd] Toeless High Heels 4_4
+[Lbxdd]鱼嘴高跟4_5=[Lbxdd] Toeless High Heels 4_5
+[Lbxdd]鱼嘴高跟4_6=[Lbxdd] Toeless High Heels 4_6
+[Lbxdd]鱼嘴高跟4_7=[Lbxdd] Toeless High Heels 4_7
+[Lbxdd]鱼嘴高跟4_8=[Lbxdd] Toeless High Heels 4_8
 
 // chara/skonb/fo_shoes_shimakaze.unity3d
 艦ブーツ=Ship Boots
@@ -63,7 +63,7 @@ HS流苏小皮鞋=HS tassel small leather shoes
 大正義シューズ=Yomiuri Giants Cheerleader Shoes
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-歌姫のブーツ=Diva's boots
+//歌姫のブーツ=
 
 // DLMEX/DLTD1/dl_shoes_dltd1.unity3d
 大力_TD沧海_鞋=[DALI] TD Sea Shoes
@@ -112,32 +112,32 @@ HS流苏小皮鞋=HS tassel small leather shoes
 [SENA]HBブーツ=[SENA] HB Boots
 
 // chara/sena_mod/sena_efsf_uni.unity3d
-[SENA]ロングブーツG1=[SENA] Long Boots G1
-[SENA]ロングブーツG2=[SENA] Long Boots G2
+[SENA]ロングブーツG1=[SENA] Knee-High Boots G1
+[SENA]ロングブーツG2=[SENA] Knee-High Boots G2
 
 // chara/sena_mod/sena_EFSF_Testp.unity3d
 [SENA]EFSFテストブーツ=[SENA] EFSF Test Boots
 
 // chara/sena_mod/sena_eva_rq01.unity3d
-[SENA]EVA RQ01ブーツ=[SENA] EVA RQ01 Boot
+[SENA]EVA RQ01ブーツ=[SENA] EVA RQ01 Boots
 
 // chara/sena_mod/sena_eva_rq01a.unity3d
-[SENA]EVA RQ01ブーツL=[SENA] EVA RQ01 Boot L
+[SENA]EVA RQ01ブーツL=[SENA] EVA RQ01 Boots L
 
 // chara/sena_mod/sena_g_reiko.unity3d
 [SENA]R連邦ブーツ=[SENA] R Federation Boots
 
 // chara/sena_mod/sena_g_reiko_s.unity3d
-[SENA]R連合ブーツ=[SENA] R Federation Boot
+[SENA]R連合ブーツ=[SENA] R Alliance Boots
 
 // chara/sena_mod/sena_ggg.unity3d
-[SENA]GGGロングブーツ=[SENA] GGG Long Boots
+[SENA]GGGロングブーツ=[SENA] GGG Knee-High Boots
 
 // chara/sena_mod/sena_k_musashi_ac.unity3d
 [SENA]武蔵ブーツ=[SENA] Musashi Boots
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]クノイチ草鞋=[SENA] Knoichi sandals
+[SENA]クノイチ草鞋=[SENA] Ninja Girl Sandals
 
 // chara/sena_mod/sena_lddelf.unity3d
 [SENA]DElfブーツ=[SENA] DElf Boots
@@ -146,10 +146,10 @@ HS流苏小皮鞋=HS tassel small leather shoes
 [SENA]GHLブーツ=[SENA] GHL Boots
 
 // chara/sena_mod/sena_riku01_shoes.unity3d
-[SENA]陸上スパイク(A1)=[SENA] Athletic Spikes (A1)
+[SENA]陸上スパイク(A1)=[SENA] Football Cleats (A1)
 
 // chara/sena_mod/sena_riku02_shoes.unity3d
-[SENA]陸上スパイク(M1)=[SENA] Athletic Spikes (M1)
+[SENA]陸上スパイク(M1)=[SENA] Football Cleats (M1)
 
 // chara/sena_mod/sena_rq.unity3d
 [SENA]RQパンプス=[SENA] RQ Pumps
@@ -175,4 +175,4 @@ HS流苏小皮鞋=HS tassel small leather shoes
 [SENA]YMパイロットブーツ=[SENA] YM Pilot Boots
 
 // chara/tan90/tan90_shoes_heels1.unity3d
-[tan90]高跟鞋=[tan90] High heels
+[tan90]高跟鞋=[tan90] High Heels

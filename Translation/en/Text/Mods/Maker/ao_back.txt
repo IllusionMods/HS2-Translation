@@ -23,7 +23,7 @@
 [SENA]HBカタナ（鞘）=[SENA] HB Katana (Sheath)
 
 // chara/sena_mod/sena_EFSF_Testp.unity3d
-[SENA]EFSFテストバックパック=[SENA] EFSF Test Backpack
+[SENA]EFSFテストバックパック=[SENA] EFSF Test backpack
 
 // chara/sena_mod/sena_k_musashi.unity3d
 [SENA]武蔵肩掛け上着=[SENA] Musashi Shoulder Jacket

@@ -7,8 +7,8 @@
 
 
 // studio/XY/Rayquaza.unity3d
-裂空座=Split seat
-超级裂空座=Super split seat
+//裂空座=
+//超级裂空座=
 
 // studio/XY/Xerneas.unity3d
-哲尔尼亚斯=Zernas
+//哲尔尼亚斯=

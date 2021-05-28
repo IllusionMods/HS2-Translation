@@ -7,5 +7,5 @@
 
 
 // studio/shiraore/cufflinks.unity3d
-手錠端末=Handcuff Terminal
-手錠端末(折り)=Handcuff Terminal (Folded)
+//手錠端末=
+//手錠端末(折り)=

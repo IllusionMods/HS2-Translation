@@ -7,7 +7,7 @@
 
 
 // chara/sena_mod/sena_leccee.unity3d
-[SENA]GHLセイバー=[SENA]GHL Saber
-[SENA]GHLアームレット=[SENA]GHL Armlet
-[SENA]GHLカチューシャ=[SENA]GHL Headband
-[SENA]GHLネックレス=[SENA]GHL Necklace
+[SENA]GHLセイバー=[SENA] GHL Saber
+[SENA]GHLアームレット=[SENA] GHL Armlet
+[SENA]GHLカチューシャ=[SENA] GHL Headband
+[SENA]GHLネックレス=[SENA] GHL Necklace

@@ -7,4 +7,4 @@
 
 
 // studio/XY/Skull Greymon.unity3d
-丧尸暴龙兽=Zombie Tyrannosaurus
+//丧尸暴龙兽=

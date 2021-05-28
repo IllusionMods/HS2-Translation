@@ -7,19 +7,19 @@
 
 
 // b8mod/Cheyancheng.unity3d
-河阳城=River Yang City
+//河阳城=
 
 // b8mod/CHshuanlong.unity3d
-双龙舞台=Double Dragon Stage
+//双龙舞台=
 
 // b8mod/Exquisite.unity3d
-荷花池山庄=Lotus Pond Villa
+//荷花池山庄=
 
 // b8mod/sanmap.unity3d
-废弃仓库=Abandoned Warehouse
-悬崖=Cliff
-指环王场景=Lord of the Rings Scene
-涂鸦墙角=Graffiti wall corner
-草地石头=Grass rocks
-走道=Walkway
-鹅卵石地面=Cobblestone floor
+//废弃仓库=
+//悬崖=
+//指环王场景=
+//涂鸦墙角=
+//草地石头=
+//走道=
+//鹅卵石地面=

@@ -7,10 +7,10 @@
 
 
 // chara/keyilongduan_diaochanbeijinggzs.unity3d
-貂蝉背景=Sable background
+//貂蝉背景=
 
 // chara/keyilongduan_yygzlu.unity3d
-瑶瑶公主的法杖=Princess Yoyo's Staff
+//瑶瑶公主的法杖=
 
 // chara/keyilongduan_yygzlj.unity3d
-瑶瑶公主的鹿角=Princess Yoyo's Antlers
+//瑶瑶公主的鹿角=

@@ -10,23 +10,23 @@ HS男西装 上衣=HS Men's Suit Pants
 [SENA]EFSF制服レギンス=[SENA] EFSF Uniform Leggings
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]忍者装束（下）=[SENA] Ninja Costume (Lower)
+[SENA]忍者装束（下）=[SENA] Ninja Bottom
 
 // chara/sena_mod/sena_m_dougi.unity3d
-[SENA]道着（下）=[SENA] Ninja Costume (Lower)
+[SENA]道着（下）=[SENA] Kimono (Bottom)
 
 // chara/sena_mod/sena_mJersey.unity3d
-[SENA]ジャージ=[SENA] Jerseys
+[SENA]ジャージ=[SENA] Jersey
 [SENA]トレーニングパンツ=[SENA] Training Pants
 
 // chara/sena_mod/sena_pm02.unity3d
 [SENA]警備パンツ=[SENA] Security Pants
 
 // chara/sena_mod/sena_various03.unity3d
-[SENA]ベースボールパンツ=[SENA] Baseball Pants
+//[SENA]ベースボールパンツ=
 
 // chara/sena_mod/sena_ym2199.unity3d
-[SENA]YM制服一般=[SENA] YM Uniform General
+[SENA]YM制服一般=[SENA] YM General Uniform
 
 // chara/sena_mod/sena_ym2199_k.unity3d
 [SENA]YMパイロットスーツ=[SENA] YM Pilot Suit

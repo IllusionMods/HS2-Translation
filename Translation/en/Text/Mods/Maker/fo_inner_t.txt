@@ -6,35 +6,35 @@
 ばってん=Forbidden Cross
 
 // chara/kkkk1111/cardigan_shirts.unity3d
-HS2毛衣=HS2 Fur Coat
+HS2毛衣=HS2 Sweater
 
 // chara/cuzkuz/cuzkuz_top_19.unity3d
 大正義チューブトップ=Yomiuri Giants Cheerleader Tube Top
 
 // chara/d3mod/hestia1pce.unity3d
-[d3mod]乳神ワンピ=[d3mod] Breast God Onesie
+[d3mod]乳神ワンピ=[d3mod] Busty Goddess Dress
 
 // chara/d3mod/hestia1pce_nrsk.unity3d
-[d3mod]乳神ワンピ（透け）=[d3mod] Tits God Onesie (Transparent)
+[d3mod]乳神ワンピ（透け）=[d3mod] Busty Goddess Dress (Sheer)
 
 // DLM/DOA1/DLDOAB.unity3d
 大力-免费分享-DOA-A=[DALI] Free Sharing - DOA-A
 
 // chara/ddaa33_anaaki/ddaa33_anaaki.unity3d
-ddaa33_穴開きスク水=ddaa33_School Swimsuit with Hole Openings
+ddaa33_穴開きスク水=ddaa33_ Cut-out Swinsuit
 
 // chara/ddaa33_anaaki_D4/ddaa33_anaaki_D4.unity3d
-穴開きスク水(D4)=School Swimsuit with Hole Openings (D4)
+穴開きスク水(D4)=Cut-out Swinsuit (D4)
 
 // chara/DMC/fo_inner_t_00nips.unity3d
-ノーマル [nonip]=Normal [nonip] 
-リボンレース [nonip]=Ribbon Lace [nonip] 
-アダルティレース [nonip]=Adult Lace [nonip] 
-ハーフレース [nonip]=Half Lace [nonip] 
-フルレース [nonip]=Full Lace [nonip] 
-スポーツ [nonip]=Sport [nonip] 
-ストラップレス [nonip]=Strapless [nonip] 
-バンド [nonip]=Band [nonip] 
+ノーマル [nonip]=Standard  [nonip]
+リボンレース [nonip]=Ribbon Lace  [nonip]
+アダルティレース [nonip]=Adult Lace  [nonip]
+ハーフレース [nonip]=Half Lace  [nonip]
+フルレース [nonip]=Full Lace  [nonip]
+スポーツ [nonip]=Sports  [nonip]
+ストラップレス [nonip]=Strapless  [nonip]
+バンド [nonip]=Mini Tube  [nonip]
 
 // chara/mat/mat_inner_t_01.unity3d
 マイクロレース 紐ピン=Micro Lace Detached Strings
@@ -44,20 +44,20 @@ ddaa33_穴開きスク水=ddaa33_School Swimsuit with Hole Openings
 マイクロビキニトップ=Microbikini Top
 
 // chara/re_bigger_jacket.unity3d
-TシャツBig=T-shirt Big
-ミニＴBig=Mini TBig
-チビＴBig=Small TBig
-ブラウス襟開きBig=Blouse Open Collar Big
-裸パーカーBig=Naked Hoodie Big
+TシャツBig=T Shirt Big
+ミニＴBig=Mini T-Shirt Big
+チビＴBig=Underbob Big
+ブラウス襟開きBig=Open Collar Blouse Big
+裸パーカーBig=Open Hoodie Big
 スポーツウェアBig=Sportswear Big
-裸カーディガンBig=Naked Cardigan Big
+裸カーディガンBig=Open Cardigan Big
 ボディーハーネスBig=Body Harness Big
 セーラー服Big=Sailor Suit Big
 リボンキャミソールBig=Ribbon Camisole Big
 ノースリーブラウスBig=Sleeveless Blouse Big
-魔女のネグリジェBig=Witch's NegligeeBig
+魔女のネグリジェBig=Witch Negligee Big
 クリスマスポンチョBig=Christmas Poncho Big
-オープンショルダーBig=Open Shoulder Big
+オープンショルダーBig=Open shoulder Shirt Big
 
 // chara/re_bigger_jacket2.unity3d
 ボディーハーネスBig2=Body Harness Big2
@@ -75,20 +75,20 @@ TシャツBig=T-shirt Big
 ワンピース=Dress
 Tシャツ=T-Shirt
 ミニＴ=Mini T-Shirt
-グダミニＴ=Angled Mini T-Shirt
-チビＴ=Underboob
+グダミニＴ=Side Mini T-Shirt
+チビＴ=Underbob
 ブラウス=Blouse
 ブラウス襟開き=Open Collar Blouse
-シャツワンピース=Oversized Shirt
+シャツワンピース=Big Blouse
 サロペット=Overalls
 裸サロペット=Overalls (Naked)
 スポーツウェア=Sportswear
 ロングパレオ=Long Pareo
-南国ベアトップフリル=Tropical Tube Top (Frills)
+南国ベアトップフリル=Tropical Tube with Ruffles
 南国キャミソール=Tropical Camisole
 タイトドレス=Tight Dress
 フレアシャツ=Flared Shirt
-ノースリーブニット=Sleeveless Knit Sweater
+ノースリーブニット=Sleeveless Knit
 カーディガンキャミソール=Cardigan & Camisole
 カーディガンシャツ=Cardigan & Blouse
 裸カーディガン=Open Cardigan
@@ -96,11 +96,11 @@ Tシャツ=T-Shirt
 体操着=Gym Shirt
 セーラー襟=Sailor Collar
 ココナッツブラ=Coconut Bra
-サマーニット=Summer Knit Sweater
+サマーニット=Summer Knit
 サマードレス=Summer Dress
-オープンショルダー=Open Shoulder Shirt
+オープンショルダー=Open shoulder Shirt
 ニットキャミソール=Knit Camisole
-トレッキングウェア=Hiking Jacket
+トレッキングウェア=Trekking Jacket
 リボンキャミソール=Ribbon Camisole
 キュートジャケット=Cute Jacket
 ノースリーブタートル=Sleeveless Turtleneck
@@ -115,7 +115,7 @@ Tシャツ=T-Shirt
 ブレザー=Blazer
 
 // chara/06/fo_top_06.unity3d
-セーラー服=Sailor Uniform
+セーラー服=Sailor Suit
 
 // chara/05/fo_top_05.unity3d
 カクテルドレス=Cocktail Dress
@@ -127,31 +127,31 @@ Tシャツ=T-Shirt
 
 // chara/sena_mod/sena_g_reiko.unity3d
 [SENA]連邦水着=[SENA] Federation Swimsuit
-[SENA]連邦水着襟開き=[SENA] Federation Swimsuit Open Collar
+[SENA]連邦水着襟開き=[SENA] Federation Swimsuit Cleavage
 
 // chara/sena_mod/sena_g_reiko_s.unity3d
-[SENA]連合水着=[SENA] Union Swimsuit
-[SENA]連合水着襟開き=[SENA] Open Collar Federation Swimsuit
+[SENA]連合水着=[SENA] Alliance Swimsuit
+[SENA]連合水着襟開き=[SENA] Alliance Swimsuit Cleavage
 
 // chara/sena_mod/sena_k_musashi.unity3d
-[SENA]武蔵インナー=[SENA] Musashi Inner Wear
+[SENA]武蔵インナー=[SENA] Musashi Inner
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]サラシ=[SENA] Sarashi
+[SENA]サラシ=[SENA] Gauze Bindings
 
 // chara/sena_mod/sena_riku01.unity3d
-[SENA]陸上トップ(A01)=[SENA] Athletics Top (A01)
-[SENA]陸上トップ(A02)=[SENA] Athletic Top (A02)
-[SENA]陸上トップ(A03)=[SENA] Track & Field Top (A03)
+[SENA]陸上トップ(A01)=[SENA] Sports Top (A01)
+[SENA]陸上トップ(A02)=[SENA] Sports Top (A02)
+[SENA]陸上トップ(A03)=[SENA] Sports Top (A03)
 
 // chara/sena_mod/sena_riku02.unity3d
-[SENA]陸上トップ(M01)=[SENA] Track & Field Top (M01)
-[SENA]陸上トップ(M02)=[SENA] Land Top (M02)
+[SENA]陸上トップ(M01)=[SENA] Sports Top (M01)
+[SENA]陸上トップ(M02)=[SENA] Sports Top (M02)
 
 // chara/sena_mod/sena_rq.unity3d
 [SENA]RQレオタード1=[SENA] RQ Leotard 1
 [SENA]RQレオタード2=[SENA] RQ Leotard 2
-[SENA]RQビキニブラ1=[SENA] RQ Bikini Bra 1
+//[SENA]RQビキニブラ1=
 
 // chara/sena_mod/sena_t_asuka.unity3d
 [SENA]アスカスーツ=[SENA] Asuka Suit
@@ -160,14 +160,14 @@ Tシャツ=T-Shirt
 [SENA]TFブラトップ=[SENA] TF Bra Top
 
 // chara/sena_mod/sena_various03.unity3d
-[SENA]アンダーシャツ=[SENA] Undershirt
+//[SENA]アンダーシャツ=
 
 // chara/stinger722/fo_inner_t_07stinger722.unity3d
 スリングショット改=Slingshot Detached Strings
 
 // chara/taroukawai_microb2/microb2.unity3d
-バンド2=Band 2
+バンド2=Mini Tube 2
 マイクロビキニ2=Micro Bikini 2
-マイクロSビキニ2=Micro S Bikini 2
-ソルジャーバンドゥ2=Soldier Bandeau 2
-スリングショット2=Sling Shot 2
+//マイクロSビキニ2=
+ソルジャーバンドゥ2=Soldier Bandage 2
+スリングショット2=Slingshot 2

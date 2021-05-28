@@ -5,4 +5,4 @@
 
 #set exe StudioNEOV2
 
-装饰=Decoration
+//装饰=

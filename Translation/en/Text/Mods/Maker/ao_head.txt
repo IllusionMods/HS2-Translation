@@ -21,15 +21,15 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 犬姫の頭巾=Princess of Moonbrook Hood
 
 // chara/cuzkuz/cuzkuz_15b.unity3d
-ツインロール左=Twin Roll Left
-ツインロール右=Twin Roll Right
+//ツインロール左=
+//ツインロール右=
 ロング=Long
 
 // chara/d3mod/hestia_acc_l.unity3d
-[d3mod]乳神アクセL=[d3mod] Breast God Accessory L
+[d3mod]乳神アクセL=[d3mod] Busty Goddess Accessory L
 
 // chara/d3mod/hestia_acc_r.unity3d
-[d3mod]乳神アクセR=[d3mod] Breast God Accessory R
+[d3mod]乳神アクセR=[d3mod] Busty Goddess Accessory R
 
 // DLM/DE/heads.unity3d
 大力-分享恶魔右q3344929957=[DALI] Succubus Right q3344929957
@@ -80,175 +80,175 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 民国帽子=Republic of China Hat
 
 // chara/highlight_tsukege.unity3d
-エクステ(MOD)=Extensions (MOD)
+エクステ(MOD)=Hair Extensions (MOD)
 
 // chara/sena_mod/sena_hb_item.unity3d
 [SENA]HBヘルメット=[SENA] HB Helmet
 [SENA]HBヘルメット(マスクオフ)=[SENA] HB Helmet (Mask Off)
 
 // chara/sena_mod/sena_efsf_uni.unity3d
-[SENA]EFSF制帽=[SENA] EFSF Control Cap
-[SENA]通信ヘッドセット=[SENA] Communication Headset
+[SENA]EFSF制帽=[SENA] EFSF Cap
+[SENA]通信ヘッドセット=[SENA] Headset
 [SENA]EFSF陸軍ヘルメット=[SENA] EFSF Army Helmet
 
 // chara/sena_mod/sena_EFSF_Testp.unity3d
 [SENA]EFSFテストヘルメット=[SENA] EFSF Test Helmet
 
 // chara/sena_mod/sena_ggg.unity3d
-[SENA]GGGヘッドセット=[SENA] GGG Headset
+//[SENA]GGGヘッドセット=
 
 // chara/sena_mod/sena_k_musashi_ac.unity3d
-[SENA]武蔵ヘアバンド=[SENA] Musashi Hair Band
+[SENA]武蔵ヘアバンド=[SENA] Musashi Hairband
 
 // chara/sena_mod/sena_k_musashi_h.unity3d
-[SENA]武蔵エクステ=[SENA] Musashi Hair Extensions
+[SENA]武蔵エクステ=[SENA] Musashi Extension
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]忍者頭巾=[SENA] Ninja Headband
+[SENA]忍者頭巾=[SENA] Ninja Hood
 
 // chara/sena_mod/sena_lddelf.unity3d
 [SENA]DElfサークレット=[SENA] DElf Circlet
 
 // chara/sena_mod/sena_leccee.unity3d
-[SENA]GHLカチューシャ=[SENA] GHL Catsuit
+[SENA]GHLカチューシャ=[SENA] GHL Headband
 [SENA]GHLセイバー=[SENA] GHL Saber
 
 // chara/sena_mod/sena_pm_item01.unity3d
-[SENA]警備制帽（女）=[SENA] Security Cap (Female)
+[SENA]警備制帽（女）=[SENA] Security Cap (female)
 
 // chara/sena_mod/sena_pm_item02.unity3d
-[SENA]警備制帽（男）=[SENA] Security Cap (Male)
+[SENA]警備制帽（男）=[SENA] Security Cap (male)
 
 // chara/sena_mod/sena_riku02.unity3d
 [SENA]鉢巻=[SENA] Headband
 
 // chara/sena_mod/sena_t_asuka.unity3d
-[SENA]アスカ脚メカパーツ=[SENA] Asuka Leg Mechanical Parts
+[SENA]アスカ脚メカパーツ=[SENA] Asuka Leg Mecha Parts
 [SENA]アスカメカサークル=Asuka Mecha Circle
 
 // chara/sena_mod/sena_various01.unity3d
 [SENA]キャップ=[SENA] Cap
 
 // chara/sena_mod/sena_various02a.unity3d
-[SENA]HSドルフヘッド=[SENA] HS Dolph Head
+[SENA]HSドルフヘッド=[SENA] HS Dolphin Head
 [SENA]ブー二ーハット=[SENA] Boonie Hat
 
 // chara/sena_mod/sena_ym2199item.unity3d
 [SENA]YMパイロットヘルメット=[SENA] YM Pilot Helmet
 
 // chara/ymd/ym03_acchairF.unity3d
-つけ毛 F01C=Hairpiece F01C
-つけ毛 F01L=Hairpiece F01L
-つけ毛 F01R=Hairpiece F01R
-つけ毛 F02C=Hairpiece F02C
-つけ毛 F02L=Hairpiece F02L
-つけ毛 F02R=Hairpiece F02R
-つけ毛 F03UL=Hairpiece F03UL
-つけ毛 F03UR=Hairpiece F03UR
-つけ毛 F03DL=Hairpiece F03DL
-つけ毛 F03DR=Hairpiece F03DR
-つけ毛 F04C=Hairpiece F04C
-つけ毛 F04L=Hairpiece F04L
-つけ毛 F04R=Hairpiece F04R
-つけ毛 F04LL=Hairpiece F04LL
-つけ毛 F04RR=Hairpiece F04RR
-つけ毛 F05C=Hairpiece F05C
-つけ毛 F05L=Hairpiece F05L
-つけ毛 F05R=Hairpiece F05R
-つけ毛 F06C=Hairpiece F06C
-つけ毛 F06C2=Hairpiece F06C2
-つけ毛 F06L=Hairpiece F06L
-つけ毛 F06R=Hairpiece F06R
-つけ毛 F07L=Hairpiece F07L
-つけ毛 F07R=Hairpiece F07R
-つけ毛 F08C=Hairpiece F08C
-つけ毛 F08L=Hairpiece F08L
-つけ毛 F08R=Hairpiece F08R
-つけ毛 F09C=Hairpiece F09C
-つけ毛 F09UL=Hairpiece F09UL
-つけ毛 F09UR=Hairpiece F09UR
-つけ毛 F09DL=Hairpiece F09DL
-つけ毛 F09DR=Hairpiece F09DR
-つけ毛 F10C=Hairpiece F10C
-つけ毛 F10L=Hairpiece F10L
-つけ毛 F10R=Hairpiece F10R
-つけ毛 F11=Hairpiece F11
-つけ毛 F12_1L=Hairpiece F12_1L
-つけ毛 F12_1R=Hairpiece F12_1R
-つけ毛 F12_2L=Hairpiece F12_2L
-つけ毛 F12_2R=Hairpiece F12_2R
-つけ毛 F12_3L=Hairpiece F12_3L
-つけ毛 F12_3R=Hairpiece F12_3R
-つけ毛 F13=Hairpiece F13
-つけ毛 F30C=Hairpiece F30C
-つけ毛 F31C=Hairpiece F31C
-つけ毛 F31L=Hairpiece F31L
-つけ毛 F31R=Hairpiece F31R
-つけ毛 F32U=Hairpiece F32U
-つけ毛 F32L=Hairpiece F32L
-つけ毛 F32R=Hairpiece F32R
-つけ毛 F32UL=Hairpiece F32UL
-つけ毛 F32UR=Hairpiece F32UR
-つけ毛 F32ULL=Hairpiece F32ULL
-つけ毛 F32URR=Hairpiece F32URR
-つけ毛 F32O=Hairpiece F32O
-つけ毛 F33C=Hairpiece F33C
-つけ毛 F33L=Hairpiece F33L
-つけ毛 F33R=Hairpiece F33R
-つけ毛 F34CL=Hairpiece F34CL
-つけ毛 F34CR=Hairpiece F34CR
-つけ毛 F34L=Hairpiece F34L
-つけ毛 F34R=Hairpiece F34R
-つけ毛 F35C=Hairpiece F35C
-つけ毛 F35L=Hairpiece F35L
-つけ毛 F35R=Hairpiece F35R
-つけ毛 F35W=Hairpiece F35W
-つけ毛 F35rC=Hairpiece F35rC
-つけ毛 F35rL=Hairpiece F35rL
-つけ毛 F35rR=Hairpiece F35rR
-つけ毛 F35rW=Hairpiece F35rW
+つけ毛 F01C=Hair Extension  F01C
+つけ毛 F01L=Hair Extension  F01L
+つけ毛 F01R=Hair Extension  F01R
+つけ毛 F02C=Hair Extension  F02C
+つけ毛 F02L=Hair Extension  F02L
+つけ毛 F02R=Hair Extension  F02R
+つけ毛 F03UL=Hair Extension  F03UL
+つけ毛 F03UR=Hair Extension  F03UR
+つけ毛 F03DL=Hair Extension  F03DL
+つけ毛 F03DR=Hair Extension  F03DR
+つけ毛 F04C=Hair Extension  F04C
+つけ毛 F04L=Hair Extension  F04L
+つけ毛 F04R=Hair Extension  F04R
+つけ毛 F04LL=Hair Extension  F04LL
+つけ毛 F04RR=Hair Extension  F04RR
+つけ毛 F05C=Hair Extension  F05C
+つけ毛 F05L=Hair Extension  F05L
+つけ毛 F05R=Hair Extension  F05R
+つけ毛 F06C=Hair Extension  F06C
+つけ毛 F06C2=Hair Extension  F06C2
+つけ毛 F06L=Hair Extension  F06L
+つけ毛 F06R=Hair Extension  F06R
+つけ毛 F07L=Hair Extension  F07L
+つけ毛 F07R=Hair Extension  F07R
+つけ毛 F08C=Hair Extension  F08C
+つけ毛 F08L=Hair Extension  F08L
+つけ毛 F08R=Hair Extension  F08R
+つけ毛 F09C=Hair Extension  F09C
+つけ毛 F09UL=Hair Extension  F09UL
+つけ毛 F09UR=Hair Extension  F09UR
+つけ毛 F09DL=Hair Extension  F09DL
+つけ毛 F09DR=Hair Extension  F09DR
+つけ毛 F10C=Hair Extension  F10C
+つけ毛 F10L=Hair Extension  F10L
+つけ毛 F10R=Hair Extension  F10R
+つけ毛 F11=Hair Extension  F11
+つけ毛 F12_1L=Hair Extension  F12_1L
+つけ毛 F12_1R=Hair Extension  F12_1R
+つけ毛 F12_2L=Hair Extension  F12_2L
+つけ毛 F12_2R=Hair Extension  F12_2R
+つけ毛 F12_3L=Hair Extension  F12_3L
+つけ毛 F12_3R=Hair Extension  F12_3R
+つけ毛 F13=Hair Extension  F13
+つけ毛 F30C=Hair Extension  F30C
+つけ毛 F31C=Hair Extension  F31C
+つけ毛 F31L=Hair Extension  F31L
+つけ毛 F31R=Hair Extension  F31R
+つけ毛 F32U=Hair Extension  F32U
+つけ毛 F32L=Hair Extension  F32L
+つけ毛 F32R=Hair Extension  F32R
+つけ毛 F32UL=Hair Extension  F32UL
+つけ毛 F32UR=Hair Extension  F32UR
+つけ毛 F32ULL=Hair Extension  F32ULL
+つけ毛 F32URR=Hair Extension  F32URR
+つけ毛 F32O=Hair Extension  F32O
+つけ毛 F33C=Hair Extension  F33C
+つけ毛 F33L=Hair Extension  F33L
+つけ毛 F33R=Hair Extension  F33R
+つけ毛 F34CL=Hair Extension  F34CL
+つけ毛 F34CR=Hair Extension  F34CR
+つけ毛 F34L=Hair Extension  F34L
+つけ毛 F34R=Hair Extension  F34R
+つけ毛 F35C=Hair Extension  F35C
+つけ毛 F35L=Hair Extension  F35L
+つけ毛 F35R=Hair Extension  F35R
+つけ毛 F35W=Hair Extension  F35W
+つけ毛 F35rC=Hair Extension  F35rC
+つけ毛 F35rL=Hair Extension  F35rL
+つけ毛 F35rR=Hair Extension  F35rR
+つけ毛 F35rW=Hair Extension  F35rW
 
 // chara/ymd/ym04_acchairB.unity3d
-つけ毛 B01C=Hairpiece B01C
-つけ毛 B01L=Hairpiece B01L
-つけ毛 B01R=Hairpiece B01R
-つけ毛 B02=Hairpiece B02
-つけ毛 B03=Hairpiece B03
-つけ毛 B04L=Hairpiece B04L
-つけ毛 B04R=Hairpiece B04R
-つけ毛 B06=Hairpiece B06
-つけ毛 B07L=Hairpiece B07L
-つけ毛 B07R=Hairpiece B07R
-つけ毛 B08=Hairpiece B08
-つけ毛 B09C=Hairpiece B09C
-つけ毛 B09L=Hairpiece B09L
-つけ毛 B09R=Hairpiece B09R
-つけ毛 B11L=Hairpiece B11L
-つけ毛 B11R=Hairpiece B11R
-つけ毛 B13L=Hairpiece B13L
-つけ毛 B13R=Hairpiece B13R
-つけ毛 B14L=Hairpiece B14L
-つけ毛 B14R=Hairpiece B14R
-つけ毛 B20L=Hairpiece B20L
-つけ毛 B20R=Hairpiece B20R
-つけ毛 B31=Hairpiece B31
-つけ毛 B31hg=Hairpiece B31hg
-つけ毛 B32=Hairpiece B32
-つけ毛 B35L=Hairpiece B35L
-つけ毛 B35R=Hairpiece B35R
+つけ毛 B01C=Hair Extension  B01C
+つけ毛 B01L=Hair Extension  B01L
+つけ毛 B01R=Hair Extension  B01R
+つけ毛 B02=Hair Extension  B02
+つけ毛 B03=Hair Extension  B03
+つけ毛 B04L=Hair Extension  B04L
+つけ毛 B04R=Hair Extension  B04R
+つけ毛 B06=Hair Extension  B06
+つけ毛 B07L=Hair Extension  B07L
+つけ毛 B07R=Hair Extension  B07R
+つけ毛 B08=Hair Extension  B08
+つけ毛 B09C=Hair Extension  B09C
+つけ毛 B09L=Hair Extension  B09L
+つけ毛 B09R=Hair Extension  B09R
+つけ毛 B11L=Hair Extension  B11L
+つけ毛 B11R=Hair Extension  B11R
+つけ毛 B13L=Hair Extension  B13L
+つけ毛 B13R=Hair Extension  B13R
+つけ毛 B14L=Hair Extension  B14L
+つけ毛 B14R=Hair Extension  B14R
+つけ毛 B20L=Hair Extension  B20L
+つけ毛 B20R=Hair Extension  B20R
+つけ毛 B31=Hair Extension  B31
+つけ毛 B31hg=Hair Extension  B31hg
+つけ毛 B32=Hair Extension  B32
+つけ毛 B35L=Hair Extension  B35L
+つけ毛 B35R=Hair Extension  B35R
 
 // chara/ymd/ym05_acchairS.unity3d
-つけ毛 S01L=Hairpiece S01L
-つけ毛 S01R=Hairpiece S01R
-つけ毛 S02L=Hairpiece S02L
-つけ毛 S02R=Hairpiece S02R
-つけ毛 S03_1L=Hairpiece S03_1L
-つけ毛 S03_1R=Hairpiece S03_1R
-つけ毛 S03_2L=Hairpiece S03_2L
-つけ毛 S03_2R=Hairpiece S03_2R
-つけ毛 S03_3L=Hairpiece S03_3L
-つけ毛 S03_3R=Hairpiece S03_3R
-つけ毛 S06L=Hairpiece S06L
-つけ毛 S06R=Hairpiece S06R
-つけ毛 S07L=Hairpiece S07L
-つけ毛 S07R=Hairpiece S07R
+つけ毛 S01L=Hair Extension  S01L
+つけ毛 S01R=Hair Extension  S01R
+つけ毛 S02L=Hair Extension  S02L
+つけ毛 S02R=Hair Extension  S02R
+つけ毛 S03_1L=Hair Extension  S03_1L
+つけ毛 S03_1R=Hair Extension  S03_1R
+つけ毛 S03_2L=Hair Extension  S03_2L
+つけ毛 S03_2R=Hair Extension  S03_2R
+つけ毛 S03_3L=Hair Extension  S03_3L
+つけ毛 S03_3R=Hair Extension  S03_3R
+つけ毛 S06L=Hair Extension  S06L
+つけ毛 S06R=Hair Extension  S06R
+つけ毛 S07L=Hair Extension  S07L
+つけ毛 S07R=Hair Extension  S07R

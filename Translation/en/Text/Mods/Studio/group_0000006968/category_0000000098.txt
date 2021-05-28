@@ -7,5 +7,5 @@
 
 
 // policeitems/policeitems.unity3d
-BoxBigС=BoxBig С
-BoxPortableС=BoxPortable С
+//BoxBigС=
+//BoxPortableС=

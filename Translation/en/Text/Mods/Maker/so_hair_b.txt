@@ -3,7 +3,7 @@
 //
 
 // chara/sio/bigtwin.unity3d
-超ボリュームツイン=Super Voluminous Twin
+//超ボリュームツイン=
 
 // chara/cuzkuz/cuzkuzhair_01.unity3d
 カールおさげ=Curl Ponitail
@@ -66,7 +66,7 @@
 大力-发型分享B1Q3344929957=[DALI] Hair Sharing B1 Q3344929957
 
 // chara/hair100.unity3d
-�ɴ��ǵ�ëë=hair100
+//�ɴ��ǵ�ëë=
 
 // chara/00/so_hair_b_00.unity3d
 ボリュームポニー=Thick Ponytail
@@ -75,24 +75,24 @@
 オカッパ=Straight Bob
 
 // chara/ymd/ym06_hairArrange.unity3d
-ストレートロング[arrange]=Straight long [arrange] 
-ぱっつんロング[arrange]=Long and snappy [arrange] .
-ボリュームポニー[notail]=Volume pony [notail] .
-細ツインテール[notail]=Thin twin tail[notail] .
-ツイン前おさげ[notail]=Twin front pigtails [notail] .
-後ろおさげ[notail]=Back pigtails[notail] .
-ツーサイドアップ[notail]=Two side up[notail] .
-横おさげ[notail]=Side pigtails[notail] .
+ストレートロング[arrange]=Straight Long [arrange]
+ぱっつんロング[arrange]=Rounded Long [arrange]
+ボリュームポニー[notail]=Thick Ponytail [notail]
+細ツインテール[notail]=Thin Twintails [notail]
+ツイン前おさげ[notail]=Twin Front Tails [notail]
+後ろおさげ[notail]=Ponytail Behind [notail]
+ツーサイドアップ[notail]=Both Sides Up [notail]
+横おさげ[notail]=Side Tail [notail]
 サイドテール(左)[notail]=Side Tail (Left) [notail]
 サイドテール(右)[notail]=Side Tail (Right) [notail]
 
 // chara/ymd/ym11_hairPortM.unity3d
-HS ショート=HS Short
-HS スマートショート=HS Smart Short
-HS テンショウ=HS Tenshou
-HS ツーブロック=HS Two-Block
-HS ミディアム=HS Medium
-HS シャギー=HS Shaggy
-HS オールバック=HS All Back
-HS セミロング=HS Semi-long
-HS バンダナ=HS Bandana
+HS ショート=HS  Short
+HS スマートショート=HS  Smart short
+HS テンショウ=HS  Tenshou Era
+HS ツーブロック=HS  Sideways
+HS ミディアム=HS  Medium
+HS シャギー=HS  Shaggy
+HS オールバック=HS  All Back
+HS セミロング=HS  Medium
+HS バンダナ=HS  Bandana

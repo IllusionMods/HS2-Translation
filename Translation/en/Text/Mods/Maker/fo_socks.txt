@@ -3,10 +3,10 @@
 //
 
 // chara/kkkk1111/cardigan_shirts.unity3d
-HS2毛衣=HS2 Fur Coat
+HS2毛衣=HS2 Sweater
 
 // chara/cuzkuz/cuzkuz_top_poncho.unity3d
-ケープ=Cape
+//ケープ=
 クリスマスポンチョ=Christmas Poncho
 
 // chara/cuzkuz/cuzkuz_top_13.unity3d
@@ -49,20 +49,20 @@ HS2毛衣=HS2 Fur Coat
 大力-龙盔-腰带-作者q3344929957=[DALI] Dragon Armor Belt - Author q3344929957
 
 // chara/fo_socks_maomaowa.unity3d
-ë��Ͳ��=fo_socks_maomaowa
+//ë��Ͳ��=
 
 // chara/fo_socks_maomaowa_yang.unity3d
-ë������Ͳ��=fo_socks_maomaowa_yang
+//ë������Ͳ��=
 
 // chara/fo_socks_maomaowa_zhu.unity3d
-ë�������Ͳ��=fo_socks_maomaowa_zhu
+//ë�������Ͳ��=
 
 // chara/etc.unity3d
 なし=None
 
 // chara/FFFQ/FFFQ_stocking.unity3d
 蕾丝边黑丝=Lace High Tights
-蕾丝边黑丝02=Black silk lace 02
+蕾丝边黑丝02=Lace High Tights 02
 
 // chara/gyobobo/gantz_socks.unity3d
 ガンツスーツ=Gantz Garter
@@ -80,32 +80,32 @@ HS2毛衣=HS2 Fur Coat
 长筒袜渐变三色花边=Vertical Gradient Stockings (Lace)
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]足袋=[SENA] Tabi Shoes
+[SENA]足袋=[SENA] Big Toe Socks
 
 // chara/sena_mod/sena_rq.unity3d
-[SENA]RQインナーショーツ=[SENA] RQ inner shorts
+//[SENA]RQインナーショーツ=
 
 // chara/sena_mod/sena_rq_jak.unity3d
-[SENA]裸ベンチコート=[SENA] Naked Bench Coat
-[SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
+//[SENA]裸ベンチコート=
+//[SENA]裸ベンチコート腰巻=
 
 // chara/sena_mod/sena_tifa.unity3d
-[SENA]TFショートソックス=SENA] TF Short Socks
+[SENA]TFショートソックス=[SENA] TF Short Socks
 
 // chara/sena_mod/sena_vb01.unity3d
-[SENA]ハイソックス長=[SENA] High Socks Long
+[SENA]ハイソックス長=[SENA] High Socks
 ｢SENA｣ソックス+レッグスリーブ=[SENA] Socks + Leg Sleeves
 ｢SENA｣ソックス+レッグスリーブ左=[SENA] Socks + Left Leg Sleeve
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Socks + Right Leg Sleeve
 
 // chara/sena_mod/sena_w_jersey.unity3d
-[SENA]ジャージ前開け=[SENA] jersey front open
+[SENA]ジャージ前開け=[SENA] Open Jersey
 
 // chara/sena_mod/sena_ym2199.unity3d
-[SENA]YM腰ベルトLow=[SENA] YM waist belt Low
+[SENA]YM腰ベルトLow=[SENA] YM Waist Belt Low
 [SENA]YM腰ベルトHigh=[SENA] YM Waist Belt High
 
 // chara/00/fo_panst_00.unity3d
-シンプルガーター=Simple Garter Belt
-レースガーター=Lace Garter Belt
-ベルトガーター=Garter Belt
+シンプルガーター=Simple Garters
+レースガーター=Lace Garter
+ベルトガーター=Belt garter

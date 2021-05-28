@@ -18,10 +18,10 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 一番星ブローチ=Top Star Brooch
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-歌姫のブローチ=Diva's Brooch
+//歌姫のブローチ=
 
 // chara/d3mod/hestia_neck.unity3d
-[d3mod]乳神チョーカー=[d3mod] Breast Goddess Choker
+[d3mod]乳神チョーカー=[d3mod] Busty Goddess Choker
 
 // chara/ao.unity3d
 夜莺-披风=Nightingale-Cloak
@@ -31,7 +31,7 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 [SENA]AMリボン=[SENA] AM Ribbon
 [SENA]AMネームプレート=[SENA] AM Nameplate
 [SENA]AM伝票クリップ=[SENA] AM Slip Clip
-[SENA]AM伝票クリップトップ=[SENA] AM Voucher Clip Top
+[SENA]AM伝票クリップトップ=[SENA] AM Slip Clip Top
 
 // chara/sena_mod/sena_eva_rq01.unity3d
 [SENA]EVA RQ01チョーカー=[SENA] EVA RQ01 Choker
@@ -40,7 +40,7 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 [SENA]太リボン=[SENA] Thick Ribbon
 
 // chara/sena_mod/sena_ggg.unity3d
-[SENA]GGGマフラー=[SENA] GGG Scarf
+[SENA]GGGマフラー=[SENA] GGG Muffler
 
 // chara/sena_mod/sena_k_musashi_ac.unity3d
 [SENA]武蔵チョーカー=[SENA] Musashi Choker
@@ -49,7 +49,7 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 [SENA]武蔵しめ縄=[SENA] Musashi Shimenawa
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]忍者マフラー=[SENA] Ninja Scarf
+[SENA]忍者マフラー=[SENA] Ninja Muffler
 
 // chara/sena_mod/sena_lddelf.unity3d
 [SENA]DElfネックレス=[SENA] DElf Necklace
@@ -58,14 +58,14 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 [SENA]GHLネックレス=[SENA] GHL Necklace
 
 // chara/sena_mod/sena_pm_item01.unity3d
-[SENA]警備階級章=[SENA] Security Rank Badge
+[SENA]警備階級章=[SENA] Security Rank Insignia
 
 // chara/sena_mod/sena_riku02_it.unity3d
 [SENA]ストップウォッチ=[SENA] Stopwatch
 [SENA]メダル=[SENA] Medal
 
 // chara/sena_mod/sena_rq.unity3d
-[SENA]RQシンプルチョーカー=[SENA] RQ Simple Choker
+//[SENA]RQシンプルチョーカー=
 
 // chara/sena_mod/sena_ym2199_k.unity3d
 [SENA]YMパイロットネックカラー=[SENA] YM Pilot Neck Collar

@@ -12,7 +12,7 @@ HS男西装 裤子=HS Men's Suit Coat
 [SENA]EFSF制服B=[SENA] EFSF Uniform B
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]忍者装束上=[SENA] Ninja Costume Top
+[SENA]忍者装束上=[SENA] Ninja Top
 
 // chara/sena_mod/sena_m_dougi.unity3d
 [SENA]道着=[SENA] Kimono
@@ -21,26 +21,26 @@ HS男西装 裤子=HS Men's Suit Coat
 [SENA]道着(袖なし)=[SENA] Kimono (Sleeveless)
 
 // chara/sena_mod/sena_mJersey.unity3d
-[SENA]ジャージ=[SENA] Jerseys
+[SENA]ジャージ=[SENA] Jersey
 [SENA]トレーニングシャツ=[SENA] Training Shirt
 
 // chara/sena_mod/sena_m_sports.unity3d
 [SENA]ロングTシャツin=[SENA] Long T-shirt In
 [SENA]ロングTシャツout=[SENA] Long T-Shirt Out
 [SENA]Tシャツ(3色色変)=[SENA] T-shirt (3 Colors)
-[SENA]Tシャツ（ノースリーブ）=[SENA] T-Shirt (Sleeveless)
+[SENA]Tシャツ（ノースリーブ）=[SENA] T Shirt (Sleeveless)
 
 // chara/sena_mod/sena_pm02.unity3d
 [SENA]警備シャツ=[SENA] Security Shirt
 [SENA]警備冬制服=[SENA] Security Winter Uniform
 
 // chara/sena_mod/sena_various03.unity3d
-[SENA]ベースボールシャツIn=[SENA] Baseball Shirt In
-[SENA]ベースボールシャツOut=[SENA] Baseball Shirt Out
+//[SENA]ベースボールシャツIn=
+//[SENA]ベースボールシャツOut=
 
 // chara/sena_mod/sena_ym2199.unity3d
-[SENA]YM制服一般=[SENA] YM Uniform General
-[SENA]YM制服シャツin=[SENA] YM Uniform Shirt In
+[SENA]YM制服一般=[SENA] YM General Uniform
+//[SENA]YM制服シャツin=
 
 // chara/sena_mod/sena_ym2199_k.unity3d
 [SENA]YMパイロットスーツ=[SENA] YM Pilot Suit

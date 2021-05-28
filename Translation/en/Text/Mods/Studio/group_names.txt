@@ -6,4 +6,4 @@
 #set exe StudioNEOV2
 
 M-スタジオ=M- Studio
-傲娇的小扬=Tsundere Young
+//傲娇的小扬=

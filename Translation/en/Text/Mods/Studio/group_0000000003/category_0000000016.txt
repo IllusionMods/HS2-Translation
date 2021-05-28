@@ -7,5 +7,5 @@
 
 
 // chara/sena_mod/sena_pm_item02.unity3d
-[SENA]警備手帳-閉=[SENA] Security Pocketbook-Closed
-[SENA]警備手帳-開=[SENA] Security Pocketbook-open
+//[SENA]警備手帳-閉=
+//[SENA]警備手帳-開=

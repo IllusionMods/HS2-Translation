@@ -7,25 +7,25 @@
 
 
 // studio/[GE]changzi.unity3d
-一团肠子=A mass of intestines
+//一团肠子=
 
 // studio/[GE]dachang.unity3d
-一根肠子=One intestine
+//一根肠子=
 
 // studio/[GE]Gan.unity3d
-肝=Liver
+//肝=
 
 // studio/[GE]Rufang.unity3d
-乳房=Breast
+//乳房=
 
 // studio/[GE]Shen.unity3d
-肾=Kidney
+//肾=
 
 // studio/[GE]Zigong.unity3d
-子 宫=Uterus
+//子 宫=
 
 // studio/[GE]chunvB1.unity3d
-处女B1=处女 B1
+//处女B1=
 
 // studio/[GE]chunvB2.unity3d
-处女B2=处女 B2
+//处女B2=

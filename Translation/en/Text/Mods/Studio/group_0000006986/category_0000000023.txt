@@ -7,10 +7,10 @@
 
 
 // studio/sena/sena_n_hiace_full.unity3d
-[SENA]HI ACE(全)=[SENA]HI ACE( Del )
+[SENA]HI ACE(全)=[SENA] HI ACE( Del )
 
 // studio/sena/sena_n_hiace_parts.unity3d
-[SENA]HI ACE(車体)=[SENA]HI ACE( 車体 )
-[SENA]HI ACE(左ドア)=[SENA]HI ACE( 左ドア )
-[SENA]HI ACE(右ドア)=[SENA]HI ACE( 右ドア )
-[SENA]HI ACE(リアシート)=[SENA]HI ACE( リアシート )
+//[SENA]HI ACE(車体)=
+//[SENA]HI ACE(左ドア)=
+//[SENA]HI ACE(右ドア)=
+//[SENA]HI ACE(リアシート)=

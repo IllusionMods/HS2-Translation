@@ -7,12 +7,12 @@
 
 
 // chara/sena_mod/sena_hb_item.unity3d
-[SENA]HB和傘=[SENA]HB 和傘
-[SENA]HBメガホン=[SENA]HB メガホン
-[SENA]HBカタナ（全）=[SENA]HB Katana (All)
-[SENA]HBカタナ（鞘）=[SENA]HB Katana (Sheath)
+//[SENA]HB和傘=
+//[SENA]HBメガホン=
+[SENA]HBカタナ（全）=[SENA] HB Katana (All)
+[SENA]HBカタナ（鞘）=[SENA] HB Katana (Sheath)
 [SENA]HBカタナ(斬）=[SENA] HB Katana (Slash)
 [SENA]HBカタナ(銃）=[SENA] HB Katana (Gun)
-[SENA]HBジャイロ=[SENA]HB Gyro
-[SENA]HBヘルメット=[SENA]HB Helmet
-[SENA]HBヘルメット/オフ=[SENA] HB Helmet / Off
+[SENA]HBジャイロ=[SENA] HB Gyro
+[SENA]HBヘルメット=[SENA] HB Helmet
+//[SENA]HBヘルメット/オフ=

@@ -7,4 +7,4 @@
 
 
 // nullpon_hitem_analplug/nullpon_hitem_analplug/data_prefab_000.unity3d
-アナルプラグ=Anal plug
+//アナルプラグ=

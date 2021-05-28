@@ -7,4 +7,4 @@
 
 
 // XY/zmzg.unity3d
-终末之谷=Vale of the End
+//终末之谷=

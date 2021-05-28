@@ -5,8 +5,8 @@
 
 #set exe StudioNEOV2
 
-浣腸=Enema
-口枷・マスク=Manacles & Masks
+//浣腸=
+//口枷・マスク=
 Hアイテム=H Item
-小物=Small objects
-麻縄=Hemp Rope
+//小物=
+//麻縄=

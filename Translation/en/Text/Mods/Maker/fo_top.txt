@@ -24,7 +24,7 @@ HS2西装外套 改=HS2 Blazer Changed
 HS2水手服 改=HS2 Sailor Suit Changed
 
 // chara/kkkk1111/hs2_short_shirts.unity3d
-HS2短袖衬衫=HS2 short sleeve shirt
+HS2短袖衬衫=HS2 Short-Sleeved Shirt
 
 // chara/kkkk1111/PC_QiPao.unity3d
 PC旗袍 原色=PC China Dress Original Color
@@ -39,7 +39,7 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 性感晚礼服=Sexy Evening Dress
 
 // shiraore/tshirt.unity3d
-[shiraore]Tシャツ-DS=[shiraore] T-shirt-DS
+[shiraore]Tシャツ-DS=[shiraore]T Shirt -DS
 
 // chara/skonb/fo_top_shimakaze.unity3d
 ノースリーブセーラー=Sleeveless Sailor
@@ -48,7 +48,7 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 八十八学園ブラウス=88th Academy Blouse
 
 // chara/cuzkuz/cuzkuz_top_coat.unity3d
-コート（ダブル）=Coat (Double)
+//コート（ダブル）=コート (ダブル)
 
 // chara/cuzkuz/cuzkuz_top_17.unity3d
 カットソー=Jersey
@@ -81,13 +81,13 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 大統領の服=President's Clothes
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-歌姫のドレス=Diva's Dress
+//歌姫のドレス=
 
 // chara/d3mod/hestia_string.unity3d
-[d3mod]例の紐β=[d3mod] Example Strap β
+[d3mod]例の紐β=[d3mod] "That" String β
 
 // chara/d3mod/hestia_string_a.unity3d
-[d3mod]例の紐α=[d3mod] Example Strap Alpha
+[d3mod]例の紐α=[d3mod] "That" String α
 
 // DLM/DE/top.unity3d
 大力-分享恶魔Q3344929957=[DALI] Succubus Q3344929957
@@ -111,10 +111,10 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 大力-龙盔甲-作者q3344929957=[DALI] Dragon Armor - Author q3344929957
 
 // DLM/top.unity3d
-大力-分享-DOASexyA=Great Power - Enjoyment - DOASexyA
+//大力-分享-DOASexyA=
 
 // DLM/top2.unity3d
-大力-分享-DOASexyB=Great Power - DOASexyB
+//大力-分享-DOASexyB=
 
 // DLM/DVA/top1.unity3d
 大力-分享DVAQ3344929957=[DALI] Sharing - D.VA - Q3344929957
@@ -123,7 +123,7 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 大力-分享DVA透明Q3344929957=[DALI] Sharing - D.VA Transparent - Q3344929957
 
 // chara/taroukawai_dougi2top/mymod.unity3d
-道着2=Street clothes2
+道着2=Kimono 2
 
 // chara/fo.unity3d
 夜莺-上衣=Nightingale Coat
@@ -133,8 +133,8 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 
 // chara/FFFQ/FFFQ_sexy dress02.unity3d
 旗袍短裙=Short China Dress
-旗袍短裙02=Short skirting 02
-旗袍短裙03=Short skirt 03
+旗袍短裙02=Short China Dress 02
+旗袍短裙03=Short China Dress 03
 
 // chara/FFFQ/FFFQ_skirt02.unity3d
 短裙=Short Skirt
@@ -161,20 +161,20 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 前空きスーツ=Cleavage Suit
 
 // chara/re_bigger_jacket.unity3d
-TシャツBig=T-shirt Big
-ミニＴBig=Mini TBig
-チビＴBig=Small TBig
-ブラウス襟開きBig=Blouse Open Collar Big
-裸パーカーBig=Naked Hoodie Big
+TシャツBig=T Shirt Big
+ミニＴBig=Mini T-Shirt Big
+チビＴBig=Underbob Big
+ブラウス襟開きBig=Open Collar Blouse Big
+裸パーカーBig=Open Hoodie Big
 スポーツウェアBig=Sportswear Big
-裸カーディガンBig=Naked Cardigan Big
+裸カーディガンBig=Open Cardigan Big
 ボディーハーネスBig=Body Harness Big
 セーラー服Big=Sailor Suit Big
 リボンキャミソールBig=Ribbon Camisole Big
 ノースリーブラウスBig=Sleeveless Blouse Big
-魔女のネグリジェBig=Witch's NegligeeBig
+魔女のネグリジェBig=Witch Negligee Big
 クリスマスポンチョBig=Christmas Poncho Big
-オープンショルダーBig=Open Shoulder Big
+オープンショルダーBig=Open shoulder Shirt Big
 
 // chara/re_bigger_jacket2.unity3d
 ボディーハーネスBig2=Body Harness Big2
@@ -189,7 +189,7 @@ TシャツBig=T-shirt Big
 [SENA]AMウェイトレス2=[SENA] AM Waitress 2
 
 // chara/sena_mod/sena_hbcosplay.unity3d
-[SENA]HB戦闘スーツ=[SENA] HB Battle Suit
+[SENA]HB戦闘スーツ=[SENA] HB Officer Suit
 [SENA]HBジャケット=[SENA] HB Jacket
 
 // chara/sena_mod/sena_efsf_uni.unity3d
@@ -215,10 +215,10 @@ TシャツBig=T-shirt Big
 [SENA]クノイチ着物(無地)=[SENA] Ninja Girl Kimono (plain)
 
 // chara/sena_mod/sena_leccee.unity3d
-[SENA]GHL上着=[SENA] GHL Jacket
+[SENA]GHL上着=[SENA] GHL Jacket Dress
 
 // chara/sena_mod/sena_pm01.unity3d
-[SENA]警備長袖シャツ=[SENA] Security Long Sleeve Shirt
+[SENA]警備長袖シャツ=[SENA] Security Long-Sleeved Shirt
 [SENA]警備冬制服=[SENA] Security Winter Uniform
 [SENA]警備ベスト=[SENA] Security Vest
 
@@ -226,14 +226,14 @@ TシャツBig=T-shirt Big
 [SENA]Tシャツ大=[SENA] Large T-Shirt
 
 // chara/sena_mod/sena_riku03.unity3d
-[SENA]ランナートップス半脱ぎ改=[SENA] Runner Top
+[SENA]ランナートップス半脱ぎ改=[SENA] Runner Tops Half Off
 
 // chara/sena_mod/sena_rq_jak.unity3d
-[SENA]裸ベンチコート=[SENA] Naked Bench Coat
+//[SENA]裸ベンチコート=
 
 // chara/sena_mod/sena_various03.unity3d
-[SENA]ベースボールシャツIn=[SENA] Baseball Shirt In
-[SENA]ベースボールシャツout=[SENA] Baseball Shirt Out
+//[SENA]ベースボールシャツIn=
+//[SENA]ベースボールシャツout=
 
 // chara/sena_mod/sena_vb01.unity3d
 [SENA]バレーシャツM1=[SENA] Volleyball Shirt M1
@@ -249,12 +249,12 @@ TシャツBig=T-shirt Big
 [SENA]バレーシャツM7=[SENA] Volleyball Shirt M7
 
 // chara/sena_mod/sena_w_jersey.unity3d
-[SENA]ジャージ=[SENA] Jerseys
-[SENA]ジャージ前開け=[SENA] jersey front open
+[SENA]ジャージ=[SENA] Jersey
+[SENA]ジャージ前開け=[SENA] Open Jersey
 
 // chara/sena_mod/sena_ym2199.unity3d
-[SENA]YM制服一般=[SENA] YM Uniform General
-[SENA]YM制服衛生士=[SENA] YM Uniform Medics
+[SENA]YM制服一般=[SENA] YM General Uniform
+[SENA]YM制服衛生士=[SENA] YM Medic Uniform
 
 // chara/sena_mod/sena_ym2199_k.unity3d
 [SENA]YMパイロットスーツ=[SENA] YM Pilot Suit
@@ -272,7 +272,7 @@ TシャツBig=T-shirt Big
 セーラー服(半袖)=Sailor Suit (Short Sleeves)
 
 // chara/taroukawai_sailorlsq/sailorlsq.unity3d
-セーラー服(角襟)=Sailor Suit (Square Collar)
+//セーラー服(角襟)=Sailor Suit (角襟)
 
 // XT/xt_top_LT蕾丝.unity3d
 [XT]LTl蕾丝=[MOD] Lace

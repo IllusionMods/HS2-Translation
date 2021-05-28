@@ -7,11 +7,11 @@
 
 
 // chara/sena_mod/sena_lddelf.unity3d
-[SENA]DElfレイピア(鞘)=[SENA] DElf Rapier (Sheath)
-[SENA]DElfレイピア=[SENA]DElf Rapier
-[SENA]DElfFK鞭=[SENA]DElfFK Whip
-[SENA]DElfサークレット=[SENA]DElf Circlet
-[SENA]DElfアームレット=[SENA]DElf Armlet
-[SENA]DElfネックレス=[SENA]DElf Necklace
-[SENA]DElf腰ベルト左=[SENA]DElf 腰ベルト左
-[SENA]DElf腰ベルト右=[SENA]DElf 腰ベルト右
+//[SENA]DElfレイピア(鞘)=[SENA] DElf Rapier (鞘)
+[SENA]DElfレイピア=[SENA] DElf Rapier
+[SENA]DElfFK鞭=[SENA] DElfFK Whip
+[SENA]DElfサークレット=[SENA] DElf Circlet
+[SENA]DElfアームレット=[SENA] DElf Armlet
+[SENA]DElfネックレス=[SENA] DElf Necklace
+//[SENA]DElf腰ベルト左=
+//[SENA]DElf腰ベルト右=

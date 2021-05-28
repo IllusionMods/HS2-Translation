@@ -7,5 +7,5 @@
 
 
 // studio/M-Studio/Surstromming.unity3d
-[M-スタジオ] 缶詰surströmming=[M-Studio] Canned surströmming
-[M-スタジオ] 生物兵器surströmming=[M-Studio] Biological weapon surströmming
+//[M-スタジオ] 缶詰surströmming=
+//[M-スタジオ] 生物兵器surströmming=

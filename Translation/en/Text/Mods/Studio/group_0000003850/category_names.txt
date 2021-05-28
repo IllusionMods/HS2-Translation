@@ -5,5 +5,5 @@
 
 #set exe StudioNEOV2
 
-地图=Map
+//地图=
 道具=Tools

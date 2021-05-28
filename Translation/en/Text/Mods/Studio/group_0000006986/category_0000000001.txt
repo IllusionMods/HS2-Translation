@@ -8,12 +8,12 @@
 
 // studio/sena/sena_vb_prop01.unity3d
 [SENA] バレーボール=[SENA] Volleyball
-//[SENA]ドリンクボトル=[SENA] ドリンクボトル
-//[SENA]コートモップ=[SENA] コートモップ
-//[SENA]審判台=[SENA] 審判台
-//[SENA]ベンチ=[SENA] ベンチ
-//[SENA]ボール籠=[SENA] ボール籠
-//[SENA]バレーコート=[SENA] バレーコート
-//[SENA]バレーネット=[SENA] バレーネット
-//[SENA]ボールフェンスL=[SENA] ボールフェンス L
-//[SENA]ボールフェンスS=[SENA] ボールフェンス S
+//[SENA]ドリンクボトル=
+//[SENA]コートモップ=
+//[SENA]審判台=
+//[SENA]ベンチ=
+//[SENA]ボール籠=
+//[SENA]バレーコート=
+//[SENA]バレーネット=
+//[SENA]ボールフェンスL=
+//[SENA]ボールフェンスS=

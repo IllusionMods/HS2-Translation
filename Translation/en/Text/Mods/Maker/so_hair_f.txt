@@ -6,10 +6,10 @@
 普通の前髪=Normal Bangs
 
 // chara/sio/so_hair_f_hane2.unity3d
-はねっ毛2=Wavy hair 2
+はねっ毛2=Center Spikes 2
 
 // chara/sio/so_hair_f_hane3.unity3d
-はねっ毛3=Long hair 3
+はねっ毛3=Center Spikes 3
 
 // chara/sio/so_hair_f_hime2.unity3d
 姫カット2=Princess Cut 2

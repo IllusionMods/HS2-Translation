@@ -13,16 +13,16 @@
 [SENA]格闘技グローブ=[SENA] Martial Arts Gloves
 
 // chara/sena_mod/sena_pm02.unity3d
-[SENA]警備手袋=[SENA] Security Glove
+[SENA]警備手袋=[SENA] Security Gloves
 
 // chara/sena_mod/sena_various01.unity3d
 [SENA]靴下=[SENA] Socks
 
 // chara/sena_mod/sena_various02a.unity3d
-[SENA]ビブス=[SENA] Bibs
+[SENA]ビブス=[SENA] Training Vest
 
 // chara/sena_mod/sena_ym2199_k.unity3d
 [SENA]YM航空ジャケット=[SENA] YM Aviation Jacket
 
 // chara/sena_mod/sena_ym2199.unity3d
-[SENA]YMパイロットグローブ=[SENA] YM Pilot Glove
+[SENA]YMパイロットグローブ=[SENA] YM Pilot Gloves

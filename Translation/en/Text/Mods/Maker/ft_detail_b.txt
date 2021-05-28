@@ -4,8 +4,8 @@
 
 // chara/stinger722/ft_detail_b_00puffy.unity3d
 普通(puffy)=Normal (puffy)
-ムキムキ(puffy)=Muscular (puffy)
-ポッチャリ(puffy)=Chubby (puffy)
+ムキムキ(puffy)=Athletic (puffy)
+ポッチャリ(puffy)=Voluptuous (puffy)
 スレンダー(puffy)=Slender (puffy)
 
 // chara/sdtcroc/ft_detail_b_sdtcroc.unity3d
