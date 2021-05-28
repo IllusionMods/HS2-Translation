@@ -3,23 +3,23 @@
 //
 
 // chara/kkkk1111/cardigan_shirts.unity3d
-HS2毛衣=HS2 Fur Coat
+HS2毛衣=HS2 Sweater
 
 // chara/00/connectorjp/fo_panst_00.unity3d
 [MOD] ストッキング=[MOD] Stockings
 [MOD] ストッキングTカバー=[MOD] Stockings T
 [MOD] ストッキングHカバー=[MOD] Stockings H
-[MOD] レースストッキング=[MOD] Lace Stockings
-[MOD] 網タイツ細目=[MOD] Mesh Tights Fine
-[MOD] 網タイツ中目=[MOD] Medium mesh tights
-[MOD] 網タイツ大目=[MOD] Large mesh tights
-[MOD] 穴あきストッキング=[MOD] Stockings with holes
-[MOD] スパッツA=[MOD] Spats A
-[MOD] スパッツB=[MOD] Spats B
-[MOD] ショートスパッツ=[MOD] Short Spats
-[MOD] シンプルガーター=[MOD] Simple Garter
-[MOD] レースガーター=[MOD] Lace Garter
-[MOD] ベルトガーター=MOD] Belt Garter
+[MOD] レースストッキング=[MOD]  Lace Stockings
+[MOD] 網タイツ細目=[MOD]  Fine Fishnet
+[MOD] 網タイツ中目=[MOD]  Medium Fishnet
+[MOD] 網タイツ大目=[MOD]  Large Fishnet
+[MOD] 穴あきストッキング=[MOD]  Open Stockings
+[MOD] スパッツA=[MOD]  Spats A
+[MOD] スパッツB=[MOD]  Spats B
+[MOD] ショートスパッツ=[MOD]  Short Spats
+[MOD] シンプルガーター=[MOD]  Simple Garters
+[MOD] レースガーター=[MOD]  Lace Garter
+[MOD] ベルトガーター=[MOD]  Belt garter
 
 // chara/cuzkuz/cuzkuz_top_02.unity3d
 ポンチョコート=Poncho Coat
@@ -105,7 +105,7 @@ T裆黑丝=Black Stockings T
 [SENA]武蔵金属パーツ=[SENA] Musashi Metal Parts
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]クノイチすね当て=[SENA] Knoichi shin pads
+[SENA]クノイチすね当て=[SENA] Ninja Girl Shin Pad
 
 // chara/sena_mod/sena_lddelf.unity3d
 [SENA]DElf腰ベルト=[SENA] DElf Waist Belt
@@ -118,8 +118,8 @@ T裆黑丝=Black Stockings T
 [SENA]ゼッケン上=[SENA] Running Number Up
 
 // chara/sena_mod/sena_riku03.unity3d
-[SENA]ゼッケン上下（ランナートップ改用）=[SENA] Bib Upper and Lower (for Runner Top Mod)
-[SENA]ゼッケン上（ランナートップ改用）=[SENA] Bib Top (for Runner Top)
+[SENA]ゼッケン上下（ランナートップ改用）=[SENA] Running Number Up and Down (Runner Top Revised)
+[SENA]ゼッケン上（ランナートップ改用）=[SENA] Running Number Up (Runner Top Revised)
 
 // chara/sena_mod/sena_rq.unity3d
 [SENA]RQパンスト=[SENA] RQ Pantyhose

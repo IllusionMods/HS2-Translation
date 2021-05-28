@@ -13,6 +13,6 @@
 审判地牢大厅=Trial dungeon hall
 水牢=Water dungeon
 水牢闸门=Water dungeon gates
-火牢1=火牢 1
-火牢2=火牢 2
+//火牢1=
+//火牢2=
 酷刑地牢=Torture dungeon

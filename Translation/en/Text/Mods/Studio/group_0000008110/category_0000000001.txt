@@ -7,7 +7,7 @@
 
 
 // studio/water_00.unity3d
-水面小_丸(明)=Water surface small circle (light)
-水面小_角(明)=Water surface small angle (light)
-水面小_丸(暗)=Water surface small circle (dark)
-水面小_角(暗)=Water surface small angle (dark)
+//水面小_丸(明)=水面小_丸 (Va)
+//水面小_角(明)=水面小_角 (Va)
+//水面小_丸(暗)=水面小_丸 (Dark)
+//水面小_角(暗)=水面小_角 (Dark)

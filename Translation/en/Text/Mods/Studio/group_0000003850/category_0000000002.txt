@@ -15,7 +15,7 @@
 大比利牛斯犬=Great Pyrenee
 哈士奇=Husky
 杂种狗=Mixed Breed Dogs
-蛇=Snake
+蛇=Sna
 玩具贵宾犬=Toy Poodle
 
 // studio/sjjpl/sjjpl_Bike.unity3d

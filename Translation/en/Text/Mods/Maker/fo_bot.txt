@@ -66,13 +66,13 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 一番星ドレス（ボトム）=Top Star Dress (Bottom)
 
 // chara/cuzkuz/cuzkuz_bot_12.unity3d
-スーツパンツ2=Suit Pants 2
+スーツパンツ2=Slacks 2
 
 // chara/cuzkuz/cuzkuz_bot_11.unity3d
 フレアーパンツ=Flared Pants
 
 // chara/cuzkuz/cuzkuz_bot_10.unity3d
-ハーフパンツ2=Half Pants 2
+ハーフパンツ2=Shorts 2
 
 // chara/cuzkuz/cuzkuz_bot_09.unity3d
 ショートデニム=Denim Shorts
@@ -105,7 +105,7 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 大力-免费分享-DOA-A=[DALI] Free Sharing - DOA-A
 
 // chara/taroukawai_dougi2bot/mymod.unity3d
-道着2=Street clothes2
+道着2=Kimono 2
 
 // chara/fo.unity3d
 夜莺-裤=Nightingale Pants
@@ -139,7 +139,7 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 [SENA]R連邦ベルト=[SENA] R Federation Belt
 
 // chara/sena_mod/sena_g_reiko_s.unity3d
-[SENA]R連合ベルト=[SENA] R Federation Belt
+[SENA]R連合ベルト=[SENA] R Alliance Belt
 
 // chara/sena_mod/sena_k_musashi.unity3d
 [SENA]武蔵スカート=[SENA] Musashi Skirt
@@ -148,13 +148,13 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 [SENA]警備タイトスカート=[SENA] Security Tight Skirt
 
 // chara/sena_mod/sena_riku03.unity3d
-[SENA]ランナーパンツ半脱ぎ改=[SENA] Runner pants half off.
+[SENA]ランナーパンツ半脱ぎ改=[SENA] Runner Pants Half Off
 
 // chara/sena_mod/sena_tifa.unity3d
 [SENA]TFスカート=[SENA] TF Skirt
 
 // chara/sena_mod/sena_various02a.unity3d
-[SENA]もっこりスパッツ=[SENA] Dusty Spats
+[SENA]もっこりスパッツ=[SENA] Erect Spats
 
 // chara/sena_mod/sena_various03.unity3d
 [SENA]ベースボールパンツ=[SENA] Baseball Pants
@@ -167,4 +167,4 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 [SENA]バレーブルマM3=[SENA] Volleyball Bloomers M3
 
 // chara/sena_mod/sena_w_jersey.unity3d
-[SENA]ジャージ=[SENA] Jerseys
+[SENA]ジャージ=[SENA] Jersey

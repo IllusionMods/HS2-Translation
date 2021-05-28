@@ -3,7 +3,7 @@
 //
 
 // chara/kkkk1111/cardigan_shirts.unity3d
-HS2毛衣=HS2 Fur Coat
+HS2毛衣=HS2 Sweater
 
 // chara/skonb/fo_gloves_shimakaze.unity3d
 セーラーロングレングス=Sailor Long
@@ -27,7 +27,7 @@ HS2毛衣=HS2 Fur Coat
 歌姫のグローブ=Diva's Gloves
 
 // chara/d3mod/hestia_glove.unity3d
-[d3mod]乳神グローブ=[d3mod] Milky God Gloves
+[d3mod]乳神グローブ=[d3mod] Busty Goddess Gloves
 
 // DLM/DE/gloves.unity3d
 大力-分享恶魔Q3344929957=[DALI] Succubus Q3344929957
@@ -72,34 +72,34 @@ HS2毛衣=HS2 Fur Coat
 
 // chara/sena_mod/sena_hbcosplay.unity3d
 [SENA]HB戦闘グローブ=[SENA] HB Combat Gloves
-[SENA]HB指抜きグローブ=[SENA] HB Fingerless Glove
+[SENA]HB指抜きグローブ=[SENA] HB Fingerless Gloves
 
 // chara/sena_mod/sena_EFSF_Testp.unity3d
-[SENA]パイロットグローブ=[SENA] Pilot Glove
+[SENA]パイロットグローブ=[SENA] Pilot Gloves
 
 // chara/sena_mod/sena_eva_rq01.unity3d
-[SENA]EVA RQ01手袋=[SENA] EVA RQ01 Glove
+[SENA]EVA RQ01手袋=[SENA] EVA RQ01 Gloves
 
 // chara/sena_mod/sena_g_reiko.unity3d
-[SENA]R連邦グローブ=[SENA] R Federation Glove
+[SENA]R連邦グローブ=[SENA] R Federation Gloves
 
 // chara/sena_mod/sena_g_reiko_s.unity3d
-[SENA]R連合グローブ=[SENA] R Federation Glove
+[SENA]R連合グローブ=[SENA] R Alliance Gloves
 
 // chara/sena_mod/sena_k_musashi.unity3d
-[SENA]武蔵グローブ=[SENA] Musashi Glove
+[SENA]武蔵グローブ=[SENA] Musashi Gloves
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-[SENA]クノイチ手甲=[SENA] Knoichi Hand Armor
+[SENA]クノイチ手甲=[SENA] Ninja Girl Forearm Pad
 
 // chara/sena_mod/sena_lddelf.unity3d
-[SENA]DElfグローブ=[SENA] DElf Glove
+[SENA]DElfグローブ=[SENA] DElf Gloves
 
 // chara/sena_mod/sena_leccee.unity3d
-[SENA]GHLグローブ=[SENA] GHL Glove
+[SENA]GHLグローブ=[SENA] GHL Gloves
 
 // chara/sena_mod/sena_pm01.unity3d
-[SENA]警備手袋=[SENA] Security Glove
+[SENA]警備手袋=[SENA] Security Gloves
 
 // chara/sena_mod/sena_riku02.unity3d
 [SENA]テーピング=[SENA] Taping
@@ -112,22 +112,22 @@ HS2毛衣=HS2 Fur Coat
 [SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
 
 // chara/sena_mod/sena_t_asuka.unity3d
-[SENA]アスカアーム（日常）=[SENA] Aska Arm (Daily)
-[SENA]アスカアーム（戦闘）=[SENA] Asuka Arm (Combat)
+[SENA]アスカアーム（日常）=[SENA] Asuka Arm (Daily)
+[SENA]アスカアーム（戦闘）=[SENA] Asuka Arm (Battle)
 
 // chara/sena_mod/sena_tifa.unity3d
-[SENA]TFグローブ=[SENA] TF Glove
+[SENA]TFグローブ=[SENA] TF Gloves
 
 // chara/sena_mod/sena_vb01.unity3d
-[SENA]アームスリーブ=[SENA] Arm Sleeve
-[SENA]アームスリーブ左=[SENA] Arm Sleeve Left
-[SENA]アームスリーブ右=[SENA] Arm Sleeve Right
+[SENA]アームスリーブ=[SENA] Sleeve
+[SENA]アームスリーブ左=[SENA] Left Sleeve
+[SENA]アームスリーブ右=[SENA] Right Sleeve
 
 // chara/sena_mod/sena_vb01b.unity3d
 [SENA]指テーピング=[SENA] Finger Taping
 
 // chara/sena_mod/sena_w_jersey.unity3d
-[SENA]ジャージ前開け=[SENA] jersey front open
+[SENA]ジャージ前開け=[SENA] Open Jersey
 
 // chara/sena_mod/sena_ym2199.unity3d
-[SENA]YMパイロットグローブ=[SENA] YM Pilot Glove
+[SENA]YMパイロットグローブ=[SENA] YM Pilot Gloves

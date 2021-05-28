@@ -3,4 +3,4 @@
 //
 
 // chara/thumb/bodypaint_layout
-下腹部=Lower Belly
+下腹部=Crotch

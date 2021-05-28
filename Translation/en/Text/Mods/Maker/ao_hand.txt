@@ -3,16 +3,16 @@
 //
 
 // chara/d3mod/d3_bar.unity3d
-[d3mod]バールのような物=[d3mod] Crowbar-like Object
+[d3mod]バールのような物=[d3mod] Some Kind of Unspeakable Bar Thing
 
 // chara/d3mod/d3_spikebat.unity3d
-[d3mod]釘バット=[d3mod] Nail Bat
+[d3mod]釘バット=[d3mod] Spiked Bat
 
 // chara/d3mod/d3_metalbat.unity3d
 [d3mod]金属バット=[d3mod] Metal Bat
 
 // chara/d3mod/d3_debablade.unity3d
-[d3mod]出刃ブレード=[d3mod] Blade
+[d3mod]出刃ブレード=[d3mod] Knife
 
 // chara/d3mod/d3_moonstick.unity3d
 [d3mod]月スティック=[d3mod] Moon Stick
@@ -21,16 +21,16 @@
 [d3mod]月スティック（水晶）=[d3mod] Moon Stick (Crystal)
 
 // chara/d3mod/d3_stick_mars.unity3d
-[d3mod]星スティック（火）=[d3mod] Star Stick (Fire)
+[d3mod]星スティック（火）=[d3mod] Star Power Stick (Fire)
 
 // chara/d3mod/d3_stick_marc.unity3d
-[d3mod]星スティック（水）=[d3mod] Star Stick (Water)
+[d3mod]星スティック（水）=[d3mod] Star Power Stick (Water)
 
 // chara/d3mod/d3_stick_jupiter.unity3d
-[d3mod]星スティック（木）=[d3mod] Star Stick (Wood)
+[d3mod]星スティック（木）=[d3mod] Star Power Stick (Wood)
 
 // chara/d3mod/d3_stick_venus.unity3d
-[d3mod]星スティック（金）=[d3mod] Star Stick (Gold)
+[d3mod]星スティック（金）=[d3mod] Star Power Stick (Gold)
 
 // DLMEX/L/dl_hand_lo1.unity3d
 大力-镰刀-作者q3344929957=[DALI] Scythe - Author q3344929957
@@ -62,7 +62,7 @@
 [SENA]HBカタナ(銃）=[SENA] HB Katana (Gun)
 
 // chara/sena_mod/sena_eva_rq01.unity3d
-[SENA]EVA RQ腕輪1=[SENA] EVA RQ-Armlet 1
+[SENA]EVA RQ腕輪1=[SENA] EVA RQ Bangle 1
 
 // chara/sena_mod/sena_Lkuno1.unity3d
 [SENA]小太刀(抜刀）=[SENA] Small Sword (Sword)
@@ -74,12 +74,12 @@
 [SENA]DElfレイピア=[SENA] DElf Rapier
 
 // chara/sena_mod/sena_pm_item01.unity3d
-[SENA]警棒（収納）=[ena] baton (stowed)
-[SENA]警棒（伸長）=[SENA] Extendable baton
+[SENA]警棒（収納）=[SENA] Baton (Retracted)
+[SENA]警棒（伸長）=[SENA] Baton (Extended)
 
 // chara/sena_mod/sena_pm_item02.unity3d
 [SENA]デジタル腕時計=[SENA] Digital Watch
 
 // chara/sena_mod/sena_various03.unity3d
-[SENA]グローブ（左）=[SENA] Glove (left)
-[SENA]グローブ（右）=[SENA] Glove (right)
+[SENA]グローブ（左）=[SENA] Gloves (Left)
+[SENA]グローブ（右）=[SENA] Gloves (Right)

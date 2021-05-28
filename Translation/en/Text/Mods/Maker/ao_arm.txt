@@ -3,7 +3,7 @@
 //
 
 // chara/cuzkuz/cuzkuz_arm_01.unity3d
-大正義リストバンドA=Taisho Wristband A
+大正義リストバンドA=Yomiuri Giants Cheerleader Wristband A
 
 // chara/gyobobo/gantz_arm.unity3d
 ガンツ丸いヤツ=Gantz Round Plug

@@ -7,17 +7,17 @@
 
 
 // chara/sena_mod/sena_various02.unity3d
-[SENA]掃除機=[SENA] 掃除機
-[SENA]オナホ=[SENA] オナホ
+//[SENA]掃除機=
+//[SENA]オナホ=
 
 // chara/sena_mod/sena_various02a.unity3d
-[SENA]ブーニーハット=[SENA] ブーニーハット
+//[SENA]ブーニーハット=
 [SENA]ドルフヘッド=[SENA] Dolphin Head
 
 // chara/sena_mod/sena_various03.unity3d
-[SENA]野球ボール=[SENA] 野球ボール
-[SENA]バット=[SENA] バット
-[SENA]グローブ（右）=[SENA] グローブ（右）
-[SENA]グローブ（左）=[SENA] グローブ（左）
-[SENA]野球ヘルメット（右打者）=[SENA] 野球ヘルメット（右打者）
-[SENA]野球ヘルメット（左打者）=[SENA] 野球ヘルメット（左打者）
+//[SENA]野球ボール=
+//[SENA]バット=
+//[SENA]グローブ（右）=
+//[SENA]グローブ（左）=
+//[SENA]野球ヘルメット（右打者）=
+//[SENA]野球ヘルメット（左打者）=

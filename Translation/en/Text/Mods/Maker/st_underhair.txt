@@ -6,7 +6,7 @@
 四角=Square
 三角=Triangle
 小三角=Small Triangle
-丸=Circles
+丸=Circle
 薄い=Wispy
 小盾=Small Shield
 大盾=Large Shield

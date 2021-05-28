@@ -7,14 +7,14 @@
 
 
 // studio/sena/sena_pm_today.unity3d
-[SENA]ミニパト車体=[SENA] ミニパト車体
-[SENA]ミニパト後部ドア=[SENA] ミニパト後部ドア
-[SENA]ミニパト右ドア=[SENA] ミニパト右ドア
-[SENA]ミニパト左ドア=[SENA] ミニパト左ドア
-[SENA]ミニパト=[SENA] ミニパト
+//[SENA]ミニパト車体=
+//[SENA]ミニパト後部ドア=
+//[SENA]ミニパト右ドア=
+//[SENA]ミニパト左ドア=
+//[SENA]ミニパト=
 
 // studio/sena/sena_pm_moto.unity3d
-[SENA]モトコンポ（走行）=[SENA] モトコンポ（走行）
-[SENA]モトコンポ（収納）=[SENA] モトコンポ（収納）
-[SENA]パトライト（脱着式）=[SENA] パトライト（脱着式）
-[SENA]ヘルメット(ベースボール)=[SENA] Helmet (Baseball)
+//[SENA]モトコンポ（走行）=
+//[SENA]モトコンポ（収納）=
+//[SENA]パトライト（脱着式）=
+//[SENA]ヘルメット(ベースボール)=[SENA] Helmet  (ベースボール)

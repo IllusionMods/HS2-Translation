@@ -7,23 +7,23 @@
 
 
 // chara/sena_mod/sena_EFSF_Testp.unity3d
-[SENA]EFSFテストヘルメット=[SENA]EFSF Test Helmet
-[SENA]EFSFテストバックパック=[SENA]EFSF Test backpack
+[SENA]EFSFテストヘルメット=[SENA] EFSF Test Helmet
+[SENA]EFSFテストバックパック=[SENA] EFSF Test backpack
 
 // chara/sena_mod/sena_efsf_item.unity3d
-[SENA]EFSFM-71拳銃=[SENA]EFSFM-71 拳銃
-[SENA]EFSFM-72ライフル=[SENA]EFSFM-72 ライフル
+//[SENA]EFSFM-71拳銃=
+//[SENA]EFSFM-72ライフル=
 
 // chara/sena_mod/sena_efsf_uni.unity3d
-[SENA]EFSF制帽=[SENA]EFSF Cap
+[SENA]EFSF制帽=[SENA] EFSF Cap
 [SENA]通信ヘッドセット=[SENA] Headset
-[SENA]EFSF陸軍ヘルメット=[SENA]EFSF Army Helmet
+[SENA]EFSF陸軍ヘルメット=[SENA] EFSF Army Helmet
 
 // chara/sena_mod/sena_g_reiko.unity3d
-[SENA]ビームサーベル型指揮棒=[SENA] ビームサーベル型指揮棒
-[SENA]マスコットロボ=[SENA] マスコットロボ
-[SENA]R連邦ベルト=[SENA]R Federation Belt
-[SENA]リボン太=[SENA] リボン太
+//[SENA]ビームサーベル型指揮棒=
+//[SENA]マスコットロボ=
+[SENA]R連邦ベルト=[SENA] R Federation Belt
+//[SENA]リボン太=
 
 // chara/sena_mod/sena_g_reiko_s.unity3d
-[SENA]R連合ベルト=[SENA]R Alliance Belt
+[SENA]R連合ベルト=[SENA] R Alliance Belt
