@@ -7,4 +7,4 @@
 
 
 // studio/zeromike/dragon_ball_kami_lookout.unity3d
-//[龙珠]天岛=
+[龙珠]天岛=[Dragon Ball] Sky Island

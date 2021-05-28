@@ -7,12 +7,12 @@
 
 
 // b8mod/CHmap13.unity3d
-//冰冻地牢=
-//地牢吊笼=
-//地牢大厅门=
-//审判地牢大厅=
-//水牢=
-//水牢闸门=
+冰冻地牢=Frozen dungeon
+地牢吊笼=Dungeon Cage
+地牢大厅门=Dungeon Hall Door
+审判地牢大厅=Trial dungeon hall
+水牢=Water dungeon
+水牢闸门=Water dungeon gates
 //火牢1=
 //火牢2=
-//酷刑地牢=
+酷刑地牢=Torture dungeon

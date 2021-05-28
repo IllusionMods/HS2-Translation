@@ -7,7 +7,7 @@
 
 
 // nullpon_kinbaku_knots/nullpon_kinbaku_knots/data_prefab_000.unity3d
-//結目=
+結目=Knot
 //結目（男結）=結目 (男結)
 //結目（吊り縄）=結目 (吊り縄)
 
@@ -16,9 +16,9 @@
 //股縄（開）=股縄 (Open)
 
 // nullpon_kinbaku_rope/nullpon_kinbaku_rope/data_prefab_000.unity3d
-//麻縄・1本取=
-//麻縄・2本取=
-//コブ縄=
+麻縄・1本取=Hemp rope, 1 piece
+麻縄・2本取=Hemp rope, 2 strands
+コブ縄=Cob rope
 
 // nullpon_kinbaku_ropeset/nullpon_kinbaku_ropeset/data_prefab_000.unity3d
 //縄輪（手首・左）=縄輪 (手首・左)

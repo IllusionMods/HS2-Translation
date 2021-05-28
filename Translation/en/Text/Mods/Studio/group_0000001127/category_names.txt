@@ -5,5 +5,5 @@
 
 #set exe StudioNEOV2
 
-//Tasty Surströmming=
-//貴様の人生終わった=
+Tasty Surströmming=Tasty Surströmming
+貴様の人生終わった=Your life is over.

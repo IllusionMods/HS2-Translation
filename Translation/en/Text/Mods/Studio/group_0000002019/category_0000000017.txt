@@ -7,20 +7,20 @@
 
 
 // b8mod/CHmap6.unity3d
-//供奉桌子=
-//供奉桌子坏了=
-//告示墙=
-//小龙女绳床=
+供奉桌子=Consecration table
+供奉桌子坏了=The consecration table is broken
+告示墙=Notice wall
+小龙女绳床=Little dragon girl rope bed
 //废墟杂乱木头1=
 //废墟杂乱木头2=
 //废墟杂乱木头3=
-//废水井=
+废水井=Waste water well
 //散落兵器1=
 //散落兵器2=
-//木桩台=
-//火炬=
-//纳凉处=
-//练武木桩=
+木桩台=Wooden stake table
+火炬=Torch
+纳凉处=Cooler
+练武木桩=Wooden stakes for martial arts training
 //草垛1=
 //草垛2=
 //草垛3=
@@ -31,4 +31,4 @@
 //贝壳堆1=
 //贝壳堆2=
 //贝壳堆3=
-//路标=
+路标=Road signs

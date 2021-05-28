@@ -7,7 +7,7 @@
 
 
 // XY/xblajc.unity3d
-//休伯利安舰仓=
-//休伯利安能源舱=
-//休伯利安驾驶舱=
-//休伯利安能源核心=
+休伯利安舰仓=Huberian Ship Warehouse
+休伯利安能源舱=Huberian Energy Cabin
+休伯利安驾驶舱=Huberian Cockpit
+休伯利安能源核心=Huberian Energy Core

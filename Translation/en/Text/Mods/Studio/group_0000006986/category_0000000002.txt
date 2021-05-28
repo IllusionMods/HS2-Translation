@@ -8,8 +8,8 @@
 
 // studio/sena/sena_tf_item01.unity3d
 //[SENA]スタートブロック=
-//[SENA]右足:スタートブロック=
-//[SENA]左足:スタートブロック=
+[SENA]右足:スタートブロック=[SENA] Right foot:Start block
+[SENA]左足:スタートブロック=[SENA] Left foot:Start block
 //[SENA]リレーバトン=
 //[SENA]スパイク左=
 //[SENA]スパイク右=
@@ -31,7 +31,7 @@
 
 // studio/sena/sena_tf_item01a.unity3d
 //[SENA]大型テント=
-//[SENA]レーンNO標識=
+[SENA]レーンNO標識=[SENA] Lane NO sign
 //[SENA]ランニングトラック=
 //[SENA]幅跳びゾーン=
 //[SENA]砲丸投げサークル=

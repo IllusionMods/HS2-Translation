@@ -81,7 +81,7 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 大統領の服=President's Clothes
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-//歌姫のドレス=
+歌姫のドレス=Diva's Dress
 
 // chara/d3mod/hestia_string.unity3d
 [d3mod]例の紐β=[d3mod] "That" String β
@@ -111,10 +111,10 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 大力-龙盔甲-作者q3344929957=[DALI] Dragon Armor - Author q3344929957
 
 // DLM/top.unity3d
-//大力-分享-DOASexyA=
+大力-分享-DOASexyA=Great Power - Enjoyment - DOASexyA
 
 // DLM/top2.unity3d
-//大力-分享-DOASexyB=
+大力-分享-DOASexyB=Great Power - DOASexyB
 
 // DLM/DVA/top1.unity3d
 大力-分享DVAQ3344929957=[DALI] Sharing - D.VA - Q3344929957
@@ -229,11 +229,11 @@ TシャツBig=T Shirt Big
 [SENA]ランナートップス半脱ぎ改=[SENA] Runner Tops Half Off
 
 // chara/sena_mod/sena_rq_jak.unity3d
-//[SENA]裸ベンチコート=
+[SENA]裸ベンチコート=[SENA] Naked Bench Coat
 
 // chara/sena_mod/sena_various03.unity3d
-//[SENA]ベースボールシャツIn=
-//[SENA]ベースボールシャツout=
+[SENA]ベースボールシャツIn=[SENA] Baseball Shirt In
+[SENA]ベースボールシャツout=[SENA] Baseball Shirt Out
 
 // chara/sena_mod/sena_vb01.unity3d
 [SENA]バレーシャツM1=[SENA] Volleyball Shirt M1

@@ -24,7 +24,7 @@ HS2毛衣=HS2 Sweater
 一番星グローブ=Top Star Gloves
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-//歌姫のグローブ=
+歌姫のグローブ=Diva's Gloves
 
 // chara/d3mod/hestia_glove.unity3d
 [d3mod]乳神グローブ=[d3mod] Busty Goddess Gloves
@@ -105,11 +105,11 @@ HS2毛衣=HS2 Sweater
 [SENA]テーピング=[SENA] Taping
 
 // chara/sena_mod/sena_rq.unity3d
-//[SENA]RQインナーショーツ=
+[SENA]RQインナーショーツ=[SENA] RQ inner shorts
 
 // chara/sena_mod/sena_rq_jak.unity3d
-//[SENA]裸ベンチコート=
-//[SENA]裸ベンチコート腰巻=
+[SENA]裸ベンチコート=[SENA] Naked Bench Coat
+[SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
 
 // chara/sena_mod/sena_t_asuka.unity3d
 [SENA]アスカアーム（日常）=[SENA] Asuka Arm (Daily)

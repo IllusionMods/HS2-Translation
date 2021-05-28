@@ -151,7 +151,7 @@ Tシャツ=T-Shirt
 // chara/sena_mod/sena_rq.unity3d
 [SENA]RQレオタード1=[SENA] RQ Leotard 1
 [SENA]RQレオタード2=[SENA] RQ Leotard 2
-//[SENA]RQビキニブラ1=
+[SENA]RQビキニブラ1=[SENA] RQ Bikini Bra 1
 
 // chara/sena_mod/sena_t_asuka.unity3d
 [SENA]アスカスーツ=[SENA] Asuka Suit
@@ -160,7 +160,7 @@ Tシャツ=T-Shirt
 [SENA]TFブラトップ=[SENA] TF Bra Top
 
 // chara/sena_mod/sena_various03.unity3d
-//[SENA]アンダーシャツ=
+[SENA]アンダーシャツ=[SENA] Undershirt
 
 // chara/stinger722/fo_inner_t_07stinger722.unity3d
 スリングショット改=Slingshot Detached Strings
@@ -168,6 +168,6 @@ Tシャツ=T-Shirt
 // chara/taroukawai_microb2/microb2.unity3d
 バンド2=Mini Tube 2
 マイクロビキニ2=Micro Bikini 2
-//マイクロSビキニ2=
+マイクロSビキニ2=Micro S Bikini 2
 ソルジャーバンドゥ2=Soldier Bandage 2
 スリングショット2=Slingshot 2

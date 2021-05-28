@@ -3,7 +3,7 @@
 //
 
 // chara/sio/bigtwin.unity3d
-//超ボリュームツイン=
+超ボリュームツイン=Super Voluminous Twin
 
 // chara/cuzkuz/cuzkuzhair_01.unity3d
 カールおさげ=Curl Ponitail
@@ -66,7 +66,7 @@
 大力-发型分享B1Q3344929957=[DALI] Hair Sharing B1 Q3344929957
 
 // chara/hair100.unity3d
-//�ɴ��ǵ�ëë=
+�ɴ��ǵ�ëë=hair100
 
 // chara/00/so_hair_b_00.unity3d
 ボリュームポニー=Thick Ponytail

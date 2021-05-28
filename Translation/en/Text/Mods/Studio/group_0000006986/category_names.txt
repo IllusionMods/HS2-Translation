@@ -6,4 +6,4 @@
 #set exe StudioNEOV2
 
 陸上=Sports
-//ミニパト=
+ミニパト=Mini Pat

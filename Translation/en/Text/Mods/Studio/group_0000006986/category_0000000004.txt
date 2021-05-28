@@ -15,4 +15,4 @@
 [SENA]HBカタナ(銃）=[SENA] HB Katana (Gun)
 [SENA]HBジャイロ=[SENA] HB Gyro
 [SENA]HBヘルメット=[SENA] HB Helmet
-//[SENA]HBヘルメット/オフ=
+[SENA]HBヘルメット/オフ=[SENA] HB Helmet / Off

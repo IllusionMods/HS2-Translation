@@ -36,8 +36,8 @@
 [SENA]陸上ブルマ(M02)=[SENA] Sports Bloomers (M02)
 
 // chara/sena_mod/sena_rq.unity3d
-//[SENA]RQインナーショーツ=
-//[SENA]RQビキニショーツ1=
+[SENA]RQインナーショーツ=[SENA] RQ inner shorts
+[SENA]RQビキニショーツ1=[SENA] RQ Bikini Panties 1
 
 // chara/sena_mod/sena_vb01.unity3d
 [SENA]バレーブルマM1=[SENA] Volleyball Bloomers M1

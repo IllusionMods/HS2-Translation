@@ -21,8 +21,8 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 犬姫の頭巾=Princess of Moonbrook Hood
 
 // chara/cuzkuz/cuzkuz_15b.unity3d
-//ツインロール左=
-//ツインロール右=
+ツインロール左=Twin Roll Left
+ツインロール右=Twin Roll Right
 ロング=Long
 
 // chara/d3mod/hestia_acc_l.unity3d
@@ -95,7 +95,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 [SENA]EFSFテストヘルメット=[SENA] EFSF Test Helmet
 
 // chara/sena_mod/sena_ggg.unity3d
-//[SENA]GGGヘッドセット=
+[SENA]GGGヘッドセット=[SENA] GGG Headset
 
 // chara/sena_mod/sena_k_musashi_ac.unity3d
 [SENA]武蔵ヘアバンド=[SENA] Musashi Hairband

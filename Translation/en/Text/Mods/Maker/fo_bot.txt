@@ -84,7 +84,7 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 大統領のスカート=President's Skirt
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-//歌姫のスカート=
+歌姫のスカート=Diva's Skirt
 
 // DLMEX/DLTD1/dl_bot_dltd1.unity3d
 大力_TD沧海_裙子_原色=[DALI] TD Sea Skirt - Original Color
@@ -157,7 +157,7 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 [SENA]もっこりスパッツ=[SENA] Erect Spats
 
 // chara/sena_mod/sena_various03.unity3d
-//[SENA]ベースボールパンツ=
+[SENA]ベースボールパンツ=[SENA] Baseball Pants
 
 // chara/sena_mod/sena_vb01.unity3d
 [SENA]バレースパッツM1=[SENA] Volleyball Spats M1

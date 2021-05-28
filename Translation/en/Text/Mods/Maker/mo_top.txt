@@ -35,12 +35,12 @@ HS男西装 裤子=HS Men's Suit Coat
 [SENA]警備冬制服=[SENA] Security Winter Uniform
 
 // chara/sena_mod/sena_various03.unity3d
-//[SENA]ベースボールシャツIn=
-//[SENA]ベースボールシャツOut=
+[SENA]ベースボールシャツIn=[SENA] Baseball Shirt In
+[SENA]ベースボールシャツOut=[SENA] Baseball Shirt Out
 
 // chara/sena_mod/sena_ym2199.unity3d
 [SENA]YM制服一般=[SENA] YM General Uniform
-//[SENA]YM制服シャツin=
+[SENA]YM制服シャツin=[SENA] YM Uniform Shirt In
 
 // chara/sena_mod/sena_ym2199_k.unity3d
 [SENA]YMパイロットスーツ=[SENA] YM Pilot Suit

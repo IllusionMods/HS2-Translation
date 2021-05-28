@@ -63,7 +63,7 @@ HS流苏小皮鞋=HS Fringed Leather Shoes
 大正義シューズ=Yomiuri Giants Cheerleader Shoes
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-//歌姫のブーツ=
+歌姫のブーツ=Diva's boots
 
 // DLMEX/DLTD1/dl_shoes_dltd1.unity3d
 大力_TD沧海_鞋=[DALI] TD Sea Shoes

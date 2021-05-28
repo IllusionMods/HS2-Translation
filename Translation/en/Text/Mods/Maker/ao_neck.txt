@@ -18,7 +18,7 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 一番星ブローチ=Top Star Brooch
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-//歌姫のブローチ=
+歌姫のブローチ=Diva's Brooch
 
 // chara/d3mod/hestia_neck.unity3d
 [d3mod]乳神チョーカー=[d3mod] Busty Goddess Choker
@@ -65,7 +65,7 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 [SENA]メダル=[SENA] Medal
 
 // chara/sena_mod/sena_rq.unity3d
-//[SENA]RQシンプルチョーカー=
+[SENA]RQシンプルチョーカー=[SENA] RQ Simple Choker
 
 // chara/sena_mod/sena_ym2199_k.unity3d
 [SENA]YMパイロットネックカラー=[SENA] YM Pilot Neck Collar

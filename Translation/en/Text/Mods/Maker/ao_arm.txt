@@ -19,7 +19,7 @@
 [SENA]腕章(防犯)=[SENA] Armband (Officer)
 
 // chara/sena_mod/sena_rq.unity3d
-//[SENA]RQシンプルアームバンド=
+[SENA]RQシンプルアームバンド=[SENA] RQ Simple Arm Band
 
 // chara/sena_mod/sena_t_asuka.unity3d
 [SENA]アスカ武器パック(収納)=[SENA] Asuka Weapon Pack (Stored)

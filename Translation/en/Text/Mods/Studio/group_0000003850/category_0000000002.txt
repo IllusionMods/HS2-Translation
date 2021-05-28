@@ -7,16 +7,16 @@
 
 
 // studio/sjjpl/sjjpl_dog.unity3d
-//暹罗猫=
-//巴吉度猎犬=
-//边境牧羊犬=
+暹罗猫=Siamese cat
+巴吉度猎犬=Baguette Hound
+边境牧羊犬=Border Collie
 猫=Cat
-//金毛寻回犬=
-//大比利牛斯犬=
-//哈士奇=
-//杂种狗=
+金毛寻回犬=Golden Retriever
+大比利牛斯犬=Great Pyrenee
+哈士奇=Husky
+杂种狗=Mixed Breed Dogs
 蛇=Sna
-//玩具贵宾犬=
+玩具贵宾犬=Toy Poodle
 
 // studio/sjjpl/sjjpl_Bike.unity3d
-//摩托车=
+摩托车=Motorcycle

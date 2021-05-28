@@ -12,12 +12,12 @@
 //口罩3=
 
 // studio/[zhushiwo]chinese_jiaju2020.unity3d
-//博古架=
-//茶几=
-//落地灯=
-//小摆架=
-//圆花架=
-//园椅子=
+博古架=Hanging rack
+茶几=Tea table
+落地灯=Earthenware Lamp
+小摆架=Small Furnishing Stands
+圆花架=Flower Fence
+园椅子=Garden Chair
 //桌子1=
 //桌子2=
 

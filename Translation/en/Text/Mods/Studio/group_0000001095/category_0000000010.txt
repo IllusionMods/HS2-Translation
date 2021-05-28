@@ -7,9 +7,9 @@
 
 
 // hooh/modern_furniture/modern_furniture_0031.unity3d
-//KitCabinet Lo 1½x A=
-//KitCabinet Lo 1½x Sink=
+KitCabinet Lo 1½x A=KitCabinet Lo 1½x A
+KitCabinet Lo 1½x Sink=KitCabinet Lo 1½x Sink
 
 // hooh/modern_furniture/modern_furniture_0010.unity3d
-//KitCabinet Up 1½x A=
-//KitCabinet Up 1½x B=
+KitCabinet Up 1½x A=KitCabinet Up 1½x A
+KitCabinet Up 1½x B=KitCabinet Up 1½x B

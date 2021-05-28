@@ -6,7 +6,7 @@
 HS2毛衣=HS2 Sweater
 
 // chara/cuzkuz/cuzkuz_top_poncho.unity3d
-//ケープ=
+ケープ=Cape
 クリスマスポンチョ=Christmas Poncho
 
 // chara/cuzkuz/cuzkuz_top_13.unity3d
@@ -49,13 +49,13 @@ HS2毛衣=HS2 Sweater
 大力-龙盔-腰带-作者q3344929957=[DALI] Dragon Armor Belt - Author q3344929957
 
 // chara/fo_socks_maomaowa.unity3d
-//ë��Ͳ��=
+ë��Ͳ��=fo_socks_maomaowa
 
 // chara/fo_socks_maomaowa_yang.unity3d
-//ë������Ͳ��=
+ë������Ͳ��=fo_socks_maomaowa_yang
 
 // chara/fo_socks_maomaowa_zhu.unity3d
-//ë�������Ͳ��=
+ë�������Ͳ��=fo_socks_maomaowa_zhu
 
 // chara/etc.unity3d
 なし=None
@@ -83,11 +83,11 @@ HS2毛衣=HS2 Sweater
 [SENA]足袋=[SENA] Big Toe Socks
 
 // chara/sena_mod/sena_rq.unity3d
-//[SENA]RQインナーショーツ=
+[SENA]RQインナーショーツ=[SENA] RQ inner shorts
 
 // chara/sena_mod/sena_rq_jak.unity3d
-//[SENA]裸ベンチコート=
-//[SENA]裸ベンチコート腰巻=
+[SENA]裸ベンチコート=[SENA] Naked Bench Coat
+[SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
 
 // chara/sena_mod/sena_tifa.unity3d
 [SENA]TFショートソックス=[SENA] TF Short Socks

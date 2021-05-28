@@ -7,5 +7,5 @@
 
 
 // rose_small_stuff2/rose_small_stuff2/data_prefab_000.unity3d
-//7.92×57 Mauser Casing=
-//7.92×57 Mauser Round=
+7.92×57 Mauser Casing=7.92×57 Mauser Casing
+7.92×57 Mauser Round=7.92×57 Mauser Round

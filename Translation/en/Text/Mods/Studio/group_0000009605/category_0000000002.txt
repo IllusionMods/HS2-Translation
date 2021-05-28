@@ -12,7 +12,7 @@
 //ガラス浣腸器（液）=ガラス浣腸器 (液)
 
 // nullpon_enema_ichijiku/nullpon_enema_ichijiku/data_prefab_000.unity3d
-//イチジク浣腸=
+イチジク浣腸=Fig Enema
 //イチジク浣腸（キャップ付）=イチジク浣腸 (キャップ付)
 //イチジク浣腸（使用済み）=イチジク浣腸 (使用済み)
 
@@ -23,4 +23,4 @@
 //イルリガートル（容器・吊金具）=イルリガートル (容器・吊金具)
 
 // nullpon_enema_syringe/nullpon_enema_syringe/data_prefab_000.unity3d
-//エネマシリンジ=
+エネマシリンジ=Enema Syringe

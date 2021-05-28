@@ -6,4 +6,4 @@
 #set exe StudioNEOV2
 
 武器=Weapons
-//机器人=
+机器人=robot
