@@ -7,9 +7,9 @@
 
 
 // nullpon_gag_sarugutsuwa/nullpon_gag_sarugutsuwa/data_prefab_000.unity3d
-猿轡 A=Gag  A
-猿轡 B1=Gag  B1
-猿轡 B2=Gag  B2
+猿轡 A=Gag A
+猿轡 B1=Gag B1
+猿轡 B2=Gag B2
 
 // nullpon_mask_tsumibukuro/nullpon_mask_tsumibukuro/data_prefab_000.unity3d
 罪袋=Sin bag

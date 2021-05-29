@@ -12,4 +12,7 @@ sr:"^(?<nonLatin>[^\u0000-\u024F]+)(?<latin_i>[\u0020-\u024F｢【｣】]+)$"=${
 // Example: Instead of "[Modder]シャツ(F_5)=[Modder] Shirt (F_5)", only "シャツ=Shirt" is needed
 sr:"^(?<latin_i>[\u0020-\u024F｢【｣】]+)(?<nonLatin>[^\u0000-\u024F]+)(?<latin2_i>[\u0020-\u024F｢【｣】]*)$"=${latin_i} ${nonLatin} ${latin2_i}
 
+//Misc
+r:"^kunoichi.(.*)$"=Ninja Girl $1
+
 #unset level 3,7

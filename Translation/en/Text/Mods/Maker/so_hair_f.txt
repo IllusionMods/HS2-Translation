@@ -5,6 +5,9 @@
 // chara/cuzkuz/cuzkuzhair_02.unity3d
 普通の前髪=Normal Bangs
 
+// chara/ljlsdq_kuangsan_hair.unity3d
+kuangsan=[ljlsdq] Kurumi
+
 // chara/sio/so_hair_f_hane2.unity3d
 はねっ毛2=Center Spikes 2
 

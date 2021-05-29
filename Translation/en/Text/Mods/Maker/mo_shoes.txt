@@ -3,7 +3,7 @@
 //
 
 // chara/kkkk1111/hs_hotel_slippers_male.unity3d
-HS 酒店拖鞋=HS  Hotel Slippers
+HS 酒店拖鞋=HS Hotel Slippers
 
 // chara/kkkk1111/hs_sneakers_male.unity3d
 HS 板鞋(变色)=HS Sneakers (Colorable)

@@ -136,4 +136,4 @@
 サイドロングラフバング=Side Long with Lock Over Eye
 
 // chara/ymd/ym11_hairPortM.unity3d
-HS バンダナ=HS  Bandana
+HS バンダナ=HS Bandana

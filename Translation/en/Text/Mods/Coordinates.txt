@@ -1,0 +1,12 @@
+//***********************************************************************
+// Sideloader Modpack - Coordinates
+//***********************************************************************
+HS旗袍(白)=HS China Dress (white)
+HS旗袍(红)=HS China Dress (red)
+HS旗袍(蓝)=HS China Dress (blue)
+オレンジ=Orange
+女帝=Empress
+武蔵=Musashi
+武蔵改=Musashi Kai
+第九次众筹(古风)=9th Crowdfunding (Gucci)
+红黑旗袍=Black and White China Dress

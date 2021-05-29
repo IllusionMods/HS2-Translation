@@ -59,7 +59,7 @@ HS2毛衣=HS2 Sweater
 夜莺-护臂手套=Nightingale Armguard Gloves
 
 // chara/gyobobo/gantz_gloves.unity3d
-ガンツグローブ=Gantz gloves
+ガンツグローブ=Gantz Gloves
 
 // chara/re_bigger_jacket.unity3d
 ボディーハーネスBig=Body Harness Big
@@ -105,11 +105,11 @@ HS2毛衣=HS2 Sweater
 [SENA]テーピング=[SENA] Taping
 
 // chara/sena_mod/sena_rq.unity3d
-[SENA]RQインナーショーツ=[SENA] RQ inner shorts
+[SENA]RQインナーショーツ=[SENA] RQ Inner Shorts
 
 // chara/sena_mod/sena_rq_jak.unity3d
-[SENA]裸ベンチコート=[SENA] Naked Bench Coat
-[SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
+[SENA]裸ベンチコート=[SENA] Open Bench Coat
+[SENA]裸ベンチコート腰巻=[SENA] Open Bench Coat Waist Wrap
 
 // chara/sena_mod/sena_t_asuka.unity3d
 [SENA]アスカアーム（日常）=[SENA] Asuka Arm (Daily)

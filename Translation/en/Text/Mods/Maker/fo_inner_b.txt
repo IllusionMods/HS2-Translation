@@ -12,10 +12,10 @@
 大力-免费分享-DOA-A=[DALI] Free Sharing - DOA-A
 
 // DLM/XKK/nzkn.unity3d
-大力-免费分享-牛仔裤裤-裸穿=[DALI] Free Sharing - Jeans Pants - nude
+大力-免费分享-牛仔裤裤-裸穿=[DALI] Free Sharing - Denim Pants - Nude
 
 // DLM/XKK/nzknb.unity3d
-大力-免费分享-牛仔裤裤-裤袜穿=[DALI] Free Sharing - Jeans Pants - Pantyhose
+大力-免费分享-牛仔裤裤-裤袜穿=[DALI] Free Sharing - Denim Pants - Pantyhose
 
 // chara/sena_mod/sena_eva_rq01.unity3d
 [SENA]EVA RQ01ショーツ1=[SENA] EVA RQ01 Shorts 1
@@ -36,7 +36,7 @@
 [SENA]陸上ブルマ(M02)=[SENA] Sports Bloomers (M02)
 
 // chara/sena_mod/sena_rq.unity3d
-[SENA]RQインナーショーツ=[SENA] RQ inner shorts
+[SENA]RQインナーショーツ=[SENA] RQ Inner Panties
 [SENA]RQビキニショーツ1=[SENA] RQ Bikini Panties 1
 
 // chara/sena_mod/sena_vb01.unity3d
@@ -47,12 +47,12 @@
 [SENA]YMショーツ短=[SENA] YM Short
 
 // chara/00/td78_inner_b_00.unity3d
-ノーマル (DOWN)=Standard  (DOWN)
-リボンレース (DOWN)=Ribbon Lace  (DOWN)
-アダルティレース (DOWN)=Adult Lace  (DOWN)
-ハーフレース (DOWN)=Half Lace  (DOWN)
-フルレース (DOWN)=Full Lace  (DOWN)
-マイクロレース (DOWN)=Micro Lace  (DOWN)
-スポーツ (DOWN)=Sports  (DOWN)
-ハイレッグ (DOWN)=High Leg  (DOWN)
-Ｔバック (DOWN)=Thong  (DOWN)
+ノーマル (DOWN)=Standard (DOWN)
+リボンレース (DOWN)=Ribbon Lace (DOWN)
+アダルティレース (DOWN)=Adult Lace (DOWN)
+ハーフレース (DOWN)=Half Lace (DOWN)
+フルレース (DOWN)=Full Lace (DOWN)
+マイクロレース (DOWN)=Micro Lace (DOWN)
+スポーツ (DOWN)=Sports (DOWN)
+ハイレッグ (DOWN)=High Leg (DOWN)
+Ｔバック (DOWN)=Thong (DOWN)
