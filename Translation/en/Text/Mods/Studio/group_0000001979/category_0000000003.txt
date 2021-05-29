@@ -25,7 +25,7 @@
 子 宫=Uterus
 
 // studio/[GE]chunvB1.unity3d
-//处女B1=
+处女B1=Vagina B1
 
 // studio/[GE]chunvB2.unity3d
-//处女B2=
+处女B2=Vagina B2

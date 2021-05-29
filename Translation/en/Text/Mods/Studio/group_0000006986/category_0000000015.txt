@@ -7,18 +7,18 @@
 
 
 // studio/sena/sena_plbox.unity3d
-//[SENA]交番=
-//[SENA]壁掛け掲示板=
-//[SENA]消火器=
-//[SENA]無線機=
-//[SENA]壁掛け時計=
-//[SENA]煙缶=
-//[SENA]警備不在看板=
-//[SENA]警備不在案内=
-//[SENA]広域地図=
-//[SENA]広報ポスター=
-//[SENA]屋外掲示板=
-//[SENA]旭日章=
-//[SENA]建物用赤色灯=
-//[SENA]交番看板=
-//[SENA]事故件数板=
+[SENA]交番=[SENA] Police Box
+[SENA]壁掛け掲示板=[SENA] Wall-Hanging Bulletin Board
+[SENA]消火器=[SENA] Fire Extinguisher
+[SENA]無線機=[SENA] Radio
+[SENA]壁掛け時計=[SENA] Wall Clock
+[SENA]煙缶=[SENA] Smoke Can
+[SENA]警備不在看板=[SENA] Signboard With no Security
+[SENA]警備不在案内=[SENA] No Security Guide
+[SENA]広域地図=[SENA] Wide Area Map
+[SENA]広報ポスター=[SENA] Publicity Poster
+[SENA]屋外掲示板=[SENA] Outdoor Bulletin Board
+[SENA]旭日章=[SENA] Order of the Rising Sun
+[SENA]建物用赤色灯=[SENA] Red Light for Buildings
+[SENA]交番看板=[SENA] Signboard at Police Box
+[SENA]事故件数板=[SENA] Accident Count Board

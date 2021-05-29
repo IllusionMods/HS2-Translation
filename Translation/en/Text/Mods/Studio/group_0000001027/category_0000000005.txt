@@ -7,8 +7,8 @@
 
 
 // studio/XY/Rammus.unity3d
-拉莫斯=Ramos
-//拉莫斯Q=
+拉莫斯=Rammus
+拉莫斯Q=Rammus Rolling
 
 // studio/XY/Rift Herald.unity3d
 峡谷先锋=Canyon Pioneer

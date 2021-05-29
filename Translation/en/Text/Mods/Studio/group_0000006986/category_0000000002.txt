@@ -7,32 +7,32 @@
 
 
 // studio/sena/sena_tf_item01.unity3d
-//[SENA]スタートブロック=
-[SENA]右足:スタートブロック=[SENA] Right foot:Start block
-[SENA]左足:スタートブロック=[SENA] Left foot:Start block
-//[SENA]リレーバトン=
-//[SENA]スパイク左=
-//[SENA]スパイク右=
+[SENA]スタートブロック=[SENA] Start Block
+[SENA]右足:スタートブロック=[SENA] Right Foot: Start Block
+[SENA]左足:スタートブロック=[SENA] Left Foot: Start Block
+[SENA]リレーバトン=[SENA] Relay Baton
+[SENA]スパイク左=[SENA] Spike Left
+[SENA]スパイク右=[SENA] Spike Right
 [SENA]ストップウォッチ=[SENA] Stopwatch
-//[SENA]メダル紐=
-//[SENA]メダル本体=
-//[SENA]トロフィー=
-//[SENA]ブーケ=
-//[SENA]陸上用砲丸=
-//[SENA]陸上用槍=
-//[SENA]大型デジタルタイマー=
-//[SENA]高跳びマット=
-//[SENA]高跳びポール=
-//[SENA]高跳びバー=
+[SENA]メダル紐=[SENA] Medal Strap
+[SENA]メダル本体=[SENA] Medal Body
+[SENA]トロフィー=[SENA] Trophy
+[SENA]ブーケ=[SENA] Bouquet
+[SENA]陸上用砲丸=[SENA] Cannonball for Track and Field
+[SENA]陸上用槍=[SENA] Spear for Track and Field
+[SENA]大型デジタルタイマー=[SENA] Large Digital Timer
+[SENA]高跳びマット=[SENA] High Jump Mat
+[SENA]高跳びポール=[SENA] Vaulting Pole
+[SENA]高跳びバー=[SENA] Vaulting Bar
 
 // studio/sena/sena_riku02_itt.unity3d
-//[SENA]メダル紐付=
-//[SENA]ストップウォッチ紐付=
+[SENA]メダル紐付=[SENA] Medal With String
+[SENA]ストップウォッチ紐付=[SENA] Stopwatch With String
 
 // studio/sena/sena_tf_item01a.unity3d
-//[SENA]大型テント=
-[SENA]レーンNO標識=[SENA] Lane NO sign
-//[SENA]ランニングトラック=
-//[SENA]幅跳びゾーン=
-//[SENA]砲丸投げサークル=
-//[SENA]陸上フリーゾーン=
+[SENA]大型テント=[SENA] Large Tent
+[SENA]レーンNO標識=[SENA] Lane NO Sign
+[SENA]ランニングトラック=[SENA] Running Track
+[SENA]幅跳びゾーン=[SENA] Long Jump Zone
+[SENA]砲丸投げサークル=[SENA] Hammer Throw Circle
+[SENA]陸上フリーゾーン=[SENA] Land Free Zone

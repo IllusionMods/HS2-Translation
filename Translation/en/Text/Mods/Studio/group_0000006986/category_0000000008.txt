@@ -7,10 +7,10 @@
 
 
 // chara/sena_mod/sena_anna_i.unity3d
-//[SENA]ハンディターミナル=
-//[SENA]ピッチャー=
-//[SENA]コーヒーサーバ=
-//[SENA]コーヒーカップ=
+[SENA]ハンディターミナル=[SENA] Hand Terminal
+[SENA]ピッチャー=[SENA] Pitcher
+[SENA]コーヒーサーバ=[SENA] Coffee Server
+[SENA]コーヒーカップ=[SENA] Coffee Cup
 [SENA]メニュー=[SENA] Current Screen
 [SENA]AMブレスレット=[SENA] AM Bracelet
 [SENA]AM伝票クリップ=[SENA] AM Slip Clip
@@ -18,5 +18,5 @@
 [SENA]AMネックレス=[SENA] AM Necklace
 [SENA]AMリボン=[SENA] AM Ribbon
 [SENA]AMネームプレート=[SENA] AM Nameplate
-//[SENA]丸トレイ=
-//[SENA]ペパーミル=
+[SENA]丸トレイ=[SENA] Round Tray
+[SENA]ペパーミル=[SENA] Pepper Mill

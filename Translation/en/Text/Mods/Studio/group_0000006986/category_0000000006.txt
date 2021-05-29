@@ -7,14 +7,14 @@
 
 
 // chara/sena_mod/sena_t_asuka_wepon.unity3d
-//[SENA]マシンガン手甲=
-//[SENA]腕ミサイルパック=
-//[SENA]腕ブレード（展開）=
-//[SENA]腕ブレード（収納）=
-//[SENA]脚ブレード=
-//[SENA]腕武器パック（展開）=
+[SENA]マシンガン手甲=[SENA] Machine Gun Hand Armor
+[SENA]腕ミサイルパック=[SENA] Arm Missile Pack
+[SENA]腕ブレード（展開）=[SENA] Arm Blade (Deployed)
+[SENA]腕ブレード（収納）=[SENA] Arm blade (Stowed)
+[SENA]脚ブレード=[SENA] Leg Blade
+[SENA]腕武器パック（展開）=[SENA] Arm Weapon Pack (Deployed)
 
 // chara/sena_mod/sena_t_asuka.unity3d
-//[SENA]腕武器パック（収納）=
+[SENA]腕武器パック（収納）=[SENA] Arm Weapon Pack (Stowed)
 [SENA]アスカ脚メカパーツ=[SENA] Asuka Leg Mecha Parts
 [SENA]アスカメカサークル=Asuka Mecha Circle

@@ -7,9 +7,9 @@
 
 
 // chara/sena_mod/sena_av.unity3d
-//[SENA]スマートフォン=
-//[SENA]プロ用ビデオカメラ=
+[SENA]スマートフォン=[SENA] Smartphone
+[SENA]プロ用ビデオカメラ=[SENA] Professional Video Camera
 [SENA]ビデオカメラ=[SENA] Video Camera
-//[SENA]ブームマイク=
-//[SENA]ワイヤレスヘッドセット右=
-//[SENA]ワイヤレスヘッドセット左=
+[SENA]ブームマイク=[SENA] Boom Microphone
+[SENA]ワイヤレスヘッドセット右=[SENA] Wireless Headset Right
+[SENA]ワイヤレスヘッドセット左=[SENA] Wireless Headset Left

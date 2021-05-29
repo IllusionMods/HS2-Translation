@@ -7,20 +7,20 @@
 
 
 // nullpon_enema_glass/nullpon_enema_glass/data_prefab_000.unity3d
-//ガラス浣腸器（外筒）=ガラス浣腸器 (外筒)
-//ガラス浣腸器（入子）=ガラス浣腸器 (入子)
-//ガラス浣腸器（液）=ガラス浣腸器 (液)
+ガラス浣腸器（外筒）=Glass Enema (Outer Cylinder)
+ガラス浣腸器（入子）=Glass Enema (Inner Cylinder)
+ガラス浣腸器（液）=Glass Enema (Liquid)
 
 // nullpon_enema_ichijiku/nullpon_enema_ichijiku/data_prefab_000.unity3d
-イチジク浣腸=Fig Enema
-//イチジク浣腸（キャップ付）=イチジク浣腸 (キャップ付)
-//イチジク浣腸（使用済み）=イチジク浣腸 (使用済み)
+イチジク浣腸=Bulb Enema
+イチジク浣腸（キャップ付）=Bulb Enema (With Cap)
+イチジク浣腸（使用済み）=Bulb Enema (Used)
 
 // nullpon_enema_irrigator/nullpon_enema_irrigator/data_prefab_000.unity3d
-//イルリガートル（チューブ）=イルリガートル (チューブ)
-//イルリガートル（容器）=イルリガートル (容器)
-//イルリガートル（容器・蓋）=イルリガートル (容器・蓋)
-//イルリガートル（容器・吊金具）=イルリガートル (容器・吊金具)
+イルリガートル（チューブ）=Irrigator (Tube)
+イルリガートル（容器）=Irrigator (Container)
+イルリガートル（容器・蓋）=Irrigator (Container, Lid)
+イルリガートル（容器・吊金具）=Irrigator (Container, Hanging Bracket)
 
 // nullpon_enema_syringe/nullpon_enema_syringe/data_prefab_000.unity3d
 エネマシリンジ=Enema Syringe

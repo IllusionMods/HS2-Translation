@@ -11,8 +11,8 @@
 [SENA]EFSFテストバックパック=[SENA] EFSF Test backpack
 
 // chara/sena_mod/sena_efsf_item.unity3d
-//[SENA]EFSFM-71拳銃=
-//[SENA]EFSFM-72ライフル=
+[SENA]EFSFM-71拳銃=[SENA] EFSFM-71 Pistol
+[SENA]EFSFM-72ライフル=[SENA] EFSFM-72 Rifle
 
 // chara/sena_mod/sena_efsf_uni.unity3d
 [SENA]EFSF制帽=[SENA] EFSF Cap
@@ -20,10 +20,10 @@
 [SENA]EFSF陸軍ヘルメット=[SENA] EFSF Army Helmet
 
 // chara/sena_mod/sena_g_reiko.unity3d
-//[SENA]ビームサーベル型指揮棒=
-//[SENA]マスコットロボ=
+[SENA]ビームサーベル型指揮棒=[SENA] Beam Saber Type Command Rod
+[SENA]マスコットロボ=[SENA] Mascot Robot
 [SENA]R連邦ベルト=[SENA] R Federation Belt
-//[SENA]リボン太=
+[SENA]リボン太=[SENA] Ribbon Thick
 
 // chara/sena_mod/sena_g_reiko_s.unity3d
 [SENA]R連合ベルト=[SENA] R Alliance Belt

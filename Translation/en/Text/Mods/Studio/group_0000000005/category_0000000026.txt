@@ -7,4 +7,4 @@
 
 
 // chara/sena_mod/sena_pm_item02.unity3d
-//[SENA]ショルダーバッグ=
+[SENA]ショルダーバッグ=[SENA] Shoulder Bag

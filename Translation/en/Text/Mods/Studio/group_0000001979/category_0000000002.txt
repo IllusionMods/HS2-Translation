@@ -7,7 +7,7 @@
 
 
 // studio/GE-Crowd (circle).unity3d
-//人群（圆）=人群 (圆)
+人群（圆）=Crowd (Circle)
 
 // studio/GE-Crowd (square).unity3d
-//人群（方）=人群 (方)
+人群（方）=Crowd (Square)

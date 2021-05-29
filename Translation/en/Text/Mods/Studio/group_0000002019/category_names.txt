@@ -5,10 +5,10 @@
 
 #set exe StudioNEOV2
 
-//中国古代建筑1=
-//中国武侠门派建筑2=
-中国武侠地牢=Chinese martial arts dungeon
-//中国古代建筑2=
-//中国古代建筑3=
-中国古代杂物=Ancient Chinese miscellaneous objects
-//中国武侠门派建筑1=
+中国古代建筑1=Ancient Chinese Buildings 1
+中国武侠门派建筑2=Chinese Martial Arts Sect Building 2
+中国武侠地牢=Chinese Martial Arts Dungeon
+中国古代建筑2=Ancient Chinese Buildings 2
+中国古代建筑3=Ancient Chinese Buildings 3
+中国古代杂物=Ancient Chinese Miscellaneous Objects
+中国武侠门派建筑1=Chinese Martial Arts Sect Building 1
