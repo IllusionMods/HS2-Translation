@@ -27,14 +27,14 @@ ddaa33_穴開きスク水=ddaa33_ Cut-out Swinsuit
 穴開きスク水(D4)=Cut-out Swinsuit (D4)
 
 // chara/DMC/fo_inner_t_00nips.unity3d
-ノーマル [nonip]=Standard  [nonip]
-リボンレース [nonip]=Ribbon Lace  [nonip]
-アダルティレース [nonip]=Adult Lace  [nonip]
-ハーフレース [nonip]=Half Lace  [nonip]
-フルレース [nonip]=Full Lace  [nonip]
-スポーツ [nonip]=Sports  [nonip]
-ストラップレス [nonip]=Strapless  [nonip]
-バンド [nonip]=Mini Tube  [nonip]
+ノーマル [nonip]=Standard [nonip]
+リボンレース [nonip]=Ribbon Lace [nonip]
+アダルティレース [nonip]=Adult Lace [nonip]
+ハーフレース [nonip]=Half Lace [nonip]
+フルレース [nonip]=Full Lace [nonip]
+スポーツ [nonip]=Sports [nonip]
+ストラップレス [nonip]=Strapless [nonip]
+バンド [nonip]=Mini Tube [nonip]
 
 // chara/mat/mat_inner_t_01.unity3d
 マイクロレース 紐ピン=Micro Lace Detached Strings

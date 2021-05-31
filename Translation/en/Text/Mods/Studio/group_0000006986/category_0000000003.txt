@@ -7,14 +7,15 @@
 
 
 // studio/sena/sena_pm_today.unity3d
-//[SENA]ミニパト車体=
-//[SENA]ミニパト後部ドア=
-//[SENA]ミニパト右ドア=
-//[SENA]ミニパト左ドア=
-//[SENA]ミニパト=
+[SENA]ミニパト車体=[SENA] Mini-Patrol Body
+[SENA]ミニパト後部ドア=[SENA] Mini-Patrol Rear Door
+[SENA]ミニパト右ドア=[SENA] Mini-Patrol Right Door
+[SENA]ミニパト左ドア=[SENA] Mini-Patrol Left Door
+[SENA]ミニパト=[SENA] Mini-Patrol
+
 
 // studio/sena/sena_pm_moto.unity3d
-//[SENA]モトコンポ（走行）=
-//[SENA]モトコンポ（収納）=
-//[SENA]パトライト（脱着式）=
-//[SENA]ヘルメット(ベースボール)=[SENA] Helmet  (ベースボール)
+[SENA]モトコンポ（走行）=Compact Motorcycle (Open)
+[SENA]モトコンポ（収納）=Compact Motorcycle (Closed)
+[SENA]パトライト（脱着式）=Patrol Light (Detachable)
+[SENA]ヘルメット(ベースボール)=[SENA] Helmet (Baseball)

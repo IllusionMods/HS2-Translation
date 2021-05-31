@@ -7,28 +7,28 @@
 
 
 // studio/[GE]Brood1.unity3d
-//血迹1=
+血迹1=Bloodstains 1
 
 // studio/[GE]Brood2.unity3d
-//血迹2=
+血迹2=Bloodstains 2
 
 // studio/[GE]Brood3.unity3d
-//血迹3=
+血迹3=Bloodstains 3
 
 // studio/[GE]Brood4.unity3d
-//血迹4=
+血迹4=Bloodstains 4
 
 // studio/[GE]Brood5.unity3d
-//血迹5=
+血迹5=Bloodstains 5
 
 // studio/[GE]Brood6.unity3d
-//血迹6=
+血迹6=Bloodstains 6
 
 // studio/[GE]Brood7.unity3d
-//血迹7=
+血迹7=Bloodstains 7
 
 // studio/[GE]Brood8.unity3d
-//血迹8=
+血迹8=Bloodstains 8
 
 // studio/[GE]Brood9.unity3d
-//血迹9=
+血迹9=Bloodstains 9

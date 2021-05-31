@@ -38,6 +38,9 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 // chara/kkkk1111/sexy_evening_dress.unity3d
 性感晚礼服=Sexy Evening Dress
 
+// chara/ljlsdq_kuangsan/ljlsdq_kuangsan.unity3d
+ljlsdq_kuangsan=[ljlsdq] Kurumi
+
 // shiraore/tshirt.unity3d
 [shiraore]Tシャツ-DS=[shiraore]T Shirt -DS
 
@@ -48,7 +51,7 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 八十八学園ブラウス=88th Academy Blouse
 
 // chara/cuzkuz/cuzkuz_top_coat.unity3d
-//コート（ダブル）=コート (ダブル)
+コート（ダブル）=Coat (Double)
 
 // chara/cuzkuz/cuzkuz_top_17.unity3d
 カットソー=Jersey
@@ -111,10 +114,10 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 大力-龙盔甲-作者q3344929957=[DALI] Dragon Armor - Author q3344929957
 
 // DLM/top.unity3d
-大力-分享-DOASexyA=Great Power - Enjoyment - DOASexyA
+大力-分享-DOASexyA=[DALI] Sharing - DOA Sexy A
 
 // DLM/top2.unity3d
-大力-分享-DOASexyB=Great Power - DOASexyB
+大力-分享-DOASexyB=[DALI] Sharing - DOA Sexy B
 
 // DLM/DVA/top1.unity3d
 大力-分享DVAQ3344929957=[DALI] Sharing - D.VA - Q3344929957
@@ -174,7 +177,7 @@ TシャツBig=T Shirt Big
 ノースリーブラウスBig=Sleeveless Blouse Big
 魔女のネグリジェBig=Witch Negligee Big
 クリスマスポンチョBig=Christmas Poncho Big
-オープンショルダーBig=Open shoulder Shirt Big
+オープンショルダーBig=Open Shoulder Shirt Big
 
 // chara/re_bigger_jacket2.unity3d
 ボディーハーネスBig2=Body Harness Big2
@@ -272,10 +275,10 @@ TシャツBig=T Shirt Big
 セーラー服(半袖)=Sailor Suit (Short Sleeves)
 
 // chara/taroukawai_sailorlsq/sailorlsq.unity3d
-//セーラー服(角襟)=Sailor Suit (角襟)
+セーラー服(角襟)=Sailor Suit (Square Collar)
 
 // XT/xt_top_LT蕾丝.unity3d
-[XT]LTl蕾丝=[MOD] Lace
+[XT]LTl蕾丝=[XT]LTl Lace
 
 // XT/xt_top_kimono.unity3d
 [XT工坊]BY殴打罗密欧和服实验=[XT Workshop] BY Beat Romeo Kimono Experiment

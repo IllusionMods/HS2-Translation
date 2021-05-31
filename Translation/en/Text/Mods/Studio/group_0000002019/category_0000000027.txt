@@ -7,7 +7,7 @@
 
 
 // b8mod/CHmap10.unity3d
-//少林下民房1=
+少林下民房1=Shaolin Lower Civil Housing 1
 少林佛山=Shaolin Buddha Mountain
 少林十方禅院=Shaolin Tenfold Zen Temple
 少林宝殿塔=Shaolin Treasure Palace Pagoda
@@ -25,12 +25,12 @@
 少林寺罗汉堂=Shaolin Temple Luohan Hall
 少林寺茅房=Shaolin Temple Thatched Room
 少林寺藏经阁=Shaolin Temple Sutra Pavilion
-//少林寺达摩院1=
-//少林寺达摩院2=
+少林寺达摩院1=Shaolin Temple Dharma Institute 1
+少林寺达摩院2=Shaolin Temple Dharma Institute 2
 少林寺香炉=Shaolin Temple Incense Burner
 少林寺高阶梯=Shaolin Temple High Staircase
-//少林民房1=
-//少林民房2=
+少林民房1=Shaolin Folk House 1
+少林民房2=Shaolin Folk House 2
 少林茶馆=Shaolin Teahouse
 嵩山书院=Songshan Academy
 嵩山书院亭子=Songshan Academy Pavilion
@@ -47,8 +47,8 @@
 武当具剑山=Wudang Sword Mountain
 武当园子=Wudang Garden
 武当山牌坊=Wudang Mountain Pagoda
-//武当房子1=
-//武当房子2=
+武当房子1=Wudang House 1
+武当房子2=Wudang House 2
 武当道教城=Wudang Taoist City
 武当金殿=Wudang Golden Temple
 武当长生殿=Wudang Hall of Eternal Life

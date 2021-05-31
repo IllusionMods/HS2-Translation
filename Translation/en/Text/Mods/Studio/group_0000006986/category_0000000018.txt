@@ -7,10 +7,10 @@
 
 
 // chara/sena_mod/sena_pm01rpw.unity3d
-//[SENA]タクティカルライト=
-//[SENA]フラッシュバン=
+[SENA]タクティカルライト=[SENA] Tactical Light
+[SENA]フラッシュバン=[SENA] Flashbang
 
 // chara/sena_mod/sena_pm01rpw2.unity3d
-//[SENA]フォアグリップ=
-//[SENA]ホロサイト=
-//[SENA]ドットサイト=
+[SENA]フォアグリップ=[SENA] Foregrip
+[SENA]ホロサイト=[SENA] Holosight
+[SENA]ドットサイト=[SENA] Dot Sight

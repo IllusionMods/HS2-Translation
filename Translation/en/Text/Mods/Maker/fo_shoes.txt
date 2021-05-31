@@ -9,7 +9,7 @@
 【CC353】高跟鞋002 <h03002>=【CC353】 High Heels 002 <h03002>
 
 // chara/kkkk1111/hs_hotel_slippers.unity3d
-HS 酒店拖鞋=HS  Hotel Slippers
+HS 酒店拖鞋=HS Hotel Slippers
 
 // chara/kkkk1111/hs_idol_shoes.unity3d
 HS 偶像 鞋子=HS Idol Shoes
@@ -63,7 +63,7 @@ HS流苏小皮鞋=HS Fringed Leather Shoes
 大正義シューズ=Yomiuri Giants Cheerleader Shoes
 
 // chara/cuzkuz/cuzkuz_15a.unity3d
-歌姫のブーツ=Diva's boots
+歌姫のブーツ=Diva's Boots
 
 // DLMEX/DLTD1/dl_shoes_dltd1.unity3d
 大力_TD沧海_鞋=[DALI] TD Sea Shoes

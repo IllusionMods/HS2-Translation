@@ -7,7 +7,7 @@
 
 
 // studio/water_00.unity3d
-//水面小_丸(明)=水面小_丸 (Va)
-//水面小_角(明)=水面小_角 (Va)
-//水面小_丸(暗)=水面小_丸 (Dark)
-//水面小_角(暗)=水面小_角 (Dark)
+水面小_丸(明)=Small Water Surface-Round (Bright)
+水面小_角(明)=Small Water Surface-Square (Bright)
+水面小_丸(暗)=Small Water Surface-Round (Dark)
+水面小_角(暗)=Small Water Surface-Square (Dark)

@@ -11,14 +11,14 @@
 [SENA]武蔵メガネ=[SENA] Musashi Glasses
 [SENA]武蔵チョーカー=[SENA] Musashi Choker
 [SENA]武蔵武器ベルト=[SENA] Musashi Weapon Belt
-//[SENA]46cm砲弾=
-//[SENA]武蔵腰砲基部=
-//[SENA]46cm主砲塔=
-//[SENA]46cm砲塔基部=
-//[SENA]15.5cm副砲塔=
-//[SENA]武蔵艤装メイン=
-//[SENA]武蔵艤装右=
-//[SENA]武蔵艤装左=
+[SENA]46cm砲弾=[SENA] 46cm Shell
+[SENA]武蔵腰砲基部=[SENA] Musashi Waist Gun Base
+[SENA]46cm主砲塔=[SENA] 46cm Main Gun Turret
+[SENA]46cm砲塔基部=[SENA] 46cm Turret Base
+[SENA]15.5cm副砲塔=[SENA] 15.5cm Sub Turret
+[SENA]武蔵艤装メイン=[SENA] Musashi Outfit Main
+[SENA]武蔵艤装右=[SENA] Musashi Outfit Right
+[SENA]武蔵艤装左=[SENA] Musashi Outfit Left
 
 // chara/sena_mod/sena_k_musashi.unity3d
 [SENA]武蔵しめ縄=[SENA] Musashi Shimenawa

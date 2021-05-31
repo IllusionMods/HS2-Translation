@@ -19,5 +19,5 @@
 竹10=Bamboo 10
 
 // nullpon_item_omaru/nullpon_item_omaru/data_prefab_000.unity3d
-おまる=Pottery
-//おまる（蓋）=おまる (蓋)
+おまる=Chamber Pot
+おまる（蓋）=Chamber Pot (Lid)

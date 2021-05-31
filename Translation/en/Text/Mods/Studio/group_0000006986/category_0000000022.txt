@@ -8,4 +8,4 @@
 
 // chara/sena_mod/sena_ggg.unity3d
 [SENA]GGGマフラー=[SENA] GGG Muffler
-//[SENA]GGGヘッドセット=
+[SENA]GGGヘッドセット=[SENA] GGG Headset

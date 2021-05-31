@@ -86,8 +86,8 @@ HS2毛衣=HS2 Sweater
 [SENA]RQインナーショーツ=[SENA] RQ inner shorts
 
 // chara/sena_mod/sena_rq_jak.unity3d
-[SENA]裸ベンチコート=[SENA] Naked Bench Coat
-[SENA]裸ベンチコート腰巻=[SENA] Naked Bench Coat Waist Wrap
+[SENA]裸ベンチコート=[SENA] Open Bench Coat
+[SENA]裸ベンチコート腰巻=[SENA] Open Bench Coat Waist Wrap
 
 // chara/sena_mod/sena_tifa.unity3d
 [SENA]TFショートソックス=[SENA] TF Short Socks
@@ -106,6 +106,6 @@ HS2毛衣=HS2 Sweater
 [SENA]YM腰ベルトHigh=[SENA] YM Waist Belt High
 
 // chara/00/fo_panst_00.unity3d
-シンプルガーター=Simple Garters
+シンプルガーター=Simple Garter
 レースガーター=Lace Garter
-ベルトガーター=Belt garter
+ベルトガーター=Belt Garter

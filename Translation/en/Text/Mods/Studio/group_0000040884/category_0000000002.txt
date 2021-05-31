@@ -7,19 +7,19 @@
 
 
 // studio/sjjpl_mask.unity3d
-//口罩1=
-//口罩2=
-//口罩3=
+口罩1=Mask 1
+口罩2=Mask 2
+口罩3=Mask 3
 
 // studio/[zhushiwo]chinese_jiaju2020.unity3d
-博古架=Hanging rack
-茶几=Tea table
-落地灯=Earthenware Lamp
-小摆架=Small Furnishing Stands
-圆花架=Flower Fence
+博古架=Bo Gu Shelf
+茶几=Coffee Table
+落地灯=Floor Lamp
+小摆架=Small Pendulum
+圆花架=Round Flower Stand
 园椅子=Garden Chair
-//桌子1=
-//桌子2=
+桌子1=Table 1
+桌子2=Table 2
 
 // studio/[zhushiwo]china_bed0.unity3d
-//床2=
+床2=Bed 2

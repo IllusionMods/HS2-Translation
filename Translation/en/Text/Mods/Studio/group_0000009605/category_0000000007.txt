@@ -7,13 +7,13 @@
 
 
 // nullpon_gag_sarugutsuwa/nullpon_gag_sarugutsuwa/data_prefab_000.unity3d
-猿轡 A=Gag  A
-猿轡 B1=Gag  B1
-猿轡 B2=Gag  B2
+猿轡 A=Gag A
+猿轡 B1=Gag B1
+猿轡 B2=Gag B2
 
 // nullpon_mask_tsumibukuro/nullpon_mask_tsumibukuro/data_prefab_000.unity3d
-罪袋=Sin bag
+罪袋=Sin Bag
 袋(´・ω・`)=Bag (´・ω・`)
-//袋（穴あき）=袋 (Hollow Tr)
-//袋（黒）=袋 (黒)
-//袋（白）=袋 (White)
+袋（穴あき）=Bag (With Holes)
+袋（黒）=Bag (Black)
+袋（白）=Bag (White)
