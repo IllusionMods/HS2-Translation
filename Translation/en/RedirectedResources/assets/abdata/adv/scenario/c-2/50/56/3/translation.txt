@@ -4,5 +4,4 @@
 //事後{0}=
 シトリー=Sitri
 ふぅ……さすがに、少々疲れてしまいました……=Phew.... As I expected, this tired me out a little.
-//お客様……大変気持ち良いのですが、もう少々、加減をしていただけると助かります……=Dear customer, it felt very good but it would be very helpful if you could stop it for a little while. 
-お客様……大変気持ち良いのですが、もう少々、加減をしていただけると助かります……=Dear customer, it felt very good but it would be very helpful if we could take it slow for a little while. 
+お客様……大変気持ち良いのですが、もう少々、加減をしていただけると助かります……=Dear customer, it feels very nice, but I would appreciate it if you slowed it down a bit. 

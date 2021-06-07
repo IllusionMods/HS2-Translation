@@ -2,17 +2,14 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 フュル=Fur
-//……お疲れ様でした。= ...You've been very helpful.
-//……お疲れ様でした。= ...Thank you for your hard work. (technically, the most accurate one, but too many thanks going around, and usually it's the superior that would say this, so not fur)
-//……お疲れ様でした。= ...That was a great time.
-……お疲れ様でした。= ...That was enjoyable.
+……お疲れ様でした。=...That was enjoyable.
 シトリー=Sitri
-ありがとうございます、フュルさん……お手伝いさせてもらって私も嬉しかったです。= Thanks, Fur... I was happy to help. 
-こちらこそ、ありがとうございました。= You have my thanks as well.
-もしよかったら、今後もお手伝いに来てもよろしいでしょうか。= If it's allright, i can come help you in the future as well. 
-私は、特に構いませんが……= I wouldn't mind that...
-うふふ、それは良かったです。= Hehehe, I'm glad. 
-では、今度先輩がお客様とご一緒する時は、私がお手伝いに伺います。= In that case, the next time you are with the esteemed customer, i can come assist you as well.
-それは名案ですね……私もそうしてもらえれば心強いです。= That's a good idea... I would be glad if you could do the same.
-それでは、今後とも……= Well then, from now on...
-えぇ、今後ともずっと一緒に……よろしくお願い致します。= Yeah, from now on we'll be working together. I'm looking forward to it!
+ありがとうございます、フュルさん……お手伝いさせてもらって私も嬉しかったです。=Thanks, Miss Fur... I was happy to help. 
+こちらこそ、ありがとうございました。=You have my thanks as well.
+もしよかったら、今後もお手伝いに来てもよろしいでしょうか。=If it's allright, i can come help you in the future as well. 
+私は、特に構いませんが……=I wouldn't mind that...
+うふふ、それは良かったです。=Hehehe, I'm glad. 
+では、今度先輩がお客様とご一緒する時は、私がお手伝いに伺います。=In that case, the next time you are with the esteemed customer, i can come assist you as well.
+それは名案ですね……私もそうしてもらえれば心強いです。=That's a good idea... I would be glad if you could do the same.
+それでは、今後とも……=Well then, from now on...
+えぇ、今後ともずっと一緒に……よろしくお願い致します。=Yeah, from now on we'll be working together. I'm looking forward to it!
