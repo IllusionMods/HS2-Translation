@@ -2,9 +2,11 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 フュル=Fur
-//当店のデラックスプランをご購入頂き、誠にありがとうございます。=
-//こちら、お客様へよりよいリビドーをご提供させて頂く為の特別なサービスとなっております。=
-//ただし、こちらはお客様との仲を深めたパートナーのみ受けられるものとなっております。=
-//そういったパートナーがいらっしゃらない場合はご遠慮させて頂く形になる事、ご了承下さい。=
-//当プランをお受けしたい場合は、改めて私に声をおかけ下さいませ。=
-//それでは、失礼致します。=
+当店のデラックスプランをご購入頂き、誠にありがとうございます。= Thank you for purchasing our Deluxe Plan. 
+こちら、お客様へよりよいリビドーをご提供させて頂く為の特別なサービスとなっております。= This is a special service to provide a more exciting experience to our customers. 
+//こちら、お客様へよりよいリビドーをご提供させて頂く為の特別なサービスとなっております。= This is a special service to provide a better libido experience to our customers. (sounds a bit unnatural, but is more accurate)
+ただし、こちらはお客様との仲を深めたパートナーのみ受けられるものとなっております。= However, this is only available to customers who have deepened their relationship with their partners. 
+そういったパートナーがいらっしゃらない場合はご遠慮させて頂く形になる事、ご了承下さい。=  Please note that if you do not have such a close partner, we will be unable to accomodate your request. 
+//そういったパートナーがいらっしゃらない場合はご遠慮させて頂く形になる事、ご了承下さい。= Please note that if you do not have such a close partner, we will be unable to help you. 
+当プランをお受けしたい場合は、改めて私に声をおかけ下さいませ。= If you would like to accept this offer, please contact me again. 
+それでは、失礼致します。= Now, if you'll excuse me. 
