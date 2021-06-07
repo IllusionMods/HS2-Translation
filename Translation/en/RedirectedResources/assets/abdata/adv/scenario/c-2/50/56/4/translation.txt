@@ -3,5 +3,5 @@
 //
 //事後{0}=
 シトリー=Sitri
-//少々戯れたかっただけなのですか？　しようがないお客様ですね……=
-//困ったお客様です、あまり時間を取らせないで下さいね？=
+少々戯れたかっただけなのですか？　しようがないお客様ですね……=So you just wanted to have a little fun? You're helpless, aren't you...
+困ったお客様です、あまり時間を取らせないで下さいね？=You're a difficult customer, please don't take too long, okay?

@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 シトリー=Sitri
-//そこまで私を求めて下さるのであれば仕方ありません……=
-//お客様、優しくお願いいたしますね……？=
+そこまで私を求めて下さるのであれば仕方ありません……=If you want me that badly, I have no choice...
+お客様、優しくお願いいたしますね……？=Esteemed customer, please be gentle, ok?

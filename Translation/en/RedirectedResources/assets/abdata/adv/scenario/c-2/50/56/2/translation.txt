@@ -3,5 +3,5 @@
 //
 //事後{0}=
 シトリー=Sitri
-//素敵なひと時でしたね。お客様……ご満足、いただけましたか？=
-//気持ち良くなっていただけましたか？　それなら私も満足です。=
+素敵なひと時でしたね。お客様……ご満足、いただけましたか？=I had a wonderful time. Were you satisfied?
+気持ち良くなっていただけましたか？　それなら私も満足です。=Did that make you feel good? If so, then I'm satisfied as well.

@@ -2,5 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-そこまで私を求めて下さるのであれば仕方ありません……=If you want me that badly, I have no choice...
-お客様、優しくお願いいたしますね……？=Sir, please be gentle?
+//そこまで私を求めて下さるのであれば仕方ありません……=If you want me that badly, I have no choice...
+//お客様、優しくお願いいたしますね……？=Sir, please be gentle?
