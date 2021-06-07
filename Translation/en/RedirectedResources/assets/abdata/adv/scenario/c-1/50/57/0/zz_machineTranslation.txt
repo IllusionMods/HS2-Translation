@@ -2,9 +2,9 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-当店のデラックスプランをご購入頂き、誠にありがとうございます。=Thank you for purchasing our Deluxe Services.
-こちら、お客様へよりよいリビドーをご提供させて頂く為の特別なサービスとなっております。=This is a special service to provide you with a better libido.
-ただし、こちらはお客様との仲を深めたパートナーのみ受けられるものとなっております。=However, this is only available to partners who have deepened their relationship with customers.
-そういったパートナーがいらっしゃらない場合はご遠慮させて頂く形になる事、ご了承下さい。=If you do not have such a partner, please understand that we will not be able to help you.
-当プランをお受けしたい場合は、改めて私に声をおかけ下さいませ。=If you would like to accept these services, please contact me again.
-それでは、失礼致します。=Now, if you'll excuse me.
+//当店のデラックスプランをご購入頂き、誠にありがとうございます。=Thank you for purchasing our Deluxe Services.
+//こちら、お客様へよりよいリビドーをご提供させて頂く為の特別なサービスとなっております。=This is a special service to provide you with a better libido.
+//ただし、こちらはお客様との仲を深めたパートナーのみ受けられるものとなっております。=However, this is only available to partners who have deepened their relationship with customers.
+//そういったパートナーがいらっしゃらない場合はご遠慮させて頂く形になる事、ご了承下さい。=If you do not have such a partner, please understand that we will not be able to help you.
+//当プランをお受けしたい場合は、改めて私に声をおかけ下さいませ。=If you would like to accept these services, please contact me again.
+//それでは、失礼致します。=Now, if you'll excuse me.

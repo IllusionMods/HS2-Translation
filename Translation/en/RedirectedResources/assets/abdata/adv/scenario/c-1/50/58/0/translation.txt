@@ -2,11 +2,13 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 シトリー=Sitri
-//……少々お待ちください。=
+……少々お待ちください。= ... Please wait a moment.
 フュル=Fur
-//先輩……？　どうしてこちらに。=
-//私もお手伝いに来たんです……うふふ。=
-//お手伝い……ですか？=
-//はい……そちらのお客様とするなら、私も混ぜて頂こうと思いまして。=
-//先輩がですか……なるほど、私は特に問題はありません。=
-//そうですか、良かったです……それでは早速、ご一緒させていただきますね。=
+先輩……？　どうしてこちらに。= Miss Sitri...? Why are you here?
+私もお手伝いに来たんです……うふふ。= I came here to give you a hand as well... Hehehe.
+お手伝い……ですか？= Give a hand, you say?
+はい……そちらのお客様とするなら、私も混ぜて頂こうと思いまして。= Yes... if it's with the esteemed customer, I thought I'd like to join in too. 
+//はい……そちらのお客様とするなら、私も混ぜて頂こうと思いまして。= Yes... if it's with the esteemed customer, I thought I'd like to take part as well. (version 2)
+先輩がですか……なるほど、私は特に問題はありません。= I see... I have no problem with that. 
+そうですか、良かったです……それでは早速、ご一緒させていただきますね。= I'm glad to hear that... Well then, I'll be with you two soon.
+//そうですか、良かったです……それでは早速、ご一緒させていただきますね。= I'm glad to hear that... Well then, I'll be joining you as soon. (version 2)

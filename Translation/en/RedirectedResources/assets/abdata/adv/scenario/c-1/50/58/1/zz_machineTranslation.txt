@@ -2,13 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-……お疲れ様でした。=... Thank you for your hard work.
-ありがとうございます、フュルさん……お手伝いさせてもらって私も嬉しかったです。=Thank you, Ms. Fur... It was my pleasure to help you.
-こちらこそ、ありがとうございました。=Thank you very much, too.
-もしよかったら、今後もお手伝いに来てもよろしいでしょうか。=If you don't mind, I can come help you in the future.
-私は、特に構いませんが……=I don't mind...
-うふふ、それは良かったです。=Hihihi, that's good to know.
-では、今度先輩がお客様とご一緒する時は、私がお手伝いに伺います。=Then, the next time my senior is with a customer, I will be there to help.
-それは名案ですね……私もそうしてもらえれば心強いです。=That's a good idea... I would be reassured if you would do the same.
-それでは、今後とも……=So, please continue to...
-えぇ、今後ともずっと一緒に……よろしくお願い致します。=Yes, I look forward to working with you... For many years to come.
+//……お疲れ様でした。=... Thank you for your hard work.
+//ありがとうございます、フュルさん……お手伝いさせてもらって私も嬉しかったです。=Thank you, Ms. Fur... It was my pleasure to help you.
+//こちらこそ、ありがとうございました。=Thank you very much, too.
+//もしよかったら、今後もお手伝いに来てもよろしいでしょうか。=If you don't mind, I can come help you in the future.
+//私は、特に構いませんが……=I don't mind...
+//うふふ、それは良かったです。=Hihihi, that's good to know.
+//では、今度先輩がお客様とご一緒する時は、私がお手伝いに伺います。=Then, the next time my senior is with a customer, I will be there to help.
+//それは名案ですね……私もそうしてもらえれば心強いです。=That's a good idea... I would be reassured if you would do the same.
+//それでは、今後とも……=So, please continue to...
+//えぇ、今後ともずっと一緒に……よろしくお願い致します。=Yes, I look forward to working with you... For many years to come.

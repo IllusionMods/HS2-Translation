@@ -2,10 +2,10 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-……少々お待ちください。=... Please wait a moment.
-先輩……？　どうしてこちらに。=Senior? What brings you here?
-私もお手伝いに来たんです……うふふ。=I'm here to help... Hihihi.
-お手伝い……ですか？=Helping me?
-はい……そちらのお客様とするなら、私も混ぜて頂こうと思いまして。=Yes... If you're going to be with the costumer, I thought I'd like to be in the mix.
-先輩がですか……なるほど、私は特に問題はありません。=I see, I have no problem with that.
-そうですか、良かったです……それでは早速、ご一緒させていただきますね。=Well, I'm glad to hear that... I'll join you as soon as I can then.
+//……少々お待ちください。=... Please wait a moment.
+//先輩……？　どうしてこちらに。=Senior? What brings you here?
+//私もお手伝いに来たんです……うふふ。=I'm here to help... Hihihi.
+//お手伝い……ですか？=Helping me?
+//はい……そちらのお客様とするなら、私も混ぜて頂こうと思いまして。=Yes... If you're going to be with the costumer, I thought I'd like to be in the mix.
+//先輩がですか……なるほど、私は特に問題はありません。=I see, I have no problem with that.
+//そうですか、良かったです……それでは早速、ご一緒させていただきますね。=Well, I'm glad to hear that... I'll join you as soon as I can then.
