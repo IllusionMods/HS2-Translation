@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//普通{0}=
+//attitude:neutral
 //さて、今日も、一緒に楽しもうか。=
 //緊張しないで、楽に行こうぜ、お互いにな。=
 //好意より20～49{0}=

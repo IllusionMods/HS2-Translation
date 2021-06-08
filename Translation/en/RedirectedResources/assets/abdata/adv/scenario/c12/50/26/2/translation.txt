@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//普通{0}=
+//attitude:neutral
 //今日は何回ぐらいイキたいんだ？=
 //さぁて、一緒に気持ち良くなろうぜ。=
 //好意より20～49{0}=

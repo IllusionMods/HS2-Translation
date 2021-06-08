@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//隷属{0}=
+//attitude:slavery
 //これって何？！　すっごい動いてんだけど……=
 //ちゃんとした生き物なんだよね？=
 //だったら、遊んでみちゃおっかなぁ……♪=

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//好意{0}=
+//attitude:favor
 //おしゃれな場所ね、素敵だわ。=
 //あなたって、結構大人なのね……=
 //いいわ……それじゃ、大人の夜を楽しみましょう。=
