@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//attitude:neutral
+//generic attitude:neutral
 //ふぉぉ、どーもですー！=
 //これはこれは、あなたさんではないですかー！=
 //おっと、まさかまさかのエンカウントですね！=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //ところでー、もしかしてわたしに用事とかありましたか？=
 //あ、なんか私に話しでもあったりします？=
-//attitude:favor
+//generic attitude:favor
 //わぁ、こんなとこであなたさんに出会えるとは！=
 //こんにちはですー！　えへへ、あなたさんに会えたー！=
 //おー、あなたさんに会えるとは、なんか気分が上がっちゃいますよー！=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //で、もしかしてなにか話でもあります？=
 //なにか用事とかあるなら聞きますよー！=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //おっと……この出会い……なんかもードキドキの予感しかしないですね！=
 //ここで会うなんて以心伝心じゃないですかもー！=
 //ふぉぉ、ちょーど今、あなたさんのことを考えてたとこですよー！=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //む……さてはわたしに何か用事がありますね？　お顔に出てますよー！=
 //なんか聞きたいことでもあれば、言ってくれていーですよ？=
-//attitude:aversion
+//generic attitude:aversion
 //えー、なんであなたさんがいるんですかー……=
 //はぁ……まさかこんな場所でも会っちゃうなんてー。=
 //なんかもー、テンションだだ下がりですよ、だだ下がり。=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //なんか言いたいことでもあるんですか？　だったらどーぞ。=
 //話があるなら聞きますけど……手短にしてくださいね。=
-//attitude:slavery
+//generic attitude:slavery
 //あれ、本当にあなたさんですか？　わたし、幻を見ているわけじゃ……なんちゃってー！=
 //おお、あなたさんだ！　ヤバい、なんかもー楽しくなってきちゃいましたよー！=
 //あなたさん……まさかわたしの居場所を知るという能力持ちですかっ……！？=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //あ……えっと……わたしを呼び止めてくれたってことは、なにかお話があるってことですよねー？=
 //もしかしてわたしに用事とかあったり？　だったらなんでも聞いちゃいますよー！=

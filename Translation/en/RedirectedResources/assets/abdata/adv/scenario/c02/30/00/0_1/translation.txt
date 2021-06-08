@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//attitude:neutral
+//generic attitude:neutral
 //こんにちは。=
 どうもです。=Thanks.
 //あら、どうしましたか？=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //それで、何か？=
 //私に何か用ですか？=
-//attitude:favor
+//generic attitude:favor
 //あら……奇遇ですね。=
 //まさかあなたに出会うとは……=
 //っと、急にあなたの顔を見ると……=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //そ、それで、私に何か？=
 //私に声をかけてまで……どうしましたか？=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //あら、私を探していたんですか？=
 //ふふっ、奇遇ですね。=
 //あら、丁度私もあなたに会いに行こうと思ってた所です。=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //それで、何でしょうか？=
 //さぁ、要件をどうぞ。=
-//attitude:aversion
+//generic attitude:aversion
 //……どうも。=
 //あなた、ですか……=
 //どうしてあなたが……=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //……それで？=
 //要件があるなら早くしてください。=
-//attitude:slavery
+//generic attitude:slavery
 //あなたにお会い出来るなんて……=
 //あら、偶然ですね。=
 //こ、こんにちは……=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //どうぞ、何でも言ってください。=
 //私に出来る事なら何でも。=

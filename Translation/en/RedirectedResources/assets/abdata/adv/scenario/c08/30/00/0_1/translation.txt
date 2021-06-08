@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//attitude:neutral
+//generic attitude:neutral
 //どもっすー、今日も爽やかなセックス日和っすねー。こんな日は思いっきり気持ちよくなりたいっすよー。=
 //セックスはすごい電力を消費するんでーただいま充電モードっすー。=
 //どもっすー。今日もオープンに生きてるっすかー？　そんなんお前だけなんて顔しないでほしいっすー。=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //それでー私に何か用っすかー？　セックスの相手をお探しなら大歓迎すよー。=
 //というかー私のこと探してたんすかー？　Hのことならなんでも私に相談していいっすよー。=
-//attitude:favor
+//generic attitude:favor
 //もしかしてー私がここにいるのわかったんすかー？=
 //今オフなんでー軽くお話でもいかがすかー？　まーその流れでセックスしてもいいっすけどー♪=
 //あれー？　ムラムラした顔してどうしたんすかー？　お顔に「Hしたいなー」って書いてあるっすよー。=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //ってー、あなたに会えたのが嬉しくてーついつい語っちゃったっすよー、ご用件はなんすかー？=
 //それでHなんすけどー……あれ？　もしかしてセックスしに来たんじゃなかったすかー？=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //今ちょうどフェラの練習してたんすけどーけっこーうまく出来てご満悦なんすよー。=
 //あー聞いてほしいっすー。さっき騎乗位もののAV観てたんすけどーやっぱいいすよねー騎乗位ー。=
 //毎度ー手コキ屋っすー。今ならなんとー無料で手コキさせ放題っすよ～。=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //じゃ、さっそくヤっちゃうっすかー……あれー？　エロい事しにきたんじゃないんすかー？=
 //じゃー、準備体操するっすよー……んー？　スケベな事をおっぱじめるんじゃないんすかー？=
-//attitude:aversion
+//generic attitude:aversion
 //あ……っすー。=
 //あー、お疲れ様っすー。=
 //おー、偶然すねー。=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //てかなんか用すかー？　私ーダッチワイフぐらいにしかなれないっすけどー？=
 //でー、なんすかー？　セックスっすよねー？　いいすよー。=
-//attitude:slavery
+//generic attitude:slavery
 //私ーさっきオナニーしてたんすけどーなんかいつもと違うっすかー？=
 //あーセックスしたいっすねー犯されたいすねー。=
 //どもーいきなりなんすけどー私のこと思い切り犯し尽くしたくないすかー？=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //すみませんムラムラしすぎて飛ばし過ぎたっすー、何の用すかー？=
 //ってー、セックスするって話じゃなかったすかー？　何の話すかー？=

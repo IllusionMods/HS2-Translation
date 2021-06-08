@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//attitude:neutral
+//generic attitude:neutral
 //こんにちは。=
 //どうも。破廉恥なことばかり考えてはいけませんよ？=
 //何かをお探しですか？=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //えっと……私に何かご用でも？=
 //もしかして、私をお探しだったのでしょうか？　勘違いでしたら、申し訳ございません。=
-//attitude:favor
+//generic attitude:favor
 //うふふ、こんにちは。=
 //お会いできて、大変嬉しいです。=
 //お元気そうで何よりです。=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //……思い違いでなければ、私に何かご用でしょうか？=
 //もし何かございましたら、ご遠慮なさらずにお申しつけ下さいね。=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //うふふ、どなたかお探しですか？=
 //貴方のお顔を見れて、嬉しいです。=
 //貴方が楽しそうで、何よりでございます。=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //あら……私にご用があったのでしょうか？=
 //もしかして、貴方の目的は私だったのですか？=
-//attitude:aversion
+//generic attitude:aversion
 //貴方のお顔など、見たくはありませんでした。=
 //何故こちらにいらっしゃるのですか？=
 //はぁ……失礼、ため息がこぼれてしまいました。=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //……何故、出て行かないのです？　まさか、私に用があるのですか？=
 //……何かあるのでしたら、早く仰って下さいませんか？　私も暇ではございませんので。=
-//attitude:slavery
+//generic attitude:slavery
 //こんにちは。丁度、貴方のことを考えておりました。=
 //あら……この様な所でどうなさいました？=
 //本日のご予定はお決まりでしょうか？=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //もしご用件がございましたら、何なりとお申し付け下さい。=
 //えっと……私でお力になれる事でしたら、微力ながらお手伝い致します。=

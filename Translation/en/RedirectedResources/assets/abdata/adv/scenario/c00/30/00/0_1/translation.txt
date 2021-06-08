@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//attitude:neutral
+//generic attitude:neutral
 どうも、こんにちは。=Hello.
 毎日セックスを愉しんでいらっしゃいますか？=Do you enjoy having sex every day?
 本日もお元気そうで何よりです。=Looks like you're at your best today as well.
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 ……ん？　壁の花に何かご用でしょうか？=...Hmm? What's that about a wallflower?
 もしかして、私をお探しでしたか？=Were you looking for me, by any chance?
-//attitude:favor
+//generic attitude:favor
 奇遇ですね。お会いできて、大変嬉しいです。=What a coincidence. I'm also very happy to see you.
 こんにちは。体調にお変わりありませんか？=Hello. How are you?
 こんなところであなたにお会いできるとは思ってもみませんでした。今日の運勢は絶好調のようです。=I never expected to meet you in a place like this. Today seems like a lucky day.
-//attitude:favor-requests
+//generic attitude:favor-requests
 ……思い上がりでなければ、私にご用でもあるのでしょうか？=...If I'm not mistaken, you wanted to see me?
 それで、どうされたのですか？　話のお相手でもお探しでしょうか？=So, what is it? Are you looking for someone to talk to?
-//attitude:enjoymentenjoyment
+//generic attitude:enjoymentenjoyment
 淫靡な気配がすると思えば、あなたでしたか。=I thought there was a hint of lewdness in the air, but it was you.
 風の便りに聞きましたが、ここでのセックスを満喫されている様ですね。=A little bird told me that you enjoy the sex here.   
 どうも。今日もエロティックな雰囲気を醸し出されていますね。=Thanks. There's something erotic in the air today, wouldn't you say?
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 ……何かをお探しでしょうか？　暇な淫乱女でしたら、ここに一人いますが。=...Are you looking for something? If you want a horny girl, there is one right here. 
 ……？　私に何かご用が？　セックスでも性交でもまぐわいでも、お相手致しますよ。=What can I do for you? Whether it's sex, intercourse or coitus, I will gladly be your partner.
-//attitude:aversion
+//generic attitude:aversion
 ……こんにちは。=...Hello.
 よりにもよって、あなたと出会うとは。=To think of all the people, I had to meet you.
 はぁ……厄介な人で出くわしてしまいました。=Uf, it looks like I came across a troublesome person.
-//attitude:aversion-requestsaversion business
+//generic attitude:aversion-requestsaversion business
 ……まさかとは思いますが、私に会いに来られたのですか？=...I doubt it, but did you come to see me?
 ……何か用件でも？=...What do you want?
-//attitude:slavery
+//generic attitude:slavery
 幻覚……ではなく、ご本人でしたか。あなたのことを考えていたので、少々驚きました。=A hallucination... No, it's indeed you. I was a little surprised, because I was just thinking about you.
 自慰スポットを探している最中にあなたと出会うとは。=I didn't expect to meet you while I was looking for a spot to masturbate.
 これはこれは。今日もセックスに勤しんでいますか？=Well well. Will I be performing sexual activities today as well?
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 ……私にご用でも？　セックスしか能がない女が役立てるでしょうか。=You wanted to see me? What position shall this woman whose only function is sex take?
 もしかして、私にご用でしょうか？　ご奉仕をお望みでしたら喜んで致しますよ。=Could it be that you wanted to see me? If you want me to serve you, i would be happy to do so.

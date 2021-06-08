@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//attitude:neutral
+//generic attitude:neutral
 //こんにちは。今日のお相手は、もう決まっているのですか？=
 //どうも。今はお一人ですか？=
 //今日もパートナー探しですか？　精が出ますね……って、そういう意味では無いですよ？=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //私に何か御用ですか？　私にできることなら、なるべく協力させて頂きますよ。=
 //えぇと、どうしましょうか？　私は、このままお話しているだけでも大丈夫ですが……=
-//attitude:favor
+//generic attitude:favor
 //あ、やっぱり来ていたのですね。私、どこかに貴方がいないかなと……ずっとキョロキョロしてしまっていて……=
 //会えて嬉しいです。貴方の顔を見ると……なんだかホっとします。=
 //き、奇遇ですね。はぁ……もしかしたら貴方がいるかもと……来た甲斐がありました。=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //私に声をかけたということは、何か用事があるのですよね？　何なりと、お申しつけください。=
 //貴方とお話できるだけでも嬉しいですが……何か、他に御用があれば言ってください。=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //貴方、いつもいませんか？　ふふ、精を出し過ぎて、枯れ果てても知りませんよ？=
 //ふふ、貴方は積極的でいいですね。何事も自分に正直になるのが一番ですよ。=
 //あまりキョロキョロしない方がいいですよ？　清楚な女性は、そういうギラついた目を嫌がるものですから。=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //聞くだけ野暮かもですが、今日は何をしにここに来たのですか？=
 //さて、私とお話をしているだけでいいのですか？　何か他にやることがあるのでは？=
-//attitude:aversion
+//generic attitude:aversion
 //はぁ……いたのですか。気分が一気に下がりました……=
 //貴方、いやらしい目でウロウロしないで頂けますか？　周りの迷惑も、少しは気にしてください。=
 //ぅ……視界に入らないようにしていたのに。わざわざ近付いて来ないでください……=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //あの……特に用が無いなら、もう私は失礼したいのですけど……=
 //用事があるなら、早く言ってください。時間は有限ですので。=
-//attitude:slavery
+//generic attitude:slavery
 //あ……ど、どうも。貴方と会うと……なんだか少し緊張してしまいます……=
 //ご、ごきげんよう……は、流石にかしこまりすぎですかね？　ここでの挨拶は、なにが正解なのか分からなくて。=
 //や、やっほー……ぅ、何でもありません！　調子に乗りました！　い、今のは忘れてください！=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //えっと、何かお話しますか？　それとも他のことが、いいでしょうか……=
 //ふ、二人とも黙っていても話が始まりませんね？　その……私に何か？=

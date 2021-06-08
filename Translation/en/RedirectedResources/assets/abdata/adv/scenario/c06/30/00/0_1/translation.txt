@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//attitude:neutral
+//generic attitude:neutral
 //ご機嫌よう。=
 //まあ、こんなところでお会いするなんて奇遇ですこと。=
 //あら、こんにちは。=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //もしかして、私をお探しでしたの……？=
 //それで……何かご用ですか？=
-//attitude:favor
+//generic attitude:favor
 //こんにちは、今日も素敵ですわね。=
 //あら、愛しのパートナー様、こんにちは。=
 //まあ、待ち合わせもしていませんのに……運命的な出会いですわね。=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //わざわざ私を探しに来てくださったのですか？　嬉しいですわ……=
 //今日はあなたに会える気がしていましたの、お話いたしませんか……？=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //まあ、その節は……うふふ……♪=
 //あら、ご機嫌よう、あの夢のようなひと時からいかがお過ごしですか……？=
 //うふふ……あなたをお見かけすると、嬉しくて笑みが……ふふ……♪=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //少しお話いたしませんか？　もちろん……うふふ、お話以外のことでも、大歓迎ですけれど……♪=
 //性のお勉強をしにいらっしゃったのですか……？=
-//attitude:aversion
+//generic attitude:aversion
 //まあ、奇遇ですこと……=
 //その節はどうも……=
 //あら、ご機嫌よう……=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //何か……ご用ですか……？=
 //なんですの……？=
-//attitude:slavery
+//generic attitude:slavery
 //その節はご指導頂き、ありがとうございました。=
 //パートナー様、お会いできて光栄ですわ。=
 //あれからお変わりありませんか……？=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //私に何かご用ですか……？=
 //それでは、何なりとお申しつけくださいまし。=

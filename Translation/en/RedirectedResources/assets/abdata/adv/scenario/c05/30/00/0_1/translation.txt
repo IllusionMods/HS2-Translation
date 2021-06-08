@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//attitude:neutral
+//generic attitude:neutral
 //あ……こ、こんにちは……=
 //あ……あなた……ですか……=
 //こ、こんなところで……奇遇ですね。=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //もしかして私に何か用ですか？=
 //えっと……どうしましたか？=
-//attitude:favor
+//generic attitude:favor
 //あ、あなたもここにいたんですね。=
 //ま、まさかあなたに会えるなんて思いませんでした。=
 //あ、あなたも来てるなんて……ちょっと驚きです。=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //なにかご用でしょうか？=
 //もしかして私になにか用事……だったりしますか？=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //ふふっ、偶然とはいえ、会えると嬉しいです。=
 //実は……あなたに会いたいなと思ってました……えへへ。=
 //こ、こんにちは……同じ場所に来るなんて……心が通じ合ってるみたいです……なんて……=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //ん……もしかして……何か私にお話でもありますか？=
 //私になにか聞きたいことでもありますか？=
-//attitude:aversion
+//generic attitude:aversion
 //あ、あなたも来てたんですか……=
 //も、もしかして……私を叱るために来たんじゃない……ですよね……？=
 //や……こ、こんなところでまであなたに会うなんて……うぅぅ……=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //よ、用事があるなら……言ってください……=
 //は、話なら聞きますから……あまり……怖い顔はしないでください……=
-//attitude:slavery
+//generic attitude:slavery
 //あなたに会えた日は……ちょっと幸せなんです……えへへ。=
 //こんなところで会えるなんて……テンション上がっちゃいます……=
 //あ……ふふっ、知り合いの方に会えるだけでも嬉しいのに……それがあなただなんて……=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //あ、あなたからのご用件なら、なんでも伺いますよ。=
 //なにか用事があったから声をかけてくれたんですよね？　なんでしょうか？=

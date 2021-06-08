@@ -1,38 +1,38 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//attitude:neutral
+//generic attitude:neutral
 //お、奇遇じゃん。アンタもいたんだ。=
 //おっすー。元気してた？=
 //あは、アンタ毎日ここいない？=
-//attitude:neutral-requests
+//generic attitude:neutral-requests
 //それでー、アタシに何か用？=
 //ご指名はアタシですかー？　なんて♪=
-//attitude:favor
+//generic attitude:favor
 //お、ラッキー♪　アンタに会えた～♪=
 //もしかして、アタシを探してたん？=
 //んふ～、ただニヤけてるだけだから、気にしないで。=
-//attitude:favor-requests
+//generic attitude:favor-requests
 //何か用事？　アタシで良ければ話聞くよ～。=
 //とりま、どっかでダベる？=
-//attitude:enjoyment
+//generic attitude:enjoyment
 //やっほ♪　元気に発情してるー？=
 //お、アンタの匂いがするともったら、やっぱいた♪=
 //どーもー、即ヤリＯＫだよー？　あはっ、なーんて♪=
-//attitude:enjoyment-requests
+//generic attitude:enjoyment-requests
 //まーアタシのとこに来たってことは……そういうこと？=
 //で、ご用件は？　顔だけ見に来たってわけじゃないっしょ？=
-//attitude:aversion
+//generic attitude:aversion
 //うわ、厄介なのと目が合っちゃった……=
 //なに？　呼んでませんけど？　シッシッ。=
 //あっちいって。アンタと話すこととかないから。=
-//attitude:aversion-requests
+//generic attitude:aversion-requests
 //アタシに何か用なの？　何もないならさっさと消えて。=
 //ボーっと突っ立ってないで、何か用事があるならさっさと言って。=
-//attitude:slavery
+//generic attitude:slavery
 //お、会いにきてくれたん？　嬉しみ～♪=
 //いたいた。アンタがいるって言うから、探してたんだ～♪=
 //おー会えた～♪　マジ、この出会いに感謝♪=
-//attitude:slavery-requests
+//generic attitude:slavery-requests
 //これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=
 //んで、アタシに何かして欲しい系？=
