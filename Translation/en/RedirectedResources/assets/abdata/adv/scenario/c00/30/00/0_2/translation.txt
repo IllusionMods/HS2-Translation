@@ -2,31 +2,31 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //bath attitude:neutral
-散歩でしたら、場所を移した方が良いかと思いますが。=
-//身体を清潔に保つのは、素晴らしいことだと思います。=
+散歩でしたら、場所を移した方が良いかと思いますが。=If you are looking for a place to stroll, you should go somewhere else.
+身体を清潔に保つのは、素晴らしいことだと思います。=I think wanting to keep your body clean is praiseworthy.
 //bath attitude neutral-requests
-//……ん？　壁の花に何かご用でしょうか？=
-//もしかして、私をお探しでしたか？=
+……ん？　壁の花に何かご用でしょうか？=...Hmm? What business do you have with a wallflower like me?
+もしかして、私をお探しでしたか？=Were you looking for me, by any chance?
 //bath attitude:favor
-//どうも。あなたとのセックスに備えて、お風呂に入ろうとしていたところです。=
-//私を覗きに来られたのですね。……違う？　そうですか。=
+どうも。あなたとのセックスに備えて、お風呂に入ろうとしていたところです。=Hi. I was about to have a bath before having sex with you.
+私を覗きに来られたのですね。……違う？　そうですか。=You came to sneak a peek at me, didn't you? ...No? Is that so.
 //bath attitude:favor-requests
-//……思い上がりでなければ、私にご用でもあるのでしょうか？=
-//それで、どうされたのですか？　話のお相手でもお探しでしょうか？=
+……思い上がりでなければ、私にご用でもあるのでしょうか？=...If I'm not mistaken, you wanted to see me?
+それで、どうされたのですか？　話のお相手でもお探しでしょうか？=So, what is it? Are you looking for someone to talk to?
 //bath attitude:enjoyment
-//勃起したまま歩かれていますと、私の様な女に襲われてしまいますよ？=
-//あなたも覗きに来られたのですか？　……今のは冗談ですからね？=
+勃起したまま歩かれていますと、私の様な女に襲われてしまいますよ？=If you walk around with an erection like that, you could be assaulted by a woman like me.
+あなたも覗きに来られたのですか？　……今のは冗談ですからね？=You came to peek as well? You're joking, right?
 //bath attitude:enjoyment-requests
-//……何かをお探しでしょうか？　暇な淫乱女でしたら、ここに一人いますが。=
-//……？　私に何かご用が？　セックスでも性交でもまぐわいでも、お相手致しますよ。=
+……何かをお探しでしょうか？　暇な淫乱女でしたら、ここに一人いますが。=...Are you looking for something? If you want a horny girl, there is one right here. 
+……？　私に何かご用が？　セックスでも性交でもまぐわいでも、お相手致しますよ。=What can I do for you? Whether it's sex, intercourse or coitus, I will gladly be your partner.
 //bath attitude:aversion
-//汗と一緒に邪な気持ちも流してきてはいかがでしょう？=
-//不審者ではなくあなたでしたか。……あながち間違いではありませんね。=
+汗と一緒に邪な気持ちも流してきてはいかがでしょう？=Why don't you go get rid of your sweat together with your nasty thoughts?
+不審者ではなくあなたでしたか。……あながち間違いではありませんね。=It was you, not someone suspicious? I don't think I've made a mistake.
 //bath attitude:aversion-requests
-//……まさかとは思いますが、私に会いに来られたのですか？=
-//……何か用件でも？=
+……まさかとは思いますが、私に会いに来られたのですか？=...I doubt it, but did you come to see me?
+……何か用件でも？=...What do you want?
 //bath attitude:slavery
-//覗き、下着泥棒……どちらが目的でしょうか？　……どちらでもないのですか？=
+覗き、下着泥棒……どちらが目的でしょうか？　……どちらでもないのですか？=Did you come here to peep or to steal underwear? ...Neither?
 //bath attitude:slavery-requests
-//……私にご用でも？　セックスしか能がない女が役立てるでしょうか。=
-//もしかして、私にご用でしょうか？　ご奉仕をお望みでしたら喜んで致しますよ。=
+……私にご用でも？　セックスしか能がない女が役立てるでしょうか。=You wanted to see me? What position shall this woman whose only function is sex take?
+もしかして、私にご用でしょうか？　ご奉仕をお望みでしたら喜んで致しますよ。=Could it be that you wanted to see me? If you want me to serve you, i would be happy to do so.

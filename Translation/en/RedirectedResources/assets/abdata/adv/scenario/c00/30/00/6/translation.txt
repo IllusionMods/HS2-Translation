@@ -3,17 +3,17 @@
 //
 //・・・・・=
 //attitude:neutral
-//……好きな人になら何をされても嬉しい、という考えにはあまり賛同できません。=
-//……そうですね……個人的には嫌いではありませんが……人を選ぶプレイですから、きちんと確認は取るべきかと。=
+……好きな人になら何をされても嬉しい、という考えにはあまり賛同できません。=...I don't really agree that one would be happy to do anything for the person they love.
+……そうですね……個人的には嫌いではありませんが……人を選ぶプレイですから、きちんと確認は取るべきかと。=...I see... I personally don't mind it... But since it's going to include someone else as well, I think we should choose carefully.
 //attitude:favor
-//――恋は落ちるものと言いますし、人を好きになるのに特別な理由はないのかもしれません。=
-//……なるほど。好きな人に尽くしたいと思うのは当たり前の感情だと思っていたのですが、そうではなかったのですね。=
+――恋は落ちるものと言いますし、人を好きになるのに特別な理由はないのかもしれません。=--It's said "to fall in love", but I think there is no particular reason to fall in love with someone.
+……なるほど。好きな人に尽くしたいと思うのは当たり前の感情だと思っていたのですが、そうではなかったのですね。=...I see. I thought it was natural to want to devote yourself to the person you love, but it isn't, is it?
 //attitude:enjoyment
-//――結果的に快楽を得られるのであれば、過程はそこまで重視しませんね。=
-//……私には理解出来ませんが、それも一つの愛の形なのでしょうね。=
+――結果的に快楽を得られるのであれば、過程はそこまで重視しませんね。=--As long as the result is pleasurable, I don't really care about the process. 
+……私には理解出来ませんが、それも一つの愛の形なのでしょうね。=I don't really understand it, but I guess that's also one form of love.
 //attitude:aversion
-//……リアクションに困る話題を振らないでください。=
-//はぁ……自分がされて嬉しかったからといって、他の人も喜ぶと思わないでください。=
+……リアクションに困る話題を振らないでください。=...Please don't start topics that make you worry about my reaction.
+はぁ……自分がされて嬉しかったからといって、他の人も喜ぶと思わないでください。=Haaaa... Please don't asume other people enjoy the same things that make you happy.
 //attitude:slavery
-//人はもっと自分の欲求に対して正直になるべきだと思いませんか？　勿論、限度はありますが。=
-//誰もが皆、マゾヒストな自分を隠して生きていると私は信じて疑いません。=
+人はもっと自分の欲求に対して正直になるべきだと思いませんか？　勿論、限度はありますが。=Don't you think people should be more honest with their desires? Of course, within limits.
+誰もが皆、マゾヒストな自分を隠して生きていると私は信じて疑いません。=I belive everyone lives their life hiding their masochistic self. 

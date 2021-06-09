@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-//勘違いでしたか、失礼しました。=
-//そうですか。何かありましたら、お声がけください。=
+勘違いでしたか、失礼しました。=I'm sorry if I missunderstood.
+そうですか。何かありましたら、お声がけください。=I see. Please let me know if there is anything else I can do for you.
 //attitude:favor
-//そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=
-//私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=
+そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=I see. I was happy to talk with you for a little while. Well then.
+私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=I'm glad that you bothered to talk to me.
 //attitude:enjoyment
-//そうですか、セックスできると思っていたので残念です。=
-//では、性欲が高まった際にでも、お声がけください。=
+そうですか、セックスできると思っていたので残念です。=I see. It's a pitty we couldn't have sex.
+では、性欲が高まった際にでも、お声がけください。=Then, let me know when you're in the mood.
 //attitude:aversion
-//特にないのでしたら、私はこれで。=
-//私も用はないので、失礼致します。=
+特にないのでしたら、私はこれで。=If there's nothing in particular, I'll be on my way.
+私も用はないので、失礼致します。=I have no business here either, so I'll excuse myself.
 //attitude:slavery
-//……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=
-//犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=
+……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=Is your intention to increase my lust by leaving me alone for longer? Then, I'll see you later.
+犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=I was hoping you would fuck me, but it seems that wasn't the case.
