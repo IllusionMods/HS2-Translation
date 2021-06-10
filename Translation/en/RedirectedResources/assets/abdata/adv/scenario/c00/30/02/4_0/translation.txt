@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //afterconversationA:neutral{0}:
-//それでは、失礼させていただきます。=
-//私たちはこれで失礼します。=
+//それでは、失礼させていただきます。=Now, if you'll excuse me.
+//私たちはこれで失礼します。=We'll leave you to it.
 //afterconversationA:favor{0}:
-//機会がありましたら、またお話にお付き合いいただけると嬉しいです。=
-//今度二人きりでゆっくりお話ししたいものです。=
+//機会がありましたら、またお話にお付き合いいただけると嬉しいです。=I hope we'll talk again when the you get a chance.
+//今度二人きりでゆっくりお話ししたいものです。=I'd like both of us to enjoy a longer talk in private next time.
 //afterconversationA:enjoyment{0}:
-//このまま三人でセックスをと思いましたが、そういった雰囲気ではありませんね。では、私は失礼します。=
-//三人でお話するのも楽しいものですね。機会がありましたら、またお付き合いください。=
+//このまま三人でセックスをと思いましたが、そういった雰囲気ではありませんね。では、私は失礼します。=I thought the three of us were going to have sex, but I guess the mood isn't right. Well, I'll be going now.
+//三人でお話するのも楽しいものですね。機会がありましたら、またお付き合いください。=It's fun for the three of us to talk as well. Let's meet again, if you have the chance.
 //afterconversationA:aversion{0}:
-//では、私はこれで失礼します。=
-//これ以上話すことはないので、私は失礼させていただきます。=
+//では、私はこれで失礼します。=Well, I have to go.
+//これ以上話すことはないので、私は失礼させていただきます。=There's nothing more for me to say, so I'll take my leave.
 //afterconversationA:slavery{0}:
-//それでは、私たちはこれで失礼致します。=
-//次回はお話だけでなく、セックスもしませんか？=
+//それでは、私たちはこれで失礼致します。=Now, if you'll excuse us, we have to go.
+//次回はお話だけでなく、セックスもしませんか？=Next time we talk, why don't we also have sex?

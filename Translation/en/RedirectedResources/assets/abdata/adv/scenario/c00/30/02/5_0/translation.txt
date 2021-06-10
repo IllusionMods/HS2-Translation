@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HattemptA:neutral{0}:
-//勿論、私は喜んでお付き合い致します。=
-//三人でというのも愉しめそうですね。=
+勿論、私は喜んでお付き合い致します。=Of course, I would be happy to keep you company.
+三人でというのも愉しめそうですね。=I think it would be fun for the three of us. 
 //HattemptA:favor{0}:
-//そう望まれるのでしたら、お付き合い致します。=
-//三人で……少々不安はありますが、お任せください。=
+そう望まれるのでしたら、お付き合い致します。=If that's what you want, I'll join you.
+三人で……少々不安はありますが、お任せください。=The three of us... I'm a little nervous, but I'll do it.
 //HattemptA:enjoyment{0}:
-//言うまでもなく、私の返答は決まっています。=
-//女一人では物足りないと？　大変逞しい精力ですね。=
+言うまでもなく、私の返答は決まっています。=Needless to say, I've already decided on my answer.
+女一人では物足りないと？　大変逞しい精力ですね。=One woman isn't enough for you? You have a lot of energy, don't you?
 //HattemptA:aversion{0}:
-//……そうですね、彼女が反対しないのであれば構いません。=
-//もう一人確認する相手がいるのでは？=
+……そうですね、彼女が反対しないのであれば構いません。=...Let's see, if she doesn't object, it's fine with me.
+もう一人確認する相手がいるのでは？=Isn't there another person you should check with as well?
 //HattemptA:slavery{0}:
-//ええ、断る理由がございません。=
-//やはり3Pのお誘いでしたか、当然お付き合い致します。=
+ええ、断る理由がございません。=Yes, I have no reason to refuse.
+やはり3Pのお誘いでしたか、当然お付き合い致します。=I figgured you wanted to get me to join a threesome, of course I'll go along with you.

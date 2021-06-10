@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HattemptB:neutral{0}:
-//問題ございません、それでは早速致しましょうか。=
-//私もご一緒してよろしいのですか？　ではお言葉に甘えさせていただきます。=
+問題ございません、それでは早速致しましょうか。=No problem, let's get right to it.
+私もご一緒してよろしいのですか？　ではお言葉に甘えさせていただきます。=Is it fine if I join you too? Then, I'll accept your offer.
 //HattemptB:favor{0}:
-//そういったセックスがお望みでしたか。少々戸惑いはございますが、問題ありません。=
-//二人纏めて気持ちよくしてくださるのですか？　嬉しいです。=
+そういったセックスがお望みでしたか。少々戸惑いはございますが、問題ありません。=So this is the kind of sex you want? I'm a little confused, but I don't have a problem.
+二人纏めて気持ちよくしてくださるのですか？　嬉しいです。=Are you going to make both of us feel good? I'm glad.
 //HattemptB:enjoyment{0}:
-//私が断るわけがありません。さあ、全員で愉しみましょう。=
-//そういうことでしたら、直ぐに致しましょう。時間は有限ですから。=
+私が断るわけがありません。さあ、全員で愉しみましょう。=How could I refuse? Come, let's have fun together.
+そういうことでしたら、直ぐに致しましょう。時間は有限ですから。=If that's the case, let's get right to it. No need to waste time.
 //HattemptB:aversion{0}:
-//どうやら断れる雰囲気ではありませんね。=
-//お好きにどうぞ。ただ、私にはあまり構わなくて結構です。=
+どうやら断れる雰囲気ではありませんね。=It doesn't look like I can refuse.
+お好きにどうぞ。ただ、私にはあまり構わなくて結構です。=Do as you wish. However, it would be nice if you didn't pretend you care about my opinion.
 //HattemptB:slavery{0}:
-//是非しましょう。刺激的なセックスの予感に早くも股が濡れてしまいそうです。=
-//勿論お付き合い致しますが、私のことを忘れないでくださいね？=
+是非しましょう。刺激的なセックスの予感に早くも股が濡れてしまいそうです。=Let's certainly do it! I'm starting to get wet just thinking about how stimulating the sex will be.
+勿論お付き合い致しますが、私のことを忘れないでくださいね？=Of course I'll join you, just don't forget about me, okay?

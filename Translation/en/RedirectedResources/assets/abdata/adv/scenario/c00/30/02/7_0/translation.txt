@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //itsnothinganswerA:neutral{0}:
-//そうなのですか？=
-//見かけたので、声をかけてくださった、ということでしょうか。=
+そうなのですか？=Is that so?
+見かけたので、声をかけてくださった、ということでしょうか。=So you called out because you saw us, I guess.
 //itsnothinganswerA:favor{0}:
-//何かご用事かと思いましたが、勘違いでしたか。=
-//てっきりお話でもあるのかと……=
+何かご用事かと思いましたが、勘違いでしたか。=I thought you had something to talk about, but I guess I missunderstood.
+てっきりお話でもあるのかと……=I thought you had something to say...
 //itsnothinganswerA:enjoyment{0}:
-//3Pに誘おうとしたけど怖気づいた……当たっていますか？=
-//3Pのお誘いだと思っていたのですが、残念です。=
+3Pに誘おうとしたけど怖気づいた……当たっていますか？=You wanted to invite me to a threesome, but got cold feet... Am I right?
+3Pのお誘いだと思っていたのですが、残念です。=I thought it was an invitation to a threesome, but I see I was wrong, unfortunately.
 //itsnothinganswerA:aversion{0}:
-//ただの冷やかしですか？=
-//挨拶に来られたのですか？　その様な配慮は無用です。=
+ただの冷やかしですか？=Are you just looking around?
+挨拶に来られたのですか？　その様な配慮は無用です。=Did you come to say hello? There's no need for such consideration.
 //itsnothinganswerA:slavery{0}:
-//3Pの気分ではなかったのでしょうか？=
-//これから犯していただけると期待していたのですが、違ったのですね。=
+3Pの気分ではなかったのでしょうか？=So you weren't in the mood for a threesome?
+これから犯していただけると期待していたのですが、違ったのですね。=I was expecting you would fuck us now, but it seems I was mistaken.

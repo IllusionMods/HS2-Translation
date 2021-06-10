@@ -2,13 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-ご回答いただき、ありがとうございました。=Thank you very much for your answer.
-あなたにお伺いして良かったです。=I'm glad I asked you.
-あなたのご意見が聞けて、良かったです。=I'm glad to hear your opinion.
-また少し、あなたのことを知れた気がします。=I feel like I know a little more about you.
-あなたとお話ししてみて、とても良かったと思います。=It has been a pleasure talking with you.
-他の方のご意見も伺ってみたくなりました。=I would like to hear what other people have to say about this.
-……ご回答、感謝致します。=... Thank you for your answer.
-参考にはしませんが、お答えいただいたことには感謝します。=I don't have a reference, but I appreciate your answer.
-いちいちもっともなご意見に感服致しました。=I was very impressed with your righteous opinions.
-あなたの考え方が、少し分かった気がします。=I think I understand your way of thinking a little better now.
+//ご回答いただき、ありがとうございました。=Thank you very much for your answer.
+//あなたにお伺いして良かったです。=I'm glad I asked you.
+//あなたのご意見が聞けて、良かったです。=I'm glad to hear your opinion.
+//また少し、あなたのことを知れた気がします。=I feel like I know a little more about you.
+//あなたとお話ししてみて、とても良かったと思います。=It has been a pleasure talking with you.
+//他の方のご意見も伺ってみたくなりました。=I would like to hear what other people have to say about this.
+//……ご回答、感謝致します。=... Thank you for your answer.
+//参考にはしませんが、お答えいただいたことには感謝します。=I don't have a reference, but I appreciate your answer.
+//いちいちもっともなご意見に感服致しました。=I was very impressed with your righteous opinions.
+//あなたの考え方が、少し分かった気がします。=I think I understand your way of thinking a little better now.

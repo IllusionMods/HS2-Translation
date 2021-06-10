@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 あなたはどう思われますか？=What do you think?
-あなたのご意見をお伺いしてもよろしいでしょうか？=May i ask for your opinion?
+あなたのご意見をお伺いしてもよろしいでしょうか？=May I ask for your opinion?
 もしかして、違う意見もあるのでしょうか？　是非、お聞かせください。=Maybe you have a different opinion? I would love to hear it.
 あまり興味はありませんが、あなたはどう思われますか？=I'm not really interested, but what do you think?
 あなたは他の考えをお持ちなのでしょうか？=Do you have any other ideas?

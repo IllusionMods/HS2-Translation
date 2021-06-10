@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //afterconversationB:neutral{0}:
-//ご回答いただき、ありがとうございました。=
-//あなたにお伺いして良かったです。=
+ご回答いただき、ありがとうございました。=Thank you very much for your answer.
+あなたにお伺いして良かったです。=I'm glad I asked you.
 //afterconversationB:favor{0}:
-//あなたのご意見が聞けて、良かったです。=
-//また少し、あなたのことを知れた気がします。=
+あなたのご意見が聞けて、良かったです。=I am glad to have heard your oppinion.
+また少し、あなたのことを知れた気がします。=I feel like I got to know you a little more.
 //afterconversationB:enjoyment{0}:
-//あなたとお話ししてみて、とても良かったと思います。=
-//他の方のご意見も伺ってみたくなりました。=
+あなたとお話ししてみて、とても良かったと思います。=It really enjoyed talking with you.
+他の方のご意見も伺ってみたくなりました。=I wanted to hear what other people thought about this.
 //afterconversationB:aversion{0}:
-//……ご回答、感謝致します。=
-//参考にはしませんが、お答えいただいたことには感謝します。=
+……ご回答、感謝致します。=...Thank you for your answer.
+参考にはしませんが、お答えいただいたことには感謝します。=I don't think it was very helpful, but I thank you for the answer.
 //afterconversationB:slavery{0}:
-//いちいちもっともなご意見に感服致しました。=
-//あなたの考え方が、少し分かった気がします。=
+いちいちもっともなご意見に感服致しました。=I was really impressed by your opinion.
+あなたの考え方が、少し分かった気がします。=I think I understand your way of thinking a little better now.

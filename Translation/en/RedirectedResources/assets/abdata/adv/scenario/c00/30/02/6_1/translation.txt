@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //afterHB:neutral{0}:
-//ここでお開きですか？　それではまた。=
-//また三人でするのも、悪くなさそうです。=
+ここでお開きですか？　それではまた。=Are we done here? Then, see you later.
+また三人でするのも、悪くなさそうです。=It doesn't seem like a bad idea for the three of us to do this again sometime.
 //afterHB:favor{0}:
-//それでは、失礼します。次のお誘いも待っていますね。=
-//3Pも悪くありませんが……いえ、何でもありません。失礼します。=
+それでは、失礼します。次のお誘いも待っていますね。=Now, if you'll excuse me. I'll be waiting for your next invitation.
+3Pも悪くありませんが……いえ、何でもありません。失礼します。=Threesomes aren't so bad, but... No, it's nothing. Excuse me.
 //afterHB:enjoyment{0}:
-//次の機会が大変待ち遠しいです。=
-//名残惜しいですが、ここで終わりですね。=
+次の機会が大変待ち遠しいです。=I can't wait for the next opportunity.
+名残惜しいですが、ここで終わりですね。=Reluctant as I may be, I think this wraps it up.
 //afterHB:aversion{0}:
-//……では、失礼致します。=
-//……さようなら。=
+……では、失礼致します。=...Now, I'll excuse myself.
+……さようなら。=...Goodbye.
 //afterHB:slavery{0}:
-//この続きはまたの機会に。では、失礼致します。=
-//またいつでもお誘いをお持ちしています。さようなら。=
+この続きはまたの機会に。では、失礼致します。=We'll continue this some other time. Now, please excuse me.
+またいつでもお誘いをお持ちしています。さようなら。=Please invite me again any time. Goodbye.
