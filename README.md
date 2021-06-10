@@ -47,7 +47,7 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 
 ### How to add or improve translations
 
-- If you want to make a simple edit simply open the file in question and click edit. After you are done editing, commit the changes and stall a pull request.
+- If you want to make a simple edit simply open the file in question and click edit. After you are done editing, commit the changes and start a pull request.
 - If you have more translations to submit [fork the repository](https://help.github.com/articles/fork-a-repo/). This will make a copy of the original project in your account. Upload your changes to the fork into your account, and then [send a pull request](https://help.github.com/articles/about-pull-requests/) to the original project. Your pull request will be reviewed and accepted after a quality check. Again, avoid raw machine translations. Proper capitalization, punctuation, and spelling is a must.
 
 ## Text Translations
