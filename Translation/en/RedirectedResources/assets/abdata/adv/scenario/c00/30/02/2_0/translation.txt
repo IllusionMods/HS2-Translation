@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //whatareyoudoingA:neutral{0}:
-//上手な自撮りの撮影方法について、教えを乞いていたところです。=
-//効果的なダイエットの方法を語り合っていました。=
+上手な自撮りの撮影方法について、教えを乞いていたところです。=I was just asking for a lesson on how to take a good selfie.
+効果的なダイエットの方法を語り合っていました。=We were talking about effective dieting methods. 
 //whatareyoudoingA:favor{0}:
-//理想の告白シチュエーションについて、話を膨らませていました。=
-//一番素敵なプロポーズの言葉を考えていました。=
+理想の告白シチュエーションについて、話を膨らませていました。=We were talking about an ideal confession situation.
+一番素敵なプロポーズの言葉を考えていました。=--I was trying to think about the most beautiful words to propose.
 //whatareyoudoingA:enjoyment{0}:
-//好きな体位について、熱く討論しておりました。=
-//過去の性体験を赤裸々に語り合っていました。=
+好きな体位について、熱く討論しておりました。=We were having a heated discussion about our favorite positions. 
+過去の性体験を赤裸々に語り合っていました。=We here having an open discussion about our past sexual experiences.
 //whatareyoudoingA:aversion{0}:
-//セックスについて、話をしていました。=
-//……誘われて嬉しいデートコースの話をしていたところです。=
+セックスについて、話をしていました。=We were talking about sex.
+……誘われて嬉しいデートコースの話をしていたところです。=...I was just about to talk about a date that I would be happy to be invited to.
 //whatareyoudoingA:slavery{0}:
-//緊縛について意見交換をしておりました。=
-//アダルトビデオのジャンルに関して、お互いの主張をぶつけておりました。=
+緊縛について意見交換をしておりました。=We were exhchanging opinions about bondage.
+アダルトビデオのジャンルに関して、お互いの主張をぶつけておりました。=We were arguing about the adult video genre.

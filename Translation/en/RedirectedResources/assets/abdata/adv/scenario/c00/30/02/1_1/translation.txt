@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //leadupB:neutral{0}:
-//こんにちは。どなたかをお探しでしょうか？=
-//私か彼女に何かご用でしょうか？=
+こんにちは。どなたかをお探しでしょうか？=Hello. Are you looking for someone?
+私か彼女に何かご用でしょうか？=Do you want something from either of us?
 //leadupB:favor{0}:
-//こんにちは。良かったら、あなたもお話しませんか？=
-//どうされました？　お話でしたら喜んで……とは私の一存では言えませんね。=
+こんにちは。良かったら、あなたもお話しませんか？=Hello. Would you like to join us?
+どうされました？　お話でしたら喜んで……とは私の一存では言えませんね。=What happened? I'd be happy to talk to you about it... Though it looks like I'm not the only one.
 //leadupB:enjoyment{0}:
-//3Pをしたいとという本音がお顔に出ていますよ。=
-//私たちを前にして昂るのは分かりますが、興奮を抑えてくださいね。=
+3Pをしたいとという本音がお顔に出ていますよ。=I can see it on your eyes that you want to have a threesome. 
+私たちを前にして昂るのは分かりますが、興奮を抑えてくださいね。=I know you're excited to see us, but please try to control your urges.
 //leadupB:aversion{0}:
-//普通の人なら、会話中に声をかけたりしませんよ。=
-//楽しい気分が霧散しました。=
+普通の人なら、会話中に声をかけたりしませんよ。=Normally, people don't interrupt others during a conversation.
+楽しい気分が霧散しました。=You certainly spoiled the mood.
 //leadupB:slavery{0}:
-//二人纏めて犯したい、そう考えているお顔ですね。=
-//あなたに犯されながら彼女と会話をするのも、趣がありそうですね。=
+二人纏めて犯したい、そう考えているお顔ですね。=You look like you want to to fuck both of us together, don't you?
+あなたに犯されながら彼女と会話をするのも、趣がありそうですね。=It would be interesting to have a conversation with her while being fucked by you.

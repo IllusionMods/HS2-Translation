@@ -16,18 +16,18 @@
 //affirmativeanswer2:slavery{0}:
 //それ、マジそれ。分かるわ～。=
 //あー分かる。それな感パない。=
-//返答否定2:neutral{0}:
+//negativeanswer2:neutral{0}:
 //いや、違くない？=
 //えー、それはありえんてぃーでしょ？=
-//返答否定2:favor{0}:
+//negativeanswer2:favor{0}:
 //どっちかって言うと……ナシよりのナシっしょ。=
 //うーん、流石にそれは頷けないかな～。=
-//返答否定2:enjoyment{0}:
+//negativeanswer2:enjoyment{0}:
 //いやナイナイ。全然ナイ。意味不明。=
 //それはどうなん？　微妙だと思うよ～。=
-//返答否定2:aversion{0}:
+//negativeanswer2:aversion{0}:
 //え……無いっしょ？　常識的に考えて……=
 //うわ……無いわー、マジ無いわー。=
-//返答否定2:slavery{0}:
+//negativeanswer2:slavery{0}:
 //いやー、うーん……やっぱ無いわ。=
 //いやいやいや、アタシには分からないわ。=

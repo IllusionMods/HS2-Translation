@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //leadupA:neutral{0}:
-//成程、興味深いです。……ああ、どうも。=
-//参考にさせていただきます。……ああ、こんにちは。=
+成程、興味深いです。……ああ、どうも。=I see, that's interesting. ...Oh, thanks.
+参考にさせていただきます。……ああ、こんにちは。=I will use this as reference. ...Ah, hello.
 //leadupA:favor{0}:
-//それは素敵ですね。……ん？　あなたもいらっしゃったのですね、こんにちは。=
-//ロマンチックでうっとりします。……あなたでしたか、今日もお元気そうですね。=
+それは素敵ですね。……ん？　あなたもいらっしゃったのですね、こんにちは。=That's lovely. ...Hm? Ah, I see you're here too. Hello.
+ロマンチックでうっとりします。……あなたでしたか、今日もお元気そうですね。=It's romantic and charming. ...Is that you? You're looking well today.
 //leadupA:enjoyment{0}:
-//それはそれは……ん？　女の色香に誘われましたか？=
-//詳しく聞かせていただけますか？　……ああ、女を求めて彷徨われているのですね？=
+それはそれは……ん？　女の色香に誘われましたか？=Well well... Hm? Were you drawn here by a woman's appeal?
+詳しく聞かせていただけますか？　……ああ、女を求めて彷徨われているのですね？=Can you tell me more about it? ...Ah, are you wondering around in search of a woman?
 //leadupA:aversion{0}:
-//あまり賛同できませんね……見ての通り談笑中ですが、何か？=
-//本当にそうでしょうか……なんでしょう？　話の途中なのですが。=
+あまり賛同できませんね……見ての通り談笑中ですが、何か？=I don't really agree... What do you want? As you can see, we are having a chat.
+本当にそうでしょうか……なんでしょう？　話の途中なのですが。=Is that so... What is it? We're in the middle of a conversation.
 //leadupA:slavery{0}:
-//一理ありますね。……おや？　こんなところで奇遇ですね。=
-//そういった考え方もあるのですね。……ん？　あなたでしたか、こんにちは。=
+一理ありますね。……おや？　こんなところで奇遇ですね。=--You have a point. ...Oh? Such a coincidence meeting you here.
+そういった考え方もあるのですね。……ん？　あなたでしたか、こんにちは。=I guess that's also a point of view. ...Oh! It's you. Hello.

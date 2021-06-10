@@ -16,18 +16,18 @@
 //affirmativeanswer2:slavery{0}:
 //ハッ、オマエと意見が合うとはな。=
 //まぁ、そんなところだ。=
-//返答否定2:neutral{0}:
+//negativeanswer2:neutral{0}:
 //それは無い。=
 //いや、ありえないな。=
-//返答否定2:favor{0}:
+//negativeanswer2:favor{0}:
 //そうか？　もう一度よく考えろ。=
 //違うな。オマエは分かってない。=
-//返答否定2:enjoyment{0}:
+//negativeanswer2:enjoyment{0}:
 //いいや、そうじゃないだろ。=
 //何故そうなるのか、逆に聞きたいな。=
-//返答否定2:aversion{0}:
+//negativeanswer2:aversion{0}:
 //オマエがそう思うなら、そうなんだろうよ。=
 //くだらん。話し合うだけ無駄だな。=
-//返答否定2:slavery{0}:
+//negativeanswer2:slavery{0}:
 //そうは思わん。価値観が違うな。=
 //どうしてそうなる？　意味がわからん。=
