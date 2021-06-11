@@ -1,21 +1,21 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//普通{0}=
-//私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=
-//分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=
-//好意{0}=
-//ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=
-//勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=
-//享楽{0}=
-//猥談でしたら、お任せください。=
-//……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=
-//嫌悪{0}=
-//ちょうど暇をしていたところでしたので、お付き合いしますよ。=
-//盛り上がるとは到底思えませんが……分かりました。=
-//隷属{0}=
-//身体ではなく、言葉でコミュニケーションを……分かりました。=
-//言葉攻めですか、分かりました。=
+//attitude:neutral
+私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=You want to talk to me? I'm not sure I have an enjoyable topic, but I understand.
+分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=Very well. As long as you understand that i might not be able to give you witty replies. 
+//attitude:favor
+ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=Yes, gladly. What should we talk about? Personally, I'm interested in what you think about love.
+勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=Of course, I'll keep you company. I have a reputation for being a good listner. 
+//attitude:enjoyment
+猥談でしたら、お任せください。=If it's a lewd story, I'll leave it up to you.
+……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=I see, so you like to get excited with obscene stories before having sex. Very well.
+//attitude:aversion
+ちょうど暇をしていたところでしたので、お付き合いしますよ。=I don't have anything better to do, so I'll keep you company.
+盛り上がるとは到底思えませんが……分かりました。=I doubt it'll be exciting, but...All right.
+//attitude:slavery
+身体ではなく、言葉でコミュニケーションを……分かりました。=You want me to communicate not with my body, but with words. I understand.
+言葉攻めですか、分かりました。=You want to verbally abuse me? Understood.
 CHOICE:親身になって話す=Speak tenderly
 CHOICE:積極的に話す=Speak aggressively
 CHOICE:受け身になって話す=Speak passively

@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//会話{0}=
+//conversation:
 //おしゃべりより、一緒に気持ち良くなりたいわ。=
 //お話もいいけど、もっと素敵な喘ぎ声を聞かせてあげたいわ。=

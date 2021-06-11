@@ -1,18 +1,18 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//会話事後B普通{0}=
+//afterconversationB:neutral{0}:
 //ありがとな、答えてくれて。=
 //お前に話してみて良かったぜ。=
-//会話事後B好意{0}=
+//afterconversationB:favor{0}:
 //お前の意見が聞けて、嬉しかったぜ。=
 //なんか、少しだけお前のことが分かったみたいで、嬉しいぜ。=
-//会話事後B享楽{0}=
+//afterconversationB:enjoyment{0}:
 //お前と話してみるのも、たまには悪くないな。=
 //いいね、色んな考え方があって、楽しくなってくるぜ。=
-//会話事後B嫌悪{0}=
+//afterconversationB:aversion{0}:
 //……もう話す事ないだろ？=
 //話、終わってもいいよな？=
-//会話事後B隷属{0}=
+//afterconversationB:slavery{0}:
 //お前の意見、中々参考になったぜ。=
 //お前の考え方、何となく俺が思ってた通りだな。=

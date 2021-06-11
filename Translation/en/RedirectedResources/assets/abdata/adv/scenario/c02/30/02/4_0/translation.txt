@@ -1,18 +1,18 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//会話事後A普通{0}=
+//afterconversationA:neutral{0}:
 //では、私達はこれで失礼しますね。=
 //それでは、私達はこれで。=
-//会話事後A好意{0}=
+//afterconversationA:favor{0}:
 //次は二人きりで、なんて……で、では。=
 //それではまた会いましょう。=
-//会話事後A享楽{0}=
+//afterconversationA:enjoyment{0}:
 //では、また楽しませてくださいね。=
 //次もまた楽しみにしていますから、では。=
-//会話事後A嫌悪{0}=
+//afterconversationA:aversion{0}:
 //それではさようなら。=
 //次は邪魔しないでください、では。=
-//会話事後A隷属{0}=
+//afterconversationA:slavery{0}:
 //今度は別の口で語り合いましょう、では。=
 //次は、お話以外も期待させてもらいますね、では。=

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//依存{0}=
+//attitude:dependence
 //私達、結婚式を上げたんだから、次のステップに進みましょ。=
 //分かってるでしょ？　結婚と言えば、初夜よ、初夜！=
 //それじゃ、早速始めましょ！=

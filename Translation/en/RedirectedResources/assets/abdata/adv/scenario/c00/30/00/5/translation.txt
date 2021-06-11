@@ -2,18 +2,18 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //・・・・・=
-//普通{0}=
-//最近楽しみにしていること……セックス以外にはないですね。つまらない女ですみません。=
-//……そう、ですね……。受け、責め……自分がどちらかはあまり意識したことがありません。=
-//好意{0}=
-//――刹那的な快楽を否定はしません。ですが……心を通わせてこそのセックスだとは個人的に思います。=
-//……性にだらしがない人ほど、本気で惚れてしまったときに尽くすのかもしれませんね。=
-//享楽{0}=
-//性に奔放なのは悪いことなのでしょうか？　無理にお行儀よくしている方が、私は間違っていると思います。=
-//……人の一生は短いですから、愉しいことは積極的に行うべきかと。=
-//嫌悪{0}=
-//……あなたの性的嗜好に興味はありません。=
-//何故、私があなたに趣味を教えなければいけないのですか？　あなたの趣味も知りたくありません。=
-//隷属{0}=
-//……叶えたい願いごと、ですか。……特にありません、現状で満足しています。あなたは何かあるのですか？=
-//……もしものことはあまり考えない様にしています。思ったところで実際に変わるわけではありませんから。=
+//attitude:neutral
+最近楽しみにしていること……セックス以外にはないですね。つまらない女ですみません。=There's nothing I've been looking forward to lately... Except sex. I'm sorry for being a boring woman.
+……そう、ですね……。受け、責め……自分がどちらかはあまり意識したことがありません。=...Let me think... Being on op or bottom... I don't think I care much either way.
+//attitude:favor
+――刹那的な快楽を否定はしません。ですが……心を通わせてこそのセックスだとは個人的に思います。=--I don't deny the momentary pleasure. But I think that the best sex happens once feelings are involved.
+//……性にだらしがない人ほど、本気で惚れてしまったときに尽くすのかもしれませんね。=...Even a person sloppy with sex will devote to it if done with somebody they care for.
+//attitude:enjoyment
+性に奔放なのは悪いことなのでしょうか？　無理にお行儀よくしている方が、私は間違っていると思います。=Is it wrong to be sexually uninhibited? I think forcing yourself to be well-behaved is worse.
+……人の一生は短いですから、愉しいことは積極的に行うべきかと。=Life is short, so i think we should do what we enjoy. 
+//attitude:aversion
+……あなたの性的嗜好に興味はありません。=...I'm not interested in your sexual preferences. 
+何故、私があなたに趣味を教えなければいけないのですか？　あなたの趣味も知りたくありません。=Why should I reveal my fetishes to you? And I don't want to know yours either. 
+//attitude:slavery
+……叶えたい願いごと、ですか。……特にありません、現状で満足しています。あなたは何かあるのですか？=...A wish I'd like to have fulfilled... Nothing I can think of, I'm happy with my situation. Would you have any in mind?
+……もしものことはあまり考えない様にしています。思ったところで実際に変わるわけではありませんから。=I try not to ponder too much about what ifs. It's not like thinking about such things can make them happen.

@@ -1,16 +1,16 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//汎用{0}=
-//私を探しにきてくださったのですか？　わざわざありがとうございます。=
-//ここまでの道すがら、他の方を抱いてはいませんか？=
-//会いたいと思った傍から、目の前に来て下さるとは……これは運命でしょうか。=
-//風呂{0}=
-//こんにちは。わざわざお風呂場まで私を探しにきてくださったのですね。=
-//お会いできて嬉しいです。お風呂に入ろうかと思っていましたが、止めにしますね。=
-//用件{0}=
-//用件は口にせずとも結構ですよ。私とセックスをするために、ここへ来られたのですよね？=
-//大丈夫です、ご用件は理解していますから。セックスのお誘いですよね？　今日はどの様なプレイをご希望ですか？=
+//general purpose:
+私を探しにきてくださったのですか？　わざわざありがとうございます。=Did you come to look for me? Thank you for taking the trouble.
+ここまでの道すがら、他の方を抱いてはいませんか？=Did you make out with someone else along the way?
+会いたいと思った傍から、目の前に来て下さるとは……これは運命でしょうか。=Appearing before me right when I most wanted it so... Is this fate?
+//bath:
+こんにちは。わざわざお風呂場まで私を探しにきてくださったのですね。=Hello. You went through the trouble of looking for me all the way into the bathroom, I see.
+お会いできて嬉しいです。お風呂に入ろうかと思っていましたが、止めにしますね。=I'm glad to see you. I was about to take a bath, but I will stop.
+//requests:
+用件は口にせずとも結構ですよ。私とセックスをするために、ここへ来られたのですよね？=No need to tell me what you want. You came here to have sex with me, right?
+大丈夫です、ご用件は理解していますから。セックスのお誘いですよね？　今日はどの様なプレイをご希望ですか？=It's ok, I understand what you want. You're asking me to have sex with you, right? How would you like to do it today?
 CHOICE:おしゃべりしたい=Ask to chat
 CHOICE:Hしたい=Ask for sex
 CHOICE:なんでもない=It's nothing

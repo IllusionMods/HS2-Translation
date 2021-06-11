@@ -2,13 +2,13 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-ここでお開きですか？　それではまた。=Are we done here? See you later.
-また三人でするのも、悪くなさそうです。=It's not a bad idea for the three of us to do it again.
-それでは、失礼します。次のお誘いも待っていますね。=Now, if you'll excuse me. I'll be waiting for your next invitation.
-3Pも悪くありませんが……いえ、何でもありません。失礼します。=Threesomes aren't so bad, but... No, it's nothing. Excuse me.
-次の機会が大変待ち遠しいです。=I am very much looking forward to the next opportunity.
-名残惜しいですが、ここで終わりですね。=I'm sorry to leave you, but I think we're done here.
-……では、失礼致します。=If you'll excuse me...
-……さようなら。=... Goodbye.
-この続きはまたの機会に。では、失礼致します。=We'll continue this another time. Now, if you'll excuse me.
-またいつでもお誘いをお持ちしています。さようなら。=I look forward to your invitation again any time. Good-bye.
+//ここでお開きですか？　それではまた。=Are we done here? See you later.
+//また三人でするのも、悪くなさそうです。=It's not a bad idea for the three of us to do it again.
+//それでは、失礼します。次のお誘いも待っていますね。=Now, if you'll excuse me. I'll be waiting for your next invitation.
+//3Pも悪くありませんが……いえ、何でもありません。失礼します。=Threesomes aren't so bad, but... No, it's nothing. Excuse me.
+//次の機会が大変待ち遠しいです。=I am very much looking forward to the next opportunity.
+//名残惜しいですが、ここで終わりですね。=I'm sorry to leave you, but I think we're done here.
+//……では、失礼致します。=If you'll excuse me...
+//……さようなら。=... Goodbye.
+//この続きはまたの機会に。では、失礼致します。=We'll continue this another time. Now, if you'll excuse me.
+//またいつでもお誘いをお持ちしています。さようなら。=I look forward to your invitation again any time. Good-bye.

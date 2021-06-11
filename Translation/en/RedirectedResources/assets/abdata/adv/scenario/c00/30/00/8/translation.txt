@@ -2,18 +2,18 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //・・・・・=
-//普通{0}=
-//長々と話し込んでしまいましたね。では、これで失礼します。=
-//色々お話できて楽しかったです。それでは。=
-//好意{0}=
-//……時が立つのは早いですね。またの機会をお待ちしています、さようなら。=
-//あなたのことを色々知れて有意義な時間でした。ありがとうございます。=
-//享楽{0}=
-//今日はありがとうございました。また、お話でもセックスでもお誘いをお待ちしています。=
-//中々興味深いお話でした。次も楽しみにしていますね。=
-//嫌悪{0}=
-//もう話すこともありませんし、失礼させていただきます。=
-//次はもう少しまともな話題を振っていただきたいですね。=
-//隷属{0}=
-//……本当にセックスはしないのですね。いえ、何でもありません。=
-//もっと猥談をしていたかったのですが、続きは次の機会に持ち越しですね。=
+//attitude:neutral
+長々と話し込んでしまいましたね。では、これで失礼します。=We've been talking for quite some time, haven't we. I shall excuse myself. 
+色々お話できて楽しかったです。それでは。=It was fun talking with you. See you.
+//attitude:favor
+……時が立つのは早いですね。またの機会をお待ちしています、さようなら。=Time really flied, didn't it? I'm looking forward to another opportunity. Goodbye.
+あなたのことを色々知れて有意義な時間でした。ありがとうございます。=I had a great time learning different things about you. Thank you very much.
+//attitude:enjoyment
+今日はありがとうございました。また、お話でもセックスでもお誘いをお待ちしています。=Thank you for your company today. I'll be waiting for your next invitation, whether for talking or having sex.
+中々興味深いお話でした。次も楽しみにしていますね。=It was an interesting story. I'm looking forward to the next one.
+//attitude:aversion
+もう話すこともありませんし、失礼させていただきます。=I have nothing more to say, so I'll be going.
+次はもう少しまともな話題を振っていただきたいですね。=I would like you to talk about something more decent next time.
+//attitude:slavery
+……本当にセックスはしないのですね。いえ、何でもありません。=...We really didn't have sex, did we? No, it's nothing.
+もっと猥談をしていたかったのですが、続きは次の機会に持ち越しですね。=I would have preffered we had some more dirty talking, but I guess we'll save it for later.

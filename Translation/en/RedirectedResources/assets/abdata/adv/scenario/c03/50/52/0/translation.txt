@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//嫌悪{0}=
+//attitude:aversion
 //電車とか……こんな所で何するつもり？=
 //言っておくけど……変なまね、しないでよね=
 //ちょっと、言った傍から何してんのっ……=

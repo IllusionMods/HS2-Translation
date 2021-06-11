@@ -1,33 +1,33 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//風呂普通{0}=
+//bath attitude:neutral
 //あら、あなたもお風呂ですか？=
 //あなたも入りに来たんですか？=
-//風呂普通用件{0}=
+//bath attitude neutral-requests
 //それで、何か？=
 //私に何か用ですか？=
-//風呂好意{0}=
+//bath attitude:favor
 //えっと、私と一緒に入りたい、とか……？=
 //こんにちは。その、先に綺麗にしておこうと思いまして……=
-//風呂好意用件{0}=
+//bath attitude:favor-requests
 //そ、それで、私に何か？=
 //私に声をかけてまで……どうしましたか？=
-//風呂享楽{0}=
+//bath attitude:enjoyment
 //あら、一緒に入りたいんですか？=
 //こんな所で出会うなんて……何を期待していたんですかね？=
-//風呂享楽用件{0}=
+//bath attitude:enjoyment-requests
 //それで、何でしょうか？=
 //さぁ、要件をどうぞ。=
-//風呂嫌悪{0}=
+//bath attitude:aversion
 //はぁ、何でこんな所で……=
 //……あなたはストーカーか何かですか？=
-//風呂嫌悪用件{0}=
+//bath attitude:aversion-requests
 //……それで？=
 //要件があるなら早くしてください。=
-//風呂隷属{0}=
+//bath attitude:slavery
 //こんにちは、あなたもお風呂に？=
 //あ……一緒に入りますか？=
-//風呂隷属用件{0}=
+//bath attitude:slavery-requests
 //どうぞ、何でも言ってください。=
 //私に出来る事なら何でも。=

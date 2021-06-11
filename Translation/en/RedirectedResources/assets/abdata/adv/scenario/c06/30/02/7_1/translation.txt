@@ -1,18 +1,18 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//なんでもない返答B普通{0}=
+//itsnothinganswerB:neutral{0}:
 //それでは、また今度お話いたしましょう。=
 //また性のお勉強を致しましょうね、さようなら。=
-//なんでもない返答B好意{0}=
+//itsnothinganswerB:favor{0}:
 //今度は３人でお話いたしましょうね、失礼いたします。=
 //また愛を語らいましょうね、ご機嫌麗しゅう。=
-//なんでもない返答B享楽{0}=
+//itsnothinganswerB:enjoyment{0}:
 //では、また後程……うふふ……♪=
 //うふふ、早めに帰ってきてくださいましね……♪=
-//なんでもない返答B嫌悪{0}=
+//itsnothinganswerB:aversion{0}:
 はぁ……=haaa...
 //困った人ですわ……=
-//なんでもない返答B隷属{0}=
+//itsnothinganswerB:slavery{0}:
 //それでは失礼いたします。=
 //どうかお元気で。=

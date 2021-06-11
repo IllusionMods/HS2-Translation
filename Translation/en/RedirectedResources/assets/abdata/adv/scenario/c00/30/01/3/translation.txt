@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//会話{0}=
-//もしかして、私の身体を労わってくださってるのですか？　大変有難いですがお気遣いは不要です。身体だけは頑丈ですから。=
-//遠慮なさらないでください。さあ、セックスをしましょう。=
+//conversation:
+もしかして、私の身体を労わってくださってるのですか？　大変有難いですがお気遣いは不要です。身体だけは頑丈ですから。=Could it be that you're taking care of my body? Thank you very much, but there's no need to worry. I'm confident it can take it.
+遠慮なさらないでください。さあ、セックスをしましょう。=Don't be shy. Come on, let's have sex.

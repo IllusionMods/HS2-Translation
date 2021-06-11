@@ -1,19 +1,19 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//普通{0}=
+//attitude:neutral
 //何を話しましょうか？=
 //お話ですか、構いませんよ。=
-//好意{0}=
+//attitude:favor
 //どんな話が聞きたいんですか？=
 //まぁ、おしゃべりくらいなら……=
-//享楽{0}=
+//attitude:enjoyment
 //時間はありますし、別に構いませんよ。=
 //私とおしゃべりですか……いいですよ？=
-//嫌悪{0}=
+//attitude:aversion
 //あなたに何を話せと……=
 //……手短にお願いします。=
-//隷属{0}=
+//attitude:slavery
 //もしかして、根掘り葉掘り聞かれちゃうんですかね？=
 //はい、何でも応えますよ。=
 CHOICE:親身になって話す=Speak tenderly
