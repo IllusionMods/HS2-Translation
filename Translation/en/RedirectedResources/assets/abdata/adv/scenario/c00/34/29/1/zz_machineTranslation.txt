@@ -2,8 +2,8 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-堂々とお覗きになるのですね。その大胆さに感服致します。=I admire your boldness. I admire your boldness.
-覗きなどせずとも、仰ってくだされば喜んで一緒に入りますのに。=You don't have to peek, just tell me and I'll gladly go in with you.
-あなたから見えやすいようにしておりましたが、お愉しみいただけましたか？=We have made it easy for you to see.
-……押し入ってこなかっただけ、まだ良かったと思うことにします。=... I'll just consider it a good thing that they didn't break in.
-あなたの熱い視線が突き刺さるものですから、身体が火照ってしまいました。=Your hot gaze pierced me, and my body was on fire.
+//堂々とお覗きになるのですね。その大胆さに感服致します。=I admire your boldness. I admire your boldness.
+//覗きなどせずとも、仰ってくだされば喜んで一緒に入りますのに。=You don't have to peek, just tell me and I'll gladly go in with you.
+//あなたから見えやすいようにしておりましたが、お愉しみいただけましたか？=We have made it easy for you to see.
+//……押し入ってこなかっただけ、まだ良かったと思うことにします。=... I'll just consider it a good thing that they didn't break in.
+//あなたの熱い視線が突き刺さるものですから、身体が火照ってしまいました。=Your hot gaze pierced me, and my body was on fire.
