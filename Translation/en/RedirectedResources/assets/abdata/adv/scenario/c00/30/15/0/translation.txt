@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//失礼します。お部屋にいらっしゃいますか？=
+失礼します。お部屋にいらっしゃいますか？=Excuse me. Are you in your room?
 CHOICE:返事をする=Answer
 CHOICE:・・・=...
-//……ご不在のようですね。日を改めて伺うとしましょう。=
+……ご不在のようですね。日を改めて伺うとしましょう。=...Looks like you're not at home. I'll come visit another day.
