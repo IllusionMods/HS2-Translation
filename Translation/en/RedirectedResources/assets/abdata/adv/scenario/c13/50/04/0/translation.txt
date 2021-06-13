@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//入浴中のようだ・・・=
+入浴中のようだ・・・=Looks like she's taking a bath...
 CHOICE:覗く=Peek
 CHOICE:悪戯する=Attack
 CHOICE:立ち去る=Leave
