@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-催してきたなぁ・・・=Looks like there's a visitor...
+催してきたなぁ・・・=Looks like someone's here...
 CHOICE:入る=Enter
 CHOICE:入らない=Don't enter
