@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//???=
-//端的に言って、ピンチですね……=
-//私としたことが、不覚です……=
-//どこからか声が聞こえる・・・=
+???=???
+端的に言って、ピンチですね……=Quite simply, I'm in a pinch.
+私としたことが、不覚です……=I made a blunder...
+どこからか声が聞こえる・・・=I hear a voice coming from somewhere...
 CHOICE:探してみる=Search
 CHOICE:無視する=Ignore
