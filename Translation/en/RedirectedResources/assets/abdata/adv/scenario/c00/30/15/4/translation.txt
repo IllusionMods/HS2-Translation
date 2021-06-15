@@ -1,4 +1,4 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//もしかして、お疲れで早く休まれたかったのでしょうか？　配慮が足りず申し訳ございません。=
+もしかして、お疲れで早く休まれたかったのでしょうか？　配慮が足りず申し訳ございません。=Could it be that you were tired and wanted to go to bed early? I appologise for being inconsiderate.
