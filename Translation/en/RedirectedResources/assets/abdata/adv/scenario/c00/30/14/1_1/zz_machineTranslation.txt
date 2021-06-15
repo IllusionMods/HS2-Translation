@@ -2,4 +2,4 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-んちゅ、ちゅ、あしゃから、りょうへに花れすれ……=I'm going to have to get a new one.
+//んちゅ、ちゅ、あしゃから、りょうへに花れすれ……=I'm going to have to get a new one.
