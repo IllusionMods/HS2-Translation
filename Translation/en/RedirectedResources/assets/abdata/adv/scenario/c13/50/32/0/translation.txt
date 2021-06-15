@@ -3,7 +3,7 @@
 //
 //部屋にいそうな気配はする・・・=
 //んん……すぅ……すぅ……=
-//すぅ……すぅ……=
+すぅ……すぅ……=Zzz... Zzz...
 CHOICE:こっそりHする=Secretly do her
 CHOICE:起きるのを待つ=Wait till she wakes up
 CHOICE:立ち去る=Leave

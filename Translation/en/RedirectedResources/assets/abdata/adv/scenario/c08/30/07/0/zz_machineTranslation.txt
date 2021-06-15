@@ -2,5 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-反応がないようだ=Doesn't seem to be responding.
+//反応がないようだ=Doesn't seem to be responding.
 んー……はぁ……=Hmm... Huh...

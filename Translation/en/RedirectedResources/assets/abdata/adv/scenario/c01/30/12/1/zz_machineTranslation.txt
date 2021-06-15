@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-………………=...
-……ん……？=... Hmm?
+//………………=...
+//……ん……？=... Hmm?
 はら？　起きひゃったのね……=Huh? You're awake...
 んちゅ……ひいのよ、ほのままねへへも……ふっきり、おおひてあえる。=Ahh... I'm so hot... Clearly, we can see each other.

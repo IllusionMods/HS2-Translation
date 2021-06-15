@@ -2,5 +2,5 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-これは……お見苦しいものをお見せして申し訳ございません。=This is... I'm sorry to show you something so unsightly.
-押し入らずにずっと覗かれていたのですか？　お人が悪いですよ。=Did you keep peeking in without breaking in? That's not very nice of you.
+//これは……お見苦しいものをお見せして申し訳ございません。=This is... I'm sorry to show you something so unsightly.
+//押し入らずにずっと覗かれていたのですか？　お人が悪いですよ。=Did you keep peeking in without breaking in? That's not very nice of you.

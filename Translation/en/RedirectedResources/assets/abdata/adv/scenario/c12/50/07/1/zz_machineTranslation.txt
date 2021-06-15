@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-すぅ……すぅ……んぅ……？=Soo... Soo... Mmm?
+//すぅ……すぅ……んぅ……？=Soo... Soo... Mmm?
 んぅ……ずっと……一緒に……=Uh... Always... Together...
-すぅ……すぅ……ふふ……=Soo... Soo... Hmm...
+//すぅ……すぅ……ふふ……=Soo... Soo... Hmm...
 んぅ……っ……嫌な……感じが……=I don't... Like... That... Feeling.
