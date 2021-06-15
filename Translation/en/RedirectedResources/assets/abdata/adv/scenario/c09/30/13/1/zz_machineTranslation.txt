@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-………………=...
-……ん……？=... Hmm?
+//………………=...
+//……ん……？=... Hmm?
 んっ、ふぅっ……あんっ……えへへ、やっぱり起こしちゃいましたかー？=Did I wake you up after all?
 はぁっ、んっ、ふふっ、こーやって起こすのもっ……愛し合う者の務めっ……ですよねっ……=It is the duty of those who love each other to wake each other up like this...

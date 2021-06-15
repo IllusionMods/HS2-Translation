@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-………………=...
-……ん……？=... Hmm?
+//………………=...
+//……ん……？=... Hmm?
 大丈夫よ、任せて……気持ち良く起こしてあげる。=Don't worry, I've got it... And I'll wake you up nice and easy.
 一緒に、気持ちよく目覚めましょう、うふふ。=Let's wake up together and feel good, ugh.

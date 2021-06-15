@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-………………=...
-……ん……？=... Hmm?
+//………………=...
+//……ん……？=... Hmm?
 んんっ、流石に、起きちゃいますか……ぁんっ、まぁ、これだけ動いてますからね……んぁっ=Why do you get up?
 んぁっ、あなたの愛、受け取りに来ました……んぁんっ♪=Oh, I've come to receive your love ♪

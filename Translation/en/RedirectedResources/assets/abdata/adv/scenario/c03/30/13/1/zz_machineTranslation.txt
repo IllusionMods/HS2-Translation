@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-………………=...
-……ん……？=... Hmm?
+//………………=...
+//……ん……？=... Hmm?
 はぁっ、おっはよ♪　私の中のは、とっくに起きてたみたいだけど♪=Huh, good morning ♪ I guess the part of me that's been up for a while ♪
 ああん、もっと大きくなったぁ♪　目覚ましファック、たまんないでしょぉ？　このままシちゃおぉ♪=Oh, it's getting bigger ♪ Can't wait to wake up, right? Let's get it on ♪

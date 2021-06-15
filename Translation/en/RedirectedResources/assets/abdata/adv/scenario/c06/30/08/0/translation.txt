@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//汗を流そうか=
+汗を流そうか=Wash the sweat away?
 CHOICE:入る=Enter
 CHOICE:入らない=Don't enter

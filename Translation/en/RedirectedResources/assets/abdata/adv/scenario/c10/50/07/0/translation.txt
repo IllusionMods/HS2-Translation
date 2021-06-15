@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//反応がないようだ=
+反応がないようだ=There seems to be no reaction.
 //はぁぅ……んぅぅ……すぅ……んぅぁ……=
 //んぅ……すぅ……はぁ……んっ……=
 CHOICE:こっそりHする=Secretly do her
