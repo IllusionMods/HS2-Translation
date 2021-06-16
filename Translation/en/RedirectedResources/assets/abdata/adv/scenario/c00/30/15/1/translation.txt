@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=I'm sorry to bother you so suddenly. I was wondering if you could keep me company for a little while?
+突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=I'm sorry to bother you so suddenly. I was wondering, would you keep me company for a little while?
 //好意50_汎用{0}=
-無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=I wandered by without realising. I would be happy if you could stay with me for a little today.
+無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=I wandered by your room without realising. I would be happy if you could stay with me for a little today.
 お会いしたいという気持ちを抑えることができず……申し訳ございません。=I appologise, but... I couldn't resist the urge to see you.
 あなたのお傍にいると、心が安らぐのを実感致します。今日も甘えてもよろしいでしょうか？=When I am by your side, I feel at ease. Would you spoil me again today?
 ・・・・・=...
