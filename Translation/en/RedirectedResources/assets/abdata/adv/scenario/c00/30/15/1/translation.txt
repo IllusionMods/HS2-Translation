@@ -11,5 +11,5 @@
 誠にありがとうございました。……それでは、私はこれで失礼致します。=Thank you very much for your time... Well then, please excuse me.
 もう少しだけ……いえ、何でもありません。誠にありがとうございました。=Just a little more... No, it's nothing. Thank you very much for your time.
 とても幸せで、かけがえのない時間をありがとうございます。=Thank you for giving me such a happy and invaluable time.
-ふと、あなたにお会いしたくなりまして……押しかけてしまい申し訳ございません。=I had a sudden urge to meet you... I'm sorry to impose on you.
+ふと、あなたにお会いしたくなりまして……押しかけてしまい申し訳ございません。=I had a sudden urge to meet you... I'm sorry to impose.
 //好意80_汎用{0}=
