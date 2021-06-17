@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=
+突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=I'm sorry to bother you so suddenly. I was wondering, would you keep me company for a little while?
 //好意50_汎用{0}=
-//無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=
-//お会いしたいという気持ちを抑えることができず……申し訳ございません。=
-//あなたのお傍にいると、心が安らぐのを実感致します。今日も甘えてもよろしいでしょうか？=
-//・・・・・=
+無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=I wandered by your room without realising. I would be happy if you could stay with me for a little today.
+お会いしたいという気持ちを抑えることができず……申し訳ございません。=I appologise, but... I couldn't resist the urge to see you.
+あなたのお傍にいると、心が安らぐのを実感致します。今日も甘えてもよろしいでしょうか？=When I am by your side, I feel at ease. Would you spoil me again today?
+・・・・・=...
 //好意50続き{0}=
-//誠にありがとうございました。……それでは、私はこれで失礼致します。=
-//もう少しだけ……いえ、何でもありません。誠にありがとうございました。=
-//とても幸せで、かけがえのない時間をありがとうございます。=
-//ふと、あなたにお会いしたくなりまして……押しかけてしまい申し訳ございません。=
+誠にありがとうございました。……それでは、私はこれで失礼致します。=Thank you very much for your time... Well then, please excuse me.
+もう少しだけ……いえ、何でもありません。誠にありがとうございました。=Just a little more... No, it's nothing. Thank you very much for your time.
+とても幸せで、かけがえのない時間をありがとうございます。=Thank you for giving me such a happy and invaluable time.
+ふと、あなたにお会いしたくなりまして……押しかけてしまい申し訳ございません。=I had a sudden urge to meet you... I'm sorry to impose.
 //好意80_汎用{0}=

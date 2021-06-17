@@ -1,13 +1,13 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//急に腰が抜けてしまいまして……だらしなくて、すみません。=
+急に腰が抜けてしまいまして……だらしなくて、すみません。=I suddenly felt my back give. I'm sorry for being so clumsy.
 //っ……こんな時にもよおすとは……恥の上塗りです……=
-//……日頃から腰を振っていたせいでしょうか。まったく力が入りません。=
+……日頃から腰を振っていたせいでしょうか。まったく力が入りません。=...I wonder if it's because I've been pumping my hips every day. I simply can't move them at all.
 //ここへきて尿意が……私はとうとう天から見放されたようです……=
-//今、あなたが救いの神に見えます。腰を痛めてしまったので、力を貸していただけませんか？=
+今、あなたが救いの神に見えます。腰を痛めてしまったので、力を貸していただけませんか？=Right now, you look like a knight in shining armor. I hurt my back, so could you please help me?
 //……すみません。理由を明かすことはできませんが、一刻も早く助けていただけないでしょうか。お願い致します。=
-//突然、腰に力が入らなくなり……もし襲うつもりでしたら、そっとしていただけないでしょうか。=
+突然、腰に力が入らなくなり……もし襲うつもりでしたら、そっとしていただけないでしょうか。=I threw my back out. If you intend to use me, please be gentle?
 //一つご報告します、我慢の限界がきて失禁してしまいそうです。失禁プレイがお嫌いでなければ、このままでも構いませんが……？=
 CHOICE:助ける=Help
 CHOICE:悪戯する=Attack
