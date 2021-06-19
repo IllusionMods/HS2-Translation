@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 結構話しちまったな。それじゃ、俺は戻るからな。=We've talked a lot. Well, I'll be back.
 色々話せてたのしかったぜ。それじゃあ、またな。=It was nice talking to you. I'll see you later.
 あれ、もうこんな時間かよ……俺、もう行くわ…話しできて楽しかったぜ。=I'm going to go now... It was fun talking to you.

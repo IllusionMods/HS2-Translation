@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ありがとう、楽しい話だったわ。=Thanks, that was a fun story.
 あなたとのおしゃべり、すごく楽しかったわ。=I really enjoyed chatting with you.
 ありがとう、本当に楽しい時間だったわ。=Thank you, it was a really fun time.

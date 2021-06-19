@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//・・・・・=
+・・・・・=...
 //attitude:neutral
 //うん、結構色々話せたんじゃない。楽しかったよ♪=
 //よっし、お話終了！　有意義な時間でしたっ♪=

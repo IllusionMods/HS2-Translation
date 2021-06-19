@@ -3,4 +3,4 @@
 //***********************************************************************
 
 だ、誰か……誰かぁ……！=Somebody... Somebody!
-帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.
+//帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.

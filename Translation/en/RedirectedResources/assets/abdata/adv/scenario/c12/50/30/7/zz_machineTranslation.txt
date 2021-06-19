@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 悪い悪い、待たせちまったな。=I'm sorry. I'm sorry I kept you waiting.
 待たせたな。もう用は済んだから、ゆっくりしようぜ。=Sorry to keep you waiting. Now that we're done here, let's take it easy.
 お待たせぇ！　悪かったな、待たせちゃって……いやぁ、スッキリしたぜぇ。=Hey, guys! I'm sorry I kept you waiting... Well, that's refreshing.

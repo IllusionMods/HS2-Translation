@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ……そ、それは過激ですね。お話を聞いているだけで、顔が赤くなってしまいます……=... Well, that's extreme, isn't it? Just listening to you, my face is turning red...
 その様なことを……私には少々刺激が強すぎます……=Such a thing... It's a little too stimulating for me.
 えっと……貴方がお望みになるのでしたら、多少は努力致します……はい。=Well... If that's what you want, I'll make some effort... Yes.

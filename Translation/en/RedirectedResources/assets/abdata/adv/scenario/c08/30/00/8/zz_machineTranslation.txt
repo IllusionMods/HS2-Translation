@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 なんかーあなたとお話だけするのってー不思議な感じっすねー。まーまた今度っすー。=I feel like it's strange to just talk with you. I'll see you next time.
 刺激的な会話だったっすねー。また話してほしいっすー。=It was a stimulating conversation. I hope we can talk again.
 昔は自分に関係ない話は興味なかったんすけど、あなたと話すときは色々考えちゃうっすよー。=In the past, I wasn't interested in talking about things that didn't concern me, but when I talk to you, I think a lot.

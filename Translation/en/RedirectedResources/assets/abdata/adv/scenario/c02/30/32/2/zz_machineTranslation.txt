@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 あ……す、すいません、疲れが溜まっていたみたいで……=Oh, I'm sorry, I'm just so tired...
 あ……もしかして待っててくれたんですか？　……ありがとうございます。=Oh... You've been waiting for me, haven't you? Thank you very much.
 あら……わざわざ待っててくれたんですか？　おかげでゆっくり出来ましたけど。=Oh... You waited for me all the way? Thanks to you, I was able to relax.

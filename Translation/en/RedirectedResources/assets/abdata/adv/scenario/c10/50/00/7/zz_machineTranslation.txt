@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 まぁっ、そんなことまで……刺激的ですね……=Ahhh, that's so... Exciting...
 えっと、趣味は人それぞれですから……=Well, everyone has their own hobbies, so...
 そういうのが、お好きなんですね……覚えておきます。=That's the kind of thing you like... I'll keep that in mind.

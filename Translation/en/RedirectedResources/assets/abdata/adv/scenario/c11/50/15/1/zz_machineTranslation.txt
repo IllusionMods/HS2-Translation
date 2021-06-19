@@ -6,7 +6,7 @@
 少しの間だけ、貴方の傍にいても宜しいでしょうか？=Can I stay with you for a little while?
 お時間が宜しければ、少々お話でも致しませんか？=If you have a moment, would you like to have a chat?
 失礼致します。貴方のお部屋を尋ねる際は、いつも胸が高鳴ってしまいます。=Excuse me. I always feel excited when I ask for your room.
-・・・・・=・・・・・
+//・・・・・=・・・・・
 我儘を聞いて頂き、誠に有難うございます。それでは……さようなら。=Thank you very much for listening to my selfishness. So... Good-bye.
 あまり長居をしてはご迷惑になりますね。名残惜しいですがお暇させて頂きます。=I don't want to bother you if I stay too long. I'm sorry to leave, but I'm going to leave now.
 分かれる間際はいつも寂しくなります。また、お部屋を訪ねても宜しいでしょうか？=I always feel lonely when I am about to leave. Is it okay if I visit your room again?

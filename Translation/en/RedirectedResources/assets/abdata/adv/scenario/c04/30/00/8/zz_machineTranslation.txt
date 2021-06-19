@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 お話タイムしゅーりょー。で、よかったん？　まだ何か話したいことあった？=It's story time, thank you. So, are you happy? Was there anything else you wanted to talk about?
 ふぅ、何気に結構話し込んじゃったね。=Hmmm... I've been talking a lot.
 んふ、アンタと話してると、時間が経つのが早いわ♪=Time flies when I'm talking to you ♪

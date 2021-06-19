@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 おいおい、よくやるな……=Oh, come on. You do that a lot...
 ……なぁ、そこまでする必要があるのか？=... Hey, is it really necessary to go that far?
 まったく、恐れ入ったな……=I'm afraid you're gonna have to...

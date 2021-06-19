@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 色々お話できて楽しかったです。貴方のことが、少し分かった気がします。=I enjoyed talking with you. I feel like I understand you a little better now.
 会話だけでも、大分時間を使ってしまいましたね。ご迷惑ではなかったですか？=We spent a lot of time just talking to each other, didn't we? I hope I didn't bother you.
 お話、すごく面白かったです。色々と参考になることもありましたし、とても有意義な時間でした。=I really enjoyed your talk. It was a very meaningful time, and I learned a lot of useful things.

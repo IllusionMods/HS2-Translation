@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 あれ？　俺が出るまで待っててくれたのか？　わかった、一緒に過ごそうぜ。=Huh? You were waiting for me to leave? All right, let's spend some time together.
 これから俺と一緒に？　うん、いいぜ。風呂入ったばっかりだからちょうどいいな。=You're coming with me now? Yeah, sure. I just took a bath, so it's perfect.
 風呂上りで綺麗になった俺を、さっそく汚しに来たんだな。=I'm clean after my bath, and you're here to get me dirty.

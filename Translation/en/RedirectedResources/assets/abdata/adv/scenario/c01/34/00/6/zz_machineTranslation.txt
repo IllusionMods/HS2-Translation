@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 あなたが喜ぶなら、私は良いと思うわ。=If it makes you happy, I think it's good.
 この話題なら、私も楽しめると思うわ。=I think I'd enjoy this topic.
 こんなお話もできるなんて、やっぱりあなたの事、好きだわ。=I really like you that we can talk like this.

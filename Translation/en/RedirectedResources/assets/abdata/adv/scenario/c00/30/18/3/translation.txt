@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//この様な姿のままで良いのでしたら、どうぞお好きになさってください。=
-//逆の立場でしたら、私も同じことをすると思うので……致し方ありませんね。=
-//あなたに期待した私が馬鹿でしたね。=
-//好き放題されてしまうのですね……昂ります。=
+この様な姿のままで良いのでしたら、どうぞお好きになさってください。=If this is how you want it, please do as you wish.
+逆の立場でしたら、私も同じことをすると思うので……致し方ありませんね。=If our roles were reversed, I would do the same thing... It can't be helped.
+あなたに期待した私が馬鹿でしたね。=I was stupid to have expected anything else from you.
+好き放題されてしまうのですね……昂ります。=I can't stop you from doing whatever you want... It'm getting excited.

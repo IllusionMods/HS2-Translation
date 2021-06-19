@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 いいわね、この話題……すごく盛り上がるわ。=I like this topic... It's very exciting.
 なかなか興味のある話だわ……楽しくなりそうね。=That's quite an interesting story... It's going to be fun.
 いいわね、あなたの話題……本当に楽しいわ。=Great, your topic... Really fun.

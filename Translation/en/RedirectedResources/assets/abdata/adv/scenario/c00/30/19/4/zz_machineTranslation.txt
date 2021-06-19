@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-この様な間抜けな女は、失望されて当然ですね……=A dumb woman like her deserves to be disappointed...
-……見て見ぬふりをされるのが、一番辛いです。=... It's the hardest thing for me to pretend not to see.
-困っている人を助けることもしないのですね。=You don't even help people in need.
-ここで放置プレイですか……勿論、嫌いではありません。=You're leaving me in the dark here... Of course I don't mind.
+//この様な間抜けな女は、失望されて当然ですね……=A dumb woman like her deserves to be disappointed...
+//……見て見ぬふりをされるのが、一番辛いです。=... It's the hardest thing for me to pretend not to see.
+//困っている人を助けることもしないのですね。=You don't even help people in need.
+//ここで放置プレイですか……勿論、嫌いではありません。=You're leaving me in the dark here... Of course I don't mind.

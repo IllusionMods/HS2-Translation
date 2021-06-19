@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 それは……ロマンチックですね。とても素敵だと思います。=That's... That's romantic. I think it's very nice.
 ふふ、貴方は……思いやりのある人なのですね。=Hmm, you are a... You are a caring person.
 その、凄く参考になります。メモを取りたいくらいです。=Its, it's so helpful. I want to take notes on it.

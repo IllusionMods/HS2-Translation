@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 まぁ、言いたいことは分からなくもない……=Well, I don't know what you mean...
 おい、こんなところで話す内容か？=Hey, is this really the place to talk about this?
 つまりどういうことだ？　もう少し分かりやすく話せ。=What's that supposed to mean? Speak more clearly.

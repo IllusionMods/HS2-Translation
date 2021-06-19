@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//・・・・・=
+・・・・・=...
 //attitude:neutral
 //それは……ロマンチックですね。とても素敵だと思います。=
 //ふふ、貴方は……思いやりのある人なのですね。=

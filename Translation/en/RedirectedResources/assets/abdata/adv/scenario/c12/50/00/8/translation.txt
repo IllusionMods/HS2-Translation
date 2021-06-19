@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//・・・・・=
+・・・・・=...
 //attitude:neutral
 //結構話しちまったな。それじゃ、俺は戻るからな。=
 //色々話せてたのしかったぜ。それじゃあ、またな。=

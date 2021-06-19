@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 うーん、また微妙なとこ突いてくるね～。=Hmm, you're hitting on a subtle point again!
 ……コイバナって、そこまで得意じゃないんだよねぇ。=... I'm not that good at conversations, you know.
 あー分かる。分かりみが深い。=Oh, I understand. It's deep.

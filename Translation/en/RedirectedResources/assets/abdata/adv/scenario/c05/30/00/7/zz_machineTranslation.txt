@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 な、なるほど……確かに……そ、そういうのにも興味は……あります……=I see... You're right... I'm interested in that kind of thing too...
 は……ぅぅ……そ、それって……すごく恥ずかしいこと……ですよね？=That's... That's... Very embarrassing, isn't it?
 ……ま、まさか……そんなことまでしちゃうんですか……す、すごいです……=I can't believe you'd do something like that... It's amazing...

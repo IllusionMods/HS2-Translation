@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 話しだけってのも、まぁまぁ楽しめたな。=I enjoyed the idea of just talking about it, I guess.
 退屈はしなかったな。また話してやってもいい。=I wasn't bored, was I? We can talk again.
 もうこんな時間か。つい話し込んじまったな。=Is it that time already? I must have gotten carried away.

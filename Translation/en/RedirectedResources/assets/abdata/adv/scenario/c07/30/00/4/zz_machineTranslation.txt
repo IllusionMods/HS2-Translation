@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 そうか、オレには縁の薄い話だな。=Well, that's not really my thing, is it?
 まぁ、分からなくもねぇが……=Well, I don't know, but...
 そんなもんだろ？　深く考える程のことでもねぇよ。=That's how it is, right? It's not something to think about too much.

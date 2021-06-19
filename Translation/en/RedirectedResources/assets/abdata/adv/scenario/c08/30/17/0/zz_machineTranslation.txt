@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-???=????
+//???=????
 誰かいないっすかー……？=Is anyone out there?
 はー……セックスしてー……=I want to have sex with you...
-どこからか声が聞こえる・・・=I can hear voices coming from somewhere...
+//どこからか声が聞こえる・・・=I can hear voices coming from somewhere...

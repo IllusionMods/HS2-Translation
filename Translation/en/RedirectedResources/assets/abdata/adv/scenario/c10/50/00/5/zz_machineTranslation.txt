@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 つまりそれは……凄いことですね！=I mean, that's... That's great!
 そこまでは……私にはできそうにありません。=That much... I don't think I can do.
 それは刹那的というか……別に否定はしませんが……=I don't mean to deny that it's momentary, but...

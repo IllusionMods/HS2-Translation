@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 お楽しみ頂けたのでしたら、幸いです。=I hope you enjoyed it.
 私で良ければ、また何時でもお付き合い致します。=If it's okay with you, I'm always happy to help.
 うふふ、つい話し込んでしまいましたね。=I'm sorry, I just got carried away.

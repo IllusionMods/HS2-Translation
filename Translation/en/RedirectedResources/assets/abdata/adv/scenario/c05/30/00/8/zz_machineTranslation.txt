@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 え、ええ、それではまた。=Yeah, yeah, I'll see you then.
 お、お話出来て嬉しかったです。=Oh, it was a pleasure to talk to you.
 た、楽しいお話を……ありがとうございました。=Thank you very much for your kind words.

@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 おぉ……なんか面白そうな話じゃん？=Oh... That sounds like an interesting story, doesn't it?
 うわ……そこまでしちゃうんだ？=Wow... You'd go that far?
 ……ぁはは、アンタ過激だね。=... Hahaha, you're so radical.

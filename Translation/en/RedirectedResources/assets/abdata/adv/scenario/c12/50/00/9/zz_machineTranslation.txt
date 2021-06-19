@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 なぁ、良かったら、このまましちゃわねぇか？=Hey, why don't we just do this, if you don't mind?
 なんか、妙にやりたくなってきたんだけど……お前、どう？=I've got a strange urge to do something... You, what do you think?
 あのさ、よかったら、俺、まだ時間あるんだけど、この後、どうだ？=Hey, if you don't mind, I still have some time left, how about after this?

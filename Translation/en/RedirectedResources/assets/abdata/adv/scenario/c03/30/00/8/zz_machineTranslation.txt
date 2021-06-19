@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 うん、結構色々話せたんじゃない。楽しかったよ♪=Yeah, we talked about a lot of things, didn't we? It was fun ♪
 よっし、お話終了！　有意義な時間でしたっ♪=Okay, end of story! It was a good time ♪
 もっと話してたかったけど、際限なくなっちゃいそうだしね。=I would have liked to talk more, but it seems like there's no limit to what I can say.
