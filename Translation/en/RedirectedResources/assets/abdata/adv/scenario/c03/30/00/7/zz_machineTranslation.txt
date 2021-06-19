@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 へぇ、そういう趣味があったんだ……=Oh, I didn't know you had that kind of taste...
 うそ、そんなことまでしちゃうの？=Ahhh, you'd do that?
 えっと……もうちょっと詳しく聞かせて？=Um... Can you be a little more specific?

@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 悪くないと思うわ、その話。=I don't think that's a bad idea, that story.
 いいわね、私この話、大好きよ。=Great, I love this story.
 あなたと、この話ができるなんて、すごく嬉しいわ。=I'm so happy to be able to talk about this with you.

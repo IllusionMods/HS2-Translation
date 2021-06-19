@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 あーはいはい、そっち系の話ね。アンタも好きだねぇ……=Yeah, yeah, yeah, that's what I'm talking about. You like that too...
 えぇっ、いきなりそういう話をされてもねぇ……=Well, I don't know if that's what you're talking about...
 ちょ、あんま大きい声でそういうこと話さないっ。=Don't talk about that kind of thing too loudly.

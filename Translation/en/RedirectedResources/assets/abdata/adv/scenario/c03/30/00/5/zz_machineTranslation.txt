@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ちょっ、それは流石に過激じゃない？=Wait, that's a bit extreme, isn't it?
 うわー、そこまで考えたことはなかった……=Wow, I hadn't thought that far ahead...
 まぁ、一度意識しちゃうとね……=Well, once you're aware of it...

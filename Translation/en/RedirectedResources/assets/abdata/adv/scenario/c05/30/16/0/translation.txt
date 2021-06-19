@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//女の子が見当たらない。どうしようか・・・=
+女の子が見当たらない。どうしようか・・・=I don't see her. What should I do...?
 CHOICE:放っておく=Choose someone else
 CHOICE:急いで探しに行く=Hurry and search
 CHOICE:身体に教え込む=Teach her a lesson

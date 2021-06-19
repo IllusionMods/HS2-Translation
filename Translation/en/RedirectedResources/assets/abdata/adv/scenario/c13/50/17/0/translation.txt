@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //セリフ{0}=
-//???=
+???=???
 //あの人が助けに来てくれたら……運命、なんて……=
 //その、だれかいませんか……？=
-//どこからか声が聞こえる・・・=
+どこからか声が聞こえる・・・=I hear a voice coming from somewhere...
 CHOICE:探してみる=Search
 CHOICE:無視する=Ignore

@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 わぁ、いーじゃないですかー。誰かに好かれるってことは素敵なことですよー！=Wow, isn't it nice! It's nice to be liked by someone!
 まぁ、好意にも色々ありますからね。そーいうのも悪いことじゃないですよ！=Well, there are many kinds of favors, aren't there? There's nothing wrong with that!
 え……わたしはどーかって？　そ、そーですね……なんか、うーん……直球で聞かれると照れちゃいますよ……=Well... What about me? Well, I guess I'm a little embarrassed if you ask me directly...

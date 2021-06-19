@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 待たせてわりぃな。匂いとか残ってるか？　あぁいや、やっぱり嗅がなくていい。=Sorry to keep you waiting. Is there any smell left? No, you don't have to smell it.
 まぁあれだ。これでオマエも、気兼ねなくトイレに行けるだろ？　お互い妙な気遣いは無用ってことだ。=Well, there you have it. Now you can go to the bathroom without hesitation, right? There's no need for us to worry about each other.
 まさか、大人しく待ってるとはな。いや、別に悪いことじゃねぇが、少し予想外だっただけだ。=I didn't expect you to wait quietly. No, there's nothing wrong with that, it's just a little unexpected.

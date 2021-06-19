@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ―――なるほど、そういった受け取り方もされるんですね。=---I see, that's how it's received.
 どうしてそんな面倒な事に自分から足を踏み入れるんですかね……？=Why would you voluntarily step into such a messy situation?
 ……え、わ、私ですか？　私は、その……いい、と思います……=Ahhh, is that me? I think it's... Okay...

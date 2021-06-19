@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 あれ～……ふわぁあぁ……いつからいたんすかー？　もしかして、待っててくれたんすかねー？=Huh~... Wow... Did you come sometime? Could it be that you were waiting for me?
 おっとびっくりー、出待ちっすかー？　えー、いつからいたんすかーかなり嬉しいんすけどー。=I'm surprised, you're waiting for me? I'm really happy to hear that.
 あれ、もしかして待っててくれたんすかー？　寝込みを襲ってくれてもよかったんすけどねー。=Oh, you were waiting for me, weren't you? You could have attacked me in my sleep, though.

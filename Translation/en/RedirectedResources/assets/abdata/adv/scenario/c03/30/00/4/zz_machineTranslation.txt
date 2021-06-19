@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 まぁ、私はいい友達で終わりやすいからなぁ……=Well, I tend to end up being a good friend, so...
 え、もしかして……恋の話ですか？=What, are you talking about... Love?
 ふふ、ずっと話してたいってことなら、私もよくあるよ。=Hmmm... If you want to talk all the time, I often do.

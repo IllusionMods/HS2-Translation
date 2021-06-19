@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ……そ、そうですね……好きな方に喜んでもらえるのなら……わ、私はいいと思いますけど……=... Well, yes... If it makes the person you like happy... Well, I think it's fine...
 ……え、えっと……こうやってお話する時間も……そ、そういうことに含まれるんだと思います……=... Well, well, well, I think that time spent talking like this... Well, I think that time spent talking like this is included in that...
 ……な、何気ない会話でも……きっと少しずつ……距離は縮まるのかなって……思ってますよ。=Even if it's just a casual conversation, I'm sure it will gradually bring us closer together.

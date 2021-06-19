@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ……好きだからって、何でも言う事聞くかって言われたら……俺は嫌だな。=... If you're asking me if I'm going to do whatever you say just because I like you, I don't want to.
 ……命令とお願いは違うだろ？　まぁ、人それぞれだと思うけどな。=... There's a difference between an order and a request, right? Well, I guess it depends.
 う～ん、恋とか愛とかよくわかんねぇけど……相手が喜ぶことをしたいって思うのは普通だろ。=I don't know about love or romance, but I think it's normal to want to do what makes the other person happy.

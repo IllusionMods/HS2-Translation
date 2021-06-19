@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//???=
+???=???
 //誰かいないっすかー……？=
 //はー……セックスしてー……=
-//どこからか声が聞こえる・・・=
+どこからか声が聞こえる・・・=I hear a voice coming from somewhere...
 CHOICE:探してみる=Search
 CHOICE:無視する=Ignore

@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 はいー、ありがとうございましたー！=Yes, thank you very much!
 ではでは、また！=I'll see you around!
 色んなことが聞けて楽しかったですよー！=It's been fun hearing about all the different things you've been up to!

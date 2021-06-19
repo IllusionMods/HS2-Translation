@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 へぇ……ちょっと興味あるかも。=Hmm... I might be interested in that.
 なんか……危ない話してる？=Are we talking about something... Dangerous?
 それはそれで、凄いと思うけど……=That would be awesome, but...

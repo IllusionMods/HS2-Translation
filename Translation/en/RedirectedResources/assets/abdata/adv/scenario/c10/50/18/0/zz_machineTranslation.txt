@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-???=????
+//???=????
 うぅ……どなたかいませんかー？=Umm... Is anyone here?
 助けてください……誰か……お願いします……=Please help... Someone... Please...
-どこからか声が聞こえる・・・=I can hear voices coming from somewhere...
+//どこからか声が聞こえる・・・=I can hear voices coming from somewhere...

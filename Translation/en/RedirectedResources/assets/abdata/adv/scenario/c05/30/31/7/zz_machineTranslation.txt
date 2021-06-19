@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ま、待っててくれたんですね、ありがとうございます。=Well, you've been waiting for me. Thank you.
 思ったよりも遅くなってしまって……ごめんなさい。=I'm sorry it's taken me longer than I expected... Sorry.
 お待たせしました。ふふっ、待ってる間、どんなことを考えてくれてたんですか？=Thank you for waiting. Hmm, what did you have in mind while you were waiting?

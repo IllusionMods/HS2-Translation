@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 それはアリ……なのかなぁ？=I wonder if that's possible?
 また微妙なラインだね……判定がムズイわ。=It's another fine line... The judgment is moot.
 ……嫌じゃないけど、そこまではちょっとかなぁ。=... I don't mind, but I'm not sure I want to go that far.

@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 //……そうですね。余程憎い相手でもない限り、人から寄せられる好意は嬉しいものだと思います。=... That's right. I think it's nice to receive favors from people unless you hate them very much.
 //――私も昔は生娘でしたから、恋に苦い経験はございます。今では笑って話せる良い思い出ではありますが。=I used to be a raw girl, so I have had some bitter experiences in love. It's a good memory that I can laugh about now, though.
 //……お恥ずかしい話ですが、当時好きだったドラマの告白シーンが印象的だったせいか、少し恋に夢見がちになってしまいました。=... I'm embarrassed to say that I've become a bit dreamy about love, probably because of the impressive confession scene in a drama I liked at the time.

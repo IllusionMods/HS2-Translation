@@ -6,7 +6,7 @@
 あなたと少しでも話したくて、来ちゃったのよ。=I came here to talk to you, if only for a moment.
 もしよかったら、ちょっとお話しない？=If you don't mind, I'd like to have a word with you.
 会いたくて来ちゃったわ。=I've come to see you.
-・・・・・=・・・・・
+//・・・・・=・・・・・
 付き合ってくれてありがとう。=Thanks for hanging out with me.
 とっても楽しかったわ。=It was a lot of fun.
 ありがとう。また会いに来てもいいかしら？=Thank you. Do you mind if I come and see you again?

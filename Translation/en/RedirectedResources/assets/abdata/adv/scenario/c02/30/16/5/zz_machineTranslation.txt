@@ -3,4 +3,4 @@
 //***********************************************************************
 
 もう、嫌……こんな場所、二度と来ませんから……っ！=I don't want to come back to this place again!
-帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.
+//帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.

@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 こういった人生です、楽しんだ者勝ちですよね結局は。=In the end, it's all about having fun, isn't it?
 ―――その楽しみ方は私も知りませんでしたね……=---I didn't know how to enjoy that either...
 ―――そういった楽しみ、あなたと一緒に経験してみたい……です……=I'd like to experience that kind of fun with you...

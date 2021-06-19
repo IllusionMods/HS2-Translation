@@ -3,4 +3,4 @@
 //***********************************************************************
 
 これ以上、貴方の傍にはいられません。本日限りで失礼させて頂きます。=I can't stay with you any longer. I'm sorry to leave you today.
-帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.
+//帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.

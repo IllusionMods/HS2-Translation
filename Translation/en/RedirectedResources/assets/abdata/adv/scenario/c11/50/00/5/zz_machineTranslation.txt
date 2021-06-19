@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 へ？　それは誠のお話なのですか？　驚きです……=Heh? Is that a sincere story? I'm surprised...
 ……人それぞれですね。私にはない発想でした。=... To each his own, I guess. It was an idea I never had.
 ……わ、私に出来るかは分かりませんが、参考に致しますっ。=... I don't know if I can do it, but I will refer to it.

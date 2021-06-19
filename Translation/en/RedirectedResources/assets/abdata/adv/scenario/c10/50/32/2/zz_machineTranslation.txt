@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 あら……もしかして、私を待っていてくださったのですか？　すみません。そうと分かっていれば、すぐにでも起きたのですが……=Oh... You were waiting for me, weren't you? I'm sorry. If I had known that, I would have woken up right away, but...
 ぇ……貴方が私を待っていてくれるなんて……嬉しい気持ちと、申し訳ない気持ちで……今、少し混乱しています。=I'm a little confused right now, because I feel happy and sorry that you are waiting for me.
 本当は、寝込みを襲うつもりだったのでは？　ふふ、冗談ですよ♪　そんなことをせずとも、貴方とならいつでも……=You were actually planning to attack me in my sleep, weren't you? I'm just kidding... I don't need to do that, I can do it with you anytime ♪

@@ -3,4 +3,4 @@
 //***********************************************************************
 
 もう最悪だぜ。これ以上、俺にさわるんじゃねぇよ！=This sucks, man. Don't you dare touch me any more!
-帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.
+//帰られてしまいましたね、残念な事です。=I'm sorry to hear that you've left.

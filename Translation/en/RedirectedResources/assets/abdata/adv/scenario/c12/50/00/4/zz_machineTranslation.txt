@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 ……そうだな、やっぱり人から好きって言われるのは嬉しいもんだぜ。=... Well, it's always nice when people say they like you.
 ――俺も昔は恋愛とか興味あったけどさ……今もないわけじゃないんだぜ。=--I used to be interested in love and stuff... But it's not like I'm not still.
 ……お前と恋愛の話とかすると思わなかったな……いや、別に嫌じゃないぞ……むしろ、その……=... I never thought I'd be talking about love with you... No, I don't mind... It's more like...

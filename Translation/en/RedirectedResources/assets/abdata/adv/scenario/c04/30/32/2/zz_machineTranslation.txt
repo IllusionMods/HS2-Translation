@@ -2,7 +2,7 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-・・・・・=・・・・・
+//・・・・・=・・・・・
 あれ、来てたん？　やば、めっちゃ寝てた……ごめん！=Oh, you're here? Oh no, I was asleep... Sorry!
 うわ、来てたんならノックでもなんでもして起こしてくれれば良かったのに。アタシ、別に起こされても怒ったりしないよ？=Wow, if you were here, you should have knocked or something to wake me up. I wouldn't be mad if you woke me up, you know.
 え？　そこでずっと待ってたの？　マジかぁ……折角来てくれたんなら、夜這いくらい許してあげたのにぃ。=What? You've been waiting there all this time? Seriously... If you had come all the way here, I would have allowed you to crawl in the night.
