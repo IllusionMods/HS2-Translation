@@ -36,7 +36,7 @@
 机後背位=Desk Doggy
 カウンターバック=Against Counter Behind
 階段後背位=Stairs Doggy
-壁穴後背位=Wall Hole Sex
+壁穴後背位=Trapped Wall Sex
 しゃがみ挿入=Crouch Insertion
 またがり挿入=Straddle Insertion
 ソファー側位=Sofa on Side
