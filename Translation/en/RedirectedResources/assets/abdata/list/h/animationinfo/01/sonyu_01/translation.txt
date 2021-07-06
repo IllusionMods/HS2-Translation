@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 正常位=Missionary
-胸もみ正常位=Breast Fondling Miss.
+胸もみ正常位=Breast Grope Miss.
 後背位=Doggy
 中腰バック=Kneeling Behind
 側位=Spooning
 騎乗位=Cowgirl
-胸もみ騎乗位=Chest Fondling Cowgirl
+胸もみ騎乗位=Chest Grope Cowgirl
 背面騎乗位=Reverse Cowgirl
 マングリ正常位=Piledriver Missionary
 屈脚位=Bent Missionary
@@ -36,7 +36,7 @@
 机後背位=Desk Doggy
 カウンターバック=Against Counter Behind
 階段後背位=Stairs Doggy
-壁穴後背位=Trapped Wall Sex
+壁穴後背位=Trapped Wall Doggy
 しゃがみ挿入=Crouch Insertion
 またがり挿入=Straddle Insertion
 ソファー側位=Sofa on Side
