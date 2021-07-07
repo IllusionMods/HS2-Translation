@@ -26,8 +26,8 @@
 逆駅弁=Reverse Lifting
 素股=Thighjob
 立ち拘束=Stockade
-壁立ちバック=Against Wall Facing
-アナル壁立ちバック=Against Wall Anal
+壁立ちバック=Wall-Facing Behind
+アナル壁立ちバック=Wall-Facing Anal
 椅子背面座位=Chair Sitting Behind
 アナル椅子後背位=Anal Doggy on Chair
 椅子素股=Chair Intercrural
@@ -36,7 +36,7 @@
 机後背位=Desk Doggy
 カウンターバック=Against Counter Behind
 階段後背位=Stairs Doggy
-壁穴後背位=Trapped Wall Doggy
+壁穴後背位=Wall-Trapped Doggy
 しゃがみ挿入=Crouch Insertion
 またがり挿入=Straddle Insertion
 ソファー側位=Sofa on Side
