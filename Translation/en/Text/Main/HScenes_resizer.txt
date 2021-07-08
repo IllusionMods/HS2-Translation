@@ -2,10 +2,15 @@
 
 // H GUI
 
-/UI/ClothPanel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content/CoordinatesNode(Clone)/Text=UGUI_VerticalOverflow(truncate)
-/UI/ClothPanel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content/CoordinatesNode(Clone)/Text=ChangeFontSizeByPercentage(0.75)
+UI/ClothPanel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content=IgnoreFontSize()
+UI/ClothPanel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content/CoordinatesNode(Clone)/Text=UGUI_VerticalOverflow(truncate)
+UI/ClothPanel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content/CoordinatesNode(Clone)/Text=ChangeFontSizeByPercentage(0.9)
 
 
-/UI/ClothPanel/ScrollView/Viewport/Acs=UGUI_HorizontalOverflow(wrap)
-/UI/ClothPanel/ScrollView/Viewport/Acs=UGUI_VerticalOverflow(truncate)
-/UI/ClothPanel/ScrollView/Viewport/Acs=ChangeFontSizeByPercentage(0.85)
+UI/ClothPanel/ScrollView/Viewport=IgnoreFontSize()
+UI/ClothPanel/ScrollView/Viewport/Acs=UGUI_HorizontalOverflow(wrap)
+UI/ClothPanel/ScrollView/Viewport/Acs=UGUI_VerticalOverflow(truncate)
+UI/ClothPanel/ScrollView/Viewport/Acs=ChangeFontSizeByPercentage(0.9)
+
+UI/MotionList/Scroll View/Viewport=IgnoreFontSize()
+UI/MotionList/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.9)

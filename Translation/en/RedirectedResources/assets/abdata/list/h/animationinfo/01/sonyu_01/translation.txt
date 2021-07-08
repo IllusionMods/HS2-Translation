@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 正常位=Missionary
-胸もみ正常位=Breast Fondling Missionary
+胸もみ正常位=Breast Grope Missionary
 後背位=Doggy
 中腰バック=Kneeling Behind
 側位=Spooning
 騎乗位=Cowgirl
-胸もみ騎乗位=Chest Fondling Cowgirl
+胸もみ騎乗位=Chest Grope Cowgirl
 背面騎乗位=Reverse Cowgirl
 マングリ正常位=Piledriver Missionary
 屈脚位=Bent Missionary
@@ -17,7 +17,7 @@
 チングリピストン=Reverse Piledriver
 騎乗素股=Cowgirl Intercrural
 手コキ素股=Handjob Intercrural
-拘束正常位=Floor Bondage Missionary
+拘束正常位=Floor Bondage Miss.
 無理やり正常位=Forced Missionary
 立位=Standing
 立ちバック=Standing Behind
@@ -26,8 +26,8 @@
 逆駅弁=Reverse Lifting
 素股=Thighjob
 立ち拘束=Stockade
-壁立ちバック=Against Wall Behind
-アナル壁立ちバック=Against Wall Anal
+壁立ちバック=Wall-Facing Behind
+アナル壁立ちバック=Wall-Facing Anal
 椅子背面座位=Chair Sitting Behind
 アナル椅子後背位=Anal Doggy on Chair
 椅子素股=Chair Intercrural
@@ -36,10 +36,10 @@
 机後背位=Desk Doggy
 カウンターバック=Against Counter Behind
 階段後背位=Stairs Doggy
-壁穴後背位=Wall Doggy
+壁穴後背位=Wall-Trapped Doggy
 しゃがみ挿入=Crouch Insertion
 またがり挿入=Straddle Insertion
 ソファー側位=Sofa on Side
 ソファー騎乗位=Sofa Cowgirl
 風呂挿入=Bath Insertion
-分娩台挿入=Delivery Table Insertion
+分娩台挿入=Delivery Table Insert
