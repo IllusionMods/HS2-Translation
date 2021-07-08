@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/kkkk1111/hs_male_suits.unity3d
@@ -18,14 +18,6 @@ HS男西装 上衣=HS Men's Suit Pants
 // chara/sena_mod/sena_mJersey.unity3d
 [SENA]ジャージ=[SENA] Jersey
 [SENA]トレーニングパンツ=[SENA] Training Pants
-
-// chara/sena_mod/sena_p_assault.unity3d
-[SENA]アサルトスーツ下=[SENA] Assault Uniform Bottom
-[SENA]防弾スーツ下=[SENA] Armored Assault Uniform Bottom
-
-// chara/sena_mod/sena_pm01rp.unity3d
-[SENA]警備出動服下=[SENA] Police Uniform Bottom
-[SENA]警備防護衣下=[SENA] Armored Police Uniform Bottom
 
 // chara/sena_mod/sena_pm02.unity3d
 [SENA]警備パンツ=[SENA] Security Pants

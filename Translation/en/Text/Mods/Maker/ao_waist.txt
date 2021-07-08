@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // DLM/DE/waist.unity3d
@@ -28,15 +28,6 @@
 // chara/sena_mod/sena_lddelf.unity3d
 [SENA]DElfレイピア（納刀）=[SENA] DElf Rapier (Sword)
 [SENA]DElfレイピア（鞘）=[SENA] DElf Rapier (Sheath)
-
-// chara/sena_mod/sena_p_assault.unity3d
-[SENA]ASホルスター=[SENA] AS Holster
-[SENA]AS無線機ポーチ=[SENA] AS Radio Pouch
-[SENA]ASタイラップホルダ=[SENA] AS Tie Wrap Holder
-[SENA]ASマガジンポーチS=[SENA] AS Magazine Pouch S
-[SENA]ASマガジンポーチL=[SENA] AS Magazine Pouch L
-[SENA]ASマルチポーチM=[SENA] AS Multi Pouch M
-[SENA]ASマルチポーチS=[SENA] AS Multi Pouch S
 
 // chara/sena_mod/sena_pm_item01.unity3d
 [SENA]帯革=[SENA] Leather Belt

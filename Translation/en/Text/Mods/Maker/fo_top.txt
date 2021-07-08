@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/kkkk1111/hs_idol_top.unity3d
@@ -38,14 +38,14 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 // chara/kkkk1111/sexy_evening_dress.unity3d
 性感晚礼服=Sexy Evening Dress
 
+// chara/ljlsdq_kuangsan/ljlsdq_kuangsan.unity3d
+ljlsdq_kuangsan=[ljlsdq] Kurumi
+
 // shiraore/tshirt.unity3d
 [shiraore]Tシャツ-DS=[shiraore]T Shirt -DS
 
 // chara/skonb/fo_top_shimakaze.unity3d
 ノースリーブセーラー=Sleeveless Sailor
-
-// chara/skonb/fo_top_taisou.unity3d
-シャツイン体操着=Shirtless Gym Uniform
 
 // chara/cuzkuz/cuzkuz_top_01.unity3d
 八十八学園ブラウス=88th Academy Blouse
@@ -125,12 +125,6 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 // DLM/DVA/top2.unity3d
 大力-分享DVA透明Q3344929957=[DALI] Sharing - D.VA Transparent - Q3344929957
 
-// DLMEX/DLSX/top.unity3d
-大力-圣秀-作者Q3344929957=[DALI] Sword Saint - Q3344929957
-
-// DLMEX/DLSX/top2.unity3d
-大力-圣秀-透明-作者Q3344929957=[DALI] Sword Saint Transparent - Q3344929957
-
 // chara/taroukawai_dougi2top/mymod.unity3d
 道着2=Kimono 2
 
@@ -151,9 +145,6 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 // chara/FFFQ/FFFQ_stewardess.unity3d
 空姐=Flight Attendant
 
-// chara/sio/gudat.unity3d
-ぐだT=Guda T-Shirt
-
 // chara/gyobobo/gantz_top.unity3d
 ガンツアウター=Gantz Outer
 
@@ -162,9 +153,6 @@ PH 空姐制服 上衣=PH Flight Attendant Uniform Top
 
 // chara/liangpi/BCY-yf.unity3d
 八重樱=Yae Sakura
-
-// chara/ljlsdq_kuangsan/ljlsdq_kuangsan.unity3d
-ljlsdq_kuangsan=[ljlsdq] Kurumi
 
 // chara/sio/open.unity3d
 オープンブラウス=Open Blouse
@@ -232,10 +220,6 @@ TシャツBig=T Shirt Big
 // chara/sena_mod/sena_leccee.unity3d
 [SENA]GHL上着=[SENA] GHL Jacket Dress
 
-// chara/sena_mod/sena_pm01rp.unity3d
-[SENA]警備出動服上=[SENA] Police Uniform Top
-[SENA]警備防護衣上=[SENA] Armored Police Uniform Top
-
 // chara/sena_mod/sena_pm01.unity3d
 [SENA]警備長袖シャツ=[SENA] Security Long-Sleeved Shirt
 [SENA]警備冬制服=[SENA] Security Winter Uniform
@@ -248,7 +232,7 @@ TシャツBig=T Shirt Big
 [SENA]ランナートップス半脱ぎ改=[SENA] Runner Tops Half Off
 
 // chara/sena_mod/sena_rq_jak.unity3d
-[SENA]裸ベンチコート=[SENA] Open Bench Coat
+[SENA]裸ベンチコート=[SENA] Naked Bench Coat
 
 // chara/sena_mod/sena_various03.unity3d
 [SENA]ベースボールシャツIn=[SENA] Baseball Shirt In

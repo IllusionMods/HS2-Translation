@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/kkkk1111/cardigan_shirts.unity3d
@@ -48,9 +48,6 @@ HS2毛衣=HS2 Sweater
 // DLMEX/L/dl_socks_lo.unity3d
 大力-龙盔-腰带-作者q3344929957=[DALI] Dragon Armor Belt - Author q3344929957
 
-// DLMEX/DLSX/wz.unity3d
-大力-圣秀飘带-作者q3344929957=[DALI] Sword Saint Floating Straps - Author q3344929957
-
 // chara/fo_socks_maomaowa.unity3d
 ë��Ͳ��=fo_socks_maomaowa
 
@@ -86,7 +83,7 @@ HS2毛衣=HS2 Sweater
 [SENA]足袋=[SENA] Big Toe Socks
 
 // chara/sena_mod/sena_rq.unity3d
-[SENA]RQインナーショーツ=[SENA] RQ Inner Shorts
+[SENA]RQインナーショーツ=[SENA] RQ inner shorts
 
 // chara/sena_mod/sena_rq_jak.unity3d
 [SENA]裸ベンチコート=[SENA] Open Bench Coat

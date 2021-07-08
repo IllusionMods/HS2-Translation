@@ -1,5 +1,6 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
@@ -35,9 +36,6 @@
 
 // studio/sjjpl/the streets of asia.unity3d
 亚洲的街道1=Streets of Asia 1
-
-// studio/sjjpl/Village.unity3d
-乡村庭院2=Country Yard 2
 
 // studio/sjjpl/VillageCourtyard.unity3d
 乡村庭院=Country Yard

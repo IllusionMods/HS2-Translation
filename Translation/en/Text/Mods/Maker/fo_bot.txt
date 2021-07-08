@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/sio/clashdc.unity3d
@@ -37,9 +37,6 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 
 // chara/skonb/fo_bot_shimakaze.unity3d
 痴女プリーツ=Slutty Pleated Skirt
-
-// chara/skonb/fo_bot_taisou.unity3d
-ハイウェストブルマ=High Waist Bloomers
 
 // chara/cuzkuz/cuzkuz_bot_00.unity3d
 八十八学園スカート=88th Academy Skirt
@@ -146,10 +143,6 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 
 // chara/sena_mod/sena_k_musashi.unity3d
 [SENA]武蔵スカート=[SENA] Musashi Skirt
-
-// chara/sena_mod/sena_pm01rp.unity3d
-[SENA]警備出動服下=[SENA] Police Uniform Bottom
-[SENA]警備防護衣下=[SENA] Armored Police Uniform Bottom
 
 // chara/sena_mod/sena_pm01.unity3d
 [SENA]警備タイトスカート=[SENA] Security Tight Skirt

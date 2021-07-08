@@ -1,12 +1,10 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
 
-
-// chara/keyilongduan_daqiaobaishe.unity3d
-大乔耳环=Da Qiao Earrings
 
 // chara/keyilongduan_diaochanbeijinggzs.unity3d
 貂蝉背景=Sable background

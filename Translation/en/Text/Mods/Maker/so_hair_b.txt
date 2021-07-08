@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/sio/bigtwin.unity3d
@@ -61,12 +61,6 @@
 
 // DLMEX/hair/dlhairex06.unity3d
 大力-赞助发型06=[DALI] Sponsored Hairstyle 06
-
-// DLMEX/DLSX/tf.unity3d
-大力-圣秀-作者Q3344929957=[DALI] Sword Saint - Author Q3344929957
-
-// DLMEX/DLSX/tf2.unity3d
-大力-圣秀-去侧发-作者Q3344929957=[DALI] Sword Saint Without Side Hair - Author Q3344929957
 
 // DLM/hair/tf1.unity3d
 大力-发型分享B1Q3344929957=[DALI] Hair Sharing B1 Q3344929957

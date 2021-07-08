@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/sena_mod/sena_efsf_uni_m.unity3d
@@ -11,9 +11,6 @@
 
 // chara/sena_mod/sena_m_dougi.unity3d
 [SENA]格闘技グローブ=[SENA] Martial Arts Gloves
-
-// chara/sena_mod/sena_p_assault.unity3d
-[SENA]タクティカルグローブ=[SENA] Tactical Gloves
 
 // chara/sena_mod/sena_pm02.unity3d
 [SENA]警備手袋=[SENA] Security Gloves

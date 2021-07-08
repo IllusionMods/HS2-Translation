@@ -1,5 +1,6 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
@@ -11,7 +12,8 @@
 [SENA]団扇=[SENA] Fan
 [SENA]レースタイヤ=[SENA] Racing Tire
 
+
 // chara/sena_mod/sena_rq.unity3d
-[SENA]RQグリッドボード=[SENA] RQ Grid Board
-[SENA]RQシンプルチョーカー=[SENA] RQ Simple Choker
-[SENA]RQシンプルアームバンド=[SENA] RQ Simple Armband
+[SENA] RQグリッドボード=[SENA] RQ Grid Board
+[SENA] RQシンプルチョーカー=[SENA] RQ Simple Choker
+[SENA] RQシンプルアームバンド=[SENA] RQ Simple Armband

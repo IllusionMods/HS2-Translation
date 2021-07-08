@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/CC353/shoes/CC353_shoes_01_011_01.unity3d
@@ -72,10 +72,7 @@ HS流苏小皮鞋=HS Fringed Leather Shoes
 大力_TD天华_鞋=[DALI] TD Sky Shoes
 
 // DLMEX/DLMZ/dl_shoes_mz.unity3d
-大力_明妆鞋-作者q3344929957=[DALI] Ming Dynasty Shoes - Author q3344929957
-
-// DLMEX/DLSX/xie.unity3d
-大力-圣秀-作者q3344929957=[DALI] Sword Saint - Author Q3344929957
+大力_明妆鞋-作者q3344929957=[DALI] Ming Dynasty Shoes-Author q3344929957
 
 // DLM/DE/emx.unity3d
 大力-分享恶魔q3344929957=[DALI] Succubus q3344929957
@@ -100,9 +97,6 @@ HS流苏小皮鞋=HS Fringed Leather Shoes
 
 // chara/hs2_chunli/fo_shoes_chunli.unity3d
 格闘用ブーツ=Fighting Boots
-
-// chara/ljlsdq_ggd_02.unity3d
-kuangsan=[ljlsdq] Kurumi
 
 // chara/DKMEX/loxie.unity3d
 大力-龙爪-作者Q3344929957=[DALI] Dragon Claw - Author Q3344929957

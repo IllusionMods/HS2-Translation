@@ -1,26 +1,12 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
-// chara/donkeyrock-bodypaint-01.unity3d
-ほくろ1(mole_clear)=Mole 1 (mole_clear)
-ほくろ2(mole_blur)=Mole 2 (mole_blur)
-ほくろ3(mole_gradation)=Mole 3 (mole_gradation)
-
-//The painting meaning in inside parenthesis, better not translate
-愛(love)=愛 (love)
-奴(slave)=奴 (slave)
-牝(bitch)=牝 (bitch)
-穴(hole)=穴 (hole)
-肉(flesh)=肉( flesh)
-淫(nympho)=淫 (nympho)
-
 // chara/donkeyrock-bodypaint-03.unity3d
-//Again, the painting meaning in inside parenthesis, better not translate
-奸(adultery)=奸 (adultery)
-毒(poison)=毒 (poison)
-狂(mad)=狂 (mad)
-卑(humble)=卑 (humble)
-屄(cunt)=屄 (cunt)
-獄(jail)=獄 (jail)
-色(lust)=色 (lust)
+奸(adultery)=Evil (adultery)
+毒(poison)=Poison (poison)
+狂(mad)=Mad (mad)
+卑(humble)=Humble (humble)
+屄(cunt)=Cunt (cunt)
+獄(jail)=Prison (jail)
+色(lust)=Lust (lust)

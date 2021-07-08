@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/kkkk1111/cardigan_shirts.unity3d
@@ -53,9 +53,6 @@ HS2毛衣=HS2 Sweater
 // DLMEX/L/dl_gloves_lo.unity3d
 大力-龙盔甲护手-作者q3344929957=[DALI] Dragon Armor Gauntlets - Author q3344929957
 
-// DLMEX/DLSX/st.unity3d
-大力-圣秀-作者Q3344929957=[DALI] Sword Saint - Author Q3344929957
-
 // chara/fo.unity3d
 夜莺-护臂=Nightingale Armguards
 夜莺-手套=Nightingale Gloves
@@ -63,9 +60,6 @@ HS2毛衣=HS2 Sweater
 
 // chara/gyobobo/gantz_gloves.unity3d
 ガンツグローブ=Gantz Gloves
-
-// chara/ljlsdq_kuangsan_hand.unity3d
-ljlsdq_kuangsan=[ljlsdq] Kurumi
 
 // chara/re_bigger_jacket.unity3d
 ボディーハーネスBig=Body Harness Big

@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
 //
 
 // chara/kkkk1111/ph_attendant_head.unity3d
@@ -60,13 +60,7 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 大力-分享DVA-Q3344929957=[DALI] Sharing - D.VA - Q3344929957
 
 // DLM/dl_head_rj1.unity3d
-大力_发光耳机-作者q3344929957=[DALI] Luminous Headphones - Author Q3344929957
-
-// DLMEX/DLSX/tou.unity3d
-大力-圣秀-头饰-作者Q3344929957=[DALI] Sword Saint Head - Author Q3344929957
-
-// DLMEX/DLSX/tou2.unity3d
-大力-圣秀-眼罩-作者Q3344929957=[DALI] Sword Saint Veil - Author Q3344929957
+大力_发光耳机-作者q3344929957=[DALI] Luminous Headphones - Author q3344929957
 
 // chara/trial/ao_head_dl01.unity3d
 大力-恶魔角A=[DALI] Devil Horns A
@@ -81,9 +75,6 @@ PH 空姐制服 帽子=PH Flight Attendant Uniform Hat
 
 // chara/hs2_alady/ao_head_alady.unity3d
 レディヘッド=Lady Head
-
-// char/ljlsdq_kuangsan_shipin.unity3d
-kuangsan=[ljlsdq] Kurumi
 
 // chara/minguo hat.unity3d
 民国帽子=Republic of China Hat
@@ -121,21 +112,6 @@ kuangsan=[ljlsdq] Kurumi
 // chara/sena_mod/sena_leccee.unity3d
 [SENA]GHLカチューシャ=[SENA] GHL Headband
 [SENA]GHLセイバー=[SENA] GHL Saber
-
-// chara/sena_mod/sena_p_assault.unity3d
-[SENA]バラクラバ=[SENA] Balaclava
-[SENA]バラクラバ(調整可)=[SENA] Balaclava (Adjustable)
-[SENA]フェイスマスク(調整可)=[SENA] Face mask (Adjustable)
-[SENA]防弾ヘルメット1シールド=[SENA] Bulletproof Helmet 1 Shield
-[SENA]防弾ヘルメット1=[SENA] Bulletproof Helmet 1
-
-// chara/sena_mod/sena_p_assault_a.unity3d
-[SENA]防弾ヘルメット2=[SENA] Bulletproof Helmet 2
-
-// chara/sena_mod/sena_pm01rp.unity3d
-[SENA]警備出動帽=[SENA] Police Cap
-[SENA]警備防護ヘルメット=[SENA] Police Helmet
-[SENA]警備ヘルメット顎紐=[SENA] Police Helmet Chinstrap
 
 // chara/sena_mod/sena_pm_item01.unity3d
 [SENA]警備制帽（女）=[SENA] Security Cap (female)
