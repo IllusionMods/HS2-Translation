@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
 //
 
 // chara/kkkk1111/hs_male_suits.unity3d
@@ -29,6 +29,14 @@ HS男西装 裤子=HS Men's Suit Coat
 [SENA]ロングTシャツout=[SENA] Long T-Shirt Out
 [SENA]Tシャツ(3色色変)=[SENA] T-shirt (3 Colors)
 [SENA]Tシャツ（ノースリーブ）=[SENA] T Shirt (Sleeveless)
+
+// chara/sena_mod/sena_p_assault.unity3d
+[SENA]アサルトスーツ上=[SENA] Assault Uniform Top
+[SENA]防弾スーツ上=[SENA] Armored Assault Uniform Top
+
+// chara/sena_mod/sena_pm01rp.unity3d
+[SENA]警備出動服上=[SENA] Police Unoform Top
+[SENA]警備防護衣上=[SENA] Armored Police Unoform Top
 
 // chara/sena_mod/sena_pm02.unity3d
 [SENA]警備シャツ=[SENA] Security Shirt

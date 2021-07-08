@@ -1,12 +1,9 @@
 //
-// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
 //
 
 // chara/cuzkuz/cuzkuzhair_02.unity3d
 普通の前髪=Normal Bangs
-
-// chara/ljlsdq_kuangsan_hair.unity3d
-kuangsan=[ljlsdq] Kurumi
 
 // chara/sio/so_hair_f_hane2.unity3d
 はねっ毛2=Center Spikes 2
@@ -22,3 +19,6 @@ kuangsan=[ljlsdq] Kurumi
 
 // chara/sio/so_hair_f_hime4.unity3d
 姫カット4=Princess Cut 4
+
+// chara/ljlsdq_kuangsan_hair.unity3d
+kuangsan=[ljlsdq] Kurumi

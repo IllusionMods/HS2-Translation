@@ -1,0 +1,18 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+#set exe StudioNEOV2
+
+
+// chara/sena_mod/sena_pm01rp.unity3d
+[SENA]警備出動帽=[SENA] Police Cap
+[SENA]警備防護ヘルメット=[SENA] Police Helmet
+[SENA]警備ヘルメット顎紐=[SENA] Police Helmet Chinstrap
+
+// chara/sena_mod/sena_pm01rpa.unity3d
+[SENA]トラメガ=[SENA] Tramegar
+[SENA]ライオットシールド=[SENA] Riot Shield
+[SENA]エンジンカッター=[SENA] Engine Cutter
+[SENA]指揮棒=[SENA] Commander Baton
+[SENA]突入防止バリア=[SENA] Anti-intrusion Barrier
