@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
 //
 
 // chara/skonb/fo_inner_b_shimakaze.unity3d
@@ -36,7 +36,7 @@
 [SENA]陸上ブルマ(M02)=[SENA] Sports Bloomers (M02)
 
 // chara/sena_mod/sena_rq.unity3d
-[SENA]RQインナーショーツ=[SENA] RQ Inner Panties
+[SENA]RQインナーショーツ=[SENA] RQ Inner Shorts
 [SENA]RQビキニショーツ1=[SENA] RQ Bikini Panties 1
 
 // chara/sena_mod/sena_vb01.unity3d

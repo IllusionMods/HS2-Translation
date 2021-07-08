@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
 //
 
 // chara/kkkk1111/ph_attendant_neck.unity3d
@@ -25,6 +25,9 @@ PH 空姐制服 丝带=PH Flight Attendant Uniform Ribbon
 
 // chara/ao.unity3d
 夜莺-披风=Nightingale-Cloak
+
+// char/ljlsdq_kuangsan_shipin.unity3d
+kuangsan=[ljlsdq] Kurumi
 
 // chara/sena_mod/sena_anna_i.unity3d
 [SENA]AMネックレス=[SENA] AM Necklace

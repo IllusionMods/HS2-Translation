@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
 //
 
 // DLM/DE/wings.unity3d
@@ -27,3 +27,6 @@
 
 // chara/sena_mod/sena_k_musashi.unity3d
 [SENA]武蔵肩掛け上着=[SENA] Musashi Shoulder Jacket
+
+// chara/sena_mod/sena_p_assault.unity3d
+[SENA]AS所属タグ=[SENA] AS Affiliation Tag

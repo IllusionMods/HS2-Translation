@@ -1,5 +1,5 @@
 //
-// Dumped for Honey Select 2 v1.2.1 by Mod Text Dump v0.0.1: 2021-05-26
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
 //
 
 // chara/sio/batu.unity3d
@@ -152,6 +152,10 @@ Tシャツ=T-Shirt
 [SENA]RQレオタード1=[SENA] RQ Leotard 1
 [SENA]RQレオタード2=[SENA] RQ Leotard 2
 [SENA]RQビキニブラ1=[SENA] RQ Bikini Bra 1
+
+// chara/sena_mod/sena_rq2.unity3d
+[SENA]RQレオタード3=[SENA] RQ Leotard 3
+[SENA]RQレオタード4=[SENA] RQ Leotard 4
 
 // chara/sena_mod/sena_t_asuka.unity3d
 [SENA]アスカスーツ=[SENA] Asuka Suit
