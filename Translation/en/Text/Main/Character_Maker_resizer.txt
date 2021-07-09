@@ -1,12 +1,46 @@
 #set level 3
 
-/CharaCustom/CustomControl=ChangeFontSizeByPercentage(0.9)
-/CharaCustom/CustomControl=UGUI_ChangeLineSpacing(0.7)
-/CharaCustom/CustomControl/CanvasSub/SettingWindow=ChangeFontSizeByPercentage(0.775)
-/CharaCustom/CustomControl/CanvasSub/SettingWindow=UGUI_ChangeLineSpacing(0.7)
-/CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.8)
-/CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
+//================================================
+// Overall
+//================================================
+CharaCustom/CustomControl=ChangeFontSizeByPercentage(0.9)
+CharaCustom/CustomControl=UGUI_ChangeLineSpacing(0.7)
 
-/CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory=UGUI_HorizontalOverflow(wrap)
+//================================================
+// Right Window
+//================================================
+//Right Window -> Face -> Eye R/L -> Top Bar
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_EyeLR/SelectMenu=ChangeFontSizeByPercentage(0.8)
 
-/CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=AutoResize(true)
+//Right Window -> Hair -> Top Bar
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinHair/H_Hair/SelectMenu=ChangeFontSizeByPercentage(0.8)
+//Right Window -> Hair -> Adjust
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinHair/H_Hair/Setting/Setting04=ChangeFontSizeByPercentage(0.8)
+
+//Right Window -> Accesories Overall
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory=UGUI_HorizontalOverflow(wrap)
+//Right Window -> Accesories Type -> Shoulder
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting01/AccessoryType/TglType07/Label=ChangeFontSizeByPercentage(0.75)
+//Right Window -> Accesories -> Position
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04=ChangeFontSizeByPercentage(0.85)
+//Right Window -> Accesories -> Adjust
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting05=ChangeFontSizeByPercentage(0.8)
+
+//Right Window -> Options -> Name / Birthday
+//Month / Day text
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=ChangeFontSizeByPercentage(0.77)
+
+//================================================
+// Settings Window
+//================================================
+CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.8)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
+
+//Settings Window -> Options -> Eyebrows
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=AutoResize(true)
+
+//================================================
+// Shoot Window
+//================================================
+//Left Window -> Clothes -> Clothed
+CharaCustom/CustomControl/CanvasCapture/CaptureMenu/menuTop/coorde/clothes/items/tgl01=ChangeFontSizeByPercentage(0.75)
