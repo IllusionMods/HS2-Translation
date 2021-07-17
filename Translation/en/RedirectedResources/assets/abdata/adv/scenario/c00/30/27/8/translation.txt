@@ -2,19 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-//……気分が変わったのですか？=
-//何の為に始めたのか……理解に苦しみますね。=
+……気分が変わったのですか？=...Did you change your mind?
+何の為に始めたのか……理解に苦しみますね。=I don't understand... Why did you even start this?
 //attitude:favor
-//もしかして、体調が優れないのですか？　……心配です。=
-//何かご用事でも思い出しましたか？=
+もしかして、体調が優れないのですか？　……心配です。=Might you not be feeling well? ...I'm worried about you.
+何かご用事でも思い出しましたか？=Did you remember something you had to do?
 //attitude:enjoyment
-//あまり期待外れな選択は取らないで頂けるとありがたいのですが……=
-//互いに満足もせず終わるなんて思いもよりませんでした。=
+あまり期待外れな選択は取らないで頂けるとありがたいのですが……=I'd appreciate it if you didn't make too many disappointing decisions...
+互いに満足もせず終わるなんて思いもよりませんでした。=I never thought we'd stop before satisfying eachother.
 //attitude:aversion
-//まったくもって無意味な時間でした。=
+//まったくもって無意味な時間でした間間間。=I didn't have any expectation anyway.  THIS LINE IS ADDED AND A PROPOSED FIX TO THE CORRESPONDING SB3U FILE. TO BE DELETED IF DECIDED AGAINST.
+まったくもって無意味な時間でした。=This was a complete waste of time.
 //attitude:slavery
-//ここで終わり……もしかして、これもプレイの一環なのでしょうか？=
-//おあずけにされてしまうと余計に疼いてしまいます。次は最後までしてくださいね？=
+ここで終わり……もしかして、これもプレイの一環なのでしょうか？=So that was it?!... Maybe it's some sort of play?
+おあずけにされてしまうと余計に疼いてしまいます。次は最後までしてくださいね？=It hurts even more if you leave me with a cold clit. Next time, please do it properly, okay?
 //attitude:dependence
-//またセックスしていただけるのでしたら、私は気にしませんよ。=
-//あなたのことですから、何か事情があるのですね。またお時間がある時に、セックスしましょう。=
+またセックスしていただけるのでしたら、私は気にしませんよ。=If we're going to have sex again later, I won't mind.
+あなたのことですから、何か事情があるのですね。またお時間がある時に、セックスしましょう。=Since it's you, there must be some reason for this. Let's have sex again when you have time.

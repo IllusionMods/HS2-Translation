@@ -2,8 +2,8 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-夜なので人に見つかる心配は少なそうですが、スリルも減ってしまうのではありませんか？=Since it's nighttime, there seems to be less worry about being spotted, but wouldn't that reduce the thrill?
-夜は肌寒いですね、くっついて身体を温め合いましょう。=It's chilly at night, let's stick together and warm each other's bodies.
-昼は子供の為の場所も、夜には姿を変えてしまう……なんとも背徳的ですね。=A place for children by day, but transformed by night... How immoral!
-……あなたは夜の公園を出歩かない方が良いでしょうね。間違いなく通報されますから。=... You probably shouldn't go out in the park at night. I'm sure you'll get reported.
-夜の公園という響きがいやらしく感じるのは、私の心が汚れているからでしょうか？=Is it because I have a dirty mind that I find the sound of a park at night disturbing?
+//夜なので人に見つかる心配は少なそうですが、スリルも減ってしまうのではありませんか？=Since it's nighttime, there seems to be less worry about being spotted, but wouldn't that reduce the thrill?
+//夜は肌寒いですね、くっついて身体を温め合いましょう。=It's chilly at night, let's stick together and warm each other's bodies.
+//昼は子供の為の場所も、夜には姿を変えてしまう……なんとも背徳的ですね。=A place for children by day, but transformed by night... How immoral!
+//……あなたは夜の公園を出歩かない方が良いでしょうね。間違いなく通報されますから。=... You probably shouldn't go out in the park at night. I'm sure you'll get reported.
+//夜の公園という響きがいやらしく感じるのは、私の心が汚れているからでしょうか？=Is it because I have a dirty mind that I find the sound of a park at night disturbing?

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//使用中のようだ・・・=
+使用中のようだ・・・=It looks like it's in use...
 CHOICE:覗く=Peek
 CHOICE:悪戯する=Attack
 CHOICE:帰りを待つ=Wait for her
