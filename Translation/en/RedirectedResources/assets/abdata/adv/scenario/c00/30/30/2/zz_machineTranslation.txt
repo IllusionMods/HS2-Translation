@@ -2,8 +2,8 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-お待たせしました。……どうなさいました？　息が上がっているようですが？=Sorry to keep you waiting... What's wrong? You look like you're breathing.
-お待たせしました。……何をしていたかは、ご想像にお任せ致します。=Thank you for your patience... I'll leave it to your imagination what I've been up to.
-お待ちいただき、ありがとうございます。……覗かれてもよかったのですよ？=Thank you for waiting... You could have taken a peek, you know?
-……まさかとは思いますが、覗いてはいませんよね？=... I don't think so, but you're not peeking, are you?
-私の黄金色のシャワーはご覧になっていただけたでしょうか？　見ていない？　嘘はいけませんよ。=Have you seen my golden shower? You didn't see it? Don't lie to me.
+//お待たせしました。……どうなさいました？　息が上がっているようですが？=Sorry to keep you waiting... What's wrong? You look like you're breathing.
+//お待たせしました。……何をしていたかは、ご想像にお任せ致します。=Thank you for your patience... I'll leave it to your imagination what I've been up to.
+//お待ちいただき、ありがとうございます。……覗かれてもよかったのですよ？=Thank you for waiting... You could have taken a peek, you know?
+//……まさかとは思いますが、覗いてはいませんよね？=... I don't think so, but you're not peeking, are you?
+//私の黄金色のシャワーはご覧になっていただけたでしょうか？　見ていない？　嘘はいけませんよ。=Have you seen my golden shower? You didn't see it? Don't lie to me.
