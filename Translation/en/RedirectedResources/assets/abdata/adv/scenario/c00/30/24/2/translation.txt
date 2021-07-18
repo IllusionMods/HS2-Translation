@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Did you enjoy having sex with me? My oppinion? Well... it was so-so, I guess?
+私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Did you enjoy having sex with me? My opinion? Well... It was so-so, I guess?
 とても充実したひと時でした。あなたとは良い関係を築けそうな気がします。=It was a very fulfilling time. I think we're going to have a nice relationship together.
 //attitude:favor
 何かご不満などはございませんでしたか？　忌憚のないご意見をお聞かせ願います。=Did you have any complaints? Please give me your honest opinion.
@@ -12,7 +12,7 @@
 なるほど……あなたとのセックス、これからが楽しみです。本日はどうもありがとうございました。=I see... I'm looking forward to the next time we'll have sex. Thank you very much for your time today.
 //attitude:aversion
 お疲れさまでした。　本日は解散と致しましょう。出来れば、これきりな事を願わせて頂きます。=Thank you for your hard work. Let's part here now. If possible, I hope there won't be next time. 
-ふぅ……身体の相性はともかく、心の相性の悪さが否めません。これからは、他の方をお誘いした方が良いかと思います。=Hmm... the compatibility of our bodies asside, it seems our personalities don't match. From now on, I think it's best if you invited someone else.
+ふぅ……身体の相性はともかく、心の相性の悪さが否めません。これからは、他の方をお誘いした方が良いかと思います。=Hmm... The compatibility of our bodies aside, it seems our personalities don't match. From now on, I think it's best if you invited someone else.
 //attitude:slavery
 ふぅ……申し訳ございません、たった一度肌を重ねただけで、あなたとのセックスの虜になってしまったようです。=Ah... Sorry, I think I became dependent of having sex with you after just one skin-to-skin encounter.
 セックスを終えたばかりだと言うのに、もう次の機会を求めてしまっています。お誘い、お待ちしていますね。=We've barely finished having sex, and I already can't wait for the next opportunity. I'll be waiting eagerly for your invitation.
@@ -21,4 +21,4 @@
 ふふふ……きもひいことはぁ、さいこーれすよねぇ？=Hihihi.... Y-you're... da besst!
 //attitude:dependence
 この程度で満足されては困ります。　私は掴んだら放さない女ですから……覚悟、しておいてくださいね？=I won't be satisfied with just this. I'm a woman who won't let go of her target... So be prepared, alright?
-私を魅了してしまった以上、あなたに選択肢は御座いません。あなたは私と共に果てる運命にあるのですから……ふふっ。=Now that you've caught my interest, you have no other choice. We're destined to be together... Fufufu.
+私を魅了してしまった以上、あなたに選択肢は御座いません。あなたは私と共に果てる運命にあるのですから……ふふっ。=Now that you've caught my interest, you have no other choice. We're destined to be together... Hihi.
