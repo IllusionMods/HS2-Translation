@@ -6,7 +6,7 @@
 さぁ、性に爛れた一日を共に過ごしましょう。=Well then, let's spend a day drowned in sex.
 //好意より20～49{0}=
 今日は情熱的なキスをしたいのですが……すみません、今のわがままは聞かなかったことにしてください。=I want to kiss you passionately today, but... Sorry, please pretend you didn't hear my selfish mumbling. 
-身体も心も、思う存分重ね合いましょう。=Let's entwine our minds and bodies as much as we can.
+身体も心も、思う存分重ね合いましょう。=Let's join our minds and bodies as much as we can.
 //好意より50～79{0}=
 至福のひと時を、あなたにお届けいたします。=I'll give you a blissful time.
 肌を重ねるごとに、あなたへの好意が強くなっていくのを実感しているんです。……今日もあなたのことを好きになりますね？=I realize that my fondness for you grows stronger with each passionate encounter... I'm going to make with love you today as well, right?
@@ -15,9 +15,9 @@
 あなたとのセックスが私の生き甲斐なんです。……と云うのは、流石に重すぎるでしょうか？=Sex with you is what I live for... Was that too much?
 //享楽より20～49{0}=
 お互いの身体を貪り合って、快楽の果てを目指しましょう。=Let's devour each other's bodies in our pursuit of pleasure.
-今日もあなたの感じているお顔、沢山見させて下さい。=Please show me a lot of climaxing expressions today.
+今日もあなたの感じているお顔、沢山見させて下さい。=Please show me your O face a lot today.
 //享楽より50～79{0}=
-好きこそ物の上手なれという言葉は、本当だと思いませんか？　私たちは日々上達していますから。……何のことか……ですか？　もちろん、セックスですよ。=Don't you think it's true when they say, "the more you enjoy something, the better you get at it"? Because we are getting better every day... What am I talking about? Sex, of course.
+好きこそ物の上手なれという言葉は、本当だと思いませんか？　私たちは日々上達していますから。……何のことか……ですか？　もちろん、セックスですよ。=Don't you think it's true when they say, "The more you enjoy something, the better you get at it"? Because we are getting better every day... What am I talking about? Sex, of course.
 本日も私の身体を求めてくださるのですね。　……そのギラついた目、素敵ですよ。=You want my body again today, don't you? ...I love that glare.
 //享楽より80～100{0}=
 もっと、もっと息を荒くしてください。あなたの興奮が私の興奮となりますので……=Please breathe heavier and heavier. Your excitement is my excitement...
@@ -30,12 +30,12 @@
 早め早めで済ませていただけますと幸いです。=I hope we can get this over with as soon as possible.
 //嫌悪より80～100{0}=
 予めお伝えしておきますが、何度セックスをしても、あなたを好きになることはありませんので。=Let me tell you beforehand that no matter how many times we have sex, I still won't like you.
-自分を嫌っている人間を抱く趣味でもあるのですか？　いい趣味ではありませんね。=Do you have a hobby of sleeping with people who hate you? It's not a good hobby.
+自分を嫌っている人間を抱く趣味でもあるのですか？　いい趣味ではありませんね。=Do you make a habit of sleeping with people who hate you? Not a great hobby.
 //隷属より20～49{0}=
 本日は何から致しましょう？　あなたの欲望をお聞かせください。=Where shall we start today? Tell me what you desire.
 ゆったりと愛を育むような優しいセックスも、肉欲の限りを尽くして身体を貪る激しいセックスも、私は好きですよ。=Tender sex that nurtures love gently as well as intense sex that devours the body with all its carnal desires, I enjoy them both.
 //隷属より50～79{0}=
-まぐわいに遠慮は無粋です。あなたの全てを曝け出してください。=Holding back during sex is unbecoming. Please reveal all your desires. 
+まぐわいに遠慮は無粋です。あなたの全てを曝け出してください。=Holding back during sex is unbecoming. Please release all your desires. 
 話をしている時間すら惜しいです。今すぐ、私を抱いてください。=I can't even spare the time to talk to you. Please take me right now.
 //隷属より80～100{0}=
 私の唇も、乳房も、臀部も、濡れそぼった陰部も……全て、全てあなたのものですよ？=My lips, my breasts, my butt, my wet pussy... Everything, everything is yours, alright?

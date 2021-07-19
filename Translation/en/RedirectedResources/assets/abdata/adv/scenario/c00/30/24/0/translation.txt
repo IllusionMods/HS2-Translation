@@ -4,34 +4,34 @@
 //attitude:neutral
 緊張されているのですか？　そんなに構えなくても大丈夫ですよ。本能の赴くまま、二人で楽しみましょう？=Are you nervous? There's no need to hold back. Let's just follow our instincts and have fun together, okay?
 あなたが私を抱いてくださるのですか？　……どんなセックスをなさるのか、とても楽しみです。=Are you going to embrace me? I'm really excited to see what kind of sex we will have.
-あなたは快楽を得たいのでしょう？　それは私も同じことです。変に気を遣う必要はございませんよ。=Do you want pleasure? It's the same for me. You don't have to worry about it.
+あなたは快楽を得たいのでしょう？　それは私も同じことです。変に気を遣う必要はございませんよ。=Don't you want to feel good? It's the same for me. You don't have to worry about it.
 //attitude:favor
 素敵な殿方…………失礼、思わず本音がこぼれてしまいました。今日は一日、よろしくお願い致します。=Handsome man... Excuse me, I just blurted out my thoughts. I look forward to working with you today.
 はじめまして、ですね。……これは予感なのですが、あなたとは心地よいセックスが出来そうな気がします。=Nice to see you... This is just a hunch, but I feel we'll have some pleasant sex together.
 あなたの様な素敵な方がお相手だからでしょうか、少々心が浮ついてしまっています。=Maybe it's due to having a partner as nice as you that my heart is aflutter.
 //享楽より20～49{0}=
-事を始める前にお伝えしておきたいのですが、私は能動的にセックスをしたいと思っていますので、悪しからず……=Don't take it wrong, but before we begin, I'd like to tell you that I want to have sex actively with you.
-……なるほど、殿方の興奮した息遣いが女の股を濡らす……これなら、すぐにでも始められそうですね。=...I see, a man's excited breathing makes the woman wet... I guess this means we can start right away.
+事を始める前にお伝えしておきたいのですが、私は能動的にセックスをしたいと思っていますので、悪しからず……=Don't take it wrong, but before we begin, you should know that I plan to have very agressive sex with you.
+……なるほど、殿方の興奮した息遣いが女の股を濡らす……これなら、すぐにでも始められそうですね。=...Oh, I see. The man's excited breathing makes the woman wet between her legs... Good, I'm ready start.
 //享楽より50～79{0}=
-こんにちは。　初めて出会うあなたとのセックス……どれだけ好きになれるか、試させて頂きます。=Hello. Having sex with you for the first time... I'll test how enjoyable it'll be.
+こんにちは。　初めて出会うあなたとのセックス……どれだけ好きになれるか、試させて頂きます。=Hello. Let's try having sex now... I want to see if I like it.
 当然ご理解いただけている事だとは思いますが、女も性に関心があり、男を求めるものなのです。少々乱れてしまっても、引かずにいてくださいね？=Of course, women are also interested in sex and desire men. Please don't back down if things get a little wild, okay?
 //享楽より80～100{0}=
 最初にお伝えしたいことがございます。私、他の女性よりも性欲が強いようですので……満足、させてくださいね？=There's something I'd like to tell you first. My sex drive seems to be higher than other women's so... Please make sure you satisfy me, alright?
-あなたの性欲は私の性欲について来れるでしょうか？　……いえ、無理にでもついて来て頂きますので、予めご了承下さい。=Can your sex drive match mine? ...Regardless, I'll have you keep up with me.
+あなたの性欲は私の性欲について来れるでしょうか？　……いえ、無理にでもついて来て頂きますので、予めご了承下さい。=Can your sex drive match mine? ...If not, understand that I'll make you keep up with me.
 //嫌悪より20～49{0}=
 本当に私で良いのですか？　……あなたが問題ないのでしたら、どうぞご随意に。=Are you really ok with me? If you have no problem, please go ahead.
 あなたが私の……そうですか。=You're my...? I see.
 //嫌悪より50～79{0}=
-初対面の殿方に、今から犯されてしまう。……他意はございません。今の状況を言葉にしただけですので。=A man I've never met before is going to asasult me... I don't have ulterior motives, I'm just putting the current situation into words.
+初対面の殿方に、今から犯されてしまう。……他意はございません。今の状況を言葉にしただけですので。=A man I've never met before is going to asasult me... Oh, I'm just talking to myself, assessing the situation.
 本意ではないのですが、手を抜くつもりはございません。どうかご安心ください。=It's not what I wanted, but I won't shy away. Please rest assured.
 //嫌悪より80～100{0}=
-初めから期待はしていませんので、どうぞお好きなように腰を振って果ててください。=I don't have any expectations in the first place, so go ahead and move your hips however you wish.
+初めから期待はしていませんので、どうぞお好きなように腰を振って果ててください。=I'm not expecting much anyhow, so just pound away, if that works for you.
 こういったことには不慣れなものでして……不愉快な思いをさせてしまうかもしれませんが、ご了承ください。=I'm not used to this kind of thing... I'm sorry if this makes you uncomfortable, but please understand.
 //隷属より20～49{0}=
-……初めて出会う私で興奮されているのですか？　いえ、嫌がっているわけではございません。私も同じ気持ちでしたので。=...Are you excited to meet me for the first time? No, I don't dislike it. I feel the same way.
+……初めて出会う私で興奮されているのですか？　いえ、嫌がっているわけではございません。私も同じ気持ちでしたので。=...Are you excited to meet me? No, I don't dislike it. I feel the same way.
 ……どこに視線を向けているのですか？　……これから好き放題する為の品定め、でしょうか？=...Where are you looking? You're wondering whether you'll be satisfied, aren't you? 
 //隷属より50～79{0}=
-素敵な殿方に求められて、嫌がる女はいません。=There is no woman who does not want to be desired by a lovely man.
+素敵な殿方に求められて、嫌がる女はいません。=No woman dislikes being desired by a handsome man.
 初対面だからといって遠慮は不要です。あなたの等身大の欲望を私は求めていますから。=There is no need to be reserverd just because we've never met. I desire your lust.
 //隷属より80～100{0}=
 初対面の方に身体を好き放題貪られてしまう……想像だけで絶頂を迎えてしまいそうです。淫らな私の期待に、応えてくださいますか？=Having my body used however it pleases them by someone I never met... Just thinking about it makes me come. Would you deign to answer my expectations?
@@ -41,4 +41,4 @@
 はぁ……強くぅ……私のこと、求めてください……んっ、はぁ……お願い、れすからぁ……=Aaaah... Please take me... HARD... I beg you...
 //attitude:dependence
 私を選んでくださったこと、決して後悔させません。他の女性では、満足できない身体にして差し上げます。=I will never let you regret choosing me. Other women would just give you a body that wouldn't satisfy you.
-あなたを私の虜にしてみせます。それはもう、他の女性なんて目に入らないほどに……=I will make you my prisoner. That way, no other women would enter your sight.
+あなたを私の虜にしてみせます。それはもう、他の女性なんて目に入らないほどに……=I will make you my prisoner. Then, I'll be the only woman you'll ever see again.

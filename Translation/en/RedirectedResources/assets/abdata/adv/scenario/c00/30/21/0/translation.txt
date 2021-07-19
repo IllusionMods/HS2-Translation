@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-……愛人との情事に勤しむのは構いませんが、大切なことをお忘れではありませんか？　私のこともしっかり愛してくださいね。=I don't mind you having a love affair, but aren't you forgetting someting important? Please don't forget to love me too.
+……愛人との情事に勤しむのは構いませんが、大切なことをお忘れではありませんか？　私のこともしっかり愛してくださいね。=I don't mind you having other lovers, but aren't you forgetting something important? Please don't forget to love me too.
 随分とお愉しみだったようですね。私も幸せのご相伴に与りたいものです。……もちろん構いませんよね？=It looks like you've had a lot of fun. I'd like to partake in your happiness... You obviously wouldn't mind that, right?
 CHOICE:誘いに乗る=Accept invitation
 CHOICE:急いで逃げる=Rush off
