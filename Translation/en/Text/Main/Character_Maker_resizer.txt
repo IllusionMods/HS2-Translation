@@ -33,11 +33,12 @@ CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/d
 //================================================
 // Settings Window
 //================================================
-CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.8)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.85)
 CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
 
 //Settings Window -> Options -> Eyebrows
-CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=AutoResize(true)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=UGUI_HorizontalOverflow(overflow)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow/textTitle=ChangeFontSizeByPercentage(0.65)
 
 //================================================
 // Shoot Window

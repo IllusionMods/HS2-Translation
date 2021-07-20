@@ -509,11 +509,11 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 // Face -> Left/Right Eye
 //------------------------------------------------------------
-白目=Eye Whites
+白目=Eye\nWhites
 瞳の種類=Iris Type
 //Eye Settings#
 瞳孔種類=Pupil Type
-瞳孔設定=Pupil Settings
+瞳孔設定=Pupil\nSettings
 
 発光=Glow
 

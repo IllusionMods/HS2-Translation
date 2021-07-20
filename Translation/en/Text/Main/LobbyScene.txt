@@ -8,7 +8,7 @@
 
 
 発汗剤=Sudorific\n(Sweaty)
-媚薬=Aphrodisiac\n(Horny)
+媚薬=Aphro-\ndisiac\n(Horny)
 睡眠薬=Sedative\n(Sleepy)
 利尿剤=Diuretic\n(Pee)
 
