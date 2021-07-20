@@ -2,9 +2,9 @@
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
 
-ここであれば、何でも許されると思っていませんか？　それは違いますよ。=Do you think that anything is allowed here? That's not true.
-あなたに手錠がかかる日が楽しみですね。=I look forward to the day when you will be handcuffed.
-はぁ……痴漢をして、何故誇らしげな顔が出来るのですか？=Huh... Why can you look so proud after molesting someone?
-あなたには恥という感情が欠落しているのでしょうね。=You must be lacking the emotion of shame.
-よく平気で人が嫌がることを出来ますね。心がないのですか？=How can you do things that people don't like with impunity? Do you not have a heart?
-良心が痛んでいないのなら、あなたは世の中に出てはいけないタイプの人です。=If your conscience is not sore, then you are the type of person who should not be in the world.
+//ここであれば、何でも許されると思っていませんか？　それは違いますよ。=Do you think that anything is allowed here? That's not true.
+//あなたに手錠がかかる日が楽しみですね。=I look forward to the day when you will be handcuffed.
+//はぁ……痴漢をして、何故誇らしげな顔が出来るのですか？=Huh... Why can you look so proud after molesting someone?
+//あなたには恥という感情が欠落しているのでしょうね。=You must be lacking the emotion of shame.
+//よく平気で人が嫌がることを出来ますね。心がないのですか？=How can you do things that people don't like with impunity? Do you not have a heart?
+//良心が痛んでいないのなら、あなたは世の中に出てはいけないタイプの人です。=If your conscience is not sore, then you are the type of person who should not be in the world.
