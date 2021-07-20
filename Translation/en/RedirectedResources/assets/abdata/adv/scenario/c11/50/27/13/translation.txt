@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//壊れ{0}=
+//broken_status{0}=
 //うふ、ふふ……うふふ…………ふふ……=
 //あぇ……あぁたが……たくしゃんいましゅ……どうしれ……？=

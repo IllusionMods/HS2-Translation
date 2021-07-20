@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//壊れ{0}=
+//broken_status{0}=
 //もう、もうらめ……私、おかひく、なっひゃう。=
 //わ、わらしぃ…もうこわれひゃった、みたい……=

@@ -16,7 +16,7 @@
 //attitude:slavery
 ふぅ……申し訳ございません、たった一度肌を重ねただけで、あなたとのセックスの虜になってしまったようです。=Ah... Sorry, I think I became dependent of having sex with you after just one skin-to-skin encounter.
 セックスを終えたばかりだと言うのに、もう次の機会を求めてしまっています。お誘い、お待ちしていますね。=We've barely finished having sex, and I already can't wait for the next opportunity. I'll be waiting eagerly for your invitation.
-//壊れ{0}=
+//broken_status{0}=
 あはぁ……しぇっくすらけしてぇ……生きていたいれすぅ。=Aaaah... S...stop it... Wa...nna live.
 ふふふ……きもひいことはぁ、さいこーれすよねぇ？=Hihihi.... Y-you're... da besst!
 //attitude:dependence
