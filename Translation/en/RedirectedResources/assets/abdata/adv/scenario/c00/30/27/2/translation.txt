@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-終わりでいいのですか？　あなたがそう仰るのでしたら異論はございませんが……=Are you sure you want to stop now If that's what you want, I have no objection, but...
+終わりでいいのですか？　あなたがそう仰るのでしたら異論はございませんが……=Are you sure you want to stop now? If that's what you want, I have no objection, but...
 大変気持ちよかったのですが……あなたはこれで良いのでしょうか？=It felt very good, but... Is this really what you want?
-……？　女を責めたい気分だったのでしょうか？=...? Did you feel like blaming the woman?
+……？　女を責めたい気分だったのでしょうか？=...? Do you plan on blaming me?
 //{0}=
 私だけ達してしまい申し訳ございません。　……大変、気持ちよかったです。=I'm sorry that I was the only one who came... It felt too good.
 次は共に果てることが出来るように、努めさせていただきます。=Next time, I'll do my best so that we finish together.
