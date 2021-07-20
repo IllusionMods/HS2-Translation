@@ -16,7 +16,7 @@
 //attitude:slavery
 同性なのですから、恥ずかしがらずに全てを……そう、全てを、さらけ出し合いましょう？=Since we're the same sex, let's not be shy about revealing everything to each other... Yes, let's lay everything bare, okay?
 同性と言えど羞恥心がお有りでしょうか？　……ご安心ください、私がこの身体を持って、あなたを乱れさせてみせますから……=You're ashamed even with a person of the same sex? Don't worry, I'll take this body and make it go wild.
-//壊れ{0}=
+//broken_status{0}=
 ………………=............
 はぁ……強くぅ……私のこと、求めてください……んっ、はぁ……お願い、れすからぁ……=Aaaah... Please take me... HARD... I beg you...
 //attitude:dependence

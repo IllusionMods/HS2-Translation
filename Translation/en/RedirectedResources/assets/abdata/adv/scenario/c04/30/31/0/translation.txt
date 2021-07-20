@@ -8,6 +8,6 @@
 //あーその、ちょっと催しちゃったかも……発情してるとかじゃなくて……ほら、お手洗い的な？=
 CHOICE:覗く=Peek
 CHOICE:悪戯する=Attack
-CHOICE:連れ出す=Take her out
+CHOICE:連れ出す=Bring her anyway
 CHOICE:帰りを待つ=Wait for her
 CHOICE:立ち去る=Leave

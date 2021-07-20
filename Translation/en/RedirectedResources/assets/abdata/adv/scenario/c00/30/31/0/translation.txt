@@ -1,13 +1,13 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//少しだけ、お時間を頂戴してもよろしいでしょうか？=
-//直ぐに戻りますので、少しだけお待ちいただけますか？=
-//ここで粗相をしてはいけないので、お手洗いへ寄ってもよろしいでしょうか？=
-//少し用事を思い出しましたので、失礼致します。=
-//すみません、お手洗いに寄りたいのですが……もちろん、覗いてもらって結構ですよ。=
+少しだけ、お時間を頂戴してもよろしいでしょうか？=May I have a moment of your time, please?
+直ぐに戻りますので、少しだけお待ちいただけますか？=I'll be right back. Can you wait a moment, please?
+ここで粗相をしてはいけないので、お手洗いへ寄ってもよろしいでしょうか？=I don't want to make a mess here, so may I stop by the restroom?
+少し用事を思い出しましたので、失礼致します。=I remembered I need to do something, so please excuse me.
+すみません、お手洗いに寄りたいのですが……もちろん、覗いてもらって結構ですよ。=I'm sorry, I need to stop by the restroom... Of course, you are welcome to take a peek.
 CHOICE:覗く=Peek
 CHOICE:悪戯する=Attack
-CHOICE:連れ出す=Take her out
+CHOICE:連れ出す=Bring her anyway
 CHOICE:帰りを待つ=Wait for her
 CHOICE:立ち去る=Leave

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//部屋にいそうな気配はする・・・=
+部屋にいそうな気配はする・・・=I think someone's in this room...
 //は……ぁっ……んぅ……=
 //ん……すぅ……んぅ……=
 CHOICE:こっそりHする=Secretly do her
