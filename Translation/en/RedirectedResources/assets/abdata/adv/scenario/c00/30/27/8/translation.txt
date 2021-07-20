@@ -11,7 +11,7 @@
 あまり期待外れな選択は取らないで頂けるとありがたいのですが……=I'd appreciate it if you didn't make too many disappointing decisions...
 互いに満足もせず終わるなんて思いもよりませんでした。=I never thought we'd stop before satisfying each other.
 //attitude:aversion
-//まったくもって無意味な時間でした間間間。=I didn't have any expectation anyway.  THIS LINE IS ADDED AND A PROPOSED FIX TO THE CORRESPONDING SB3U FILE. TO BE DELETED IF DECIDED AGAINST.
+//NO DUMPED LINE FOR hsa_00_002_08_04_00_00 SINCE IT'S NOT USED BY THE GAME AT THIS TIME DUE TO DOUBLE REFFERENCING OF hsa_00_002_08_04_00_01 IMMEDIATELY AFTER. no current adverse effects.
 まったくもって無意味な時間でした。=This was a complete waste of time.
 //attitude:slavery
 ここで終わり……もしかして、これもプレイの一環なのでしょうか？=That's it?!... Is this some sort of erotic game?
