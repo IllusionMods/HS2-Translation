@@ -20,7 +20,7 @@
 肉感=Build
 //スレンダー=Slender
 筋肉質=Athletic
-ぽっちゃり=Volup-\ntuous
+ぽっちゃり=Curvy
 //Normal#
 //Random#
 
