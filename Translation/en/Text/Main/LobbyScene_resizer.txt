@@ -4,9 +4,11 @@
 
 // Use items dropdown
 
+LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask=IgnoreFontSize()
 LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_VerticalOverflow(overflow)
-LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=ChangeFontSizeByPercentage(0.95)
+LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=ChangeFontSizeByPercentage(0.925)
 LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_ChangeLineSpacing(0.8)
+
 LobbyScene/Canvas/Panel/Parameter/param=IgnoreFontSize()
 
 // top right character status

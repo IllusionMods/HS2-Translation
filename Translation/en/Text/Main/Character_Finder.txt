@@ -95,4 +95,4 @@
 編集に戻る=Return to edit
 保存して終了=Save and Exit
 保存しないで終了=Exit\bWithout Saving
-検索を終了しますか？=Quit the character\nfinder?
+検索を終了しますか？=Quit character finder?
