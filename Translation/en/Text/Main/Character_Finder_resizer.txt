@@ -1,14 +1,29 @@
 #set level 14
 
-/CharaSearch/=ChangeFontSizeByPercentage(0.95)
+//================================================
+// Search Conditions Window
+//================================================
+CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=UGUI_HorizontalOverflow(overflow)
+CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=UGUI_VerticalOverflow(overflow)
+CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=UGUI_ChangeLineSpacing(0.6)
 
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=UGUI_HorizontalOverflow(overflow)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Body/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Breast/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Hair/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Height/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Mole/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Option/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Personal/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/SkinColor/Toggle=ChangeFontSizeByPercentage(0.8)
-/CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Skin/Toggle=ChangeFontSizeByPercentage(0.8)
+//================================================
+// Girl Match Window
+//================================================
+CharaSearch/SearchControl/CanvasSub/DefaultWin/SertchFemale=ChangeFontSizeByPercentage(0.95)
+
+//================================================
+// Settings Window
+//================================================
+CharaSearch/SearchControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.85)
+CharaSearch/SearchControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
+
+//Settings Window -> Options -> Eyebrows
+CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/eyebrow=UGUI_HorizontalOverflow(overflow)
+CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/eyebrow/textTitle=ChangeFontSizeByPercentage(0.65)
+
+//================================================
+// Exit Dialog
+//================================================
+CharaSearch/SearchControl/Canvas_PopupCheck/Panel2/Text=UGUI_VerticalOverflow(overflow)
+CharaSearch/SearchControl/Canvas_PopupCheck/Panel2/Text=UGUI_ChangeLineSpacing(0.8)

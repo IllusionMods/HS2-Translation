@@ -1,0 +1,6 @@
+#set level 15
+
+//General
+SpecialTreatmentRoom/Canvas/Panel=ChangeFontSizeByPercentage(0.9)
+SpecialTreatmentRoom/Canvas/Panel/UGUI_HorizontalOverflow(overflow)
+SpecialTreatmentRoom/Canvas/Panel=UGUI_ChangeLineSpacing(0.7)

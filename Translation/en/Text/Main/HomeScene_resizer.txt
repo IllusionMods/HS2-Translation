@@ -1,42 +1,18 @@
 #set level 4
 
-/HomeScene/Canvas/Panel=ChangeFontSizeByPercentage(0.8)
+//General
+HomeScene/Canvas/Panel=ChangeFontSizeByPercentage(0.9)
 
-// Leave Room
-
-/HomeScene/Canvas/Panel/Home/Menu/tglGoToRoom/imgBase/Background/Label=ChangeFontSizeByPercentage(0.8)
-
-/HomeScene/Canvas/Panel/MapSelect/panel=IgnoreFontSize()
-/HomeScene/Canvas/Panel/MapSelect/panel/MapSelect=ChangeFontSizeByPercentage(0.9)
+// Walk in the Hall
+HomeScene/Canvas/Panel/MapSelect/panel/MapSelect=ChangeFontSizeByPercentage(0.8)
 
 // Achievements
-
-/HomeScene/Canvas/Panel/Concierge=ChangeFontSizeByPercentage(0.8)
-
-/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Title=UGUI_HorizontalOverflow(overflow)
-/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Title=UGUI_VerticalOverflow(truncate)
-/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Title=ChangeFontSizeByPercentage(0.75)
-
-/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=UGUI_HorizontalOverflow(overflow)
-/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=UGUI_VerticalOverflow(truncate)
-/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=ChangeFontSizeByPercentage(0.75)
-
-/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=UGUI_HorizontalOverflow(overflow)
-/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=UGUI_VerticalOverflow(truncate)
-/HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
-
-/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=UGUI_HorizontalOverflow(overflow)
-/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=UGUI_VerticalOverflow(truncate)
-/HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
-
+HomeScene/Canvas/Panel/Concierge/Achievement/Title=ChangeFontSizeByPercentage(0.85)
+HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Title=UGUI_HorizontalOverflow(overflow)
+HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=UGUI_HorizontalOverflow(overflow)
+HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.95)
+HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.95)
+HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Text=ChangeFontSizeByPercentage(0.8)
 
 // Edit Chars
-
-/HomeScene/Canvas/Panel/CharaEdit/Coordinate/SelectCoordinate/Panel/Buttons/btnBatchRelease=ChangeFontSizeByPercentage(0.8)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectCard1/Panel/btnCharaEdit=ChangeFontSizeByPercentage(0.8)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectCard2/Panel/btnCharaEdit=ChangeFontSizeByPercentage(0.8)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectChara/Panel/Buttons/btnEntry=ChangeFontSizeByPercentage(0.8)
-/HomeScene/Canvas/Panel/CharaEdit/Group/SelectGroups/Panel/Buttons/btnCancel=ChangeFontSizeByPercentage(0.8)
-/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnCharaEdit=ChangeFontSizeByPercentage(0.8)
-/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnPlayerSelect=ChangeFontSizeByPercentage(0.8)
-/HomeScene/Canvas/Panel/CharaEdit/MaleSelect/SelectChara/Panel/Buttons/btnSecondPlayerSelect=ChangeFontSizeByPercentage(0.8)
+HomeScene/Canvas/Panel/CharaEdit/Group/SelectGroups/Panel/Buttons/btnCancel=ChangeFontSizeByPercentage(0.8)
