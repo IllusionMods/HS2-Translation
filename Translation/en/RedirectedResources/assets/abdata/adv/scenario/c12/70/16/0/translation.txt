@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+//女の子が見当たらない。どうしようか・・・=
+//CHOICE:放っておく=
+//CHOICE:急いで探しに行く=
+//CHOICE:身体に教え込む=

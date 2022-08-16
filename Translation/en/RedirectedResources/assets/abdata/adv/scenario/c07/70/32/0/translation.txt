@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+//部屋にいそうな気配はする・・・=
+//はぁっ……んっ……んぅぁ……=
+//ん……すぅ……んぅぅ……=
+//CHOICE:こっそりHする=
+//CHOICE:起きるのを待つ=
+//CHOICE:立ち去る=

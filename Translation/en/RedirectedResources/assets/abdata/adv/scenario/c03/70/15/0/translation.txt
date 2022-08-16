@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+//おーい、私だよー！　遊びに来てやったよーん！=
+//CHOICE:返事をする=
+//CHOICE:・・・=
+//なんだ、いないのか……ちぇ～、つまんないの。いや、あいつのことだから居留守って線も……=

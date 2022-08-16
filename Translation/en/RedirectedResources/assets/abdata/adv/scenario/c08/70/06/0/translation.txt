@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+//トイレが使用中のようだ・・・=
+//CHOICE:覗く=
+//CHOICE:悪戯する=
+//CHOICE:立ち去る=

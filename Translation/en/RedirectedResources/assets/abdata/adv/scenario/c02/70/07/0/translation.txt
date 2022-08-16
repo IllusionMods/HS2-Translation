@@ -1,0 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+//反応がないようだ=
+//すぅ……はぁ……ん、んぅ……=
+//すぅ……ん、すぅ……=
+//CHOICE:こっそりHする=
+//CHOICE:立ち去る=

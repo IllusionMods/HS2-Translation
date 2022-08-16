@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+////???=
+//ちょっとー、誰かいなーい？=
+//おーい、誰かー、ちょっと来て～……=
+//どこからか声が聞こえる・・・=
+//CHOICE:探してみる=
+//CHOICE:無視する=

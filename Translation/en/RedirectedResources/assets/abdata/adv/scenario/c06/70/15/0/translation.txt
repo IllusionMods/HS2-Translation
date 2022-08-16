@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+//もし、いらっしゃいますか……？=
+//CHOICE:返事をする=
+//CHOICE:・・・=
+//……お留守のようですわね……残念ですわ……=

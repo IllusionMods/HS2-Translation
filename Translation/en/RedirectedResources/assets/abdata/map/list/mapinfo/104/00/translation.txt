@@ -1,0 +1,10 @@
+//
+// Dumped for Honey Select 2 v1.0.0 (HoneySelect2) by HS2_TextDump v1.4.6.0
+//
+//シャワー=
+//風呂=
+//洋式トイレ=
+//和式トイレ=
+//拷問部屋=
+//教室=
+//体育館倉庫=
