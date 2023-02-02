@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //conversation:
-//よし、偉いぞ。自分が何をすればいいか、しっかり分かってるようだな。=
-//そうだ、それでいい。オレが喜びそうなことを、もっと率先してやっていけ。=
+よし、偉いぞ。自分が何をすればいいか、しっかり分かってるようだな。=Wow! It makes me so happy knowing you came here with the direct approach in mind.
+そうだ、それでいい。オレが喜びそうなことを、もっと率先してやっていけ。=I like this side of you. You should take the initiative more often, you know? It befits you.
