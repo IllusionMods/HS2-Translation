@@ -1,11 +1,1 @@
-//***********************************************************************
-//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
-//***********************************************************************
 
-よお、どこにいたんだ？　オマエは常にオレの視界に入ってなきゃダメだろ？=Hey, where the hell have you been? You're supposed to be in my line of sight at all times, aren't you?
-よし、見つけた。しばらくオレから離れることを禁止する。分かったな？=Okay, I found it. You're not to leave me for a while. Is that clear?
-ったく、どこウロチョロしてやがった。オレが呼んだらすぐに来い。=What the hell, where have you been wandering around? Come here as soon as I call you.
-風呂に入りたかったのか？　一緒に入ってやってもいいぞ？=Did you want to take a bath? You can join me if you want.
-おい、オレの身体を洗わせてやろうか？　光栄だろ？=Hey, you want me to wash you? Would you be honored?
-それで、今日はどう苛めて欲しいんだ？　リクエストくらい聞いてやるぞ。=So, how do you want me to torment you today? I'll at least listen to your request.
-ほら、やるぞ。オレは気が短いんだ。分かってるな？=Here we go. I've got a temper. You know that, right?
