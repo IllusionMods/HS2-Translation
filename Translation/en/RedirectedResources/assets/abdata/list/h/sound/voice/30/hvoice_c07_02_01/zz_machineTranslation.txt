@@ -1,7 +1,6 @@
 //***********************************************************************
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
-
 おい、誰が休んでいいなんて言った？　早くしろ。=Hey, who said you could take the day off? Come on, let's go.
 情けねぇな、もう体力の限界か？=You're pathetic. Are you at the end of your rope?
 ちょっと休憩だ。オマエも適当に休んどけ。=Take a break. You should take a break, too.
