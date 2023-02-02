@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //conversation:
-//オマエが何もなくても、オレにはヤりたいことが沢山あるんだ。付き合え。=
-//ほう、一丁前に焦らしているつもりか？　いいだろう。望み通り、襲ってやるよ。=
+オマエが何もなくても、オレにはヤりたいことが沢山あるんだ。付き合え。=Ugh! Even if you don't have any good suggestions, there's still a lot of things I want to do. Come with?
+ほう、一丁前に焦らしているつもりか？　いいだろう。望み通り、襲ってやるよ。=Don't get flustered around me! I had a feeling you'd be like this... that's why I brought my Plan B.
