@@ -2,8 +2,8 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //Hscene:
-//あ？　意味の分からねぇことを言ってんじゃねぇ。さっさとヤるぞ。=
-//ハッ、頭がおかしいのはオマエの方だ。すぐに分からせてやるよ。=
+あ？　意味の分からねぇことを言ってんじゃねぇ。さっさとヤるぞ。=Ah?! What's wrong? You're not making sense... Oh, I think I know how to calm you down. 
+ハッ、頭がおかしいのはオマエの方だ。すぐに分からせてやるよ。=Me?! Oh, I'll show you crazy if that's what you want!
 //Home{0}=
-//ん？　どうやら、少し頭がイカレちまってたらしいな。=
-//ハッ、みっともねぇところを見せちまったな。全部忘れろ、いいな？=
+ん？　どうやら、少し頭がイカレちまってたらしいな。=Sorry, I think I got a bit carried away there...
+ハッ、みっともねぇところを見せちまったな。全部忘れろ、いいな？=How shameful of me, I can't believe I let that happen... just forget we met here tonight, please?
