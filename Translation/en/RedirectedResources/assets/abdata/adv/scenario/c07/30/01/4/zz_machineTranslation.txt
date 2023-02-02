@@ -1,8 +1,0 @@
-//***********************************************************************
-//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
-//***********************************************************************
-
-あ？　意味の分からねぇことを言ってんじゃねぇ。さっさとヤるぞ。=What? Don't say anything that doesn't make sense. Let's get to work.
-ハッ、頭がおかしいのはオマエの方だ。すぐに分からせてやるよ。=Ha, you're the one who's crazy. I'll let you know soon enough.
-ん？　どうやら、少し頭がイカレちまってたらしいな。=Hmm? Apparently, you've gone a little crazy.
-ハッ、みっともねぇところを見せちまったな。全部忘れろ、いいな？=Ha, I've shown my shame, haven't I? Forget it all, okay?
