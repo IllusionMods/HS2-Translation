@@ -2,37 +2,37 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //generic attitude:neutral
-//よお暇人。なにボサッと突っ立ってんだ？=
-//ほう、奇遇だな。オマエも来てたのか。=
-//暇になるとここに来ちまうよな。お互い悪い癖だ。=
+よお暇人。なにボサッと突っ立ってんだ？=Hey, slacker! You've got that 'deer caught in the headlights' look about you. Are you lost? 
+ほう、奇遇だな。オマエも来てたのか。=Huh, I didn't expect to come across anyone else out here.
+暇になるとここに来ちまうよな。お互い悪い癖だ。=I like to come here when I need to think. You too? Haha, I've been told that great minds think alike.
 //generic attitude:neutral-requests
-//で？　何かオレに用があるなら、早く言え。=
-//オレに話があんのか？　手短にしろよ？=
+で？　何かオレに用があるなら、早く言え。=If you've got something to say to me, do it quickly.
+オレに話があんのか？　手短にしろよ？=You have something to tell me? Okay... Let's hear it. Be quick about it.
 //generic attitude:favor
-//おう、元気か？　もっと背筋を伸ばせ、みっともねぇぞ。=
-//また女漁りに来たのか？　ほどほどにしとけよ？=
-//なんでか、オマエと会うと緊張感が無くなるな。困ったもんだ。=
+おう、元気か？　もっと背筋を伸ばせ、みっともねぇぞ。=Hey there, what's up? Stand up straight when a girl speaks to you, it leaves a better impression! 
+また女漁りに来たのか？　ほどほどにしとけよ？=You're back again?! Listen up, guy. Girls talk. You don't want to become known as *that* guy, do you?
+なんでか、オマエと会うと緊張感が無くなるな。困ったもんだ。=I don't know why, but I feel kind of funny when I talk to you... No! It's not a 'bad' funny, don't worry.
 //generic attitude:favor-requests
-//ん？　なんだ？　ジッと見てねぇで、言いたいことがあるならハッキリ言え。=
-//ほら、何か言え。オレに用があんだろ？=
+ん？　なんだ？　ジッと見てねぇで、言いたいことがあるならハッキリ言え。=Yes? What is it? If you have something to say, just say it. Keep your eyes up here, I can see them wandering around my body.
+ほら、何か言え。オレに用があんだろ？=Ah, it's you. You wanted to see me, yeah?
 //generic attitude:enjoyment
-//おーいたいた。サカリのついたサルが一人な。=
-//おい、万年発情期。オマエだ、オマエのことを言ってるんだよ。=
-//なにギラついた目してんだ？　怖がられんぞ？=
+おーいたいた。サカリのついたサルが一人な。=Hey, slacker man! I thought I saw you coming this way!
+おい、万年発情期。オマエだ、オマエのことを言ってるんだよ。=Hello, hellooo, slacker man? Yes, you. Yes, I'm talking to you!
+なにギラついた目してんだ？　怖がられんぞ？=I'm just going to pretend I didn't notice what you were staring at. But be careful, if it happens again I'll get mad, okay?
 //generic attitude:enjoyment-requests
-//まさか、ガン付けに来たわけじゃないだろ？　要件はなんだ？=
-//用が無いなら俺は行くぞ？　時間は有限ってやつだ。=
+まさか、ガン付けに来たわけじゃないだろ？　要件はなんだ？=You didn't come here to shoot your shot with me, did you? Never know until you try I guess, am I right?
+用が無いなら俺は行くぞ？　時間は有限ってやつだ。=If you're not gonna say anything then I'm gonna go, I have shit to do. We can talk later, yeah?
 //generic attitude:aversion
-//おい、会ったら挨拶だろ？　礼儀も知らねぇのか？=
-//チッ、目障りなやつがいやがる。=
-//おい、ゴミ箱はあっちだぞ？　勝手にうろちょろするな。=
+おい、会ったら挨拶だろ？　礼儀も知らねぇのか？=Oi, it's rude to just invite yourself over. What, not even a "Hello, how are you?"? Don't you know how to talk to a girl?
+チッ、目障りなやつがいやがる。=Ugh, I was hoping you wouldn't find me.
+おい、ゴミ箱はあっちだぞ？　勝手にうろちょろするな。=I think you're in the wrong place, the dumpster's out the back and to the left.
 //generic attitude:aversion-requests
-//なにをまごついてやがる。用が無いなら、最初からオレの視界に入るな。=
-//なんだ？　ビビって口も聞けなくなったか？　情けねぇ。=
+なにをまごついてやがる。用が無いなら、最初からオレの視界に入るな。=What? What do you want? If there's no reason for you to be speaking with me right now, then just piss off.
+なんだ？　ビビって口も聞けなくなったか？　情けねぇ。=Huh? Stop mumbling! If you can't speak up then shut up. You're a real pain in the ass, you know that?
 //generic attitude:slavery
-//あぁ、いたのか。挨拶くらいしろ。=
-//よう、オマエはいつも気楽そうでいいな。=
-//オマエ、毎日いないか？　ハマリ過ぎだろ。=
+あぁ、いたのか。挨拶くらいしろ。=Oh, were you there for long? I didn't realise you were coming. Next time, just say hey.
+よう、オマエはいつも気楽そうでいいな。=I don't know how you do it, but you always look so content, like you don't have a care in the world.
+オマエ、毎日いないか？　ハマリ過ぎだろ。=You're visiting me every day lately, you know that? You're getting too into it.
 //generic attitude:slavery-requests
-//どうした？　何か話があるんだろう？　そんなに言い難いことか？=
-//ったく、愚図だな。用があるならさっさと話せ。=
+どうした？　何か話があるんだろう？　そんなに言い難いことか？=What is it? You know you don't have to hold back with me, how many more times will I have to say that before you understand?
+ったく、愚図だな。用があるならさっさと話せ。=Oh, you muppet. If you need anything, just talk to me. You know I listen.
