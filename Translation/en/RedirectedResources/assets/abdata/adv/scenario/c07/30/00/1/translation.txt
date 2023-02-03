@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-//話すのはいいが、長ったらしいのは勘弁だぞ？=
-//それで、何か面白い話でもしてくれんのか？=
+話すのはいいが、長ったらしいのは勘弁だぞ？=Sure, I can hear you out. But there's places I need to be - keep it short and sweet, yeah?
+それで、何か面白い話でもしてくれんのか？=I swear we're living through a joy drought or something, you got any fun stories to share?
 //attitude:favor
-//オマエのトーク力を試してやるよ。ほら、さっさと何か話せ。=
-//よし、好きに話してみろ。つまらなかったら、容赦なく指摘してやる。=
+オマエのトーク力を試してやるよ。ほら、さっさと何か話せ。=Communication is key, my guy! Here, sit down and catch up with me for a while.
+よし、好きに話してみろ。つまらなかったら、容赦なく指摘してやる。=Hey... I don't want to be a pain but I could really do with someone to vent to right now. 
 //attitude:enjoyment
-//何を話したいのかは知らないが、オレを退屈させるなよ？=
-//くだらん自慢話とかはやめろよ？　時間の無駄だからな。=
+何を話したいのかは知らないが、オレを退屈させるなよ？=Oh, I've been looking for a little amusement! What stories have you got today?
+くだらん自慢話とかはやめろよ？　時間の無駄だからな。=You know you don't have to try and impress me, right? You give off enough big dick energy as it is.
 //attitude:aversion
-//適当に聞いてるフリをしといてやるから、好きなだけ喋っていいぞ。=
-//何でもいいから早く話せ。オレは待たされるのが嫌いなんだ。=
+適当に聞いてるフリをしといてやるから、好きなだけ喋っていいぞ。=Mouth off all you want, just know I have no obligation to listen to a word you say.
+何でもいいから早く話せ。オレは待たされるのが嫌いなんだ。=Whatever you have to say, spit it out then jog on.
 //attitude:slavery
-//ほら、何でも話してみろ。寂しいオマエの話を聞いてやるよ。=
-//おい、オマエ待ちだぞ？　オレからは特に話すことは無いからな。=
+ほら、何でも話してみろ。寂しいオマエの話を聞いてやるよ。=C'mon man, you know you can tell me anything and I'll listen. Let's find somewhere quiet.
+おい、オマエ待ちだぞ？　オレからは特に話すことは無いからな。=I know, why don't I put the kettle on? We can chat over a little coffee!
 CHOICE:親身になって話す=Speak tenderly
 CHOICE:積極的に話す=Speak aggressively
 CHOICE:受け身になって話す=Speak passively
