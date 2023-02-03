@@ -1,5 +1,0 @@
-//***********************************************************************
-//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
-//***********************************************************************
-
-//疲れてきたな。ちょっと休もうか・・・=I'm getting tired. Let's take a break...
