@@ -1,13 +1,13 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//待て、急にヤボ用ができた。少し寄り道するが、いちいち詮索するなよ？=
-//ん……少し寄りたいところが出来た。オマエはここで待ってろ。ついてくんじゃねぇぞ？=
-//あー、あれだ……トイレに行きてぇ。少し待たせるが、気にすんな。=
-//おい、トイレに寄ってく。間違っても、覗きなんか来るんじゃねぇぞ？=
-//あー、生理現象ってやつだ。ここまで言えば分かるな？　オレについてくんなよ？=
-CHOICE:覗く=Peek
-CHOICE:悪戯する=Attack
-CHOICE:連れ出す=Bring her anyway
-CHOICE:帰りを待つ=Wait for her
-CHOICE:立ち去る=Leave
+待て、急にヤボ用ができた。少し寄り道するが、いちいち詮索するなよ？=I can't hold it in any longer, sorry. Come with me but wait here at the door!
+ん……少し寄りたいところが出来た。オマエはここで待ってろ。ついてくんじゃねぇぞ？=We're making a little detour to the ladies'. Hahaha, no! Only I'm going in, alright?
+あー、あれだ……トイレに行きてぇ。少し待たせるが、気にすんな。=I need the toilet badly. Don't worry, it won't take too long.
+おい、トイレに寄ってく。間違っても、覗きなんか来るんじゃねぇぞ？=I'm dying for a piss. Wait out here and don't follow me in, okay?
+あー、生理現象ってやつだ。ここまで言えば分かるな？　オレについてくんなよ？=Uhhh... I gotta take care of something real quick, no it can't wait. Would you mind waiting on me?
+CHOICE:覗く=Walk in on her
+CHOICE:悪戯する=Whip it out
+CHOICE:連れ出す=Call her back
+CHOICE:帰りを待つ=Wait out here
+CHOICE:立ち去る=Take your leave
