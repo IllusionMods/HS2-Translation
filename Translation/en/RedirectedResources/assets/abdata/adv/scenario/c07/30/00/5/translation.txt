@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //attitude:neutral
-//ハッ、オマエらしいな。=
-//まぁ、いいんじゃねぇか？=
+ハッ、オマエらしいな。=Oh, of course you would come out with that.
+まぁ、いいんじゃねぇか？=That's a good thing though, isn't it?
 //attitude:favor
-//それがアリなら、何でもアリだろ。=
-//ほう、面白いことを言ってくれる。=
+それがアリなら、何でもアリだろ。=Wow, I guess it's true when people say 'anything is possible' after all!
+ほう、面白いことを言ってくれる。=Hey, don't just leave it at that. Tell me more!
 //attitude:enjoyment
-//……だといいがな。そっちの方が面白れぇ。=
-//おいおい、流石にやり過ぎじゃねぇか？=
+……だといいがな。そっちの方が面白れぇ。=You know, I don't think I ever would've thought about it that way before.
+おいおい、流石にやり過ぎじゃねぇか？=Uhhhh, isn't that taking things a little too far?
 //attitude:aversion
-//で？　それのどこが面白いんだ？=
-//チッ、馬鹿な事ばっか言ってんじゃねぇ。=
+で？　それのどこが面白いんだ？=And? Wait, that was it? Ugh, boring.
+チッ、馬鹿な事ばっか言ってんじゃねぇ。=Can't you make it through one sentence without sounding like a complete idiot?
 //attitude:slavery
-//……そうか、そういうこともあるんだな。=
-//……ったく、少しは自重しろ。=
+……そうか、そういうこともあるんだな。=Yeah... I reckon that happens to all of us, sooner or later.
+……ったく、少しは自重しろ。=... You need to catch a grip of yourself.
