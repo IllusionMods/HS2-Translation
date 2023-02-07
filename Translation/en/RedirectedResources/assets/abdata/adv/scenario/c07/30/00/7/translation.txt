@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //attitude:neutral
-//まぁ、言いたいことは分からなくもない……=
-//おい、こんなところで話す内容か？=
+まぁ、言いたいことは分からなくもない……=Sorry, I have no idea what you mean...
+おい、こんなところで話す内容か？=Hey, shouldn't we talk about this somewhere a little more, I don't know, private?
 //attitude:favor
-//つまりどういうことだ？　もう少し分かりやすく話せ。=
-//あぁ、言いたいことはだいたい分かった。=
+つまりどういうことだ？　もう少し分かりやすく話せ。=I know what you're saying, but did you really have to tell me that?
+あぁ、言いたいことはだいたい分かった。=Yeah, I know what you mean. I can relate.
 //attitude:enjoyment
-//ったく、くだらねぇ話だな。=
-//それで？　この話はどこに着地するんだ？=
+ったく、くだらねぇ話だな。=Hahaha. Oh, you're a right muppet!
+それで？　この話はどこに着地するんだ？=Don't leave me in suspense! Where's this story going?
 //attitude:aversion
-//そういう話しかできないのか？　この変態め。=
-//あー、そうだなー、すごいなー。=
+そういう話しかできないのか？　この変態め。=Can't you talk about anything else. Literally, anything else?
+あー、そうだなー、すごいなー。=That's so stupid.
 //attitude:slavery
-//ったく、イキイキした顔で話しやがって。=
-//ハッ、こういう話の時は、やけに饒舌だな。=
+ったく、イキイキした顔で話しやがって。=Your cheeks are turning bright red, you know.
+ハッ、こういう話の時は、やけに饒舌だな。=Wow, so there are some things you can talk about like a normal person would.
