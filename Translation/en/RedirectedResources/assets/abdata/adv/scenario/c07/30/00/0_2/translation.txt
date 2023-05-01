@@ -30,4 +30,4 @@
 オレは臭いのもそこまで嫌いじゃないが、まぁ普通は綺麗にしておいた方がいいだろうな。=I'm not exactly a clean freak, you know. The water just works wonders for me. I find it so much easier to think clearly when I'm in the bath.
 //bath attitude:slavery-requests
 どうした？　何か話があるんだろう？　そんなに言い難いことか？=Huh? You brought me coffee? Oh, thank you! There's nothing better to go with a nice hot bath! 
-ったく、愚図だな。用があるならさっさと話せ。=
+//ったく、愚図だな。用があるならさっさと話せ。=
