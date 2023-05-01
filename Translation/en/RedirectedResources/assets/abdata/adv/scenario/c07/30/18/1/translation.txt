@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//よし、よく来た。とりあえずこれを解け。ちゃんとご褒美はやるから、変な気起こすなよ？=
-//一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=
-//おっと、ようやくお出ましか。色々試してみたが、この縄は一人じゃ解けねぇ。助けてくれたら、それなりの礼はするぜ？=
-//そうだ、一つだけ忠告しておく。オレの下半身をあまり弄るな。オレもひどいことになるが、オマエはそれ以上にやばいことになるぞ？=
-//おい、余計なことは考えるなよ？　オマエはただ、オレの縄を解くことだけ考えてろ。=
-//いいか？　オレの下腹部には絶対に触るな。どうなっても知らねぇぞ？=
-//どうだ？　そそる格好だろう？　でもまぁ、まずは助けろ。その後でなら、いくらでも付き合ってやるから。=
-//なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=
-CHOICE:助ける=Help
-CHOICE:悪戯する=Attack
-CHOICE:無言で立ち去る=Sneak away
+よし、よく来た。とりあえずこれを解け。ちゃんとご褒美はやるから、変な気起こすなよ？=This is so, sooo embarrassing... Hey! Can you get me down from here? I'll make it up to you, I promise!
+一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=Can you get me down from here, please? 
+おっと、ようやくお出ましか。色々試してみたが、この縄は一人じゃ解けねぇ。助けてくれたら、それなりの礼はするぜ？=Oh thank fuck you found me. I've tried everything and made it worse. Can you get me out of this? If you do, I'll suck your dick.
+そうだ、一つだけ忠告しておく。オレの下半身をあまり弄るな。オレもひどいことになるが、オマエはそれ以上にやばいことになるぞ？=Oh I'm never going to live this down. If I say that it's okay to put it in me like this, do you promise you won't tell the other girls got myself stuck like this?
+おい、余計なことは考えるなよ？　オマエはただ、オレの縄を解くことだけ考えてろ。=Keep your eyes off me and keep your thoughts on untying those ropes, okay?
+いいか？　オレの下腹部には絶対に触るな。どうなっても知らねぇぞ？=Get me down from here. Now! I don't want to feel your hands anywhere on me.
+どうだ？　そそる格好だろう？　でもまぁ、まずは助けろ。その後でなら、いくらでも付き合ってやるから。=It's a good look, isn't it? But not here. If you help me out right now, I'll come over to your room tonight.
+なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=I know what you're thinking and I know I can't stop you... but whatever you decide to do, go easy on me, okay?
+CHOICE:助ける=Help untie her
+CHOICE:悪戯する=Take advantage
+CHOICE:無言で立ち去る=Leave her

@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //attitude:neutral
-//おいおい、よくやるな……=
-//……なぁ、そこまでする必要があるのか？=
+おいおい、よくやるな……=For you, that's just normal.
+……なぁ、そこまでする必要があるのか？=Did you really have to do that?
 //attitude:favor
-//まったく、恐れ入ったな……=
-//はぁ、それは本当なのか？=
+まったく、恐れ入ったな……=You scare me sometimes.
+はぁ、それは本当なのか？=What, really? Haha... hahaha... Oh, man.
 //attitude:enjoyment
-//オマエは本当に加減を知らねぇな……=
-//……どうなんだろうな。微妙なラインだ。=
+オマエは本当に加減を知らねぇな……=You have no idea how to behave yourself...
+……どうなんだろうな。微妙なラインだ。=You need to be careful with the way you approach these situations.
 //attitude:aversion
-//いや……普通に考えておかしいだろ。=
-//……気持ち悪いやつだ。それ以上オレに近付くな。=
+いや……普通に考えておかしいだろ。=Normal people don't say things like that.
+……気持ち悪いやつだ。それ以上オレに近付くな。=... Stay the hell away from me.
 //attitude:slavery
-//……少なくとも、オレはいいと思うぞ。=
-//ハッ、大袈裟に言い過ぎだろ……=
+……少なくとも、オレはいいと思うぞ。=Well, it's not the worst idea I've heard.
+ハッ、大袈裟に言い過ぎだろ……=I think you're reaching a little.

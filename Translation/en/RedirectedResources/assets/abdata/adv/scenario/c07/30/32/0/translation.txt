@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-部屋にいそうな気配はする・・・=I think someone's in this room...
-//はぁっ……んっ……んぅぁ……=
-//ん……すぅ……んぅぅ……=
-CHOICE:こっそりHする=Secretly do her
-CHOICE:起きるのを待つ=Wait till she wakes up
-CHOICE:立ち去る=Leave
+部屋にいそうな気配はする・・・=I think somebody's sleeping in here...
+はぁっ……んっ……んぅぁ……=Mmm... Ahh... Mmm...
+ん……すぅ……んぅぅ……=Ah... Haa... Mmmm...
+CHOICE:こっそりHする=Start touching her
+CHOICE:起きるのを待つ=Wake her up
+CHOICE:立ち去る=Let her rest

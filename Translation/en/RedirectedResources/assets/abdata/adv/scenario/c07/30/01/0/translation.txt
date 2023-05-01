@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //general purpose:
-//よお、どこにいたんだ？　オマエは常にオレの視界に入ってなきゃダメだろ？=
-//よし、見つけた。しばらくオレから離れることを禁止する。分かったな？=
-//ったく、どこウロチョロしてやがった。オレが呼んだらすぐに来い。=
+よお、どこにいたんだ？　オマエは常にオレの視界に入ってなきゃダメだろ？=Yo, where the fuck have you been? You're supposed to stay where I can see and hear you. You know that, right?
+よし、見つけた。しばらくオレから離れることを禁止する。分かったな？=Finally, I found you! That's it, you're going to stay right here with me for a while. No going off on your own, got it?
+ったく、どこウロチョロしてやがった。オレが呼んだらすぐに来い。=What the fuck, man? I've been trying to reach you for the last hour! I had to get myself off this time! In future make sure you pick up as soon as you hear me calling, okay? 
 //bath:
-//風呂に入りたかったのか？　一緒に入ってやってもいいぞ？=
-//おい、オレの身体を洗わせてやろうか？　光栄だろ？=
+風呂に入りたかったのか？　一緒に入ってやってもいいぞ？=The water's still hot and there's plenty of room to move around... Yes, that's your invitation to get in here with me.
+おい、オレの身体を洗わせてやろうか？　光栄だろ？=Would you like to watch me in the water? Maybe you could get in with me?
 //requests:
-//それで、今日はどう苛めて欲しいんだ？　リクエストくらい聞いてやるぞ。=
-//ほら、やるぞ。オレは気が短いんだ。分かってるな？=
+それで、今日はどう苛めて欲しいんだ？　リクエストくらい聞いてやるぞ。=So what's it going to be today? I'm in the mood for requests... suck your dick, get on top, let you put it anywhere... Oh, what am I saying? Let's just get to it!
+ほら、やるぞ。オレは気が短いんだ。分かってるな？=There you are! I'm in the mood and you know what I'm like when I get this way... Get your dick out and follow me, okay?
 CHOICE:おしゃべりしたい=Ask to chat
 CHOICE:Hしたい=Ask for sex
 CHOICE:なんでもない=It's nothing

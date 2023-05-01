@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //attitude:neutral
-//ん？　なんだそれは……オレを馬鹿にしてんのか？=
-//何を遠慮してんだ？　よく分かんねぇやつだな。=
+ん？　なんだそれは……オレを馬鹿にしてんのか？=I honestly don't know what you mean by that, could you start over?
+何を遠慮してんだ？　よく分かんねぇやつだな。=That's great and all, but I mean... Come on, really? How do I even respond to that?
 //attitude:favor
-//オレをおちょくりに来たのか？　あんま舐めてると、オマエでもぶっ飛ばすぞ？=
-//なんだかよくわからねーが。何でもねぇって言うなら、もうお開きだな。=
+オレをおちょくりに来たのか？　あんま舐めてると、オマエでもぶっ飛ばすぞ？=Did you come over here just to mess with me? Did you think I'd fall for that one again?
+なんだかよくわからねーが。何でもねぇって言うなら、もうお開きだな。=We'll come back to this one another time, it's a bit beyond me right now.
 //attitude:enjoyment
-//なんだ？　用が無いなら、最初からオレに構うな。=
-//思わせぶりな態度をしてるつもりか？　オレには何にも伝わってねぇぞ？=
+なんだ？　用が無いなら、最初からオレに構うな。=I wish you'd think about things before you say them to me sometimes.
+思わせぶりな態度をしてるつもりか？　オレには何にも伝わってねぇぞ？=Look, it's not you, I'm just not having a good day, the smallest things are upsetting me.
 //attitude:aversion
-//あ？　とことん意味不明なやつだな。用が無いなら、オレの視界に入ってくんな。=
-//クソが。オマエはオレをイラつかせるのが本当に上手いな。=
+あ？　とことん意味不明なやつだな。用が無いなら、オレの視界に入ってくんな。=If you say something stupid to me like that again then you'll have to suck your own dick in future, because I'll be done.
+クソが。オマエはオレをイラつかせるのが本当に上手いな。=Ugh. You really know how to piss a girl off. You know that, right?
 //attitude:slavery
-//ほう、オレは試されてるのか？　なぁ、どうなんだ？=
-//つまり、オレから誘われるのを期待してるのか？　そんな受け身なやつには、かける言葉はねぇな。=
+ほう、オレは試されてるのか？　なぁ、どうなんだ？=Wait. Is this a trick question? Can't you just say what you mean outright?
+つまり、オレから誘われるのを期待してるのか？　そんな受け身なやつには、かける言葉はねぇな。=I think I get what you're saying, but I think we'll have to leave it for another day...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
 //***********************************************************************
-
 おい、どうした？　まさか、やり方が分かんねぇのか？=Hey, what's going on? You don't know how to do that?
 ビビってんじゃねぇよ。オレを退屈させるな。=Don't be scared. Don't bore me.
 焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=I'm just trying to keep you on your toes. It's no fun to just fuck her, right?

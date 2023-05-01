@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //leadupA:neutral{0}:
-//よお。なんだ、オレらの邪魔をしに来たのか？=
-//ハッ、予想通りだ。女二人でいたら、絶対寄って来ると思ったよ。=
+よお。なんだ、オレらの邪魔をしに来たのか？=Yo. Saw us talking and thought you'd join in?
+ハッ、予想通りだ。女二人でいたら、絶対寄って来ると思ったよ。=Called it! I was just saying that you wouldn't be able to walk past when you realised it was us.
 //leadupA:favor{0}:
-//おい、二人でオマエのことを待っててやったんだ。感謝しろよ。=
-//ほう、丁度オマエの話をしてたところだ。地獄耳ってやつか？=
+おい、二人でオマエのことを待っててやったんだ。感謝しろよ。=Hey, hey! We were here waiting and hoping you'd pass by soon. Come hang with us!
+ほう、丁度オマエの話をしてたところだ。地獄耳ってやつか？=Oh! 'Speak of the devil', am I right? Your ears are burning, did you hear us talking about you?
 //leadupA:enjoyment{0}:
-//ほら来たぞ。女に飢えた、卑しい豚が。=
-//何しに来た？　欲望がダダ漏れで気持ち悪ぃぞ？=
+ほら来たぞ。女に飢えた、卑しい豚が。=Woof! Who let the dog out?
+何しに来た？　欲望がダダ漏れで気持ち悪ぃぞ？=I said he'd come right over as soon as he saw us, didn't I? I should've put a tenner on it, that's a winning bet every time.
 //leadupA:aversion{0}:
-//なんで寄って来た？　お呼びじゃねぇぞ？=
-//女同士で楽しんでるところにたかってきやがって、オマエはハエか？=
+なんで寄って来た？　お呼びじゃねぇぞ？=Uhh, excuse you? How 'bout you excuse yourself out of my sight?
+女同士で楽しんでるところにたかってきやがって、オマエはハエか？=Oh, so you're a fly on the wall when you spot a girls' get-together? Good job I brought my bug spray.
 //leadupA:slavery{0}:
-//ハッ、二人いれば、どっちかは引っかけられると思ったか？=
-//おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=
+ハッ、二人いれば、どっちかは引っかけられると思ったか？=I figured that if I asked a friend to help stake the place out, at least one of us could get your attention. 
+おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=Oh, get a load of Mr. Lonely over here! Yeah, yeah, you can stick with us if you're really that desperate.

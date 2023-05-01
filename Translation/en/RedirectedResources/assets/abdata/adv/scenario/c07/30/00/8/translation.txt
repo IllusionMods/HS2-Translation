@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //attitude:neutral
-//話しだけってのも、まぁまぁ楽しめたな。=
-//退屈はしなかったな。また話してやってもいい。=
+話しだけってのも、まぁまぁ楽しめたな。=I liked this little chat, but I gotta run. Catch up with you again, maybe!
+退屈はしなかったな。また話してやってもいい。=It wasn't boring, at least. Of course we can chat more later.
 //attitude:favor
-//もうこんな時間か。つい話し込んじまったな。=
-//よし、そろそろ切り上げるか。話の続きはまた今度だ。=
+もうこんな時間か。つい話し込んじまったな。=Oh, is it getting dark out already? Sorry man, gotta go, speak soon!
+よし、そろそろ切り上げるか。話の続きはまた今度だ。=Oh, shit. I completely forgot I had things to do! I'll text you later! 
 //attitude:enjoyment
-//話してるだけでも、結構時間が経つもんだな。それなりに楽しかったぞ。=
-//オレと話せて嬉しかったろ？　興奮したか？=
+話してるだけでも、結構時間が経つもんだな。それなりに楽しかったぞ。=It's so easy to get lost in those conversations, isn't it? I can't tell you how much I look forward to them.
+オレと話せて嬉しかったろ？　興奮したか？=Is there something in your pocket, or do you just enjoy my company that much?
 //attitude:aversion
-//やっと終わったか。無駄に長いだけで、どうでもいい話だったな。=
-//あぁ、時間を無駄にした。くだらねぇ話ばっかしやがって。=
+やっと終わったか。無駄に長いだけで、どうでもいい話だったな。=Is it finally over? How can a person talk as much as you and still say nothing at all?
+あぁ、時間を無駄にした。くだらねぇ話ばっかしやがって。=Yet again I've wasted my time on you when I should've known better, you're utterly hopeless.
 //attitude:slavery
-//さて、この辺で終わりにしとかねぇとな。ずっと話し込んじまいそうだ。=
-//オマエと話すのも悪くないな。次もオレを退屈させるなよ？=
+さて、この辺で終わりにしとかねぇとな。ずっと話し込んじまいそうだ。=Sorry, I had to cut you off there. No, nothing's wrong! I just didn't realise how late it's getting...
+オマエと話すのも悪くないな。次もオレを退屈させるなよ？=I like talking to you, but sometimes you go off on those tangents and I don't know what to say.

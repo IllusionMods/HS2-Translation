@@ -2,32 +2,32 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //bath attitude:neutral
-//こんなところで会うなんて。オマエ、絶対覗き目的だろ？=
-//おい、覗きはバレないようにしろよ？=
+こんなところで会うなんて。オマエ、絶対覗き目的だろ？=You KNEW someone was in here, and you came in anyway? Wow.
+おい、覗きはバレないようにしろよ？=Uhh, you know I can see you standing out there, right?
 //bath attitude neutral-requests
-//で？　何かオレに用があるなら、早く言え。=
-//オレに話があんのか？　手短にしろよ？=
+で？　何かオレに用があるなら、早く言え。=You can stick around a while and talk with me if you'd like, the vibes are good.
+オレに話があんのか？　手短にしろよ？=Huh? You want to stay a while? I guess that's okay. Just don't look too much.
 //bath attitude:favor
-//オマエも風呂か？　汚ぇ体をきちんと洗っとけよ？=
-//身体は綺麗にしとけよ。臭ぇやつは嫌われるぞ？=
+オマエも風呂か？　汚ぇ体をきちんと洗っとけよ？=Hey, could you stay here? If you wouldn't mind washing my hair for me too, I'd appreciate that.
+身体は綺麗にしとけよ。臭ぇやつは嫌われるぞ？=Since you're here, why don't you jump in? There's plenty of room and the water's warm.
 //bath attitude:favor-requests
-//ん？　なんだ？　ジッと見てねぇで、言いたいことがあるならハッキリ言え。=
-//ほら、何か言え。オレに用があんだろ？=
+ん？　なんだ？　ジッと見てねぇで、言いたいことがあるならハッキリ言え。=Huh? What is it? Hey, can't you speak to me without looking at my tits?
+ほら、何か言え。オレに用があんだろ？=You've seen me in more compromising positions before, what's got you speechless this time?
 //bath attitude:enjoyment
-//なんだ、オレを覗きに来たのか？　この変態め。=
-//覗きで掴まる前に、正直に言ってみたらどうだ？　裸を見せてくださいってな。=
+なんだ、オレを覗きに来たのか？　この変態め。=I was wondering if anything could make this little soak better... then you wandered in.
+覗きで掴まる前に、正直に言ってみたらどうだ？　裸を見せてくださいってな。=Oh, it's you! Hey, could you wash my hair for me? If you do, I'll turn around and let you get a good look at my butt.
 //bath attitude:enjoyment-requests
-//まさか、ガン付けに来たわけじゃないだろ？　要件はなんだ？=
-//用が無いなら俺は行くぞ？　時間は有限ってやつだ。=
+まさか、ガン付けに来たわけじゃないだろ？　要件はなんだ？=You better not be recording me! Oh, you don't have your phone with you? In that case... you can get a better look up close.
+用が無いなら俺は行くぞ？　時間は有限ってやつだ。=I hope you're here to satisfy me, if not... I'll have to go see to it on my own.
 //bath attitude:aversion
-//おい、ここで何してる？　目障りだ、今すぐ消えろ。=
-//無駄だ。どんだけ風呂で綺麗になっても、オマエは気持ち悪いままだよ。=
+おい、ここで何してる？　目障りだ、今すぐ消えろ。=No, no, no. Not you. Not here. This is my 'me time', which you aren't part of. Get out!
+無駄だ。どんだけ風呂で綺麗になっても、オマエは気持ち悪いままだよ。=What are you acting confused about? If you don't need to bathe, you don't need to be around the bath. Go, get out.
 //bath attitude:aversion-requests
-//なにをまごついてやがる。用が無いなら、最初からオレの視界に入るな=
-//なんだ？　ビビって口も聞けなくなったか？　情けねぇ。=
+なにをまごついてやがる。用が無いなら、最初からオレの視界に入るな=You being here's ruining the atmosphere, man. Hot water, bubbles, scented candles. But with you here, they're all worthless.
+なんだ？　ビビって口も聞けなくなったか？　情けねぇ。=Do naked girls intimidate you that much? What a muppet you are.
 //bath attitude:slavery
-//おっと、珍しいところで会ったな。これから風呂か？=
-//オレは臭いのもそこまで嫌いじゃないが、まぁ普通は綺麗にしておいた方がいいだろうな。=
+おっと、珍しいところで会ったな。これから風呂か？=Oh sorry, I must've zoned out and missed you coming in. You're already undressed, want to get in with me?
+オレは臭いのもそこまで嫌いじゃないが、まぁ普通は綺麗にしておいた方がいいだろうな。=I'm not exactly a clean freak, you know. The water just works wonders for me. I find it so much easier to think clearly when I'm in the bath.
 //bath attitude:slavery-requests
-//どうした？　何か話があるんだろう？　そんなに言い難いことか？=
-//ったく、愚図だな。用があるならさっさと話せ。=
+どうした？　何か話があるんだろう？　そんなに言い難いことか？=Huh? You brought me coffee? Oh, thank you! There's nothing better to go with a nice hot bath! 
+ったく、愚図だな。用があるならさっさと話せ。=
